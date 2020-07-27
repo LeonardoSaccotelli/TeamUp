@@ -28,24 +28,24 @@ Una volta completato il passaggio precedente, bisogna recarsi all'interno della 
 ```
 define( 'DB_NAME', 'nomedb' );
 ```
-andando ad inserire al posto di "nomedb" il nome del nuovo database.
+andando ad inserire al posto di ```"nomedb"``` il nome del nuovo database.
 
 ```
 define( 'DB_USER', 'user' );
 ```
-andando ad inserire al posto di "user" il nome dell'utente a cui associare il nuovo database.
+andando ad inserire al posto di ```"user"``` il nome dell'utente a cui associare il nuovo database.
 
 ```
 define( 'DB_PASSWORD', 'psw' );
 ```
-andando ad inserire al posto di "psw" la password attuale del nuovo database.
+andando ad inserire al posto di ```"psw"``` la password attuale del nuovo database.
 
 ```
 define( 'DB_HOST', 'localhost' );
 ```
-andando ad inserire al posto di "localhost" il nome dell'Hostname MySql.
+andando ad inserire al posto di ```"localhost"``` il nome dell'Hostname MySql.
 
-Successivamente bisogna recarsi nella sezione relativa al proprio Client FTP e caricare tutti i file presente nella directory "/TeamUp/TeamupWordpress/".
+Successivamente bisogna recarsi nella sezione relativa al proprio Client FTP e caricare tutti i file presente nella directory ```"/TeamUp/TeamupWordpress/"```.
 Al termine del trasferimento , se ogni operazione è stata eseguita correttamente , il nuovo sito risulterà operativo fin da subito.
 
 ### Dati Default
