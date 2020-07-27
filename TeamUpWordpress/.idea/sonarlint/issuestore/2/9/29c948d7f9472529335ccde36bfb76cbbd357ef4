@@ -1,0 +1,39 @@
+
+b	php:S1192%"HDefine a constant instead of duplicating this literal "plugins" 3 times.(Åªşÿÿÿÿ
+c	php:S1192+"IDefine a constant instead of duplicating this literal "dropins" 13 times.(Û‚òıúÿÿÿÿ
+c	php:S1192+"IDefine a constant instead of duplicating this literal "inactive" 7 times.(Û‚òıúÿÿÿÿ
+o	php:S1192¥"TDefine a constant instead of duplicating this literal "&amp;plugin_status=" 7 times.(şÒ“Ùüÿÿÿÿ
+`	php:S1192P"FDefine a constant instead of duplicating this literal "order" 3 times.(À¹°æûÿÿÿÿ
+c	php:S1192+"IDefine a constant instead of duplicating this literal "mustuse" 12 times.(Û‚òıúÿÿÿÿ
+a	php:S1192ô"FDefine a constant instead of duplicating this literal "</td>" 3 times.(¼¢î­ûÿÿÿÿ
+a	php:S1192+"GDefine a constant instead of duplicating this literal "active" 8 times.(Û‚òıúÿÿÿÿ
+g	php:S1192†"LDefine a constant instead of duplicating this literal "<p><strong>" 3 times.(Êë°£øÿÿÿÿ
+h	php:S1871‡"MThis branch's code block is the same as the block for the branch on line 644.(³£Éëúÿÿÿÿ
+c	php:S1192¥"HDefine a constant instead of duplicating this literal "&amp;s=" 7 times.(şÒ“Ùüÿÿÿÿ
+n	php:S3776M"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(ÂŞû©úÿÿÿÿ
+_	php:S1192ó"IDefine a constant instead of duplicating this literal "activate" 3 times.(õÅûà
+b	php:S1192+"HDefine a constant instead of duplicating this literal "upgrade" 9 times.(Û‚òıúÿÿÿÿ
+a	php:S1192+"GDefine a constant instead of duplicating this literal "paused" 4 times.(Û‚òıúÿÿÿÿ
+b	php:S1192P"HDefine a constant instead of duplicating this literal "orderby" 3 times.(À¹°æûÿÿÿÿ
+a	php:S1192+"GDefine a constant instead of duplicating this literal "search" 6 times.(Û‚òıúÿÿÿÿ
+mphp:S101"YRename class "WP_Plugins_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(§ää…
+b	php:S1192‚"GDefine a constant instead of duplicating this literal "Author" 3 times.(Š¼¦…ıÿÿÿÿ
+b	php:S1192õ"GDefine a constant instead of duplicating this literal "delete" 3 times.(™ê¸ûÿÿÿÿ
+\	php:S1192&"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+j	php:S1192…"ODefine a constant instead of duplicating this literal "update_plugins" 4 times.(œêÿËùÿÿÿÿ
+c	php:S1192k"IDefine a constant instead of duplicating this literal "network" 17 times.(‚¥á€ùÿÿÿÿ
+H	php:S1481å"-Remove this unused "$primary" local variable.(ÇÕşÿÿÿÿÿ
+q	php:S1192k"WDefine a constant instead of duplicating this literal "manage_network_plugins" 4 times.(‚¥á€ùÿÿÿÿ
+php:S138é"zThis function "single_row" has 237 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(éÉñ³
+]	php:S1192“"GDefine a constant instead of duplicating this literal "Delete" 3 times.(“¥ê”
+n	php:S1192+"TDefine a constant instead of duplicating this literal "recently_activated" 10 times.(Û‚òıúÿÿÿÿ
+f	php:S1192ò"KDefine a constant instead of duplicating this literal "deactivate" 3 times.(×¾¥ëûÿÿÿÿ
+e	php:S1192’"ODefine a constant instead of duplicating this literal "delete_plugins" 3 times.(œƒÿ˜
+k	php:S3776é"URefactor this function to reduce its Cognitive Complexity from 103 to the 15 allowed.(éÉñ³
+h	php:S1192¶"RDefine a constant instead of duplicating this literal "clear-recent-list" 3 times.(´¾¶
+b	php:S1192“"LDefine a constant instead of duplicating this literal "Description" 5 times.(¾¼¯˜
+b	php:S1192§"GDefine a constant instead of duplicating this literal "plugin" 7 times.(Àì™­úÿÿÿÿ
+h	php:S1192+"NDefine a constant instead of duplicating this literal "plugin_status" 4 times.(Û‚òıúÿÿÿÿ
+g	php:S1192¥"LDefine a constant instead of duplicating this literal "&amp;paged=" 7 times.(şÒ“Ùüÿÿÿÿ
+Qphp:S131¬"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+I	php:S1481å".Remove this unused "$sortable" local variable.(ÇÕşÿÿÿÿÿ

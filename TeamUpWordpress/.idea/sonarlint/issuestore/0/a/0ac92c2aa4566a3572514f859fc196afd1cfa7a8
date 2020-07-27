@@ -1,0 +1,48 @@
+
+4php:S125‹"Remove this commented out code.(œøĞ£
+`	php:S1192ı"JDefine a constant instead of duplicating this literal "recursive" 5 times.(¡œñä
+J	php:S1135›"4Complete the task associated to this "TODO" comment.(ù€´—
+`	php:S1192ï"JDefine a constant instead of duplicating this literal "overwrite" 4 times.(ªÒ£
+a	php:S1192À"KDefine a constant instead of duplicating this literal "responsive" 4 times.(ğ—Èñ
+n	php:S1117À"SRename "$active_settings" which has the same name as the field declared at line 49.(ˆêÆÿÿÿÿÿ
+o	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(é°¬÷üÿÿÿÿ
+b	php:S1192ÿ"GDefine a constant instead of duplicating this literal "fields" 4 times.(Â™÷‹úÿÿÿÿ
+^	php:S1192È"HDefine a constant instead of duplicating this literal "devices" 4 times.(Õ˜ÿø
+}	php:S1488À"hImmediately return this expression instead of assigning it to the temporary variable "$active_controls".(€¬8
+\	php:S1192ú"FDefine a constant instead of duplicating this literal "index" 4 times.(ëÈ´®
+\	php:S1192–"FDefine a constant instead of duplicating this literal "after" 3 times.(Ÿı°æ
+j	php:S1142“"OReduce the number of returns of this function 4, down to the maximum allowed 3.(é°¬÷üÿÿÿÿ
+c	php:S1192Õ"MDefine a constant instead of duplicating this literal "tabs_wrapper" 7 times.(˜Ú ¹
+o	php:S3776í"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(×İÜñùÿÿÿÿ
+J	php:S1135ˆ"4Complete the task associated to this "TODO" comment.(ù€´—
+o	php:S3776‹
+"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(É¨¡Áøÿÿÿÿ
+j	php:S1142‹
+"OReduce the number of returns of this function 6, down to the maximum allowed 3.(É¨¡Áøÿÿÿÿ
+o	php:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(å©Ê÷şÿÿÿÿ
+`	php:S1192”
+"JDefine a constant instead of duplicating this literal "condition" 4 times.(Å¸ÿê
+J	php:S1135ˆ"4Complete the task associated to this "TODO" comment.(ù€´—
+„	php:S1448"jClass "Controls_Stack" has 67 methods, which is greater than 20 authorized. Split it into smaller classes.(™”‘îıÿÿÿÿ
+kphp:S101"RRename class "Controls_Stack" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™”‘îıÿÿÿÿ
+a	php:S1192
+"KDefine a constant instead of duplicating this literal "conditions" 3 times.(´‡àß
+^	php:S1192…"HDefine a constant instead of duplicating this literal "dynamic" 4 times.(Ïøñ·
+_	php:S1192"IDefine a constant instead of duplicating this literal "settings" 5 times.(§ˆœ
+4php:S125À"Remove this commented out code.(ÿ×ò‹
+b	php:S1192Ÿ"LDefine a constant instead of duplicating this literal "initialized" 3 times.(®§²Î
+n	php:S1117¨"SRename "$current_section" which has the same name as the field declared at line 95.(ĞÌ¶şûÿÿÿÿ
+b	php:S1192Ù"LDefine a constant instead of duplicating this literal "device_args" 4 times.(‘ñƒ
+^	php:S1192Ğ"HDefine a constant instead of duplicating this literal "default" 4 times.(İéó§
+9php:S125Á"Remove this commented out code.(ãÅ¯Íıÿÿÿÿ
+e	php:S1192Ø"JDefine a constant instead of duplicating this literal "inner_tab" 8 times.(È²áÚşÿÿÿÿ
+u	php:S2761
+"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(–Æî
+o	php:S3776³"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(©ö×Ãıÿÿÿÿ
+o	php:S3776ˆ	"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(µ±™Êıÿÿÿÿ
+o	php:S1192é"TDefine a constant instead of duplicating this literal "min_affected_device" 4 times.(€´şºúÿÿÿÿ
+d	php:S1192ğ"IDefine a constant instead of duplicating this literal "position" 5 times.(î¢ôÈıÿÿÿÿ
+7	php:S1116ª"Remove this empty statement.(ôŸìúÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "prefix_class" 4 times.(ÊíÔ‘ÿÿÿÿÿ
+J	php:S1135Ì"4Complete the task associated to this "TODO" comment.(ù€´—
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "section" 11 times.(ÉÊ±–

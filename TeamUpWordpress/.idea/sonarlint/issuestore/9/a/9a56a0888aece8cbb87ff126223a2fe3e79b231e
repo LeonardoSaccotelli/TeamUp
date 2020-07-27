@@ -1,0 +1,14 @@
+
+k	php:S1192ƒ"PDefine a constant instead of duplicating this literal "ulitmate-member" 7 times.(úö Ëüÿÿÿÿ
+`	php:S1192‡"JDefine a constant instead of duplicating this literal "shortcode" 4 times.(’›±
+F	php:S1172"0Remove the unused function parameter "$columns".(œÕí 
+q	php:S1488u"\Immediately return this expression instead of assigning it to the temporary variable "$url".(Ñ›½µ
+f	php:S1192†"KDefine a constant instead of duplicating this literal "is_default" 8 times.(£ä“ûşÿÿÿÿ
+Qphp:S131¨"7Add a "case default" clause to this "switch" statement.(¥öìúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+k	php:S1192"QDefine a constant instead of duplicating this literal "post_row_actions" 3 times.(é–øşÿÿÿÿ
+f	php:S11922"QDefine a constant instead of duplicating this literal "ultimate-member" 10 times.(à€ó±
+a	php:S1192ƒ"FDefine a constant instead of duplicating this literal "title" 3 times.(úö Ëüÿÿÿÿ
+Qphp:S131Ì"7Add a "case default" clause to this "switch" statement.(¥öìúÿÿÿÿ
+ephp:S101"QRename class "Admin_Columns" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒñ¦¯
+K	php:S1172•"0Remove the unused function parameter "$columns".(ã±Óïüÿÿÿÿ

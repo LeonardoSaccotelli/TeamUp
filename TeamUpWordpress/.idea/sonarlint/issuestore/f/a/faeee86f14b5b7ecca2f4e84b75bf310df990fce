@@ -1,0 +1,95 @@
+
+i	php:S1192ª"SDefine a constant instead of duplicating this literal "edit_term_taxonomy" 3 times.(¿·‚
+f	php:S1142½""PReduce the number of returns of this function 10, down to the maximum allowed 3.(¾òìİ
+e	php:S1142™"OReduce the number of returns of this function 4, down to the maximum allowed 3.(€õÑ
+j	php:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(·„ú’
+q	php:S1192Ü"[Define a constant instead of duplicating this literal "wp_split_shared_term_batch" 4 times.(ğàìÈ
+f	php:S1142Å"PReduce the number of returns of this function 12, down to the maximum allowed 3.(·„ú’
+d	php:S1142â"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ãİîv
+]	php:S1192½"HDefine a constant instead of duplicating this literal "orderby" 5 times.(ñì˜C
+d	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(§ğÿL
+d	php:S1192°"IDefine a constant instead of duplicating this literal "term_id" 20 times.(Æóñøÿÿÿÿ
+j	php:S1142¯"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ùœæıÿÿÿÿ
+j	php:S1142É"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¯‘„øÿÿÿÿ
+b	php:S1192Å"LDefine a constant instead of duplicating this literal "term_group" 10 times.(ÅŞ‡©
+^	php:S1192÷!"IDefine a constant instead of duplicating this literal "template" 5 times.(üïÔh
+a	php:S1192H"MDefine a constant instead of duplicating this literal "manage_terms" 3 times.(©òÜ5
+o	php:S3776Ö "TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ú§Ø¢ùÿÿÿÿ
+o	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ˆ­ë¤ıÿÿÿÿ
+\	php:S1192C"GDefine a constant instead of duplicating this literal "public" 5 times.(Ğ…ë–
+j	php:S3776ğ!"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸´ó
+b	php:S1192D"HDefine a constant instead of duplicating this literal "show_ui" 5 times.(ªáÒ×øÿÿÿÿ
+j	php:S1142ÿ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(âê¹Áıÿÿÿÿ
+b	php:S1192å"GDefine a constant instead of duplicating this literal "terms" 11 times.(ØŒµûÿÿÿÿ
+^	php:S1192A"JDefine a constant instead of duplicating this literal "query_var" 5 times.(˜·8
+c	php:S1192F"IDefine a constant instead of duplicating this literal "_builtin" 5 times.(¯á’€ùÿÿÿÿ
+k	php:S1192¶"UDefine a constant instead of duplicating this literal "edited_term_taxonomy" 3 times.(º‡ÑÈ
+e	php:S1142õ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(·•Å¦
+_	php:S3358É"DExtract this nested ternary operation into an independent statement.(Ÿ°”íÿÿÿÿÿ
+O	php:S1135Ÿ"4Complete the task associated to this "TODO" comment.(·ş“şÿÿÿÿ
+`	php:S1192¢"JDefine a constant instead of duplicating this literal "not_found" 3 times.(Ëİíü
+O	php:S1135"4Complete the task associated to this "TODO" comment.(ñ¡™éøÿÿÿÿ
+e	php:S1192I"KDefine a constant instead of duplicating this literal "edit_terms" 5 times.(ıúÚ¹øÿÿÿÿ
+T	php:S1172À"9Remove the unused function parameter "$term_taxonomy_id".(Œ¤·üÿÿÿÿ
+k	php:S1192¾"PDefine a constant instead of duplicating this literal "suppress_filter" 4 times.(ß¨³§øÿÿÿÿ
+r	php:S1192¼"WDefine a constant instead of duplicating this literal "update_term_meta_cache" 8 times.(‰¯¾½ùÿÿÿÿ
+J	php:S1066Æ"/Merge this if statement with the enclosing one.(šĞÃ¶ıÿÿÿÿ
+m	php:S1192£"RDefine a constant instead of duplicating this literal "term_taxonomy_id" 22 times.(¡…Ï¤ùÿÿÿÿ
+b	php:S1192µ"LDefine a constant instead of duplicating this literal "Empty Term." 3 times.(‰¹É¯
+c	php:S1192ƒ"MDefine a constant instead of duplicating this literal "last_changed" 4 times.(›´¡’
+o	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¿˜ÚŞøÿÿÿÿ
+c	php:S1192Ş"HDefine a constant instead of duplicating this literal "intval" 10 times.(”¦¾Àúÿÿÿÿ
+e	php:S1142¾"OReduce the number of returns of this function 4, down to the maximum allowed 3.(×¼ûØ
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯‘„øÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "category" 11 times.(ì×îŸ
+\	php:S1192Å"FDefine a constant instead of duplicating this literal "count" 6 times.(ÅŞ‡©
+J	php:S1066ü"/Merge this if statement with the enclosing one.(â÷–üÿÿÿÿ
+c	php:S1192r"NDefine a constant instead of duplicating this literal "singular_name" 4 times.(—òåÈ
+e	php:S1142 "OReduce the number of returns of this function 6, down to the maximum allowed 3.(ƒíûî
+c	php:S1192Å"MDefine a constant instead of duplicating this literal "description" 11 times.(ÅŞ‡©
+j	php:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(×¼ûØ
+d	php:S1192ø!"NDefine a constant instead of duplicating this literal "term_template" 5 times.(îÿÎÎ
+L	php:S1172õ"1Remove the unused function parameter "$taxonomy".(šÔªÒúÿÿÿÿ
+b	php:S1192B"HDefine a constant instead of duplicating this literal "rewrite" 5 times.(»ãµÿÿÿÿÿÿ
+j	php:S3776½""TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¾òìİ
+h	php:S1192."NDefine a constant instead of duplicating this literal "category_base" 3 times.(Š†è„øÿÿÿÿ
+_	php:S1192ß"IDefine a constant instead of duplicating this literal "alias_of" 6 times.(äÂˆ
+]	php:S1192¨"GDefine a constant instead of duplicating this literal "fields" 9 times.(ğøƒˆ
+{	php:S1192¶"`Define a constant instead of duplicating this literal "finished_splitting_shared_terms" 4 times.(¹Ğùÿÿÿÿ
+i	php:S3776â"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ãİîv
+^	php:S1192ô"HDefine a constant instead of duplicating this literal "default" 4 times.(¯¦ÓÚ
+b	php:S1192-"MDefine a constant instead of duplicating this literal "hierarchical" 8 times.(ÎÜ…
+a	php:S1192"LDefine a constant instead of duplicating this literal "post_format" 4 times.(‘µ£Ü
+o	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ê¢„ªùÿÿÿÿ
+^	php:S1192Å"HDefine a constant instead of duplicating this literal "parent" 20 times.(ÅŞ‡©
+c	php:S11924"IDefine a constant instead of duplicating this literal "tag_base" 3 times.(éŒÜ‰ÿÿÿÿÿ
+\	php:S1192p"GDefine a constant instead of duplicating this literal "labels" 3 times.(æ”ä‰
+e	php:S1142ş"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ó‡Á
+a	php:S1192Á"FDefine a constant instead of duplicating this literal "names" 4 times.(‚¨Ôˆüÿÿÿÿ
+f	php:S1192"KDefine a constant instead of duplicating this literal "hide_empty" 3 times.(ò…âúÿÿÿÿ
+b	php:S1192G"MDefine a constant instead of duplicating this literal "capabilities" 3 times.(£†İÛ
+z	php:S1488Ô"_Immediately return this expression instead of assigning it to the temporary variable "$labels".(œ„Úúÿÿÿÿ
+n	php:S1192Ğ"SDefine a constant instead of duplicating this literal "Invalid taxonomy." 10 times.(¦Õ×àüÿÿÿÿ
+T	php:S1172Ù"9Remove the unused function parameter "$term_taxonomy_id".(Êê¶Óüÿÿÿÿ
+O	php:S1172û"9Remove the unused function parameter "$term_taxonomy_id".(ßÌ¢ù
+g	php:S1192K"MDefine a constant instead of duplicating this literal "assign_terms" 3 times.(£ÃÖúşÿÿÿÿ
+b	php:S1192‘"MDefine a constant instead of duplicating this literal "manage_links" 4 times.(Àõğ
+a	php:S1192„""FDefine a constant instead of duplicating this literal "label" 3 times.(ñ•õ¼øÿÿÿÿ
+q	php:S1192‹"[Define a constant instead of duplicating this literal "separate_items_with_commas" 4 times.(¤Ãª‰
+`	php:S1192»"JDefine a constant instead of duplicating this literal "taxonomy" 22 times.(™»¢×
+j	php:S1142Û
+"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Èª’üÿÿÿÿ
+j	php:S1142³"OReduce the number of returns of this function 8, down to the maximum allowed 3.(„ÎîÚùÿÿÿÿ
+c	php:S1192µ"MDefine a constant instead of duplicating this literal "invalid_term" 3 times.(‰¹É¯
+h	php:S1192¤"MDefine a constant instead of duplicating this literal "_split_terms" 5 times.(İºÍœÿÿÿÿÿ
+`	php:S1192Å"JDefine a constant instead of duplicating this literal "object_id" 3 times.(ÅŞ‡©
+O	php:S3801±"4Refactor this function to use "return" consistently.(¿˜ÚŞøÿÿÿÿ
+k	php:S1192Ş"PDefine a constant instead of duplicating this literal "db_insert_error" 4 times.(Œ•«ñşÿÿÿÿ
+m	php:S1192Ğ"RDefine a constant instead of duplicating this literal "invalid_taxonomy" 11 times.(¦Õ×àüÿÿÿÿ
+j	php:S1142á#"OReduce the number of returns of this function 5, down to the maximum allowed 3.(×’Ÿ¤ıÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÃµÑ½øÿÿÿÿ
+o	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(âê¹Áıÿÿÿÿ
+b	php:S1192J"MDefine a constant instead of duplicating this literal "delete_terms" 3 times.(‚ü»»
+c	php:S1192"IDefine a constant instead of duplicating this literal "post_tag" 5 times.(âŠŸ‚ùÿÿÿÿ
+c	php:S1192£"MDefine a constant instead of duplicating this literal "ignore_empty" 3 times.(‘¯İ¶
+j	php:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ó‡Á

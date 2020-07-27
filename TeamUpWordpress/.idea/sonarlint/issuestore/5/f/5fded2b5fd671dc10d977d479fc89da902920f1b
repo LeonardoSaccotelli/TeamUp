@@ -1,0 +1,22 @@
+
+s	php:S1192õ"XDefine a constant instead of duplicating this literal "widget_nav_menu_updates" 4 times.(œØ…´ıÿÿÿÿ
+o	php:S3776â"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(êñµ®ûÿÿÿÿ
+\	php:S1192ñ"HDefine a constant instead of duplicating this literal "deleted" 3 times.(½ád
+l	php:S1192ò"QDefine a constant instead of duplicating this literal "nav_menu_updates" 3 times.(ˆŸ´üÿÿÿÿ
+]	php:S1192"IDefine a constant instead of duplicating this literal "nav_menu" 5 times.(äÅœ1
+[php:S112"FDefine and throw a dedicated exception instead of using a generic one.(öÛš
+`	php:S1192€"JDefine a constant instead of duplicating this literal "menu-name" 3 times.(êæïì
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "term_id" 3 times.(ş„¨á
+„	php:S1488ˆ"iImmediately return this expression instead of assigning it to the temporary variable "$nav_menu_options".(ì™öüÿÿÿÿ
+zphp:S101"aRename class "WP_Customize_Nav_Menu_Setting" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(í©Ìúÿÿÿÿÿ
+_	php:S11921"JDefine a constant instead of duplicating this literal "auto_add" 16 times.(Óíëì
+l	php:S1192²"QDefine a constant instead of duplicating this literal "nav_menu_options" 3 times.(ãÙÏşÿÿÿÿ
+f	php:S1117¨"KRename "$default" which has the same name as the field declared at line 45.(¤¸•Òıÿÿÿÿ
+\	php:S1192ö"FDefine a constant instead of duplicating this literal "error" 3 times.(Ş£ÙÍ
+O	php:S1135 "4Complete the task associated to this "TODO" comment.(¯ ‰úÿÿÿÿ
+[php:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(—­Ò
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Î«§ûÿÿÿÿ
+a	php:S11920"GDefine a constant instead of duplicating this literal "parent" 5 times.(³æÊÓùÿÿÿÿ
+|	php:S1488ê"aImmediately return this expression instead of assigning it to the temporary variable "$menu_obj".(ÛÀŸÓÿÿÿÿÿ
+j	php:S1142Ò"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Û ©¨øÿÿÿÿ
+a	php:S1192/"LDefine a constant instead of duplicating this literal "description" 5 times.(Èæ’

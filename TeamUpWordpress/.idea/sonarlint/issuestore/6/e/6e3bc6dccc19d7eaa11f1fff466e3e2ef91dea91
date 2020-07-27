@@ -1,0 +1,22 @@
+
+_	php:S1192¤"IDefine a constant instead of duplicating this literal "<strong>" 4 times.(¼ÿîæ
+e	php:S1192Ì"PDefine a constant instead of duplicating this literal "add_signup_meta" 4 times.(›»Ì#
+^	php:S1192¿"HDefine a constant instead of duplicating this literal "errors" 10 times.(Üš×Ğ
+M	php:S1172µ"2Remove the unused function parameter "$user_name".(¸¢ï·ıÿÿÿÿ
+H	php:S1172µ"-Remove the unused function parameter "$meta".(¸¢ï·ıÿÿÿÿ
+p	php:S1192‚"UDefine a constant instead of duplicating this literal "signup_hidden_fields" 3 times.(»™ùÿÿÿÿ
+b	php:S1192ƒ"GDefine a constant instead of duplicating this literal "domain" 3 times.(ŒËªÎıÿÿÿÿ
+c	php:S1192q"IDefine a constant instead of duplicating this literal "blogname" 9 times.(â³ç²øÿÿÿÿ
+`	php:S1192¤"JDefine a constant instead of duplicating this literal "</strong>" 4 times.(¼ÿîæ
+e	php:S1192¢"PDefine a constant instead of duplicating this literal "signup_finished" 3 times.(¶’³}
+b	php:S1192"HDefine a constant instead of duplicating this literal "wp_head" 3 times.(ìØâ‰üÿÿÿÿ
+e	php:S1192‚"JDefine a constant instead of duplicating this literal "user_name" 9 times.(ü–Úùÿÿÿÿ
+g	php:S1192À"LDefine a constant instead of duplicating this literal "blog_public" 4 times.(Û½¾ïÿÿÿÿÿ
+^	php:S1192¥"HDefine a constant instead of duplicating this literal "WPLANG" 12 times.(õÒÒ¸
+C	php:S1172ô"-Remove the unused function parameter "$meta".(Øœ
+^	php:S1192l"IDefine a constant instead of duplicating this literal "</label>" 3 times.(ôğÔ§
+a	php:S1192’"KDefine a constant instead of duplicating this literal "blog_title" 9 times.(‹÷áï
+g	php:S1192Œ"LDefine a constant instead of duplicating this literal "user_email" 11 times.(£À²şÿÿÿÿ
+I	php:S1172ô"3Remove the unused function parameter "$user_email".(Øœ
+a	php:S1192µ"KDefine a constant instead of duplicating this literal "signup_for" 5 times.(¤ê€Å
+n	php:S3776d"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(úâ®£ùÿÿÿÿ

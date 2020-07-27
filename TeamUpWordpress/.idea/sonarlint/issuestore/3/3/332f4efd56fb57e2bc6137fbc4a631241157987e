@@ -1,0 +1,26 @@
+
+i	php:S1142"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ÕŒ´æùÿÿÿÿ
+]	php:S1192¨"GDefine a constant instead of duplicating this literal "Layout" 3 times.(×À¨­
+g	php:S1192Í"LDefine a constant instead of duplicating this literal "<p><strong>" 3 times.(·àÀüøÿÿÿÿ
+	php:S1192…"fDefine a constant instead of duplicating this literal "https://wordpress.org/support/forums/" 3 times.(³Î¶ãûÿÿÿÿ
+b	php:S1192Ó"LDefine a constant instead of duplicating this literal "new_version" 6 times.(Ú£Šë
+d	php:S1192—"IDefine a constant instead of duplicating this literal "Features" 3 times.(…ê‰ıÿÿÿÿ
+œ	php:S1192„"€Define a constant instead of duplicating this literal "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="%s">support forums</a>." 3 times.(Áîª¹úÿÿÿÿ
+m	php:S1192"RDefine a constant instead of duplicating this literal "themes_api_failed" 3 times.(¦°óÿÿÿÿÿÿ
+N	php:S3801"4Refactor this function to use "return" consistently.(ÕŒ´æùÿÿÿÿ
+^	php:S1192^"IDefine a constant instead of duplicating this literal "/themes/" 3 times.(Ñ„¨Â
+j	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(Åô­
+u	php:S1192Ó"_Define a constant instead of duplicating this literal "View %1$s version %2$s details" 3 times.(Ú£Šë
+\	php:S1192c"GDefine a constant instead of duplicating this literal "delete" 3 times.(ˆ”œ¤
+o	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¦İŠ»øÿÿÿÿ
+i	php:S1192Í"NDefine a constant instead of duplicating this literal "</strong></p>" 3 times.(·àÀüøÿÿÿÿ
+j	php:S1142‡"OReduce the number of returns of this function 4, down to the maximum allowed 3.(úñ½©øÿÿÿÿ
+j	php:S1192²"ODefine a constant instead of duplicating this literal "_paused_themes" 7 times.(ÇûòŒüÿÿÿÿ
+c	php:S1192‹"HDefine a constant instead of duplicating this literal "Subject" 3 times.( ìÒÿÿÿÿÿ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÕŒ´æùÿÿÿÿ
+O	php:S1135•"4Complete the task associated to this "TODO" comment.(¾’¾Øÿÿÿÿÿ
+h	php:S1192n"NDefine a constant instead of duplicating this literal "update_themes" 6 times.(Â…†¶ÿÿÿÿÿ
+t	php:S1192¹"YDefine a constant instead of duplicating this literal "wporg_theme_feature_list" 3 times.(À—£»üÿÿÿÿ
+o	php:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(úñ½©øÿÿÿÿ
+‘	php:S1192Ñ"{Define a constant instead of duplicating this literal "class="thickbox open-plugin-details-modal" aria-label="%s"" 3 times.(•Á¾
+J	php:S1066¿"/Merge this if statement with the enclosing one.(½ë“Ûúÿÿÿÿ

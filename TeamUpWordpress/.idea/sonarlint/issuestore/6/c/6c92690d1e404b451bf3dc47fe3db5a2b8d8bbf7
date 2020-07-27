@@ -1,0 +1,9 @@
+
+d	php:S1117—"NRename "$session_id" which has the same name as the field declared at line 72.(º§Ÿ´
+mphp:S101"TRename class "WP_Recovery_Mode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸çî€üÿÿÿÿ
+j	php:S1142§"OReduce the number of returns of this function 5, down to the maximum allowed 3.(èªàøúÿÿÿÿ
+e	php:S1142İ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ñ£¥î
+j	php:S1142’"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ö¢ÿÿÿÿÿ
+j	php:S1142®"OReduce the number of returns of this function 4, down to the maximum allowed 3.(••İÄüÿÿÿÿ
+{	php:S1192`"aDefine a constant instead of duplicating this literal "recovery_mode_clean_expired_keys" 3 times.(Ñÿ¡ıÿÿÿÿ
+b	php:S1192ğ"GDefine a constant instead of duplicating this literal "plugin" 3 times.(óÏ¹»şÿÿÿÿ

@@ -1,0 +1,13 @@
+
+`	php:S1192"KDefine a constant instead of duplicating this literal "edit_media" 3 times.(‘·§¿
+o	php:S1192"ZDefine a constant instead of duplicating this literal "media_library_state_multi" 3 times.(Ö×¦£
+gphp:S101"SRename class "WP_Widget_Media" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¶ÿé¶
+c	php:S1192‹"HDefine a constant instead of duplicating this literal "default" 5 times.(óÃ½ƒûÿÿÿÿ
+e	php:S1142µ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¦¦àó
+h	php:S1192"NDefine a constant instead of duplicating this literal "replace_media" 4 times.(–„‡ıÿÿÿÿ
+d	php:S1192‰"NDefine a constant instead of duplicating this literal "attachment_id" 5 times.(½Ü¼
+h	php:S1192™"RDefine a constant instead of duplicating this literal "sanitize_callback" 3 times.(°íæ˜
+z	php:S1488§"_Immediately return this expression instead of assigning it to the temporary variable "$schema".(›ß¾Öùÿÿÿÿ
+p	php:S1192"[Define a constant instead of duplicating this literal "media_library_state_single" 3 times.(ÎƒÑİ
+d	php:S1192!"JDefine a constant instead of duplicating this literal "add_media" 3 times.(ÔÕÁÚşÿÿÿÿ
+f	php:S1192<"LDefine a constant instead of duplicating this literal "description" 4 times.(œ®×Àúÿÿÿÿ

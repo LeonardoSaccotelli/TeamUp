@@ -1,0 +1,4 @@
+
+_	php:S1192$"JDefine a constant instead of duplicating this literal "Text_Diff" 4 times.(áË«
+nphp:S101"ZRename class "Text_Diff_Engine_shell" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÔÙöØ
+Pphp:S131]"7Add a "case default" clause to this "switch" statement.(ïªœ·üÿÿÿÿ

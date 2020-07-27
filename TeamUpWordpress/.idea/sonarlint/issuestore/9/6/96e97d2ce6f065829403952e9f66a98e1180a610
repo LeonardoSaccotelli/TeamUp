@@ -1,0 +1,57 @@
+
+DWeb:BoldAndItalicTagsCheckÑ"Replace this <i> tag by <em>.(ï™•à
+b	php:S1192–
+"LDefine a constant instead of duplicating this literal "editprofile" 3 times.(£Ïé
+`	php:S1192–
+"JDefine a constant instead of duplicating this literal "<a href="" 4 times.(£Ïé
+z	php:S1192¤"_Define a constant instead of duplicating this literal "custom_dropdown_options_source" 3 times.(Î¤¢ùüÿÿÿÿ
+p	php:S3776¾"URefactor this function to reduce its Cognitive Complexity from 138 to the 15 allowed.(´Éèâøÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck½"Replace this <i> tag by <em>.(Ğ¥ïµ
+C	php:S1125Ñ"(Remove the literal "true" boolean value.(ƒƒØíûÿÿÿÿ
+C	php:S1125…
+"(Remove the literal "true" boolean value.(óçşñùÿÿÿÿ
+j	php:S3776é"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ËÏÇÀ
+c	php:S1192Å"HDefine a constant instead of duplicating this literal "profile" 6 times.(ËÇóıøÿÿÿÿ
+B	php:S1172Ù"-Remove the unused function parameter "$args".(ÂÖîc
+i	php:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(ÂÖîc
+C	php:S1125ç"(Remove the literal "true" boolean value.(Ä€şëúÿÿÿÿ
+o	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(¼Ààûÿÿÿÿ
+g	php:S1192Ú"LDefine a constant instead of duplicating this literal "wpseo_front" 3 times.(„³¼‹şÿÿÿÿ
+g	php:S1192Ì"QDefine a constant instead of duplicating this literal "ultimate-member" 28 times.(³ÿüè
+d	php:S1192"NDefine a constant instead of duplicating this literal "profile_photo" 5 times.(³¢é÷
+g	php:S1192Ì"LDefine a constant instead of duplicating this literal "cover_photo" 7 times.(ä®ìÇúÿÿÿÿ
+h	php:S1871â"MThis branch's code block is the same as the block for the branch on line 352.(¤…·øÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck¯"Replace this <i> tag by <em>.(ÙŒ­§úÿÿÿÿ
+_	php:S1192¼"JDefine a constant instead of duplicating this literal "notifier" 12 times.(Ğ±ÜV
+>	php:S1125ê
+"(Remove the literal "true" boolean value.(ØÃ„Ô
+^	php:S1192Û"HDefine a constant instead of duplicating this literal "wp_head" 5 times.(Àš£ã
+k	php:S1192è"UDefine a constant instead of duplicating this literal "Upload a cover photo" 3 times.(¤‘•Ù
+h	php:S1192ş"MDefine a constant instead of duplicating this literal "display_name" 4 times.(¯¹õĞúÿÿÿÿ
+b	php:S1192õ"GDefine a constant instead of duplicating this literal "subnav" 5 times.(Ü„ºÆûÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckˆ
+"Replace this <i> tag by <em>.(‚‰Ô¬úÿÿÿÿ
+H	php:S1172Ä"-Remove the unused function parameter "$args".(–ªıæøÿÿÿÿ
+]	php:S1192í"GDefine a constant instead of duplicating this literal "Cancel" 6 times.(¨Ã–Ø
+D	php:S1125«")Remove the literal "false" boolean value.(Õÿ«éÿÿÿÿÿ
+>	php:S1125ó"(Remove the literal "true" boolean value.(¹»şÕ
+C	php:S1125¦"(Remove the literal "true" boolean value.(Í²Íıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÅ"Replace this <i> tag by <em>.(ï™•à
+D	php:S1125Ğ	")Remove the literal "false" boolean value.(½É˜§üÿÿÿÿ
+f	php:S1192‹"KDefine a constant instead of duplicating this literal "submitted" 33 times.(¿–üùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckÙ
+"Replace this <i> tag by <em>.(à© •ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(èÉ¹êûÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckº"Replace this <i> tag by <em>.(ï™•à
+n	php:S1192²"SDefine a constant instead of duplicating this literal "secondary_btn_word" 4 times.(éŒÒüùÿÿÿÿ
+j	php:S1192–
+"TDefine a constant instead of duplicating this literal "" class="real_url">" 4 times.(£Ïé
+	php:S1192í"xDefine a constant instead of duplicating this literal "<a href="javascript:void(0);" class="um-dropdown-hide">" 6 times.(¨Ã–Ø
+o	php:S3776Ê	"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ùıÿóúÿÿÿÿ
+^	php:S1192¡"HDefine a constant instead of duplicating this literal "options" 7 times.(Ê¡Çó
+C	php:S1125è	"(Remove the literal "true" boolean value.(Òñ•ˆıÿÿÿÿ
+a	php:S1192ò"FDefine a constant instead of duplicating this literal "click" 5 times.(°Ğ€ïüÿÿÿÿ
+Cphp:S108Õ")Either remove or fill this block of code.(üıÓ¼ıÿÿÿÿ
+p	php:S1192™"UDefine a constant instead of duplicating this literal "um_user_edit_profile" 3 times.(¥õİ”ÿÿÿÿÿ
+g	php:S1192¯"QDefine a constant instead of duplicating this literal "primary_btn_word" 5 times.(¨úËğ
+Jphp:S121Ì"0Add curly braces around the nested statement(s).(ä®ìÇúÿÿÿÿ

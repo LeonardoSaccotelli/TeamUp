@@ -1,0 +1,19 @@
+
+a	php:S1192;"GDefine a constant instead of duplicating this literal "string" 6 times.(Şåáßúÿÿÿÿ
+c	php:S1192B"IDefine a constant instead of duplicating this literal "context" 17 times.(²ÒÄüÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "object" 4 times.(¢Úêúÿÿÿÿ
+\	php:S1192_"GDefine a constant instead of duplicating this literal "status" 4 times.(ååÄ
+b	php:S1192T"HDefine a constant instead of duplicating this literal "objects" 3 times.(áïÜÿÿÿÿÿ
+h	php:S1192¸"MDefine a constant instead of duplicating this literal "capabilities" 3 times.(®Ï×ıÿÿÿÿ
+_	php:S1192Ô"IDefine a constant instead of duplicating this literal "supports" 3 times.(œ¼®‡
+g	php:S1192T"MDefine a constant instead of duplicating this literal "show_in_rest" 3 times.(áïÜÿÿÿÿÿ
+_	php:S1192Ü"JDefine a constant instead of duplicating this literal "rest_base" 3 times.(½‚”'
+g	php:S1192:"MDefine a constant instead of duplicating this literal "description" 14 times.(îŠ†€ıÿÿÿÿ
+e	php:S1142†"OReduce the number of returns of this function 4, down to the maximum allowed 3.(«ç©á
+a	php:S1192Ø"KDefine a constant instead of duplicating this literal "taxonomies" 3 times.(ã€ûŒ
+]	php:S1192È"GDefine a constant instead of duplicating this literal "labels" 3 times.(¡ïÍÔ
+c	php:S1192À"MDefine a constant instead of duplicating this literal "hierarchical" 3 times.(×ıõ
+zphp:S101"aRename class "WP_REST_Post_Types_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‰Âæçûÿÿÿÿ
+\	php:S1192²"FDefine a constant instead of duplicating this literal "embed" 3 times.(ø®Éœ
+_	php:S1192Ä"IDefine a constant instead of duplicating this literal "viewable" 3 times.(²ÉÂ
+`	php:S1192•"JDefine a constant instead of duplicating this literal "readonly" 10 times.(åúÆÖ

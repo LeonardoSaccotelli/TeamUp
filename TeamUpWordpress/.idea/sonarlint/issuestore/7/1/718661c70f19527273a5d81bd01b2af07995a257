@@ -1,0 +1,31 @@
+
+‚	php:S1186¯"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¼’Î·
+x	php:S1488–"]Immediately return this expression instead of assigning it to the temporary variable "$temp".(Ú¹Ñüşÿÿÿÿ
+Jphp:S121í"0Add curly braces around the nested statement(s).(öŒ„íúÿÿÿÿ
+d	php:S1142È"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ùÈ$
+Ephp:S121œ"0Add curly braces around the nested statement(s).(È¨ë
+Ephp:S121Ñ"0Add curly braces around the nested statement(s).(È¨ë
+Ephp:S121Ì"0Add curly braces around the nested statement(s).(›éÀ´
+Jphp:S121¡"0Add curly braces around the nested statement(s).(ÙÃ±†úÿÿÿÿ
+Jphp:S121û"0Add curly braces around the nested statement(s).(®Êœ…ÿÿÿÿÿ
+c	php:S1301Î"MReplace this "switch" statement with "if" statements to increase readability.(¿îïŒ
+h	php:S1871é"MThis branch's code block is the same as the block for the branch on line 615.(•³»úÿÿÿÿ
+c	php:S1192ó"MDefine a constant instead of duplicating this literal "_um_priority" 4 times.(ò•´›
+Jphp:S121æ"0Add curly braces around the nested statement(s).(ä¯Ë·øÿÿÿÿ
+j	php:S1142ú"OReduce the number of returns of this function 5, down to the maximum allowed 3.(‰ÍÚ¦úÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(¤î®
+D	php:S1172¯".Remove the unused function parameter "$roles".(¼’Î·
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Ephp:S121Ú"0Add curly braces around the nested statement(s).(èÉ‹Ì
+jphp:S101"VRename class "Roles_Capabilities" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŠÖ¢á
+Ephp:S121›"0Add curly braces around the nested statement(s).(Š‚õ
+d	php:S11928"PDefine a constant instead of duplicating this literal "wp_capabilities" 3 times.(«åúZ
+F	php:S1172¯"0Remove the unused function parameter "$user_id".(¼’Î·
+c	php:S1192/"IDefine a constant instead of duplicating this literal "um_roles" 6 times.(Á ì±úÿÿÿÿ
+Jphp:S121ï"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+9php:S125’"Remove this commented out code.(úã©ıÿÿÿÿ
+Dphp:S121O"0Add curly braces around the nested statement(s).(ÇüÎ
+Ephp:S121Ø"0Add curly braces around the nested statement(s).(È¨ë
+Jphp:S121è"0Add curly braces around the nested statement(s).(Ø¬àıÿÿÿÿ
+Lphp:S131Î"7Add a "case default" clause to this "switch" statement.(¿îïŒ
+j	php:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¸¢ƒÔ

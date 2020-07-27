@@ -1,0 +1,13 @@
+
+h	php:S1192/"SDefine a constant instead of duplicating this literal "bsf_analytics_send" 5 times.(òóåò
+h	php:S1192·"MDefine a constant instead of duplicating this literal "astra-sites" 10 times.(»‡†´ùÿÿÿÿ
+~	php:S1448"iClass "BSF_Analytics" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(²ü«Ù
+H	php:S1172Ö"2Remove the unused function parameter "$old_value".(Ÿğ£ò
+j	php:S1192Ö"TDefine a constant instead of duplicating this literal "bsf_analytics_nonce" 5 times.(Æ»ö
+m	php:S1848"REither remove this useless object instantiation of class "BSF_Analytics" or use it(áìèóúÿÿÿÿ
+E	php:S1172á"/Remove the unused function parameter "$option".(´éÍè
+c	php:S1192Õ"HDefine a constant instead of duplicating this literal "general" 3 times.(ï‰¸ñúÿÿÿÿ
+k	php:S1192„"UDefine a constant instead of duplicating this literal "bsf_analytics_optin" 18 times.(Şû–ı
+OWeb:FieldsetWithoutLegendCheckø"$Add a <legend> tag to this fieldset.(¨Ïçñ
+ephp:S101"QRename class "BSF_Analytics" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²ü«Ù
+E	php:S1172Ö"/Remove the unused function parameter "$option".(Ÿğ£ò

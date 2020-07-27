@@ -1,0 +1,18 @@
+
+x	php:S1448"cClass "Manager" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(ÇôÁÌ
+N	php:S1135F"4Complete the task associated to this "TODO" comment.(·™‡ıÿÿÿÿ
+[php:S112®"FDefine and throw a dedicated exception instead of using a generic one.(‘†ûĞ
+^	php:S1192ÿ"HDefine a constant instead of duplicating this literal "source" 12 times.(ò‹ƒ±
+j	php:S1192ˆ"ODefine a constant instead of duplicating this literal "template_error" 5 times.(÷•Èúÿÿÿÿ
+F	php:S1172"+Remove the unused function parameter "$id".(™¨—øÿÿÿÿ
+j	php:S1142ş"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‘Öíÿÿÿÿÿ
+`php:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(¼ˆªÙşÿÿÿÿ
+g	php:S1192ä"LDefine a constant instead of duplicating this literal "template_id" 7 times.(‚¦‹Âşÿÿÿÿ
+j	php:S1142§"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¶à½Ìûÿÿÿÿ
+a	php:S1192¼"FDefine a constant instead of duplicating this literal "local" 3 times.(İ×Âıøÿÿÿÿ
+v	php:S1192ˆ"[Define a constant instead of duplicating this literal "Template source not found." 4 times.(÷•Èúÿÿÿÿ
+[php:S112"FDefine and throw a dedicated exception instead of using a generic one.(ú›İ¤
+d	php:S1192H"JDefine a constant instead of duplicating this literal "templates" 4 times.(À¶«³ıÿÿÿÿ
+]	php:S1192M"HDefine a constant instead of duplicating this literal "content" 9 times.(‡ÿÓâ
+d	php:S1142y"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¸ÓÌ
+a	php:S1144û"FRemove this unused private "on_direct_import_template_success" method.(‰ğ€üøÿÿÿÿ

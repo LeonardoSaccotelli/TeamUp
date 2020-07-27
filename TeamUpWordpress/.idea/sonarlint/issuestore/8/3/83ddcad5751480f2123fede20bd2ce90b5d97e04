@@ -1,0 +1,7 @@
+
+j	php:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ë•³ž
+]	php:S1192³"HDefine a constant instead of duplicating this literal "</tr>\n" 8 times.(™îÄF
+j	php:S3776è"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(€ø¸Ë
+xphp:S101"_Rename class "WP_Text_Diff_Renderer_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ñ™˜Îÿÿÿÿÿ
+I	php:S1481…"3Remove this unused "$final_matches" local variable.(Ó¥á‡
+r	php:S1192¯"WDefine a constant instead of duplicating this literal "process_text_diff_html" 3 times.(å¬Œ¸ýÿÿÿÿ

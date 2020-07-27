@@ -1,0 +1,11 @@
+
+}php:S101"dRename class "TwentyTwenty_Non_Latin_Languages" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ó·ı´úÿÿÿÿ
+l	php:S1192/"XDefine a constant instead of duplicating this literal "\'Microsoft YaHei New\'" 3 times.(ÿÊé'
+[	php:S1192&"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(Ş¬ÕM
+c	php:S11928"NDefine a constant instead of duplicating this literal "\'Segoe UI\'" 10 times.(³Ó´
+`	php:S11928"KDefine a constant instead of duplicating this literal "Helvetica" 11 times.(³Ó´
+N	php:S3801"4Refactor this function to use "return" consistently.(Á¬úÑşÿÿÿÿ
+[	php:S1192&"GDefine a constant instead of duplicating this literal "Arial" 24 times.(Ş¬ÕM
+f	php:S1192/"RDefine a constant instead of duplicating this literal "\'STHeiti Light\'" 3 times.(ÿÊé'
+`	php:S1192&"LDefine a constant instead of duplicating this literal "sans-serif" 30 times.(Ş¬ÕM
+h	php:S1192/"TDefine a constant instead of duplicating this literal "\'Helvetica Neue\'" 14 times.(ÿÊé'

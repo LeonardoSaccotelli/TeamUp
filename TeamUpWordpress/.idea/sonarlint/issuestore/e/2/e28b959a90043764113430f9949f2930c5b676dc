@@ -1,0 +1,68 @@
+
+c	php:S1192ô"HDefine a constant instead of duplicating this literal "http://" 3 times.(•òçÂùÿÿÿÿ
+K	php:S1481¿"0Remove this unused "$parent_key" local variable.(ö»«Åüÿÿÿÿ
+s	php:S1488f"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ø‰ü
+C	php:S1172"-Remove the unused function parameter "$data".(‰ĞÌÓ
+y	php:S1192"dDefine a constant instead of duplicating this literal "um_option_match_callback_view_field" 4 times.(Ùñ´t
+d	php:S1192"JDefine a constant instead of duplicating this literal "required" 18 times.(²÷ÛÇùÿÿÿÿ
+G	php:S1172b"-Remove the unused function parameter "$data".(œ•…¯úÿÿÿÿ
+G	php:S1172º",Remove the unused function parameter "$key".(Ûµâ”øÿÿÿÿ
+9php:S125’"Remove this commented out code.(ßˆ‹óÿÿÿÿÿ
+s	php:S1488%"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ÂÎ‚á
+s	php:S1488R"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ƒ»‰ù
+B	php:S1172L"-Remove the unused function parameter "$data".(İş©
+3php:S125"Remove this commented out code.(ÜÇ¢2
+Ephp:S121’"0Add curly braces around the nested statement(s).(àñÎ
+t	php:S1488®"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ÂÏÁ
+C	php:S1172½"-Remove the unused function parameter "$data".(´‹¬º
+C	php:S1172–"-Remove the unused function parameter "$data".(Î¨¼×
+H	php:S1172¤"-Remove the unused function parameter "$mode".(È½÷Øùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(èÉ¹êûÿÿÿÿ
+Jphp:S121â"0Add curly braces around the nested statement(s).(å öëúÿÿÿÿ
+Ephp:S121˜"0Add curly braces around the nested statement(s).(üå­Ô
+r	php:S1192²"\Define a constant instead of duplicating this literal "um_is_selected_filter_value" 3 times.(ô­§
+a	php:S1192ç"FDefine a constant instead of duplicating this literal "skype" 3 times.(ğùÇşÿÿÿÿ
+l	php:S1192˜"VDefine a constant instead of duplicating this literal "um_force_utf8_strings" 3 times.(üå­Ô
+j	php:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 70 to the 15 allowed.(¦æ¬Ş
+s	php:S1488|"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ó„ˆş
+x	php:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "$value".(…Şç½úÿÿÿÿ
+H	php:S1172"-Remove the unused function parameter "$mode".(ìÛí²øÿÿÿÿ
+t	php:S1488ª"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ôú‰¼
+u	php:S1192–"_Define a constant instead of duplicating this literal "um_profile_field_filter_hook__" 4 times.(íšô
+H	php:S1172Ó"-Remove the unused function parameter "$type".(î˜ï§øÿÿÿÿ
+4php:S125³"Remove this commented out code.(‘ˆÁ
+j	php:S1192"PDefine a constant instead of duplicating this literal "ultimate-member" 6 times.(ÊÓª´ûÿÿÿÿ
+Ephp:S121ã"0Add curly braces around the nested statement(s).(ÜºÅ¶
+^	php:S1226¦"CIntroduce a new variable instead of reusing the parameter "$array".(’¢á¶øÿÿÿÿ
+t	php:S1488›"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ÂÏÁ
+	php:S1192’"iDefine a constant instead of duplicating this literal "um_profile_field_filter_hook__last_login" 3 times.(ƒ¶Å›
+s	php:S1488Ğ"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ƒËØj
+C	php:S1172–"-Remove the unused function parameter "$type".(Î¨¼×
+Jphp:S121ç"0Add curly braces around the nested statement(s).(ğùÇşÿÿÿÿ
+B	php:S1172"-Remove the unused function parameter "$data".(øó±
+y	php:S1488»"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ã÷û­ùÿÿÿÿ
+H	php:S1172Š"-Remove the unused function parameter "$data".(…ƒàÿÿÿÿÿ
+e	php:S1192¿"JDefine a constant instead of duplicating this literal "" title="" 5 times.(¯±±Ÿøÿÿÿÿ
+z	php:S1192ç"_Define a constant instead of duplicating this literal "custom_dropdown_options_source" 6 times.(Íœ¿•şÿÿÿÿ
+G	php:S1172w"-Remove the unused function parameter "$data".(¥üĞ°şÿÿÿÿ
+t	php:S1488œ"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Îäê®
+G	php:S11726"-Remove the unused function parameter "$data".(øÑÂ¨ûÿÿÿÿ
+p	php:S3776¸"URefactor this function to reduce its Cognitive Complexity from 137 to the 15 allowed.(¿Ñ€ıÿÿÿÿ
+`	php:S1192Ø"JDefine a constant instead of duplicating this literal "validate" 20 times.(®“´¥
+^	php:S1192Õ"HDefine a constant instead of duplicating this literal "options" 9 times.(‘Ì¡Ã
+Ephp:S121å"0Add curly braces around the nested statement(s).(ä±ƒè
+d	php:S1192Ù"IDefine a constant instead of duplicating this literal "url_text" 3 times.(«ğï ûÿÿÿÿ
+^	php:S1192û"HDefine a constant instead of duplicating this literal "metakey" 4 times.(éêÃ
+Jphp:S121æ"0Add curly braces around the nested statement(s).(·ù¦‡ûÿÿÿÿ
+¬	php:S2681›"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(ÂÏÁ
+y	php:S1488‘"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ˆãŞ¯ÿÿÿÿÿ
+f	php:S1192÷"KDefine a constant instead of duplicating this literal "url_target" 8 times.(›ºäúÿÿÿÿ
+y	php:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$value".(»­ìöşÿÿÿÿ
+_	php:S1192€"IDefine a constant instead of duplicating this literal "https://" 3 times.(ö—§š
+Jphp:S121ä"0Add curly braces around the nested statement(s).(“±€ñÿÿÿÿÿ
+Jphp:S121é"0Add curly braces around the nested statement(s).(³úáÌÿÿÿÿÿ
+?	php:S1481»")Remove this unused "$key" local variable.(Ù¬Ç¥
+Jphp:S121ê"0Add curly braces around the nested statement(s).(ÔÌİ¨üÿÿÿÿ
+o	php:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(î˜ï§øÿÿÿÿ
+I	php:S1656ğ".Remove or correct this useless self-assignment(îŸ­¥şÿÿÿÿ
+Dphp:S121è"0Add curly braces around the nested statement(s).(ıéÑ<

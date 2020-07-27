@@ -1,0 +1,6 @@
+
+f	php:S1142Ù"PReduce the number of returns of this function 10, down to the maximum allowed 3.(Õ©Ô«
+\	php:S1192÷"FDefine a constant instead of duplicating this literal "total" 3 times.(õ¯Ðà
+O	php:S1135±"4Complete the task associated to this "TODO" comment.(¸áá»þÿÿÿÿ
+j	php:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Õ©Ô«
+O	php:S1135¡"4Complete the task associated to this "TODO" comment.(¸áá»þÿÿÿÿ

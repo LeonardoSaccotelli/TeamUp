@@ -1,0 +1,81 @@
+
+k	php:S1192¯"PDefine a constant instead of duplicating this literal "~(\\{[^}]+\\})~" 4 times.(Ü³İùÿÿÿÿ
+C	php:S1125Ò	"(Remove the literal "true" boolean value.(†ÁÏãüÿÿÿÿ
+a	php:S1192«"KDefine a constant instead of duplicating this literal "#\{.*?\}#s" 4 times.(­¸ÖÑ
+J	php:S1172‹"/Remove the unused function parameter "$object".(ÖÃ©Ûùÿÿÿÿ
+i	php:S1192¼"NDefine a constant instead of duplicating this literal "um_role_meta" 10 times.(ÑÎ•Îÿÿÿÿÿ
+c	php:S1192ì"HDefine a constant instead of duplicating this literal "normal" 17 times.(¢ª¹÷şÿÿÿÿ
+j	php:S1192©"ODefine a constant instead of duplicating this literal "um-admin-form-" 3 times.(ƒ¢éıÿÿÿÿ
+c	php:S1192"MDefine a constant instead of duplicating this literal "um_directory" 9 times.(¦¡ú
+_	php:S1192½"IDefine a constant instead of duplicating this literal "context" 11 times.(‚‹¡ò
+b	php:S1192‚"MDefine a constant instead of duplicating this literal "description" 18 times.(ƒïâb
+`	php:S1192š"JDefine a constant instead of duplicating this literal "selected" 10 times.(»ïßî
+_	php:S1192€"IDefine a constant instead of duplicating this literal "checkbox" 4 times.(¡Øú¤
+Jphp:S121‘"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+M	php:S1479×	"8Reduce the number of switch cases from 92 to at most 30.(òµß7
+j	php:S1192¼"TDefine a constant instead of duplicating this literal "_um_access_redirect" 8 times.(ä€´­
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+c	php:S1192¼"HDefine a constant instead of duplicating this literal "screen" 11 times.(ÑÎ•Îÿÿÿÿÿ
+m	php:S1192§"WDefine a constant instead of duplicating this literal "load_metabox_directory" 7 times.(¡Ç°¿
+~	php:S1448"iClass "Admin_Metabox" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(”ÇÎÎ
+J	php:S1172¨"/Remove the unused function parameter "$object".(ÍıË±úÿÿÿÿ
+o	php:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ßáî’øÿÿÿÿ
+e	php:S1192Œ"JDefine a constant instead of duplicating this literal "save_post" 4 times.(ˆŒ¸Ÿÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckÍ"Replace this <i> tag by <em>.(ë™‚¸úÿÿÿÿ
+	php:S1192»"fDefine a constant instead of duplicating this literal "um_admin_save_metabox_directory_nonce" 3 times.(Ôõ¦şûÿÿÿÿ
+ƒ	php:S1192"mDefine a constant instead of duplicating this literal "um_admin_save_metabox_restrict_content_nonce" 5 times.(ßï‰à
+p	php:S3776Ğ	"URefactor this function to reduce its Cognitive Complexity from 207 to the 15 allowed.(Ş´îÿÿÿÿÿ
+w	php:S1192´"\Define a constant instead of duplicating this literal "_um_restrict_custom_message" 6 times.(È÷Ø¬ùÿÿÿÿ
+c	php:S1192"MDefine a constant instead of duplicating this literal "conditional" 16 times.(ˆ„œ¢
+k	php:S1192†"PDefine a constant instead of duplicating this literal "_um_accessible" 12 times.(û‡½’úÿÿÿÿ
+q	php:S1192ÿ"[Define a constant instead of duplicating this literal "_um_custom_access_settings" 8 times.(ÉåĞú
+`	php:S1192¾"JDefine a constant instead of duplicating this literal "priority" 11 times.(À¯÷ö
+x	php:S1192Ğ"]Define a constant instead of duplicating this literal "_um_access_hide_from_queries" 6 times.(Ëõè‹şÿÿÿÿ
+„	php:S1192á"nDefine a constant instead of duplicating this literal "um_admin_save_taxonomy_restrict_content_nonce" 4 times.(´Ã¿Ğ
+DWeb:BoldAndItalicTagsCheck¯"Replace this <i> tag by <em>.(Áö¬ã
+d	php:S1192Œ"IDefine a constant instead of duplicating this literal "Everyone" 3 times.(ä×úÿÿÿÿ
+j	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ø¾Ó¾
+a	php:S1192¯"KDefine a constant instead of duplicating this literal "post_title" 8 times.(¨£ó´
+d	php:S1192‹"IDefine a constant instead of duplicating this literal "options" 10 times.(Ğšæøÿÿÿÿ
+]	php:S1192º"GDefine a constant instead of duplicating this literal "title" 15 times.(ˆ•…
+Jphp:S121"0Add curly braces around the nested statement(s).(Ÿ’—´şÿÿÿÿ
+E	php:S1172æ"/Remove the unused function parameter "$object".(£¸Õ»
+E	php:S1481Ğ"/Remove this unused "$field_key" local variable.(÷¦Êû
+•php:S138Ğ	"{This function "field_input" has 496 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ş´îÿÿÿÿÿ
+b	php:S1192ƒ"GDefine a constant instead of duplicating this literal "value" 17 times.(ÃÉ°×üÿÿÿÿ
+~	php:S1192Ä"cDefine a constant instead of duplicating this literal "um_admin_save_metabox_custom_nonce" 3 times.(×Ì®¥øÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck±"Replace this <i> tag by <em>.(ë™‚¸úÿÿÿÿ
+f	php:S1192—"KDefine a constant instead of duplicating this literal "form-field" 9 times.(íëÏúÿÿÿÿ
+s	php:S1192·"XDefine a constant instead of duplicating this literal "um_content_restriction" 18 times.(±ååßÿÿÿÿÿ
+d	php:S1192—"NDefine a constant instead of duplicating this literal "administrator" 3 times.(´ÊóÃ
+o	php:S1192Ğ"TDefine a constant instead of duplicating this literal "Customize this form" 3 times.(•¬ê˜ıÿÿÿÿ
+h	php:S1192Ì"RDefine a constant instead of duplicating this literal "load_metabox_form" 8 times.(…ìƒÍ
+]	php:S1192‡"GDefine a constant instead of duplicating this literal "select" 9 times.(Éå—Ä
+z	php:S1192¨"_Define a constant instead of duplicating this literal "_um_restrict_by_custom_message" 8 times.( øÀóşÿÿÿÿ
+E	php:S1172Š"/Remove the unused function parameter "$object".(›Èø§
+_	php:S1192í"IDefine a constant instead of duplicating this literal "default" 26 times.(Ù£éŞ
+DWeb:BoldAndItalicTagsCheckË"Replace this <i> tag by <em>.(Áö¬ã
+`	php:S1192»"JDefine a constant instead of duplicating this literal "callback" 11 times.(ÿ‘œÛ
+j	php:S1192‹"ODefine a constant instead of duplicating this literal "add_meta_boxes" 3 times.(ã¬şûÿÿÿÿ
+J	php:S1172X"0Remove the unused function parameter "$form_id".(îÊ¾×úÿÿÿÿ
+E	php:S1172Æ"/Remove the unused function parameter "$object".(×ÔÒì
+w	php:S1192ÿ"aDefine a constant instead of duplicating this literal "um_admin_save_metabox_form_nonce" 3 times.(Ç ‡õ
+4php:S125Ü"Remove this commented out code.(¶¸„ú
+–	php:S1192Ÿ"{Define a constant instead of duplicating this literal "Action when users without access tries to view the content" 4 times.(ú÷¡­ÿÿÿÿÿ
+m	php:S1192é"RDefine a constant instead of duplicating this literal "ultimate-member" 297 times.(³’›ˆûÿÿÿÿ
+Jphp:S121›"0Add curly braces around the nested statement(s).(öÏ‚Šÿÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÆ"Replace this <i> tag by <em>.(¥Ï±ô
+n	php:S1192È"XDefine a constant instead of duplicating this literal "_um_access_redirect_url" 6 times.(÷şº¥
+b	php:S1192"GDefine a constant instead of duplicating this literal "label" 18 times.(ò×ãıÿÿÿÿ
+p	php:S1192œ"UDefine a constant instead of duplicating this literal "_um_noaccess_action" 10 times.(§€½ûÿÿÿÿ
+b	php:S1192["HDefine a constant instead of duplicating this literal "metakey" 9 times.(£‘âùÿÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckª"Replace this <i> tag by <em>.(¥Ï±ô
+b	php:S1192Å"LDefine a constant instead of duplicating this literal "um_metadata" 3 times.(¨ëŸ
+\	php:S1192Ú"GDefine a constant instead of duplicating this literal "class" 11 times.(İŒ…e
+ephp:S101"QRename class "Admin_Metabox" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”ÇÎÎ
+€	php:S1192‚"kDefine a constant instead of duplicating this literal "Activate content restriction for this post" 6 times.(ƒïâb
+l	php:S1192“"QDefine a constant instead of duplicating this literal "_um_access_roles" 4 times.(å½£šøÿÿÿÿ
+_	php:S1192Š"IDefine a constant instead of duplicating this literal "um_form" 11 times.(Ùåí©
+G	php:S1172‹",Remove the unused function parameter "$box".(ÖÃ©Ûùÿÿÿÿ
+j	php:S1192Ñ"ODefine a constant instead of duplicating this literal "_um_is_default" 4 times.(ş‘˜ıÿÿÿÿ
+v	php:S1192·"`Define a constant instead of duplicating this literal "Changed global restrict message" 4 times.(´Š®å

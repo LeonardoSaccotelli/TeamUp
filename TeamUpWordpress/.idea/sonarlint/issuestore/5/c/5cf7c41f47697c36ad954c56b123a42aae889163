@@ -1,0 +1,19 @@
+
+l	php:S3973H"WUse curly braces or indentation to denote the code conditionally executed by this "if".(˜Ã±¦
+k	php:S3973Y"WUse curly braces or indentation to denote the code conditionally executed by this "if".(³çŞ9
+[	php:S1192i"FDefine a constant instead of duplicating this literal "2.5.0" 8 times.(Åˆ‡¾
+N	php:S1172«"3Remove the unused function parameter "$deprecated".(§”Ñ²úÿÿÿÿ
+l	php:S3973q"WUse curly braces or indentation to denote the code conditionally executed by this "if".(Š˜¡
+H	php:S1172Ì"2Remove the unused function parameter "$arguments".(Æ×ò´
+K	php:S1172h"1Remove the unused function parameter "$password".(Ã€†ùüÿÿÿÿ
+G	php:S1172h"-Remove the unused function parameter "$home".(Ã€†ùüÿÿÿÿ
+H	php:S1172È"2Remove the unused function parameter "$arguments".(º§ªÄ
+r	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(…ÖÉ‰ıÿÿÿÿ
+r	php:S3973•"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ú‚Ôïıÿÿÿÿ
+q	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¡ÌØ›ıÿÿÿÿ
+Jphp:S121±"0Add curly braces around the nested statement(s).(¥¯úÿÿÿÿ
+J	php:S1172h"0Remove the unused function parameter "$siteurl".(Ã€†ùüÿÿÿÿ
+l	php:S39737"WUse curly braces or indentation to denote the code conditionally executed by this "if".(šæì¬
+N	php:S1172h"4Remove the unused function parameter "$already_md5".(Ã€†ùüÿÿÿÿ
+gphp:S101Ç"RRename class "wp_atom_server" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ö­ìŞ
+q	php:S3973&"WUse curly braces or indentation to denote the code conditionally executed by this "if".(º¥çÙúÿÿÿÿ

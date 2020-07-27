@@ -1,0 +1,16 @@
+
+r	php:S4144Ì"\Update this method so that its implementation is not identical to "is_readable" on line 448.(Éìø
+\	php:S1192Á"FDefine a constant instead of duplicating this literal "isdir" 4 times.(±•›µ
+…	php:S1448"pClass "WP_Filesystem_FTPext" has 28 methods, which is greater than 20 authorized. Split it into smaller classes.(¨Ü©Å
+b	php:S1192Ú"GDefine a constant instead of duplicating this literal "islink" 4 times.(üÈ¥ùşÿÿÿÿ
+j	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÉîŞ«
+lphp:S101"XRename class "WP_Filesystem_FTPext" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¨Ü©Å
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "minute" 6 times.(šşÚñşÿÿÿÿ
+c	php:S11924"IDefine a constant instead of duplicating this literal "hostname" 6 times.(Èò¯‰şÿÿÿÿ
+o	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(²Ø‡Ÿûÿÿÿÿ
+=	php:S1481´"'Remove this unused "$k" local variable.(ƒÜƒÚ
+e	php:S1142ô"OReduce the number of returns of this function 4, down to the maximum allowed 3.(½ÚÍü
+\	php:S1192È"FDefine a constant instead of duplicating this literal "month" 5 times.(³ØêÙ
+9php:S125Ó"Remove this commented out code.(’Àíşÿÿÿÿ
+^	php:S1192;"IDefine a constant instead of duplicating this literal "username" 5 times.(äëµ
+^	php:S1192A"IDefine a constant instead of duplicating this literal "password" 4 times.(½›ß™

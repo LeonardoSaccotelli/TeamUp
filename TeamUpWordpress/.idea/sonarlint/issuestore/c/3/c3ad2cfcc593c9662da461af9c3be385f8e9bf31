@@ -1,0 +1,13 @@
+
+a	php:S1192\"GDefine a constant instead of duplicating this literal "verify" 4 times.(ŽßÜáýÿÿÿÿ
+c	php:S1192³"HDefine a constant instead of duplicating this literal "options" 3 times.(Æ™ì¥þÿÿÿÿ
+d	php:S1192ù"IDefine a constant instead of duplicating this literal "\r\n\r\n" 3 times.(íÙÛêøÿÿÿÿ
+e	php:S1192W"KDefine a constant instead of duplicating this literal "verifyname" 4 times.(›ÌÀ«ûÿÿÿÿ
+\	php:S1192;"GDefine a constant instead of duplicating this literal "hooks" 11 times.(Ê®„ý
+‹php:S138:"wThis function "request" has 184 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Þ ðä
+i	php:S3776:"TRefactor this function to reduce its Cognitive Complexity from 85 to the 15 allowed.(Þ ðä
+^	php:S1192Þ"HDefine a constant instead of duplicating this literal "timeout" 4 times.(÷®÷¿
+yphp:S101"`Rename class "Requests_Transport_fsockopen" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œ¸—™ýÿÿÿÿ
+\	php:S1192G"GDefine a constant instead of duplicating this literal "scheme" 4 times.(ôÈÝœ
+e	php:S1142©"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Öçåû
+a	php:S1192Ž"FDefine a constant instead of duplicating this literal "query" 8 times.(ÖÑÔªûÿÿÿÿ

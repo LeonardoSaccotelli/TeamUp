@@ -1,0 +1,6 @@
+
+qphp:S101	"XRename class "Files_Upload_Handler" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ºÙÐŠüÿÿÿÿ
+u	php:S14882"`Immediately return this expression instead of assigning it to the temporary variable "$enabled".(ÔÓËö
+i	php:S1142C"OReduce the number of returns of this function 4, down to the maximum allowed 3.(çä»ùûÿÿÿÿ
+t	php:S2761""_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(´çú“
+G	php:S1172t"-Remove the unused function parameter "$file".(˜Ãäëùÿÿÿÿ

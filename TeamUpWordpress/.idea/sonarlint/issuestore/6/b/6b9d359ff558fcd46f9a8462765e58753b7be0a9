@@ -1,0 +1,10 @@
+
+i	php:S1142J"OReduce the number of returns of this function 5, down to the maximum allowed 3.(²Á¡ÿÿÿÿÿ
+O	php:S1172±"4Remove the unused function parameter "$WP_Upgrader".(öºÏ­úÿÿÿÿ
+^	php:S1192]"IDefine a constant instead of duplicating this literal "template" 4 times.(ÎÊîİ
+i	php:S1192W"ODefine a constant instead of duplicating this literal "theme_version " 3 times.(İæ­Ëşÿÿÿÿ
+]	php:S1192X"HDefine a constant instead of duplicating this literal "Version" 4 times.(ìû–¸
+i	php:S1142z"OReduce the number of returns of this function 4, down to the maximum allowed 3.(–Ã·ºıÿÿÿÿ
+\	php:S1192]"GDefine a constant instead of duplicating this literal "themes" 5 times.(ÎÊîİ
+kphp:S101"WRename class "Admin_Theme_Updater" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ª“íª
+`	php:S1192¤"KDefine a constant instead of duplicating this literal "hook_extra" 3 times.(¼è¼k

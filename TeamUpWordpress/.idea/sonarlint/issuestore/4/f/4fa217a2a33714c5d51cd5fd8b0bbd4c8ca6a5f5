@@ -1,0 +1,7 @@
+
+b	php:S1192"MDefine a constant instead of duplicating this literal "display_name" 4 times.(Œƒ‚®
+R	php:S1172"8Remove the unused function parameter "$conversation_id".(à¬ÏÒøÿÿÿÿ
+R	php:S1172;"8Remove the unused function parameter "$conversation_id".(ø©â§þÿÿÿÿ
+3php:S125i"Remove this commented out code.(´¤™®
+D	php:S1066"/Merge this if statement with the enclosing one.(š™èµ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ýÿÿÿÿ

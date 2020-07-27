@@ -1,0 +1,19 @@
+
+[	php:S1192‚"FDefine a constant instead of duplicating this literal "ihost" 4 times.(­»¿
+z	php:S1488Ó"_Immediately return this expression instead of assigning it to the temporary variable "$return".(Ô‹»Üùÿÿÿÿ
+cphp:S127Œ"ORefactor the code to avoid updating the loop counter "$j" within the loop body.(˜å¤
+o	php:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ûí²•øÿÿÿÿ
+dphp:S127Ş"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(Ä± 
+`	php:S1192¥"JDefine a constant instead of duplicating this literal "ifragment" 3 times.(Í‰ª‹
+h	php:S1871È"MThis branch's code block is the same as the block for the branch on line 195.(¤è¬ğøÿÿÿÿ
+u	php:S1488š"_Immediately return this expression instead of assigning it to the temporary variable "$return".(Èùñ–
+dphp:S101B"PRename class "Requests_IRI" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ë¤»æ
+o	php:S3776€"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(«îñ¸ûÿÿÿÿ
+a	php:S1192£"FDefine a constant instead of duplicating this literal "ipath" 3 times.(ß¼”Šÿÿÿÿÿ
+}	php:S1448B"hClass "Requests_IRI" has 27 methods, which is greater than 20 authorized. Split it into smaller classes.(ë¤»æ
+e	php:S1192º"JDefine a constant instead of duplicating this literal "authority" 3 times.(ñßæúÿÿÿÿ
+b	php:S1192¤"GDefine a constant instead of duplicating this literal "iquery" 3 times.(›º®èıÿÿÿÿ
+pphp:S127á"VRefactor the code to avoid updating the loop counter "$position" within the loop body.(Í•ÓÕùÿÿÿÿ
+o	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(¿»Â’øÿÿÿÿ
+e	php:S1192¡"JDefine a constant instead of duplicating this literal "iuserinfo" 3 times.(Ã¤îõøÿÿÿÿ
+j	php:S1142€"OReduce the number of returns of this function 4, down to the maximum allowed 3.(«îñ¸ûÿÿÿÿ

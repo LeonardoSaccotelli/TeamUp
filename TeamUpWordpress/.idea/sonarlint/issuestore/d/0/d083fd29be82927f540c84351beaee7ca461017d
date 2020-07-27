@@ -1,0 +1,11 @@
+
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "selected" 3 times.(Æ¯»Õ
+a	php:S1192""LDefine a constant instead of duplicating this literal "user_field" 10 times.(­å«ø
+b	php:S1192!"HDefine a constant instead of duplicating this literal "term_id" 9 times.(š÷Úˆùÿÿÿÿ
+Z	php:S1192Q"FDefine a constant instead of duplicating this literal "count" 3 times.(ë ˆg
+pphp:S101"WRename class "um_user_tags_widget" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯¯‚Ïıÿÿÿÿ
+n	php:S3776;"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ïşóùÿÿÿÿ
+c	php:S1192"NDefine a constant instead of duplicating this literal "um-user-tags" 11 times.(Ä¤ÚØ
+b	php:S1192#"HDefine a constant instead of duplicating this literal "orderby" 9 times.(ôÖ¬Áüÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+\	php:S1192 "GDefine a constant instead of duplicating this literal "title" 10 times.(çÍ‘

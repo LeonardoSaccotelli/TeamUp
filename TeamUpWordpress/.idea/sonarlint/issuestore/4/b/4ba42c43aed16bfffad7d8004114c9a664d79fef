@@ -1,0 +1,94 @@
+
+j	php:S1142ü"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ÓŸíçúÿÿÿÿ
+E	php:S1066ä"/Merge this if statement with the enclosing one.(“åÖç
+h	php:S1192¢"RDefine a constant instead of duplicating this literal "E_USER_DEPRECATED" 5 times.(š†Ş†
+r	php:S1192à"WDefine a constant instead of duplicating this literal "atom_10_construct_type" 3 times.(´§Æ”ÿÿÿÿÿ
+J	php:S1066Ø"/Merge this if statement with the enclosing one.(Ïÿ‹àşÿÿÿÿ
+`	php:S1117˜
+"JRename "$cache" which has the same name as the field declared at line 525.(¸óñ“
+c	php:S1192¤"HDefine a constant instead of duplicating this literal "channel" 5 times.(èƒÀ¼ûÿÿÿÿ
+E	php:S1066Ú"/Merge this if statement with the enclosing one.(“åÖç
+E	php:S1066¶"/Merge this if statement with the enclosing one.(›°¨â
+e	php:S1192•"JDefine a constant instead of duplicating this literal "alternate" 7 times.(ßŠşÿÿÿÿ
+o	php:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(‹ë†©ıÿÿÿÿ
+j	php:S1142ë"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ĞÂ¤Æøÿÿÿÿ
+j	php:S1142Ü"OReduce the number of returns of this function 8, down to the maximum allowed 3.(¥‚ì‚ùÿÿÿÿ
+j	php:S1142¸"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ƒ˜ÏÊşÿÿÿÿ
+a	php:S1192ï
+"FDefine a constant instead of duplicating this literal "error" 4 times.(ª¬¦ ùÿÿÿÿ
+^	php:S1192¶"IDefine a constant instead of duplicating this literal "attribs" 25 times.(Ò«Ó8
+o	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(„ûÿÓüÿÿÿÿ
+k	php:S1142“"PReduce the number of returns of this function 10, down to the maximum allowed 3.(ôîŠ¡ıÿÿÿÿ
+j	php:S3776»"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ø©êı
+o	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(‡¿âôùÿÿÿÿ
+Qphp:S131¦"7Add a "case default" clause to this "switch" statement.(Ï÷ªĞùÿÿÿÿ
+j	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(ç“×ı
+c	php:S1301¾"MReplace this "switch" statement with "if" statements to increase readability.(Óà×Ã
+b	php:S1192Ş"GDefine a constant instead of duplicating this literal "title" 12 times.(ºî ¨úÿÿÿÿ
+Qphp:S131¸"7Add a "case default" clause to this "switch" statement.(°òÌ×úÿÿÿÿ
+J	php:S1066 "/Merge this if statement with the enclosing one.(Òéî³ûÿÿÿÿ
+{	php:S1448À"eClass "SimplePie" has 88 methods, which is greater than 20 authorized. Split it into smaller classes.(øŸŸå
+^	php:S1192ù"IDefine a constant instead of duplicating this literal "xml_lang" 6 times.(ŸØËn
+F	php:S1172–"+Remove the unused function parameter "$qs".(¡éŠÂşÿÿÿÿ
+_	php:S1192í"IDefine a constant instead of duplicating this literal "language" 3 times.(¬ğ›î
+d	php:S1117Ñ"IRename "$file" which has the same name as the field declared at line 488.(É·Õ“øÿÿÿÿ
+o	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.(Ì˜Ïšûÿÿÿÿ
+J	php:S1135í"4Complete the task associated to this "TODO" comment.(ı¼í¨
+E	php:S1066ì"/Merge this if statement with the enclosing one.(ıç¿»
+J	php:S1066–"/Merge this if statement with the enclosing one.(Òéî³ûÿÿÿÿ
+b	php:S1192ã"GDefine a constant instead of duplicating this literal "Author" 8 times.(²¿ÜËşÿÿÿÿ
+a	php:S1192¥"FDefine a constant instead of duplicating this literal "image" 6 times.(Êø³ãüÿÿÿÿ
+_	php:S1192ë"IDefine a constant instead of duplicating this literal "Category" 5 times.(µÁÈ²
+e	php:S1142¨"OReduce the number of returns of this function 4, down to the maximum allowed 3.(à˜ñÛ
+E	php:S1066Š"/Merge this if statement with the enclosing one.(É‡ÒÏ
+j	php:S1142…"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‡¿âôùÿÿÿÿ
+l	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(Û¢¤
+D	php:S1066¡"/Merge this if statement with the enclosing one.(üöÎ
+o	php:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(²åèŠúÿÿÿÿ
+E	php:S1066¨"/Merge this if statement with the enclosing one.(»†§
+h	php:S1192Á
+"MDefine a constant instead of duplicating this literal "content-type" 4 times.(ÌÕôŒÿÿÿÿÿ
+N	php:S1135\"4Complete the task associated to this "TODO" comment.(é½âòüÿÿÿÿ
+i	php:S1192Ã"NDefine a constant instead of duplicating this literal "last-modified" 3 times.(‘†—áüÿÿÿÿ
+]	php:S1192Ÿ
+"GDefine a constant instead of duplicating this literal "scheme" 3 times.(–ñ““
+D	php:S1066"/Merge this if statement with the enclosing one.(Ø¤
+J	php:S1066¯"/Merge this if statement with the enclosing one.(°¹ïêşÿÿÿÿ
+d	php:S1192É"NDefine a constant instead of duplicating this literal "ordered_items" 7 times.(á€›
+\	php:S1192›	"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ø€¢
+J	php:S1066â"/Merge this if statement with the enclosing one.(äğéÅıÿÿÿÿ
+I	php:S1135î"4Complete the task associated to this "TODO" comment.(›©€g
+E	php:S1066î"/Merge this if statement with the enclosing one.(“åÖç
+b	php:S1192"LDefine a constant instead of duplicating this literal "description" 5 times.(âß©
+j	php:S1142™"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ì˜Ïšûÿÿÿÿ
+R	php:S1155è"7Use empty() to check whether the array is empty or not.(î°íØıÿÿÿÿ
+J	php:S1066”"/Merge this if statement with the enclosing one.(²¾Ÿ©şÿÿÿÿ
+a	php:S1192÷
+"FDefine a constant instead of duplicating this literal "build" 4 times.(Š×—øÿÿÿÿ
+b	php:S1192ô"GDefine a constant instead of duplicating this literal "author" 3 times.(ÿÒµˆüÿÿÿÿ
+H	php:S1172¶"-Remove the unused function parameter "$args".(Š±¼”øÿÿÿÿ
+Lphp:S131¾"7Add a "case default" clause to this "switch" statement.(Óà×Ã
+b	php:S1192Á"GDefine a constant instead of duplicating this literal "items" 15 times.(‹İİôùÿÿÿÿ
+b	php:S1192½"GDefine a constant instead of duplicating this literal "links" 22 times.(íƒ”Ñûÿÿÿÿ
+d	php:S1192¯"IDefine a constant instead of duplicating this literal "feed_url" 4 times.(€Íø•ûÿÿÿÿ
+e	php:S1142Ú	"OReduce the number of returns of this function 9, down to the maximum allowed 3.(šæï
+m	php:S1192ä"WDefine a constant instead of duplicating this literal "atom_03_construct_type" 3 times.(‘äøü
+o	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(×¸±Éüÿÿÿÿ
+b	php:S1192š"GDefine a constant instead of duplicating this literal "child" 88 times.(ÄÁ¤úÿÿÿÿ
+H	php:S1172–"-Remove the unused function parameter "$page".(¡éŠÂşÿÿÿÿ
+d	php:S1117Ç"IRename "$file" which has the same name as the field declared at line 488.(¥„Çüÿÿÿÿ
+J	php:S1066Œ"/Merge this if statement with the enclosing one.(Òéî³ûÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "email" 8 times.(ïØ×Ò
+Iphp:S121"0Add curly braces around the nested statement(s).(‡Å³şÿÿÿÿ
+]	php:S1192É"GDefine a constant instead of duplicating this literal "rights" 3 times.(Ñ¶ûî
+i	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ìîŞ
+^	php:S1192õ
+"HDefine a constant instead of duplicating this literal "headers" 9 times.(ÑØÖ–
+j	php:S1142œ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(œı‚¹úÿÿÿÿ
+j	php:S1142Ì"OReduce the number of returns of this function 5, down to the maximum allowed 3.(×¸±Éüÿÿÿÿ
+\	php:S1192³"FDefine a constant instead of duplicating this literal "Cache" 4 times.(…Å¿
+J	php:S1066Ñ"/Merge this if statement with the enclosing one.(ËŒ¼½øÿÿÿÿ
+O	php:S1135ì"4Complete the task associated to this "TODO" comment.(¤Ã·‰ÿÿÿÿÿ
+e	php:S1142Ç"OReduce the number of returns of this function 6, down to the maximum allowed 3.(àÊì’
+j	php:S3776Ú	"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(šæï
+j	php:S1142Õ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Úí—ªùÿÿÿÿ

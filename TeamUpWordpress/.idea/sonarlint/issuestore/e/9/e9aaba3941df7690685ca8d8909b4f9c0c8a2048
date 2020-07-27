@@ -1,0 +1,9 @@
+
+d	php:S1192i"ODefine a constant instead of duplicating this literal "__return_false" 3 times.(ñ©”¤
+h	php:S11922"SDefine a constant instead of duplicating this literal "wp_initialize_site" 4 times.(ÍƒŠ
+z	php:S11929"`Define a constant instead of duplicating this literal "wp_cache_set_sites_last_changed" 3 times.(„€›ºşÿÿÿÿ
+s	php:S1192w"YDefine a constant instead of duplicating this literal "clean_site_details_cache" 4 times.(§±¿ÿÿÿÿÿ
+i	php:S1192-"ODefine a constant instead of duplicating this literal "wp_update_site" 3 times.(ô³Ñÿÿÿÿÿÿ
+ƒ	php:S1192,"nDefine a constant instead of duplicating this literal "wp_maybe_update_network_site_counts_on_update" 3 times.( È‹
+	php:S1192<"eDefine a constant instead of duplicating this literal "wp_check_site_meta_support_prefilter" 8 times.(ƒ–¼šùÿÿÿÿ
+y	php:S1192"_Define a constant instead of duplicating this literal "wp_send_new_user_notifications" 3 times.(É‰©ƒúÿÿÿÿ

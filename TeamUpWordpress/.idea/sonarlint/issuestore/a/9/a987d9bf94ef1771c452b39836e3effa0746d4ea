@@ -1,0 +1,28 @@
+
+b	php:S11920"HDefine a constant instead of duplicating this literal "enabled" 5 times.(ÊºÑÍøÿÿÿÿ
+a	php:S11920"GDefine a constant instead of duplicating this literal "search" 6 times.(ÊºÑÍøÿÿÿÿ
+j	php:S1142Å"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¹ù…Şüÿÿÿÿ
+c	php:S1192v"NDefine a constant instead of duplicating this literal "update_themes" 3 times.(ÃÁ©
+g	php:S1192/"MDefine a constant instead of duplicating this literal "theme_status" 4 times.(ôòªÉúÿÿÿÿ
+b	php:S1192Ç"GDefine a constant instead of duplicating this literal "action" 3 times.(ˆŒé²üÿÿÿÿ
+a	php:S1192È"FDefine a constant instead of duplicating this literal "theme" 3 times.(ˆÏÛ£ıÿÿÿÿ
+a	php:S1192É"FDefine a constant instead of duplicating this literal "</td>" 3 times.(¼¢î­ûÿÿÿÿ
+^	php:S1192¼"HDefine a constant instead of duplicating this literal "disable" 3 times.(ßîˆ‡
+j	php:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Æßş·
+H	php:S1481¡"-Remove this unused "$primary" local variable.(ÇÕşÿÿÿÿÿ
+c	php:S11920"IDefine a constant instead of duplicating this literal "disabled" 5 times.(ÊºÑÍøÿÿÿÿ
+]	php:S1192Ë"GDefine a constant instead of duplicating this literal "Author" 3 times.(‰¯ŠÑ
+ophp:S101"[Rename class "WP_MS_Themes_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñâö
+o	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(÷¶›øøÿÿÿÿ
+a	php:S1192*"GDefine a constant instead of duplicating this literal "themes" 7 times.(Ô€‡¸şÿÿÿÿ
+n	php:S3776X"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÂŞû©úÿÿÿÿ
+b	php:S11920"HDefine a constant instead of duplicating this literal "upgrade" 6 times.(ÊºÑÍøÿÿÿÿ
+I	php:S1481¡".Remove this unused "$sortable" local variable.(ÇÕşÿÿÿÿÿ
+]	php:S1192»"GDefine a constant instead of duplicating this literal "enable" 3 times.(âÀïø
+\	php:S1192+"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+a	php:S11920"GDefine a constant instead of duplicating this literal "broken" 5 times.(ÊºÑÍøÿÿÿÿ
+N	php:S1135A"4Complete the task associated to this "TODO" comment.(—‹Ú‹øÿÿÿÿ
+]	php:S1192s"HDefine a constant instead of duplicating this literal "network" 5 times.(á±Éı
+b	php:S1192Ë"LDefine a constant instead of duplicating this literal "Description" 3 times.(‰¯ŠÑ
+Qphp:S131­"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+a	php:S1192É"FDefine a constant instead of duplicating this literal "paged" 3 times.(¦¯·àùÿÿÿÿ

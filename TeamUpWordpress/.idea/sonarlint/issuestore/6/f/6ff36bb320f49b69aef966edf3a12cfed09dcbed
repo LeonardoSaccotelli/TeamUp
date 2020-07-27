@@ -1,0 +1,4 @@
+
+E	php:S1481r"0Remove this unused "$json_value" local variable.(ùÿô
+a	php:S11928"GDefine a constant instead of duplicating this literal "WP_CLI" 3 times.(â“”úÿÿÿÿ
+yphp:S101"fRename class "Astra_Sites_Batch_Processing_Brizy" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(İ ª

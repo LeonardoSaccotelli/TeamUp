@@ -1,0 +1,105 @@
+
+J	php:S3801Ö
+"4Refactor this function to use "return" consistently.(’ü³Ö
+e	php:S1142¢"OReduce the number of returns of this function 4, down to the maximum allowed 3.(—®Î
+g	php:S1192¨"LDefine a constant instead of duplicating this literal "text/x-diff" 3 times.(ÏÖºƒùÿÿÿÿ
+\	php:S1192ì"FDefine a constant instead of duplicating this literal "paged" 3 times.(¦¹ÒÇ
+e	php:S1192—"JDefine a constant instead of duplicating this literal "matchTags" 3 times.(¾ı¥ãøÿÿÿÿ
+o	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(©•›ùÿÿÿÿ
+x	php:S1192†"]Define a constant instead of duplicating this literal "<link rel="alternate" type="" 3 times.(²±˜Âÿÿÿÿÿ
+_	php:S1192¢"IDefine a constant instead of duplicating this literal "htmlhint" 4 times.(¶ä†
+J	php:S3801¢"4Refactor this function to use "return" consistently.(—®Î
+b	php:S1192"GDefine a constant instead of duplicating this literal "\n\t\t" 7 times.(ÁÇ‹…ûÿÿÿÿ
+c	php:S1192«"HDefine a constant instead of duplicating this literal "tinymce" 3 times.(˜¯¦Ïüÿÿÿÿ
+h	php:S1192„ "SDefine a constant instead of duplicating this literal "before_page_number" 3 times.(Öêö,
+j	php:S1142Ã"OReduce the number of returns of this function 4, down to the maximum allowed 3.(²Ğƒıûÿÿÿÿ
+i	php:S1192Ç!"SDefine a constant instead of duplicating this literal "admin color scheme" 8 times.(ÆóÁ¸
+c	php:S1192Î"HDefine a constant instead of duplicating this literal "form_id" 3 times.(òîŸúÿÿÿÿ
+O	php:S3801”"4Refactor this function to use "return" consistently.(ÁÀÔğÿÿÿÿÿ
+j	php:S1192Å "ODefine a constant instead of duplicating this literal "paginate_links" 3 times.(£’ÄÒÿÿÿÿÿ
+d	php:S1192Í"IDefine a constant instead of duplicating this literal "modified" 3 times.(ÿÇ¶ÿşÿÿÿÿ
+b	php:S1192"LDefine a constant instead of duplicating this literal "date_format" 5 times.(ùíúÏ
+Qphp:S131–"7Add a "case default" clause to this "switch" statement.(öó–¼ÿÿÿÿÿ
+c	php:S1192ï"HDefine a constant instead of duplicating this literal "&nbsp;(" 4 times.(‰èùùÿÿÿÿ
+?	php:S1481")Remove this unused "$key" local variable.(Ù ‚ 
+d	php:S1192‚ "IDefine a constant instead of duplicating this literal "add_args" 6 times.(¼ÑÅ¿ÿÿÿÿÿ
+j	php:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ûŞ¾Ò
+`	php:S1192"JDefine a constant instead of duplicating this literal "html_type" 4 times.(èõ
+c	php:S1192˜"HDefine a constant instead of duplicating this literal "monthly" 3 times.(›²¢Öúÿÿÿÿ
+}	php:S4144‘"bUpdate this method so that its implementation is not identical to "single_cat_title" on line 1408.(ı¢©‹şÿÿÿÿ
+^	php:S1192š"HDefine a constant instead of duplicating this literal "format" 11 times.(·ÇÕ·
+Qphp:S131ì#"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+o	php:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(È¤ìÂúÿÿÿÿ
+™php:S138”"This function "wp_get_archives" has 184 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÁÀÔğÿÿÿÿÿ
+d	php:S1192©	"IDefine a constant instead of duplicating this literal "monthnum" 6 times.(÷Å»¤şÿÿÿÿ
+b	php:S1192š"LDefine a constant instead of duplicating this literal "text/x-less" 3 times.(Ó‘üË
+i	php:S1192…"NDefine a constant instead of duplicating this literal "matchBrackets" 6 times.(şÒ–ìúÿÿÿÿ
+o	php:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ˆÑ¶€ûÿÿÿÿ
+b	php:S1192™"LDefine a constant instead of duplicating this literal "text/x-scss" 3 times.(óïÇÿ
+o	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ª€›’ûÿÿÿÿ
+d	php:S1192û"IDefine a constant instead of duplicating this literal "show_all" 3 times.(¿Šİµıÿÿÿÿ
+Lphp:S131Ø#"7Add a "case default" clause to this "switch" statement.(­Øâ
+f	php:S1192©"KDefine a constant instead of duplicating this literal "javascript" 3 times.(œë¬ıÿÿÿÿ
+b	php:S1192¤"GDefine a constant instead of duplicating this literal "jshint" 4 times.(‘¬ûÀøÿÿÿÿ
+d	php:S1192˜"IDefine a constant instead of duplicating this literal "text/css" 3 times.(ÇÏúúÿÿÿÿ
+i	php:S1192–"NDefine a constant instead of duplicating this literal "autoCloseTags" 3 times.(¸ìÇÍúÿÿÿÿ
+_	php:S3358™"DExtract this nested ternary operation into an independent statement.(Üğƒşÿÿÿÿ
+_	php:S1192ü"JDefine a constant instead of duplicating this literal "prev_next" 3 times.(¥İt
+]	php:S1192œ"GDefine a constant instead of duplicating this literal "after" 14 times.(õ•›É
+[	php:S1192ó"FDefine a constant instead of duplicating this literal "xhtml" 4 times.(©ÊóE
+c	php:S1192›"HDefine a constant instead of duplicating this literal "csslint" 4 times.(îŒÃõøÿÿÿÿ
+J	php:S3801Ğ#"4Refactor this function to use "return" consistently.(¶“Ğ
+c	php:S1192ƒ "MDefine a constant instead of duplicating this literal "add_fragment" 4 times.(•÷ªê
+g	php:S1192„"RDefine a constant instead of duplicating this literal "autoCloseBrackets" 8 times.(â™¸f
+h	php:S1192“"MDefine a constant instead of duplicating this literal "get_calendar" 7 times.(È·‚îÿÿÿÿÿ
+–php:S138"|This function "get_calendar" has 166 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ê¿¹ÿÿÿÿÿ
+b	php:S1192å"LDefine a constant instead of duplicating this literal "redirect_to" 3 times.(Í»¸‹
+j	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(½©É
+d	php:S1192†"IDefine a constant instead of duplicating this literal "" href="" 3 times.(²±˜Âÿÿÿÿÿ
+m	php:S1192… "RDefine a constant instead of duplicating this literal "after_page_number" 3 times.(©“üéüÿÿÿÿ
+g	php:S1192Ö"LDefine a constant instead of duplicating this literal "description" 3 times.(ÜÑ®Öıÿÿÿÿ
+e	php:S1192†"JDefine a constant instead of duplicating this literal "" title="" 3 times.(²±˜Âÿÿÿÿÿ
+g	php:S1192Ô"LDefine a constant instead of duplicating this literal "id_password" 3 times.(Ã»¼›üÿÿÿÿ
+j	php:S3776¤	"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(µÙŞ–
+j	php:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(öÏÖı
+`	php:S1192Ä"JDefine a constant instead of duplicating this literal "<a href="" 4 times.(¬–‰‘
+[	php:S1192ó"FDefine a constant instead of duplicating this literal "html5" 3 times.(©ÊóE
+¦php:S138Ú"‹This function "wp_get_code_editor_settings" has 302 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ˆÑ¶€ûÿÿÿÿ
+h	php:S1192ô"MDefine a constant instead of duplicating this literal "dns-prefetch" 3 times.(ä—à´ÿÿÿÿÿ
+d	php:S1192˜"IDefine a constant instead of duplicating this literal "bothTags" 3 times.(ãğ·áùÿÿÿÿ
+\	php:S1192Ì!"FDefine a constant instead of duplicating this literal "focus" 8 times.(ªÓö
+f	php:S1192·	"KDefine a constant instead of duplicating this literal "post_type" 20 times.(¥Í¬£úÿÿÿÿ
+a	php:S1192å"KDefine a constant instead of duplicating this literal "aria_label" 4 times.(Šö¿¤
+`	php:S1192"JDefine a constant instead of duplicating this literal "text/html" 5 times.(¾­©í
+b	php:S1192Ø"GDefine a constant instead of duplicating this literal "posts" 11 times.(¾ôòÙşÿÿÿÿ
+b	php:S1192Ó"LDefine a constant instead of duplicating this literal "id_username" 3 times.(è±·‰
+n	php:S1192 "XDefine a constant instead of duplicating this literal "application/x-httpd-php" 3 times.(´œìÑ
+f	php:S1192"PDefine a constant instead of duplicating this literal "show_post_count" 5 times.(¨È³ñ
+J	php:S3801ã"4Refactor this function to use "return" consistently.(ûŞ¾Ò
+b	php:S1192›"GDefine a constant instead of duplicating this literal "before" 6 times.(ÆÚêĞùÿÿÿÿ
+j	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ê¿¹ÿÿÿÿÿ
+]	php:S1192 "GDefine a constant instead of duplicating this literal "is_rtl" 3 times.(êÓâ
+^	php:S1192"HDefine a constant instead of duplicating this literal "display" 6 times.(› ¦ 
+_	php:S1192„"IDefine a constant instead of duplicating this literal "version" 11 times.(²Óœ¨
+p	php:S3776”"URefactor this function to reduce its Cognitive Complexity from 101 to the 15 allowed.(ÁÀÔğÿÿÿÿÿ
+a	php:S1192™"FDefine a constant instead of duplicating this literal "limit" 7 times.(¼°ß±øÿÿÿÿ
+c	php:S1192¬"MDefine a constant instead of duplicating this literal "post_format" 10 times.(±§¬—
+j	php:S1192è"ODefine a constant instead of duplicating this literal "findPersistent" 3 times.(ğÚÒ†üÿÿÿÿ
+O	php:S3801"4Refactor this function to use "return" consistently.(ê¿¹ÿÿÿÿÿ
+o	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Öèòúÿÿÿÿ
+a	php:S1192è"FDefine a constant instead of duplicating this literal "login" 4 times.(ÁïŞ­şÿÿÿÿ
+O	php:S3801³
+"4Refactor this function to use "return" consistently.(º‰ôÿÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ê¿¹ÿÿÿÿÿ
+g	php:S1192†"LDefine a constant instead of duplicating this literal "codemirror" 37 times.(‘²˜æıÿÿÿÿ
+_	php:S1192ù"IDefine a constant instead of duplicating this literal "current" 10 times.(—ãÈ
+a	php:S1192õ"KDefine a constant instead of duplicating this literal "preconnect" 3 times.(•‚éœ
+y	php:S1488ö"^Immediately return this expression instead of assigning it to the temporary variable "$title".(×“ÎŞøÿÿÿÿ
+]	php:S1192™"GDefine a constant instead of duplicating this literal "title" 12 times.(¹÷¿â
+^	php:S1192¤	"HDefine a constant instead of duplicating this literal "&raquo;" 3 times.(µÙŞ–
+g	php:S1192Š"LDefine a constant instead of duplicating this literal "code-editor" 3 times.(ºÇüòûÿÿÿÿ
+d	php:S1192“"IDefine a constant instead of duplicating this literal "calendar" 4 times.(È·‚îÿÿÿÿÿ
+j	php:S3776À"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÖÓæü
+f	php:S1192õ"KDefine a constant instead of duplicating this literal "separator" 11 times.(¼»êøÿÿÿÿ
+p	php:S1192®"ZDefine a constant instead of duplicating this literal "post format archive title" 9 times.(»¯Æ
+a	php:S1192‹"FDefine a constant instead of duplicating this literal "local" 3 times.(Ê‚Â×ıÿÿÿÿ

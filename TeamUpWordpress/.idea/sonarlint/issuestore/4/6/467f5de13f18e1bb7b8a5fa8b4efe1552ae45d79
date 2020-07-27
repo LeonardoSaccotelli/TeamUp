@@ -1,0 +1,22 @@
+
+f	php:S1192Ï"KDefine a constant instead of duplicating this literal "preview_id" 4 times.(ğè¯–øÿÿÿÿ
+j	php:S1142¬"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ŞÀ¦åıÿÿÿÿ
+j	php:S1142†"OReduce the number of returns of this function 4, down to the maximum allowed 3.(³éùüÿÿÿÿ
+j	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(£××–
+f	php:S1192;"LDefine a constant instead of duplicating this literal "post_status" 3 times.(ŠŞÛıüÿÿÿÿ
+f	php:S1192;"LDefine a constant instead of duplicating this literal "post_parent" 4 times.(ŠŞÛıüÿÿÿÿ
+c	php:S1192í"NDefine a constant instead of duplicating this literal "check_enabled" 3 times.(âØÿ
+d	php:S1192;"JDefine a constant instead of duplicating this literal "post_name" 4 times.(ŠŞÛıüÿÿÿÿ
+a	php:S1192ë"LDefine a constant instead of duplicating this literal "post_format" 5 times.(¯Íì{
+e	php:S1142Ü"OReduce the number of returns of this function 6, down to the maximum allowed 3.(´ÿ‰›
+M	php:S1172"3Remove the unused function parameter "$deprecated".(Ò–Üüÿÿÿÿ
+e	php:S1142Ô"OReduce the number of returns of this function 4, down to the maximum allowed 3.(»Ñ™ç
+c	php:S1192\"IDefine a constant instead of duplicating this literal "revision" 6 times.(Æ™Õ«ıÿÿÿÿ
+j	php:S1142ı"OReduce the number of returns of this function 4, down to the maximum allowed 3.(äù¨ıÿÿÿÿ
+}	php:S1488ë"bImmediately return this expression instead of assigning it to the temporary variable "$_revision".(Ğœ“ùÿÿÿÿ
+c	php:S1192Œ"NDefine a constant instead of duplicating this literal "_thumbnail_id" 3 times.(³«†j
+x	php:S1488è"bImmediately return this expression instead of assigning it to the temporary variable "$_revision".(ÿ¼À
+i	php:S1142o"OReduce the number of returns of this function 9, down to the maximum allowed 3.(Óª®ıÿÿÿÿ
+n	php:S3776o"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Óª®ıÿÿÿÿ
+N	php:S3801o"4Refactor this function to use "return" consistently.(Óª®ıÿÿÿÿ
+d	php:S1192;"JDefine a constant instead of duplicating this literal "post_type" 6 times.(ŠŞÛıüÿÿÿÿ

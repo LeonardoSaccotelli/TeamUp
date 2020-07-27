@@ -1,0 +1,8 @@
+
+b	php:S1192"NDefine a constant instead of duplicating this literal "attachment_id" 3 times.(¼ˆ±D
+]	php:S1192%"HDefine a constant instead of duplicating this literal "message" 4 times.(ŒûŠÙ
+Pphp:S131j"7Add a "case default" clause to this "switch" statement.(‹ëÏõùÿÿÿÿ
+`	php:S1192"KDefine a constant instead of duplicating this literal "upload.php" 7 times.(ÁãÏ
+g	php:S1301j"MReplace this "switch" statement with "if" statements to increase readability.(‹ëÏõùÿÿÿÿ
+b	php:S1192("HDefine a constant instead of duplicating this literal "updated" 3 times.(¯ğÕåıÿÿÿÿ
+I	php:S1066 "/Merge this if statement with the enclosing one.(—¦ıöÿÿÿÿÿ

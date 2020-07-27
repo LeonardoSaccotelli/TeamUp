@@ -1,0 +1,100 @@
+
+k	php:S3776ˆ"URefactor this function to reduce its Cognitive Complexity from 133 to the 15 allowed.(‰öòŸ
+h	php:S1192î"MDefine a constant instead of duplicating this literal "post_content" 4 times.(Üîä®ûÿÿÿÿ
+h	php:S1192ï"MDefine a constant instead of duplicating this literal "post_excerpt" 4 times.(Ç¼ğ™úÿÿÿÿ
+b	php:S1192Ã"LDefine a constant instead of duplicating this literal "description" 5 times.(Èæ’
+d	php:S1142Ï"OReduce the number of returns of this function 6, down to the maximum allowed 3.(½úf
+h	php:S1192î"MDefine a constant instead of duplicating this literal "capabilities" 3 times.(ÀÑäŞúÿÿÿÿ
+j	php:S1142§"OReduce the number of returns of this function 4, down to the maximum allowed 3.(İå±Ëşÿÿÿÿ
+b	php:S1192ø"GDefine a constant instead of duplicating this literal "unique" 3 times.(·îöıÿÿÿÿ
+i	php:S1192ó"NDefine a constant instead of duplicating this literal "post_modified" 3 times.(­²Ğöÿÿÿÿÿ
+c	php:S1192õ"HDefine a constant instead of duplicating this literal "primary" 3 times.(·ó¨‚ùÿÿÿÿ
+d	php:S1192Ş"IDefine a constant instead of duplicating this literal "meta_key" 3 times.(¬êÔ®ÿÿÿÿÿ
+J	php:S1066ó"/Merge this if statement with the enclosing one.(è–™Öúÿÿÿÿ
+a	php:S1192¡"KDefine a constant instead of duplicating this literal "index_type" 4 times.(¡«›æ
+I	php:S1172Ø"3Remove the unused function parameter "$blog_title".(·‹„÷
+˜php:S138š"ƒThis function "wp_install_defaults" has 305 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(—ãßK
+c	php:S1192÷"HDefine a constant instead of duplicating this literal "to_ping" 3 times.(‡€¥òøÿÿÿÿ
+b	php:S1192È"GDefine a constant instead of duplicating this literal "length" 4 times.(Ö—Åıÿÿÿÿ
+O	php:S3801„"4Refactor this function to use "return" consistently.(ı€­íùÿÿÿÿ
+J	php:S1066í"/Merge this if statement with the enclosing one.(©À»Òøÿÿÿÿ
+g	php:S1134‚	"LTake the required action to fix the issue indicated by this "FIXME" comment.(÷îã¤ÿÿÿÿÿ
+s	php:S1192Ö"]Define a constant instead of duplicating this literal "</p>\n<!-- /wp:paragraph -->" 3 times.(˜Ä”Ò
+j	php:S1192Ö"ODefine a constant instead of duplicating this literal "sitecategories" 4 times.(´…±Åúÿÿÿÿ
+^	php:S1192¸"HDefine a constant instead of duplicating this literal "term_id" 5 times.(òÜ®›
+b	php:S1192G"HDefine a constant instead of duplicating this literal "siteurl" 8 times.(ÙîÖŒıÿÿÿÿ
+a	php:S1192«"FDefine a constant instead of duplicating this literal "mysql" 3 times.(¤Óàšıÿÿÿÿ
+d	php:S1142ş"OReduce the number of returns of this function 5, down to the maximum allowed 3.(…ÍÖ-
+e	php:S1192Ô"JDefine a constant instead of duplicating this literal "post_type" 3 times.(ÂÀôïùÿÿÿÿ
+o	php:S3776„"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ı€­íùÿÿÿÿ
+g	php:S1192ë"LDefine a constant instead of duplicating this literal "post_author" 3 times.(‚š‰»üÿÿÿÿ
+j	php:S1192—"ODefine a constant instead of duplicating this literal "active_plugins" 4 times.(¦”¯üÿÿÿÿ
+d	php:S1192Â"IDefine a constant instead of duplicating this literal "taxonomy" 4 times.(è²Óıÿÿÿÿ
+e	php:S1192ò"JDefine a constant instead of duplicating this literal "post_name" 4 times.(ú¯³£úÿÿÿÿ
+O	php:S1135æ"4Complete the task associated to this "TODO" comment.(ë®¶şÿÿÿÿ
+b	php:S1192Ä"GDefine a constant instead of duplicating this literal "parent" 4 times.(³æÊÓùÿÿÿÿ
+c	php:S1301Æ"MReplace this "switch" statement with "if" statements to increase readability.(á­Ä¶
+d	php:S1871İ"NThis branch's code block is the same as the block for the branch on line 1753.(¹¤™
+J	php:S1066û"/Merge this if statement with the enclosing one.(”Õç‹şÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÂÊí
+_	php:S1192€"JDefine a constant instead of duplicating this literal "object_id" 4 times.(û“‘B
+m	php:S1192–"RDefine a constant instead of duplicating this literal "uninstall_plugins" 5 times.(¬€ù€şÿÿÿÿ
+d	php:S1192Â"IDefine a constant instead of duplicating this literal "category" 5 times.(è²Óıÿÿÿÿ
+o	php:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(ó€¯äıÿÿÿÿ
+a	php:S1192í"KDefine a constant instead of duplicating this literal "user_level" 4 times.(ùáÆ¿
+j	php:S3776¼	"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(»ìÀ
+e	php:S1142Ã"OReduce the number of returns of this function 4, down to the maximum allowed 3.(åõæ
+g	php:S1192Î"QDefine a constant instead of duplicating this literal "sidebars_widgets" 3 times.(¼Õ‹«
+a	php:S1192¤	"KDefine a constant instead of duplicating this literal "attachment" 3 times.(àŒÇ¥
+i	php:S1192Ÿ"NDefine a constant instead of duplicating this literal "link_category" 4 times.(ú·êŸşÿÿÿÿ
+`	php:S1192´"JDefine a constant instead of duplicating this literal "index.php" 4 times.(æ·Ú’
+J	php:S1481Ø"/Remove this unused "$widget_id" local variable.(¢±©üÿÿÿÿ
+Œphp:S138ˆ"wThis function "dbDelta" has 225 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‰öòŸ
+O	php:S1135ë"4Complete the task associated to this "TODO" comment.(ë®¶şÿÿÿÿ
+o	php:S3776²"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(éŠ›¯ùÿÿÿÿ
+j	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(¨Ìİ³
+k	php:S1192"PDefine a constant instead of duplicating this literal "comment_content" 3 times.(İ»¦šøÿÿÿÿ
+g	php:S1192ª"RDefine a constant instead of duplicating this literal "category_nicename" 3 times.(èà“<
+J	php:S1066Í"/Merge this if statement with the enclosing one.(ÖŠÈ úÿÿÿÿ
+O	php:S1135±"4Complete the task associated to this "TODO" comment.(±çô»ÿÿÿÿÿ
+o	php:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ğ¢¶øÿÿÿÿ
+c	php:S1192˜"MDefine a constant instead of duplicating this literal "_multiwidget" 6 times.(ìÃ•‹
+d	php:S1192Û"NDefine a constant instead of duplicating this literal "array_version" 7 times.(µ£ÑŒ
+v	php:S1488ó"`Immediately return this expression instead of assigning it to the temporary variable "$content".(ö«ıÖ
+`	php:S1192ì"JDefine a constant instead of duplicating this literal "post_date" 3 times.(Æ½ù¯
+Lphp:S131Æ"7Add a "case default" clause to this "switch" statement.(á­Ä¶
+h	php:S1192ô"RDefine a constant instead of duplicating this literal "post_modified_gmt" 3 times.(ÅÒÜÆ
+E	php:S1066ş"/Merge this if statement with the enclosing one.(³ğ³
+f	php:S1192ğ"KDefine a constant instead of duplicating this literal "post_title" 4 times.(Úö´¦øÿÿÿÿ
+s	php:S1192ş"XDefine a constant instead of duplicating this literal "active_sitewide_plugins" 4 times.(Ñ“˜‹üÿÿÿÿ
+^	php:S1192İ"HDefine a constant instead of duplicating this literal "post_id" 3 times.(ÂÄ¶İ
+\	php:S1192ø"GDefine a constant instead of duplicating this literal "pinged" 3 times.(±°×I
+j	php:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(äà§
+E	php:S1066¥"/Merge this if statement with the enclosing one.(˜üÌ™
+J	php:S1066ù"/Merge this if statement with the enclosing one.(„ş÷öøÿÿÿÿ
+i	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(—ãßK
+J	php:S1135ñ"4Complete the task associated to this "TODO" comment.(šÀ„Ü
+Lphp:S131ó"7Add a "case default" clause to this "switch" statement.(É­„À
+q	php:S1192£"VDefine a constant instead of duplicating this literal "DROP TABLE IF EXISTS " 8 times.(‘îôòùÿÿÿÿ
+o	php:S3776ğ	"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(İÎ‹ûüÿÿÿÿ
+^	php:S1192Ê"IDefine a constant instead of duplicating this literal "template" 3 times.(ñ³Š.
+b	php:S1192©"GDefine a constant instead of duplicating this literal "global" 5 times.(¡¬ªåüÿÿÿÿ
+o	php:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(ì½öŒùÿÿÿÿ
+\	php:S1192B"GDefine a constant instead of duplicating this literal "WPLANG" 5 times.(™üû
+J	php:S1066•"/Merge this if statement with the enclosing one.(ÔÚÒıÿÿÿÿ
+o	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(İå±Ëşÿÿÿÿ
+q	php:S1192ù"VDefine a constant instead of duplicating this literal "post_content_filtered" 3 times.(À·¹úıÿÿÿÿ
+l	php:S1192ÿ"QDefine a constant instead of duplicating this literal "term_taxonomy_id" 5 times.(Ï¦äÆûÿÿÿÿ
+p	php:S1192ª"UDefine a constant instead of duplicating this literal "link_manager_enabled" 3 times.(ÿâ¬îşÿÿÿÿ
+^	php:S1192£"HDefine a constant instead of duplicating this literal "utf8mb4" 5 times.(·ÀˆŞ
+n	php:S1192ß"SDefine a constant instead of duplicating this literal "show_welcome_panel" 3 times.(ÄíìØûÿÿÿÿ
+[	php:S1192—"FDefine a constant instead of duplicating this literal "title" 6 times.(ÆÈ»w
+a	php:S1940Ô"FUse the opposite operator '!=' instead and remove complement operator.(» ¿âûÿÿÿÿ
+a	php:S1192Š"KDefine a constant instead of duplicating this literal "db_version" 4 times.(Û…œå
+•php:S138ğ	"{This function "upgrade_230" has 182 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(İÎ‹ûüÿÿÿÿ
+v	php:S1192Ó"[Define a constant instead of duplicating this literal "<!-- wp:paragraph -->\n<p>" 5 times.(û“ÁÇÿÿÿÿÿ
+J	php:S1066â"/Merge this if statement with the enclosing one.(ÖŠÈ úÿÿÿÿ
+9php:S125‰"Remove this commented out code.(ı‰ùÿÿÿÿ
+i	php:S1192í"NDefine a constant instead of duplicating this literal "post_date_gmt" 3 times.(ÚšÁìıÿÿÿÿ
+b	php:S1192‚"LDefine a constant instead of duplicating this literal "post_status" 3 times.(„›¬ı
+a	php:S1192Å"FDefine a constant instead of duplicating this literal "count" 7 times.(òşÖÿÿÿÿÿ

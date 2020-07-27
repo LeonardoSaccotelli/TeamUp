@@ -1,0 +1,29 @@
+
+r	php:S1192—"WDefine a constant instead of duplicating this literal "cover_template_options" 6 times.(Ú»òùÿÿÿÿ
+a	php:S1192"MDefine a constant instead of duplicating this literal "postMessage" 10 times.(µäÏ6
+^	php:S1192 "IDefine a constant instead of duplicating this literal "selector" 6 times.(½õÖœ
+m	php:S1192F"SDefine a constant instead of duplicating this literal "sanitize_callback" 13 times.(ƒâñ´øÿÿÿÿ
+l	php:S1192m"RDefine a constant instead of duplicating this literal "accent_hue_active" 3 times.(ÑÊ•­úÿÿÿÿ
+v	php:S1192£"`Define a constant instead of duplicating this literal "cover_template_fixed_background" 3 times.(¬•
+`	php:S1192E"KDefine a constant instead of duplicating this literal "capability" 8 times.(¾ÇÊ¢
+^	php:S1192O"IDefine a constant instead of duplicating this literal "section" 12 times.(¨Ğöß
+\	php:S1192f"GDefine a constant instead of duplicating this literal "colors" 3 times.(ã†â‚
+a	php:S11926"LDefine a constant instead of duplicating this literal "retina_logo" 3 times.(‰¡–Ô
+j	php:S1192!"PDefine a constant instead of duplicating this literal "render_callback" 4 times.(‘Ÿ‘ûÿÿÿÿ
+l	php:S1192F"RDefine a constant instead of duplicating this literal "sanitize_checkbox" 4 times.(ƒâñ´øÿÿÿÿ
+c	php:S1192Q"NDefine a constant instead of duplicating this literal "twentytwenty" 23 times.(Ù¨€Ê
+ƒ	php:S11921"iDefine a constant instead of duplicating this literal "twentytwenty_customize_partial_site_logo" 3 times.(ú±…êúÿÿÿÿ
+z	php:S1192€"_Define a constant instead of duplicating this literal "cover_template_overlay_opacity" 3 times.(â…Â‡şÿÿÿÿ
+f	php:S1192R"LDefine a constant instead of duplicating this literal "description" 8 times.(•…Êùÿÿÿÿ
+\	php:S1192"GDefine a constant instead of duplicating this literal "accent" 3 times.(³åß[
+nphp:S101"ZRename class "TwentyTwenty_Customize" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬ÎÅˆ
+_	php:S1192G"JDefine a constant instead of duplicating this literal "transport" 7 times.(ô¼
+h	php:S1192["SDefine a constant instead of duplicating this literal "sanitize_hex_color" 3 times.(è€¾Ú
+h	php:S1192E"SDefine a constant instead of duplicating this literal "edit_theme_options" 8 times.(¾ÇÊ¢
+\	php:S1192Q"GDefine a constant instead of duplicating this literal "label" 10 times.(Ù¨€Ê
+c	php:S1192È"HDefine a constant instead of duplicating this literal "options" 4 times.(ŞªáÎùÿÿÿÿ
+c	php:S1192P"IDefine a constant instead of duplicating this literal "priority" 6 times.(ø»ößùÿÿÿÿ
+Œphp:S138"xThis function "register" has 309 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÿ¬óÑ
+^	php:S1192Z"IDefine a constant instead of duplicating this literal "default" 13 times.(ã¯”¾
+^	php:S1192N"IDefine a constant instead of duplicating this literal "checkbox" 4 times.(¡Øú¤
+a	php:S1192"KDefine a constant instead of duplicating this literal "accent_hue" 3 times.(§¹š‹

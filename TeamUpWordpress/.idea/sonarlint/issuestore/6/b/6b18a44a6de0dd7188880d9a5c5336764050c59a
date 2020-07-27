@@ -1,0 +1,11 @@
+
+c	php:S1192|"IDefine a constant instead of duplicating this literal "taxonomy" 5 times.(è²Óıÿÿÿÿ
+]	php:S1192"HDefine a constant instead of duplicating this literal "term_id" 3 times.(á•æÈ
+c	php:S1192?"IDefine a constant instead of duplicating this literal "cat_name" 6 times.(İÔ†±şÿÿÿÿ
+	php:S1488¥"fImmediately return this expression instead of assigning it to the temporary variable "$terms_to_edit".(“øı‡ùÿÿÿÿ
+d	php:S1192@"PDefine a constant instead of duplicating this literal "category_parent" 5 times.(Ş¤°[
+c	php:S1192"IDefine a constant instead of duplicating this literal "category" 4 times.(éö»Ùúÿÿÿÿ
+i	php:S1142y"OReduce the number of returns of this function 5, down to the maximum allowed 3.(éß¤éıÿÿÿÿ
+j	php:S1142‚"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹€ñÈúÿÿÿÿ
+b	php:S1192{"HDefine a constant instead of duplicating this literal "cat_ID" 13 times.(€ºıÅùÿÿÿÿ
+_	php:S1192İ"IDefine a constant instead of duplicating this literal "post_tag" 5 times.(µ×Õ

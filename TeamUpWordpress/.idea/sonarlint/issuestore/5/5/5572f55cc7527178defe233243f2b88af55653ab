@@ -1,0 +1,18 @@
+
+m	php:S1192F"SDefine a constant instead of duplicating this literal "featuredImageAlign" 3 times.(åÔšùÿÿÿÿ
+m	php:S1192A"XDefine a constant instead of duplicating this literal "featuredImageSizeHeight" 3 times.(Äû“Š
+i	php:S3776#"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ª½ò›
+[	php:S1192)"FDefine a constant instead of duplicating this literal "order" 3 times.(¼Ëÿ¢
+m	php:S1192j"XDefine a constant instead of duplicating this literal "displayPostContentRadio" 5 times.(ûÅß“
+]	php:S1192¼"GDefine a constant instead of duplicating this literal "number" 5 times.(‚É
+`	php:S11921"KDefine a constant instead of duplicating this literal "categories" 3 times.(ìÚš…
+c	php:S1192À"HDefine a constant instead of duplicating this literal "boolean" 3 times.(¦Õ¬üşÿÿÿÿ
+d	php:S1192½"IDefine a constant instead of duplicating this literal "default" 13 times.(‘‚œÙÿÿÿÿÿ
+`	php:S1192’"KDefine a constant instead of duplicating this literal "postLayout" 4 times.(¦´æ1
+m	php:S1192i"SDefine a constant instead of duplicating this literal "displayPostContent" 5 times.(–Şß¨ÿÿÿÿÿ
+b	php:S1192²"GDefine a constant instead of duplicating this literal "string" 9 times.(Şåáßúÿÿÿÿ
+^	php:S1192–"HDefine a constant instead of duplicating this literal "columns" 3 times.(†ÃØø
+`	php:S1192"JDefine a constant instead of duplicating this literal "className" 3 times.(Ç…Ù²
+e	php:S1192a"PDefine a constant instead of duplicating this literal "displayPostDate" 5 times.(…ªÅ¨
+\	php:S1192"FDefine a constant instead of duplicating this literal "align" 3 times.(Î¥¸©
+l	php:S1192>"WDefine a constant instead of duplicating this literal "featuredImageSizeWidth" 3 times.(Ùì¯£

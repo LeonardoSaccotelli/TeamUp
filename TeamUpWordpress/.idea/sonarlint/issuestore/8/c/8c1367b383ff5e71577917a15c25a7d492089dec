@@ -1,0 +1,9 @@
+
+f	php:S1192Î"KDefine a constant instead of duplicating this literal "meta_query" 4 times.(¦Ûì¯üÿÿÿÿ
+v	php:S1488Ó"`Immediately return this expression instead of assigning it to the temporary variable "$actions".(ùîæÓ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+`	php:S1192©"JDefine a constant instead of duplicating this literal "um-groups" 7 times.(î¥ş¢
+a	php:S1192·"FDefine a constant instead of duplicating this literal "title" 5 times.(Ğã¼úÿÿÿÿ
+d	php:S1192"NDefine a constant instead of duplicating this literal "header_single" 4 times.(·âäÑ
+kphp:S101"RRename class "Groups_Members" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ê“¯¬ÿÿÿÿÿ
+]	php:S1192"GDefine a constant instead of duplicating this literal "header" 4 times.(Â®ˆ¯

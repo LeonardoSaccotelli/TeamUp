@@ -1,0 +1,8 @@
+
+ophp:S1014"VRename class "SimplePie_Registry" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—é¨ãúÿÿÿÿ
+u	php:S1488×"_Immediately return this expression instead of assigning it to the temporary variable "$result".(÷óÜï
+z	php:S1488Ş"_Immediately return this expression instead of assigning it to the temporary variable "$result".(¥È‚çøÿÿÿÿ
+c	php:S1301¦"MReplace this "switch" statement with "if" statements to increase readability.(ùÊõÔ
+Lphp:S131Ğ"7Add a "case default" clause to this "switch" statement.(ùÊõÔ
+c	php:S1301Ğ"MReplace this "switch" statement with "if" statements to increase readability.(ùÊõÔ
+Lphp:S131¦"7Add a "case default" clause to this "switch" statement.(ùÊõÔ

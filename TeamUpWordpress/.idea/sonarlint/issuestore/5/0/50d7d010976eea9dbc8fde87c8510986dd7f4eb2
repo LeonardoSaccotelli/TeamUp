@@ -1,0 +1,4 @@
+
+a	php:S1192"GDefine a constant instead of duplicating this literal "plugin" 3 times.(Ù´ªøÿÿÿÿ
+j	php:S1192;"PDefine a constant instead of duplicating this literal "activate_plugin" 3 times.(Èæ¤˜úÿÿÿÿ
+lphp:S101"XRename class "Plugin_Upgrader_Skin" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ô§‡“

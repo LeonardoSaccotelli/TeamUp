@@ -1,0 +1,9 @@
+
+[php:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(–¡ãš
+C	php:S1481À".Remove this unused "$tag_name" local variable.(İ†ª
+`php:S112ô"FDefine and throw a dedicated exception instead of using a generic one.(‰Éêôûÿÿÿÿ
+v	php:S14888"aImmediately return this expression instead of assigning it to the temporary variable "$settings".(òƒ
+]	php:S1192ï"HDefine a constant instead of duplicating this literal "post_id" 3 times.(Ô´§i
+d	php:S1192œ"IDefine a constant instead of duplicating this literal "instance" 3 times.(ÌÖÓäÿÿÿÿÿ
+x	php:S1448"cClass "Manager" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.(ÇôÁÌ
+e	php:S1192S"KDefine a constant instead of duplicating this literal "returnType" 4 times.(‰†å©úÿÿÿÿ

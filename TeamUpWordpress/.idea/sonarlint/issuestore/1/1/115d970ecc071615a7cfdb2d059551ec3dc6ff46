@@ -1,0 +1,26 @@
+
+y	php:S1448"dClass "Requests" has 27 methods, which is greater than 20 authorized. Split it into smaller classes.(’Ùöº
+c	php:S1192¶"HDefine a constant instead of duplicating this literal "headers" 4 times.(ˆâÍ£ıÿÿÿÿ
+b	php:S1192Ü"LDefine a constant instead of duplicating this literal "data_format" 3 times.(Ÿˆ©Ò
+d	php:S1192¿"IDefine a constant instead of duplicating this literal "options" 15 times.(´ÅıÆùÿÿÿÿ
+h	php:S1871À"MThis branch's code block is the same as the block for the branch on line 829.(ˆ½¨Òøÿÿÿÿ
+j	php:S3776«"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(²Ïû
+o	php:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(§¶­Úùÿÿÿÿ
+f	php:S1192ü"KDefine a constant instead of duplicating this literal "redirected" 5 times.(ñš¡úÿÿÿÿ
+K	php:S1172²"0Remove the unused function parameter "$headers".(ê¯¹™ÿÿÿÿÿ
+`	php:S1192ı"JDefine a constant instead of duplicating this literal "redirects" 3 times.(îä‘ò
+p	php:S1192±"ZDefine a constant instead of duplicating this literal "multiple.request.complete" 3 times.(ƒ¬Ñ
+`	php:S1192ï"JDefine a constant instead of duplicating this literal "transport" 7 times.(Ï«ÚÚ
+b	php:S1871Æ"MThis branch's code block is the same as the block for the branch on line 829.(¥ŞŸh
+h	php:S1871Ã"MThis branch's code block is the same as the block for the branch on line 829.(È’éúÿÿÿÿ
+b	php:S1192í"GDefine a constant instead of duplicating this literal "hooks" 19 times.(‚–•€ıÿÿÿÿ
+D	php:S1066‘"/Merge this if statement with the enclosing one.(£Êªd
+d	php:S1192°"IDefine a constant instead of duplicating this literal "complete" 5 times.(»Øßÿÿÿÿÿ
+_	php:S1192Œ"IDefine a constant instead of duplicating this literal "Requests" 4 times.(ÅŞÔ€
+H	php:S1172²"-Remove the unused function parameter "$data".(ê¯¹™ÿÿÿÿÿ
+j	php:S1142·"OReduce the number of returns of this function 6, down to the maximum allowed 3.(æÆÕÄøÿÿÿÿ
+c	php:S1192„"HDefine a constant instead of duplicating this literal "cookies" 8 times.(ŸÅŠ²øÿÿÿÿ
+e	php:S1142á"OReduce the number of returns of this function 8, down to the maximum allowed 3.(©Ì±€
+a	php:S1192ƒ"FDefine a constant instead of duplicating this literal "proxy" 7 times.(÷ª³Ñüÿÿÿÿ
+e	php:S1142ï"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¤Û£À
+j	php:S3776á"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(©Ì±€

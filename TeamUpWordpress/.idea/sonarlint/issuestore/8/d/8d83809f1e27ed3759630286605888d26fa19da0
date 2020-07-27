@@ -1,0 +1,8 @@
+
+U	php:S1226§"@Introduce a new variable instead of reusing the parameter "$id".(Õ©¦H
+n	php:S3776v"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¿•¹½ùÿÿÿÿ
+I	php:S1135 "4Complete the task associated to this "TODO" comment.(åÅô†
+=	php:S1481ˆ"'Remove this unused "$t" local variable.(¿›ëÎ
+lphp:S101"SRename class "Walker_Nav_Menu" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—Úƒ¦úÿÿÿÿ
+]	php:S11926"HDefine a constant instead of duplicating this literal "discard" 4 times.(¯ì”ô
+<	php:S1481y"'Remove this unused "$n" local variable.(ù¿øŽ

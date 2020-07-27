@@ -1,0 +1,5 @@
+
+rphp:S101"YRename class "Notifications_Enqueue" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“ûØ´øÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+\	php:S1192 "GDefine a constant instead of duplicating this literal "jquery" 3 times.(Þâ‹Æ
+k	php:S1192""QDefine a constant instead of duplicating this literal "um_notifications" 4 times.(å¾½•üÿÿÿÿ

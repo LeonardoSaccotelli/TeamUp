@@ -1,0 +1,12 @@
+
+w	php:S1192œ"\Define a constant instead of duplicating this literal "_menu_item_menu_item_parent" 3 times.(ÜÕÁüûÿÿÿÿ
+I	php:S38011"4Refactor this function to use "return" consistently.(â‹ö½
+a	php:S1192B"MDefine a constant instead of duplicating this literal "item_spacing" 4 times.(–ïÍ\
+i	php:S37761"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(â‹ö½
+d	php:S1192"IDefine a constant instead of duplicating this literal "current-" 3 times.(‘€Ùùÿÿÿÿ
+h	php:S1192—"RDefine a constant instead of duplicating this literal "current-menu-item" 4 times.(¦‘İ•
+«php:S138¯"This function "_wp_menu_item_classes_by_context" has 215 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(…Ø“µüÿÿÿÿ
+e	php:S1192ÿ"JDefine a constant instead of duplicating this literal "post_type" 8 times.(¥•ÿºşÿÿÿÿ
+p	php:S3776¯"URefactor this function to reduce its Cognitive Complexity from 140 to the 15 allowed.(…Ø“µüÿÿÿÿ
+d	php:S1192‰"IDefine a constant instead of duplicating this literal "taxonomy" 3 times.(´Å¨îøÿÿÿÿ
+d	php:S11421"OReduce the number of returns of this function 6, down to the maximum allowed 3.(â‹ö½

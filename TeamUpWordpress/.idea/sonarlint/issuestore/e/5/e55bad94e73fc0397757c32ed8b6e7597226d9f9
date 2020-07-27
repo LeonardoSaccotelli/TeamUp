@@ -1,0 +1,13 @@
+
+\	php:S1192="GDefine a constant instead of duplicating this literal "author" 3 times.(ºÒ†˜
+c	php:S1192<"IDefine a constant instead of duplicating this literal "content" 14 times.(©ŠÉ·üÿÿÿÿ
+c	php:S1192@"IDefine a constant instead of duplicating this literal "end_date" 3 times.(ÆÃäÕøÿÿÿÿ
+o	php:S37768"URefactor this function to reduce its Cognitive Complexity from 125 to the 15 allowed.(·ÿŸÂÿÿÿÿÿ
+9php:S125Ê"Remove this commented out code.(Š¯©›üÿÿÿÿ
+^	php:S1192>"IDefine a constant instead of duplicating this literal "category" 5 times.(ì×îŸ
+q	php:S1488Ë"\Immediately return this expression instead of assigning it to the temporary variable "$str".(ˆÌþ
+\	php:S1192A"GDefine a constant instead of duplicating this literal "status" 3 times.(âÉ°ý
+’php:S1388"yThis function "export_wp" has 318 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(·ÿŸÂÿÿÿÿÿ
+`	php:S1192R"FDefine a constant instead of duplicating this literal "Y-m-d" 3 times.(Ï¼ãûÿÿÿÿÿ
+E	php:S1109…"/Move this closing curly brace to the next line.(ºïíÉ
+`	php:S1192?"KDefine a constant instead of duplicating this literal "start_date" 3 times.(÷ÑÛ¬

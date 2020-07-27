@@ -1,0 +1,3901 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UM Theme\n"
+"POT-Creation-Date: 2019-06-24 12:31+0300\n"
+"PO-Revision-Date: 2019-06-24 12:31+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:49 archive.php:68 template-parts/content.php:27
+#: template-parts/content.php:45 template-parts/template-blog.php:73
+#: template-parts/template-blog.php:91
+msgid "Continue Reading"
+msgstr ""
+
+#: archive.php:100 bbpress/loop-single-reply.php:54 search.php:37
+#: template-parts/content.php:73 template-parts/template-blog.php:120
+msgid "by"
+msgstr ""
+
+#: author.php:44
+msgid "Posts by"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:16
+#: bbpress/content-single-topic-lead.php:87
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:20
+#: bbpress/content-single-topic-lead.php:91 core-functions/core-bbpress.php:177
+#: core-functions/core-bbpress.php:200 core-functions/core-bbpress.php:224
+#: core-functions/core-bbpress.php:242
+msgid "Topic"
+msgstr ""
+
+#: bbpress/form-search.php:15 core-functions/core-ultimate-member.php:740
+#: searchform.php:11 ultimate-member/templates/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: bbpress/loop-forums.php:17
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:18
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:19 core-functions/core-bbpress.php:181
+#: core-functions/core-bbpress.php:229
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:20
+msgid "Recent Activity"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:14
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:24
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:22
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:24
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:31
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:35
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:16
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search.php:20
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:36
+msgid "Member Since: "
+msgstr ""
+
+#: bbpress/loop-single-reply.php:52
+msgid "On"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:69
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:82
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:92
+msgid "Total Reply: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:96
+msgid "Latest Post: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:107
+msgid "by "
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45
+msgid "Leave a Response"
+msgstr ""
+
+#: comments.php:53 comments.php:77
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:55 comments.php:79
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:56 comments.php:80
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#: core-functions/core-bbpress.php:185 core-functions/core-bbpress.php:204
+msgid "Recent activity"
+msgstr ""
+
+#: core-functions/core-bbpress.php:189 core-functions/core-bbpress.php:208
+msgid "Last updated by"
+msgstr ""
+
+#: core-functions/core-bbpress.php:255
+msgid "This forum is empty."
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:76
+msgid "Archive Page"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:78
+msgid "Archive Header"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:83 inc/customizer.php:1494
+msgid "Comments"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:85
+msgid "Before Comments"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:86
+msgid "Inside Comments"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:87
+msgid "Below Comment Title"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:92
+msgid "Page"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:94
+msgid "Before Page Content"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:95
+msgid "After Page Content"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:100
+msgid "Articles"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:102
+msgid "Article Header"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:103
+msgid "Article Content"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:104
+msgid "Article Footer"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:109
+msgid "Loop"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:111
+msgid "Before Loop"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:112
+msgid "After Loop"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:117 inc/customizer.php:8627
+msgid "Profile Header"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:119
+msgid "Before Profile Header"
+msgstr ""
+
+#: core-functions/core-beaver-themer.php:120
+msgid "After Profile Header"
+msgstr ""
+
+#: core-functions/core-comment.php:24
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core-functions/core-comment.php:41
+msgid "Edit"
+msgstr ""
+
+#: core-functions/core-comment.php:46
+msgid "Reply"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:18 inc/customizer.php:2137
+msgid "None"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:19
+msgid "500PX"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:20
+msgid "Amazon"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:21
+msgid "Amazon Pay"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:22
+msgid "Android"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:23
+msgid "Angellist"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:24
+msgid "App Store"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:25
+msgid "Apple"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:26
+msgid "iOS App Store"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:27
+msgid "Apple Pay"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:28
+msgid "Audible"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:29
+msgid "Amazon Web Services"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:30
+msgid "Bandcamp"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:31
+msgid "Behance"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:32
+msgid "Behance Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:33
+msgid "BitBucket"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:34
+msgid "Bitcoin"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:35
+msgid "Bitly"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:36
+msgid "Blackberry"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:37
+msgid "Blogger"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:38
+msgid "Blogger B"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:39
+msgid "BuySellAds"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:40
+msgid "CC Amazon Pay"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:41
+msgid "CC AMEX"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:42
+msgid "CC Apple Pay"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:43
+msgid "CC Diners Club"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:44
+msgid "CC Visa"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:45
+msgid "CC Stripe"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:46
+msgid "CC PayPal"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:47
+msgid "CC Mastercard"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:48
+msgid "JCB Credit Card"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:49
+msgid "Discover Credit Card"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:50
+msgid "Codepen"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:51
+msgid "Creative Commons"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:52
+msgid "Creative Commons Attribution"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:53
+msgid "Delicious"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:54
+msgid "Digg"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:55
+msgid "Discord"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:56
+msgid "deviantART"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:57
+msgid "Dribbble"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:58
+msgid "Dribbble Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:59
+msgid "Dropbox"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:60
+msgid "eBay"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:61
+msgid "Facebook F"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:62
+msgid "Facebook"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:63
+msgid "Etsy"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:64
+msgid "Etherum"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:65
+msgid "Facebook Messenger"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:66
+msgid "Facebook Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:67
+msgid "Flickr"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:68
+msgid "Flipboard"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:69
+msgid "Forumbee"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:70
+msgid "Foursquare"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:71
+msgid "Free Code Camp"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:72
+msgid "Get Pocket"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:73
+msgid "GitLab"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:74
+msgid "GitHub Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:75
+msgid "GitHub Alternate"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:76
+msgid "GitHub"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:77
+msgid "Git Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:78
+msgid "Git"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:79
+msgid "Goodreads"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:80
+msgid "Goodreads v2"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:81
+msgid "Google"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:82
+msgid "Google Drive"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:83
+msgid "Google Play"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:84
+msgid "Google Plus"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:85
+msgid "Google Plus v2"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:86
+msgid "Google Plus Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:87
+msgid "Google Wallet"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:88
+msgid "Gratipay"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:89
+msgid "Grav"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:90
+msgid "Grunt"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:91
+msgid "Gulp"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:92
+msgid "Hacker News"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:93
+msgid "Hacker News Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:94
+msgid "Hackerrank"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:95
+msgid "HireAHelper"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:96
+msgid "Hooli"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:97
+msgid "Houzz"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:98
+msgid "iTunes Note"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:99
+msgid "iTunes"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:100
+msgid "Instagram"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:101
+msgid "IMDB"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:102
+msgid "Kaggle"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:103
+msgid "Kickstarter"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:104
+msgid "Kickstarter K"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:105
+msgid "LinkedIn"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:106
+msgid "LinkedIn In"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:107
+msgid "Leanpub"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:108
+msgid "last.fm Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:109
+msgid "last.fm"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:110
+msgid "Lyft"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:111
+msgid "Mailchimp"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:112
+msgid "Microsoft"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:113
+msgid "Meetup"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:114
+msgid "Medium M"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:115
+msgid "Medium"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:116
+msgid "Patreon"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:117
+msgid "Paypal"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:118
+msgid "Periscope"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:119
+msgid "Pinterest"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:120
+msgid "Pinterest Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:121
+msgid "Pinterest P"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:122
+msgid "Product Hunt"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:123
+msgid "QQ"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:124
+msgid "Quora"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:125
+msgid "Reddit"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:126
+msgid "Reddit Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:127
+msgid "Reddit Alien"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:128
+msgid "Skype"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:129
+msgid "Slack"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:130
+msgid "Slack Hash"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:131
+msgid "Slideshare"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:132
+msgid "Snapchat"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:133
+msgid "Snapchat Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:134
+msgid "Snapchat Ghost"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:135
+msgid "Stack Overflow"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:136
+msgid "Stack Exchange"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:137
+msgid "Spotify"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:138
+msgid "SoundCloud"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:139
+msgid "Stripe"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:140
+msgid "Stripe S"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:141
+msgid "StumbleUpon"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:142
+msgid "StumbleUpon Circle"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:143
+msgid "Twitter"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:144
+msgid "Twitter Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:145
+msgid "Twitch"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:146
+msgid "Tumblr Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:147
+msgid "Tumblr"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:148
+msgid "TripAdvisor"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:149
+msgid "Trello"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:150
+msgid "Viber"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:151
+msgid "Vimeo"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:152
+msgid "Vimeo Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:153
+msgid "Vimeo v2"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:154
+msgid "Vine"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:155
+msgid "VK"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:156
+msgid "Wikipedia"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:157
+msgid "WhatsApp"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:158
+msgid "Whatsapp Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:159
+msgid "Weixin"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:160
+msgid "Weibo"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:161
+msgid "Xing Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:162
+msgid "Xing"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:163
+msgid "YouTube Square"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:164
+msgid "YouTube"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:165
+msgid "Yelp"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:166
+msgid "Yahoo"
+msgstr ""
+
+#: core-functions/core-customizer-utility.php:167
+msgid "Y Combinator"
+msgstr ""
+
+#: core-functions/core-dokan.php:62
+msgid "Seller Name:"
+msgstr ""
+
+#: core-functions/core-header.php:19 core-functions/core-header.php:89
+#: core-functions/core-header.php:90
+msgid "Skip to content"
+msgstr ""
+
+#: core-functions/core-header.php:87 core-functions/core-header.php:100
+#: functions.php:113
+msgid "Primary Menu"
+msgstr ""
+
+#: core-functions/core-header.php:88 inc/customizer.php:2167
+#: inc/customizer.php:2218 inc/customizer.php:2478 inc/customizer.php:2526
+#: inc/customizer.php:5934 inc/customizer.php:5982
+msgid "Menu"
+msgstr ""
+
+#: core-functions/core-header.php:333
+msgid "Profile Menu"
+msgstr ""
+
+#: core-functions/core-header.php:562 core-functions/core-header.php:587
+#: core-functions/core-header.php:641 core-functions/core-header.php:663
+#: core-functions/core-header.php:703 core-functions/core-header.php:725
+#: functions.php:112
+msgid "Top Bar Menu"
+msgstr ""
+
+#: core-functions/core-header.php:779 core-functions/core-header.php:818
+#: core-functions/core-header.php:853 functions.php:114 inc/customizer.php:2610
+msgid "Bottom Bar Menu"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: core-functions/core-helpers.php:166
+msgid ", "
+msgstr ""
+
+#: core-functions/core-helpers.php:312
+msgid "Post navigation"
+msgstr ""
+
+#: core-functions/core-helpers.php:318
+msgid "Previous"
+msgstr ""
+
+#: core-functions/core-helpers.php:326
+msgid "Next"
+msgstr ""
+
+#: core-functions/core-helpers.php:440
+msgid "Social Links"
+msgstr ""
+
+#: core-functions/core-helpers.php:609 core-functions/core-helpers.php:648
+#: core-functions/core-helpers.php:679 functions.php:116
+#: inc/customizer.php:6128
+msgid "Footer Menu"
+msgstr ""
+
+#: core-functions/core-helpers.php:845 core-functions/core-helpers.php:984
+#: template-parts/template-leftsidebar.php:36
+#: template-parts/template-nosidebar.php:36
+#: template-parts/template-pagebuilder.php:26
+#: template-parts/template-rightsidebar.php:36
+msgid "Pages:"
+msgstr ""
+
+#: core-functions/core-helpers.php:1081
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: core-functions/core-menu-walker.php:343
+msgid "Add a menu"
+msgstr ""
+
+#: core-functions/core-sidebar.php:314
+msgid "Content Sidebar"
+msgstr ""
+
+#: core-functions/core-sidebar.php:316
+msgid "These widgets will be only visible in Post, Page & Archive pages"
+msgstr ""
+
+#: core-functions/core-sidebar.php:324 inc/customizer.php:8881
+msgid "Profile Sidebar"
+msgstr ""
+
+#: core-functions/core-sidebar.php:326
+msgid "These widgets will be only visible in Ultimate Member Profile pages"
+msgstr ""
+
+#: core-functions/core-sidebar.php:334
+msgid "Footer Column 1"
+msgstr ""
+
+#: core-functions/core-sidebar.php:336
+msgid "These widgets will be only visible in footer 1."
+msgstr ""
+
+#: core-functions/core-sidebar.php:344
+msgid "Footer Column 2"
+msgstr ""
+
+#: core-functions/core-sidebar.php:346
+msgid "These widgets will be only visible in footer 2."
+msgstr ""
+
+#: core-functions/core-sidebar.php:354
+msgid "Footer Column 3"
+msgstr ""
+
+#: core-functions/core-sidebar.php:356
+msgid "These widgets will be only visible in footer 3."
+msgstr ""
+
+#: core-functions/core-sidebar.php:364
+msgid "Footer Column 4"
+msgstr ""
+
+#: core-functions/core-sidebar.php:366
+msgid "These widgets will be only visible in footer 4."
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:117
+msgid "Friend Requests"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:303
+msgid "Notifications"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:315
+msgid "No new notifications"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:341
+msgid "See All Notifications"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:441
+#: core-functions/core-ultimate-member.php:534
+#: core-functions/core-ultimate-member.php:595
+#, php-format
+msgid "<span>%s</span> member"
+msgid_plural "<span>%s</span> members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core-functions/core-ultimate-member.php:448
+msgid "active, "
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:448
+#: core-functions/core-ultimate-member.php:540
+#: core-functions/core-ultimate-member.php:601
+msgid " ago"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:471
+#: core-functions/core-ultimate-member.php:508
+#: core-functions/core-ultimate-member.php:574
+#, php-format
+msgid "%s Group"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:533
+#: core-functions/core-ultimate-member.php:594
+msgid "Total Members:"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:539
+#: core-functions/core-ultimate-member.php:600
+msgid "Recent Activity:"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:630
+msgid "No groups found."
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:653
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:660
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:665
+msgid "Create a Group"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:697
+msgid "Search groups..."
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:709
+msgid "All Categories"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:726
+msgid "All Tags"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:741
+msgid "Clear"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:790
+msgid "Friends"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:819
+msgid "You do not have any friends yet."
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:819
+msgid "This user does not have any friends yet."
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:845
+msgid "You do not have pending friend requests yet."
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:875
+msgid "Edit profile"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:1001
+msgid "Messages"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:1018
+msgid "See All Messages"
+msgstr ""
+
+#: core-functions/core-ultimate-member.php:1024
+msgid "No Messages"
+msgstr ""
+
+#: core-functions/core-widgets.php:27
+msgid "UM - Members"
+msgstr ""
+
+#: core-functions/core-widgets.php:31
+msgid "UM Theme: New Members"
+msgstr ""
+
+#: core-functions/core-widgets.php:213
+msgid "Not Found"
+msgstr ""
+
+#: core-functions/core-widgets.php:244
+msgid "Section Title"
+msgstr ""
+
+#: core-functions/core-widgets.php:250
+msgid "Number of Members"
+msgstr ""
+
+#: core-functions/core-widgets.php:256
+msgid "Order Members by"
+msgstr ""
+
+#: core-functions/core-widgets.php:259
+msgid "Newly Registered"
+msgstr ""
+
+#: core-functions/core-widgets.php:262
+msgid "User Name (A - Z)"
+msgstr ""
+
+#: core-functions/core-widgets.php:265
+msgid "Display Name (A - Z)"
+msgstr ""
+
+#: core-functions/core-widgets.php:268
+msgid "Members with Highest Post"
+msgstr ""
+
+#: core-functions/core-widgets.php:275
+msgid "Role:"
+msgstr ""
+
+#: core-functions/core-widgets.php:283
+msgid "Layout"
+msgstr ""
+
+#: core-functions/core-widgets.php:286
+msgid "Layout 1"
+msgstr ""
+
+#: core-functions/core-widgets.php:289
+msgid "Layout 2"
+msgstr ""
+
+#: core-functions/core-woocommerce.php:343
+msgid "All"
+msgstr ""
+
+#: core-functions/core-woocommerce.php:344
+msgid "Popularity"
+msgstr ""
+
+#: core-functions/core-woocommerce.php:345
+msgid "Rating"
+msgstr ""
+
+#: core-functions/core-woocommerce.php:346
+msgid "Newest"
+msgstr ""
+
+#: core-functions/core-woocommerce.php:347
+msgid "Price: Low to High"
+msgstr ""
+
+#: core-functions/core-woocommerce.php:348
+msgid "Price: High to Low"
+msgstr ""
+
+#: functions.php:74
+msgid "sky blue"
+msgstr ""
+
+#: functions.php:79
+msgid "light grayish magenta"
+msgstr ""
+
+#: functions.php:84
+msgid "very light gray"
+msgstr ""
+
+#: functions.php:89
+msgid "very dark gray"
+msgstr ""
+
+#: functions.php:115
+msgid "User Header Menu"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "General Styles"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Customize your sites color and font"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Your Homepage Sections"
+msgstr ""
+
+#: inc/customizer.php:125 inc/customizer.php:536
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Customize your sites Header Colors & Layout"
+msgstr ""
+
+#: inc/customizer.php:135 inc/customizer.php:546
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Change layout of post archive & single posts."
+msgstr ""
+
+#: inc/customizer.php:145 inc/customizer.php:576
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Customize your sites Footer Section Colors & Layout"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Code"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Add JavaScript code to header, footer etc."
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/customizer.php:165
+msgid "Ultimate Member"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Change layout of Ultimate Member Plugin elements."
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "bbPress"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Customize bbPress forum."
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "LifterLMS"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Customize LifterLMS."
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "WP Job Manager"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Customize WP Job Manager."
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Customize Easy Digital Downloads."
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Dokan Multivendor"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Customize Dokan Multivendor."
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Restrict Content"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Customize Restrict Content."
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Hooks"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Add Shortcodes & text."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Select Your Frontpage"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Site Wide Color"
+msgstr ""
+
+#: inc/customizer.php:270 inc/customizer.php:1111 inc/customizer.php:2165
+#: inc/customizer.php:2216 inc/customizer.php:2477 inc/customizer.php:2525
+#: inc/customizer.php:5933 inc/customizer.php:5981
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Sidebar & Widget Area"
+msgstr ""
+
+#: inc/customizer.php:300 inc/customizer.php:8412
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer.php:310 inc/customizer.php:5585
+msgid "Social Accounts"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Form Fields"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Post Archive"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Sidebar Management"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer.php:378
+msgid "Footer - Bottom Bar"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer.php:402 inc/customizer.php:2131
+msgid "Top Bar Layout"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Top Bar Style"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Header Menu"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Header - Logged In"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Header - Logged Out"
+msgstr ""
+
+#: inc/customizer.php:458 inc/customizer.php:3445
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer.php:478 inc/customizer.php:2444
+msgid "Bottom Bar Layout"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Bottom Bar Style"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Header Messenger Modal"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Header Notification Modal"
+msgstr ""
+
+#: inc/customizer.php:520
+msgid "Header Friend Requests"
+msgstr ""
+
+#: inc/customizer.php:556 inc/customizer.php:4839
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "Comment"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "um_theme_before_header"
+msgstr ""
+
+#: inc/customizer.php:629
+msgid "um_theme_header"
+msgstr ""
+
+#: inc/customizer.php:649
+msgid "um_theme_after_header"
+msgstr ""
+
+#: inc/customizer.php:669
+msgid "um_theme_header_profile_before"
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "um_theme_header_profile_after"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "um_theme_before_site"
+msgstr ""
+
+#: inc/customizer.php:730
+msgid "um_theme_before_content"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "um_theme_content_top"
+msgstr ""
+
+#: inc/customizer.php:768
+msgid "um_theme_before_page_content"
+msgstr ""
+
+#: inc/customizer.php:787
+msgid "um_theme_page"
+msgstr ""
+
+#: inc/customizer.php:806
+msgid "um_theme_after_page_content"
+msgstr ""
+
+#: inc/customizer.php:825
+msgid "um_theme_loop_before"
+msgstr ""
+
+#: inc/customizer.php:844
+msgid "um_theme_loop_after"
+msgstr ""
+
+#: inc/customizer.php:866
+msgid "um_theme_single_post_before"
+msgstr ""
+
+#: inc/customizer.php:885
+msgid "um_theme_single_post_top"
+msgstr ""
+
+#: inc/customizer.php:904
+msgid "um_theme_single_post"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "um_theme_single_post_bottom"
+msgstr ""
+
+#: inc/customizer.php:942
+msgid "um_theme_single_post_after"
+msgstr ""
+
+#: inc/customizer.php:964
+msgid "um_theme_before_comments"
+msgstr ""
+
+#: inc/customizer.php:983
+msgid "um_theme_before_comments_title"
+msgstr ""
+
+#: inc/customizer.php:1002
+msgid "um_theme_after_comments_title"
+msgstr ""
+
+#: inc/customizer.php:1021
+msgid "um_theme_after_comments"
+msgstr ""
+
+#: inc/customizer.php:1042
+msgid "um_theme_before_footer"
+msgstr ""
+
+#: inc/customizer.php:1061
+msgid "um_theme_footer"
+msgstr ""
+
+#: inc/customizer.php:1080
+msgid "um_theme_after_footer"
+msgstr ""
+
+#: inc/customizer.php:1105
+msgid "Header Logo Type"
+msgstr ""
+
+#: inc/customizer.php:1112
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:1118
+msgid "Logo Color"
+msgstr ""
+
+#: inc/customizer.php:1126
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer.php:1131
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:1144 inc/customizer.php:1149
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer.php:1145
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer.php:1146
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer.php:1147 inc/customizer.php:1595 inc/customizer.php:7059
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:1148
+msgid "No Image selected"
+msgstr ""
+
+#: inc/customizer.php:1150
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer.php:1164
+msgid "Logo Image - Retina"
+msgstr ""
+
+#: inc/customizer.php:1184
+msgid "Logo Font"
+msgstr ""
+
+#: inc/customizer.php:1205
+msgid "Logo Font Size"
+msgstr ""
+
+#: inc/customizer.php:1211 inc/customizer.php:1760 inc/customizer.php:1987
+#: inc/customizer.php:3581 inc/customizer.php:4235 inc/customizer.php:4333
+#: inc/customizer.php:5153 inc/customizer.php:5440 inc/customizer.php:5462
+#: inc/customizer.php:5483 inc/customizer.php:5504 inc/customizer.php:7252
+#: inc/customizer.php:7274 inc/customizer.php:7439 inc/customizer.php:7796
+#: inc/customizer.php:7897 inc/customizer.php:7995 inc/customizer.php:9232
+#: inc/customizer.php:10602 inc/customizer.php:11016 inc/customizer.php:11424
+msgid "example: 16px"
+msgstr ""
+
+#: inc/customizer.php:1229
+msgid "Logo Font Weight"
+msgstr ""
+
+#: inc/customizer.php:1237 inc/customizer.php:1785 inc/customizer.php:4382
+#: inc/customizer.php:5177 inc/customizer.php:5301
+msgid "100"
+msgstr ""
+
+#: inc/customizer.php:1238 inc/customizer.php:1786 inc/customizer.php:4383
+#: inc/customizer.php:5178 inc/customizer.php:5302
+msgid "200"
+msgstr ""
+
+#: inc/customizer.php:1239 inc/customizer.php:1787 inc/customizer.php:4384
+#: inc/customizer.php:5179 inc/customizer.php:5303
+msgid "300"
+msgstr ""
+
+#: inc/customizer.php:1240 inc/customizer.php:1788 inc/customizer.php:4385
+#: inc/customizer.php:5180 inc/customizer.php:5304
+msgid "400"
+msgstr ""
+
+#: inc/customizer.php:1241 inc/customizer.php:1789 inc/customizer.php:4386
+#: inc/customizer.php:5181 inc/customizer.php:5305
+msgid "500"
+msgstr ""
+
+#: inc/customizer.php:1242 inc/customizer.php:1790 inc/customizer.php:4387
+#: inc/customizer.php:5182 inc/customizer.php:5306
+msgid "600"
+msgstr ""
+
+#: inc/customizer.php:1243 inc/customizer.php:1791 inc/customizer.php:4388
+#: inc/customizer.php:5183 inc/customizer.php:5307
+msgid "700"
+msgstr ""
+
+#: inc/customizer.php:1244 inc/customizer.php:1792 inc/customizer.php:4389
+#: inc/customizer.php:5184 inc/customizer.php:5308
+msgid "800"
+msgstr ""
+
+#: inc/customizer.php:1245 inc/customizer.php:1793 inc/customizer.php:4390
+#: inc/customizer.php:5185 inc/customizer.php:5309
+msgid "900"
+msgstr ""
+
+#: inc/customizer.php:1246 inc/customizer.php:1794 inc/customizer.php:4391
+#: inc/customizer.php:5186 inc/customizer.php:5310
+msgid "Lighter"
+msgstr ""
+
+#: inc/customizer.php:1247 inc/customizer.php:1795 inc/customizer.php:1821
+#: inc/customizer.php:4392 inc/customizer.php:5187 inc/customizer.php:5311
+#: inc/customizer.php:5337
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer.php:1248 inc/customizer.php:1796 inc/customizer.php:4393
+#: inc/customizer.php:5188 inc/customizer.php:5312
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer.php:1249 inc/customizer.php:1797 inc/customizer.php:4394
+#: inc/customizer.php:5189 inc/customizer.php:5313
+msgid "Bolder"
+msgstr ""
+
+#: inc/customizer.php:1270
+msgid "Article Box Color"
+msgstr ""
+
+#: inc/customizer.php:1289
+msgid "Article Text Color"
+msgstr ""
+
+#: inc/customizer.php:1321
+msgid "Single Post Components"
+msgstr ""
+
+#: inc/customizer.php:1341
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer.php:1347
+msgid "Hidden"
+msgstr ""
+
+#: inc/customizer.php:1348
+msgid "Above Title"
+msgstr ""
+
+#: inc/customizer.php:1349
+msgid "Above Post"
+msgstr ""
+
+#: inc/customizer.php:1350
+msgid "Beside Post"
+msgstr ""
+
+#: inc/customizer.php:1368
+msgid "Show Article Summary"
+msgstr ""
+
+#: inc/customizer.php:1374 inc/customizer.php:1399 inc/customizer.php:1425
+#: inc/customizer.php:1450 inc/customizer.php:1475 inc/customizer.php:1500
+#: inc/customizer.php:1623 inc/customizer.php:2011 inc/customizer.php:2423
+#: inc/customizer.php:2729 inc/customizer.php:3034 inc/customizer.php:3240
+#: inc/customizer.php:3803 inc/customizer.php:4046 inc/customizer.php:4159
+#: inc/customizer.php:4212 inc/customizer.php:4759 inc/customizer.php:4845
+#: inc/customizer.php:4870 inc/customizer.php:4895 inc/customizer.php:4920
+#: inc/customizer.php:4949 inc/customizer.php:4977 inc/customizer.php:5006
+#: inc/customizer.php:5035 inc/customizer.php:5064 inc/customizer.php:5092
+#: inc/customizer.php:6208 inc/customizer.php:6781 inc/customizer.php:7708
+#: inc/customizer.php:7775 inc/customizer.php:10674
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:1375 inc/customizer.php:1400 inc/customizer.php:1426
+#: inc/customizer.php:1451 inc/customizer.php:1476 inc/customizer.php:1501
+#: inc/customizer.php:1624 inc/customizer.php:2012 inc/customizer.php:2424
+#: inc/customizer.php:2730 inc/customizer.php:3035 inc/customizer.php:3241
+#: inc/customizer.php:3453 inc/customizer.php:3804 inc/customizer.php:4047
+#: inc/customizer.php:4160 inc/customizer.php:4213 inc/customizer.php:4760
+#: inc/customizer.php:4846 inc/customizer.php:4871 inc/customizer.php:4896
+#: inc/customizer.php:4921 inc/customizer.php:4950 inc/customizer.php:4978
+#: inc/customizer.php:5007 inc/customizer.php:5036 inc/customizer.php:5065
+#: inc/customizer.php:5093 inc/customizer.php:6209 inc/customizer.php:6782
+#: inc/customizer.php:7709 inc/customizer.php:7776 inc/customizer.php:10675
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:1393
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:1419
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer.php:1444
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer.php:1469
+msgid "Author Box"
+msgstr ""
+
+#: inc/customizer.php:1513
+msgid "Website Background Color"
+msgstr ""
+
+#: inc/customizer.php:1528
+msgid "Meta Information Colors"
+msgstr ""
+
+#: inc/customizer.php:1530
+msgid ""
+"Change the color of Article & Comments date, author name, reply link etc."
+msgstr ""
+
+#: inc/customizer.php:1548
+msgid "Link Text"
+msgstr ""
+
+#: inc/customizer.php:1567
+msgid "Link Text Hover"
+msgstr ""
+
+#: inc/customizer.php:1589
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer.php:1596
+msgid "Wide Search"
+msgstr ""
+
+#: inc/customizer.php:1597
+msgid "Centered Logo"
+msgstr ""
+
+#: inc/customizer.php:1598
+msgid "Wide Menu"
+msgstr ""
+
+#: inc/customizer.php:1617
+msgid "Make Header Sticky"
+msgstr ""
+
+#: inc/customizer.php:1654
+msgid "Site Header Padding"
+msgstr ""
+
+#: inc/customizer.php:1659
+msgid "example: 10px"
+msgstr ""
+
+#: inc/customizer.php:1676
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:1696
+msgid "Widget Area Background"
+msgstr ""
+
+#: inc/customizer.php:1718 inc/customizer.php:1893
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:1737
+msgid "Button Font"
+msgstr ""
+
+#: inc/customizer.php:1755 inc/customizer.php:11011
+msgid "Button Font Size"
+msgstr ""
+
+#: inc/customizer.php:1778
+msgid "Button Font Weight"
+msgstr ""
+
+#: inc/customizer.php:1814
+msgid "Button Text Transform"
+msgstr ""
+
+#: inc/customizer.php:1822 inc/customizer.php:5338
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/customizer.php:1823 inc/customizer.php:5339
+msgid "lowercase"
+msgstr ""
+
+#: inc/customizer.php:1824 inc/customizer.php:5340
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer.php:1854 inc/customizer.php:1874 inc/customizer.php:8145
+#: inc/customizer.php:10348 inc/customizer.php:11033 inc/customizer.php:11461
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer.php:1912 inc/customizer.php:10408
+msgid "Button Hover Text"
+msgstr ""
+
+#: inc/customizer.php:1931
+msgid "Button Hover"
+msgstr ""
+
+#: inc/customizer.php:1963 inc/customizer.php:2005
+msgid "Button Border"
+msgstr ""
+
+#: inc/customizer.php:1982
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/customizer.php:2030
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/customizer.php:2052
+msgid "Button Border Width"
+msgstr ""
+
+#: inc/customizer.php:2058 inc/customizer.php:3850 inc/customizer.php:4092
+msgid "example: 1px"
+msgstr ""
+
+#: inc/customizer.php:2079
+msgid "Site Width"
+msgstr ""
+
+#: inc/customizer.php:2080
+msgid ""
+"Write your width in px or %. Example: 1200px. Your content will be confined "
+"within this area."
+msgstr ""
+
+#: inc/customizer.php:2085
+msgid "1200px"
+msgstr ""
+
+#: inc/customizer.php:2103
+msgid "Header Width"
+msgstr ""
+
+#: inc/customizer.php:2104
+msgid ""
+"Write your width in %. Example: 100%. Your content will be confined within "
+"this area."
+msgstr ""
+
+#: inc/customizer.php:2109
+msgid "100%"
+msgstr ""
+
+#: inc/customizer.php:2138 inc/customizer.php:2451 inc/customizer.php:5908
+#: inc/customizer.php:6274
+msgid "1 Column"
+msgstr ""
+
+#: inc/customizer.php:2139 inc/customizer.php:2452 inc/customizer.php:5909
+#: inc/customizer.php:6273
+msgid "2 Column"
+msgstr ""
+
+#: inc/customizer.php:2158 inc/customizer.php:2471 inc/customizer.php:5927
+msgid "Column 1 Layout"
+msgstr ""
+
+#: inc/customizer.php:2166 inc/customizer.php:2217
+msgid "Text & Social Icons"
+msgstr ""
+
+#: inc/customizer.php:2168 inc/customizer.php:2219
+msgid "Menu & Social Icons"
+msgstr ""
+
+#: inc/customizer.php:2169 inc/customizer.php:2220
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer.php:2188 inc/customizer.php:2497 inc/customizer.php:5953
+msgid "Column 1 Text"
+msgstr ""
+
+#: inc/customizer.php:2209 inc/customizer.php:2518 inc/customizer.php:5974
+msgid "Column 2 Layout"
+msgstr ""
+
+#: inc/customizer.php:2239 inc/customizer.php:2545 inc/customizer.php:6001
+msgid "Column 2 Text"
+msgstr ""
+
+#: inc/customizer.php:2262
+msgid "Top Bar Background"
+msgstr ""
+
+#: inc/customizer.php:2281
+msgid "Top Bar Text"
+msgstr ""
+
+#: inc/customizer.php:2314
+msgid "Top Bar Link"
+msgstr ""
+
+#: inc/customizer.php:2334
+msgid "Top Bar Link Hover"
+msgstr ""
+
+#: inc/customizer.php:2368
+msgid "Topbar Font Size"
+msgstr ""
+
+#: inc/customizer.php:2373 inc/customizer.php:2395 inc/customizer.php:2571
+#: inc/customizer.php:2658 inc/customizer.php:6152
+msgid "example: 13px"
+msgstr ""
+
+#: inc/customizer.php:2390
+msgid "Social Icon Size"
+msgstr ""
+
+#: inc/customizer.php:2417
+msgid "Bottom Bar"
+msgstr ""
+
+#: inc/customizer.php:2425
+msgid "Visible on Click"
+msgstr ""
+
+#: inc/customizer.php:2565
+msgid "Bottom bar Font Size"
+msgstr ""
+
+#: inc/customizer.php:2589
+msgid "Bottom Bar Background"
+msgstr ""
+
+#: inc/customizer.php:2631
+msgid "Bottom Bar Text"
+msgstr ""
+
+#: inc/customizer.php:2652
+msgid "On Click Icon Size"
+msgstr ""
+
+#: inc/customizer.php:2676
+msgid "On Click Icon Color"
+msgstr ""
+
+#: inc/customizer.php:2697
+msgid "On Click Icon Hover Color"
+msgstr ""
+
+#: inc/customizer.php:2723
+msgid "Show Header Friend Requests"
+msgstr ""
+
+#: inc/customizer.php:2762
+msgid "Friend Requests Icon Color"
+msgstr ""
+
+#: inc/customizer.php:2783
+msgid "Friend Requests Icon Hover Color"
+msgstr ""
+
+#: inc/customizer.php:2822 inc/customizer.php:3127
+msgid "Notification Bubble Color"
+msgstr ""
+
+#: inc/customizer.php:2843 inc/customizer.php:3148
+msgid "Notification Counter Color"
+msgstr ""
+
+#: inc/customizer.php:2881
+msgid "Friend Requests Box Color"
+msgstr ""
+
+#: inc/customizer.php:2902
+msgid "Friend Requests Content Color"
+msgstr ""
+
+#: inc/customizer.php:2941
+msgid "Confirm Button"
+msgstr ""
+
+#: inc/customizer.php:2962
+msgid "Confirm Button Text"
+msgstr ""
+
+#: inc/customizer.php:2983
+msgid "Decline Button"
+msgstr ""
+
+#: inc/customizer.php:3004
+msgid "Decline Button Text"
+msgstr ""
+
+#: inc/customizer.php:3028
+msgid "Show Header Notification"
+msgstr ""
+
+#: inc/customizer.php:3069 inc/customizer.php:7726
+msgid "Notification Icon Color"
+msgstr ""
+
+#: inc/customizer.php:3090
+msgid "Notification Icon Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3185
+msgid "Notification Box Color"
+msgstr ""
+
+#: inc/customizer.php:3207
+msgid "Notification Text Color"
+msgstr ""
+
+#: inc/customizer.php:3234
+msgid "Show Header Messenger"
+msgstr ""
+
+#: inc/customizer.php:3276 inc/customizer.php:8216
+msgid "Message Icon Color"
+msgstr ""
+
+#: inc/customizer.php:3297
+msgid "Message Icon Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3334
+msgid "Message Box Color"
+msgstr ""
+
+#: inc/customizer.php:3355
+msgid "Message Username Color"
+msgstr ""
+
+#: inc/customizer.php:3377
+msgid "Message Text Color"
+msgstr ""
+
+#: inc/customizer.php:3398
+msgid "Unread Message Color"
+msgstr ""
+
+#: inc/customizer.php:3420
+msgid "Divider Border Color"
+msgstr ""
+
+#: inc/customizer.php:3451
+msgid "Enable for All"
+msgstr ""
+
+#: inc/customizer.php:3452
+msgid "Enable for Logged in Users"
+msgstr ""
+
+#: inc/customizer.php:3472
+msgid "Search Type"
+msgstr ""
+
+#: inc/customizer.php:3479
+msgid "Member Search"
+msgstr ""
+
+#: inc/customizer.php:3480
+msgid "Search All Content"
+msgstr ""
+
+#: inc/customizer.php:3511
+msgid "Search Box Color"
+msgstr ""
+
+#: inc/customizer.php:3533
+msgid "Search Text Color"
+msgstr ""
+
+#: inc/customizer.php:3554
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: inc/customizer.php:3575
+msgid "Search Box Border Radius"
+msgstr ""
+
+#: inc/customizer.php:3603
+msgid "What to display to logged out users"
+msgstr ""
+
+#: inc/customizer.php:3609
+msgid "Show Button 1 & Button 2"
+msgstr ""
+
+#: inc/customizer.php:3610
+msgid "Show Button 1"
+msgstr ""
+
+#: inc/customizer.php:3611
+msgid "Show Button 2"
+msgstr ""
+
+#: inc/customizer.php:3612
+msgid "Show Text"
+msgstr ""
+
+#: inc/customizer.php:3643 inc/customizer.php:3669
+msgid "Button 1"
+msgstr ""
+
+#: inc/customizer.php:3663
+msgid "Button 1 Text"
+msgstr ""
+
+#: inc/customizer.php:3687
+msgid "Button 1 URL"
+msgstr ""
+
+#: inc/customizer.php:3693 inc/customizer.php:3936
+msgid "www.example.com"
+msgstr ""
+
+#: inc/customizer.php:3711
+msgid "Button 1 Color"
+msgstr ""
+
+#: inc/customizer.php:3732
+msgid "Button 1 Text Color"
+msgstr ""
+
+#: inc/customizer.php:3753
+msgid "Button 1 Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3774
+msgid "Button 1 Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:3796
+msgid "Button 1 Border"
+msgstr ""
+
+#: inc/customizer.php:3822
+msgid "Button 1 Border Color"
+msgstr ""
+
+#: inc/customizer.php:3844
+msgid "Button 1 Border Width"
+msgstr ""
+
+#: inc/customizer.php:3884 inc/customizer.php:3912
+msgid "Button 2"
+msgstr ""
+
+#: inc/customizer.php:3906
+msgid "Button 2 Text"
+msgstr ""
+
+#: inc/customizer.php:3930
+msgid "Button 2 URL"
+msgstr ""
+
+#: inc/customizer.php:3954
+msgid "Button 2 Color"
+msgstr ""
+
+#: inc/customizer.php:3975
+msgid "Button 2 Text Color"
+msgstr ""
+
+#: inc/customizer.php:3996
+msgid "Button 2 Hover Color"
+msgstr ""
+
+#: inc/customizer.php:4017
+msgid "Button 2 Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:4039
+msgid "Button 2 Border"
+msgstr ""
+
+#: inc/customizer.php:4065
+msgid "Button 2 Border Color"
+msgstr ""
+
+#: inc/customizer.php:4086
+msgid "Button 2 Border Width"
+msgstr ""
+
+#: inc/customizer.php:4128
+msgid "Header Logged Out Text"
+msgstr ""
+
+#: inc/customizer.php:4129
+msgid "Let logged out users know what they are missing out on."
+msgstr ""
+
+#: inc/customizer.php:4153
+msgid "Display name in header"
+msgstr ""
+
+#: inc/customizer.php:4178
+msgid "Display name in header as"
+msgstr ""
+
+#: inc/customizer.php:4184
+msgid "Display Name"
+msgstr ""
+
+#: inc/customizer.php:4185
+msgid "First Name"
+msgstr ""
+
+#: inc/customizer.php:4186
+msgid "Last Name"
+msgstr ""
+
+#: inc/customizer.php:4187
+msgid "Nice Name"
+msgstr ""
+
+#: inc/customizer.php:4206
+msgid "User Avatar in Header"
+msgstr ""
+
+#: inc/customizer.php:4230
+msgid "User Avatar Border Radius"
+msgstr ""
+
+#: inc/customizer.php:4253
+msgid "Header Profile Position"
+msgstr ""
+
+#: inc/customizer.php:4259 inc/customizer.php:4356 inc/customizer.php:4734
+#: inc/customizer.php:5564 inc/customizer.php:6296
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:4260 inc/customizer.php:4357 inc/customizer.php:4733
+#: inc/customizer.php:5566 inc/customizer.php:6298
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:4292
+msgid "Menu Font Settings"
+msgstr ""
+
+#: inc/customizer.php:4310
+msgid "Menu Font"
+msgstr ""
+
+#: inc/customizer.php:4328
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer.php:4350
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/customizer.php:4358 inc/customizer.php:5565 inc/customizer.php:6297
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:4375
+msgid "Menu Font Weight"
+msgstr ""
+
+#: inc/customizer.php:4424
+msgid "Submenu Settings"
+msgstr ""
+
+#: inc/customizer.php:4442
+msgid "Submenu Arrow"
+msgstr ""
+
+#: inc/customizer.php:4448 inc/customizer.php:8115
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:4449 inc/customizer.php:8116
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:4466
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/customizer.php:4486
+msgid "Submenu Text Color"
+msgstr ""
+
+#: inc/customizer.php:4516
+msgid "Menu Colors"
+msgstr ""
+
+#: inc/customizer.php:4535
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/customizer.php:4554
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:4573
+msgid "Selected Menu Text Color"
+msgstr ""
+
+#: inc/customizer.php:4592
+msgid "Selected Menu Background Color"
+msgstr ""
+
+#: inc/customizer.php:4615
+msgid "Posts layout"
+msgstr ""
+
+#: inc/customizer.php:4621 inc/customizer.php:7061 inc/customizer.php:10054
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:4622 inc/customizer.php:7060 inc/customizer.php:10055
+msgid "List"
+msgstr ""
+
+#: inc/customizer.php:4640
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer.php:4646
+msgid "Next / Previous"
+msgstr ""
+
+#: inc/customizer.php:4647
+msgid "Numeric 1 2 3"
+msgstr ""
+
+#: inc/customizer.php:4664
+msgid "Post background Color"
+msgstr ""
+
+#: inc/customizer.php:4683
+msgid "Post Content Color"
+msgstr ""
+
+#: inc/customizer.php:4702
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/customizer.php:4727
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:4753
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer.php:4779
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer.php:4785
+#, php-format
+msgid "25% of Website"
+msgstr ""
+
+#: inc/customizer.php:4786
+#, php-format
+msgid "35% of Website"
+msgstr ""
+
+#: inc/customizer.php:4787
+#, php-format
+msgid "40% of Website"
+msgstr ""
+
+#: inc/customizer.php:4788
+#, php-format
+msgid "50% of Website"
+msgstr ""
+
+#: inc/customizer.php:4818
+msgid "Sidebar Location"
+msgstr ""
+
+#: inc/customizer.php:4864
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer.php:4889
+msgid "Archive Pages"
+msgstr ""
+
+#: inc/customizer.php:4914
+msgid "Search Page"
+msgstr ""
+
+#: inc/customizer.php:4941
+msgid "Group Pages"
+msgstr ""
+
+#: inc/customizer.php:4942
+msgid "Group page of Ultimate Member plugin."
+msgstr ""
+
+#: inc/customizer.php:4969
+msgid "bbPress Forum Pages"
+msgstr ""
+
+#: inc/customizer.php:4970 inc/customizer.php:4999 inc/customizer.php:5028
+msgid "Forum page of bbPress plugin."
+msgstr ""
+
+#: inc/customizer.php:4998
+msgid "bbPress Topic Pages"
+msgstr ""
+
+#: inc/customizer.php:5027
+msgid "bbPress Reply Pages"
+msgstr ""
+
+#: inc/customizer.php:5056
+msgid "Shop Page"
+msgstr ""
+
+#: inc/customizer.php:5057
+msgid "Product archive page of WooCommerce plugin."
+msgstr ""
+
+#: inc/customizer.php:5084
+msgid "Product Page"
+msgstr ""
+
+#: inc/customizer.php:5085
+msgid "Product page of WooCommerce plugin."
+msgstr ""
+
+#: inc/customizer.php:5112 inc/customizer.php:5260
+msgid "Font Settings"
+msgstr ""
+
+#: inc/customizer.php:5129
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer.php:5148
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/customizer.php:5170
+msgid "Body Font Weight"
+msgstr ""
+
+#: inc/customizer.php:5204
+msgid "Enable Font Smoothing"
+msgstr ""
+
+#: inc/customizer.php:5238
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer.php:5276
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer.php:5294
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer.php:5330
+msgid "Font Format"
+msgstr ""
+
+#: inc/customizer.php:5371 inc/customizer.php:7434
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer.php:5390
+msgid "H1"
+msgstr ""
+
+#: inc/customizer.php:5395
+msgid "example: 36px"
+msgstr ""
+
+#: inc/customizer.php:5412
+msgid "H2"
+msgstr ""
+
+#: inc/customizer.php:5417
+msgid "example: 24px"
+msgstr ""
+
+#: inc/customizer.php:5435
+msgid "H3"
+msgstr ""
+
+#: inc/customizer.php:5457
+msgid "H4"
+msgstr ""
+
+#: inc/customizer.php:5478
+msgid "H5"
+msgstr ""
+
+#: inc/customizer.php:5499
+msgid "H6"
+msgstr ""
+
+#: inc/customizer.php:5535
+msgid "Heading Text Color"
+msgstr ""
+
+#: inc/customizer.php:5557
+msgid "Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer.php:5627 inc/customizer.php:5667 inc/customizer.php:5707
+#: inc/customizer.php:5747 inc/customizer.php:5787 inc/customizer.php:5827
+msgid "url"
+msgstr ""
+
+#: inc/customizer.php:5859
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/customizer.php:5878
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: inc/customizer.php:5902
+msgid "Footer Bar Layout"
+msgstr ""
+
+#: inc/customizer.php:6033 inc/customizer.php:6328
+msgid "Color"
+msgstr ""
+
+#: inc/customizer.php:6052
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:6071
+msgid "Footer Link"
+msgstr ""
+
+#: inc/customizer.php:6090
+msgid "Footer Link Hover"
+msgstr ""
+
+#: inc/customizer.php:6109
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:6147
+msgid "Footer Bottom Font Size"
+msgstr ""
+
+#: inc/customizer.php:6182
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer.php:6202
+msgid "Scroll To Top Icon"
+msgstr ""
+
+#: inc/customizer.php:6226
+msgid "Scroll to Top Color"
+msgstr ""
+
+#: inc/customizer.php:6247
+msgid "Widget Settings"
+msgstr ""
+
+#: inc/customizer.php:6265
+msgid "Widgets per row"
+msgstr ""
+
+#: inc/customizer.php:6271
+msgid "4 Column"
+msgstr ""
+
+#: inc/customizer.php:6272
+msgid "3 Column"
+msgstr ""
+
+#: inc/customizer.php:6290
+msgid "Widget Text Alignment"
+msgstr ""
+
+#: inc/customizer.php:6348
+msgid "Footer Widget Background"
+msgstr ""
+
+#: inc/customizer.php:6367
+msgid "Footer Widget Text"
+msgstr ""
+
+#: inc/customizer.php:6386
+msgid "Footer Widget Link"
+msgstr ""
+
+#: inc/customizer.php:6405
+msgid "Footer Widget Link Hover"
+msgstr ""
+
+#: inc/customizer.php:6419
+msgid "Login Page"
+msgstr ""
+
+#: inc/customizer.php:6429
+msgid "Profile Page"
+msgstr ""
+
+#: inc/customizer.php:6439
+msgid "Member Directory"
+msgstr ""
+
+#: inc/customizer.php:6449
+msgid "Ultimate Member Color"
+msgstr ""
+
+#: inc/customizer.php:6459
+msgid "Account Page"
+msgstr ""
+
+#: inc/customizer.php:6469
+msgid "Ultimate Member SEO"
+msgstr ""
+
+#: inc/customizer.php:6479
+msgid "Extension: Followers"
+msgstr ""
+
+#: inc/customizer.php:6490
+msgid "Extension: Friends"
+msgstr ""
+
+#: inc/customizer.php:6501
+msgid "Extension: Notifications"
+msgstr ""
+
+#: inc/customizer.php:6512
+msgid "Extension: Private Messages"
+msgstr ""
+
+#: inc/customizer.php:6523
+msgid "Extension: User Reviews"
+msgstr ""
+
+#: inc/customizer.php:6534
+msgid "Extension: Social Activity"
+msgstr ""
+
+#: inc/customizer.php:6545
+msgid "Extension: User Tags"
+msgstr ""
+
+#: inc/customizer.php:6556
+msgid "Extension: WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:6567
+msgid "Extension: Verified Users"
+msgstr ""
+
+#: inc/customizer.php:6578
+msgid "Extension: Groups"
+msgstr ""
+
+#: inc/customizer.php:6589
+msgid "Extension: Profile Completeness"
+msgstr ""
+
+#: inc/customizer.php:6600
+msgid "Extension: User Bookmarks"
+msgstr ""
+
+#: inc/customizer.php:6611
+msgid "Extension: User Notes"
+msgstr ""
+
+#: inc/customizer.php:6635
+msgid "User Notes"
+msgstr ""
+
+#: inc/customizer.php:6654
+msgid "User Notes Text"
+msgstr ""
+
+#: inc/customizer.php:6673
+msgid "User Notes Border"
+msgstr ""
+
+#: inc/customizer.php:6696
+msgid "Add Bookmark Button"
+msgstr ""
+
+#: inc/customizer.php:6715
+msgid "Add Bookmark Button Text"
+msgstr ""
+
+#: inc/customizer.php:6735
+msgid "Remove Bookmark Button"
+msgstr ""
+
+#: inc/customizer.php:6754
+msgid "Remove Bookmark Button Text"
+msgstr ""
+
+#: inc/customizer.php:6775
+msgid "Show Bookmark Excerpt"
+msgstr ""
+
+#: inc/customizer.php:6800
+msgid "Modal Background Color"
+msgstr ""
+
+#: inc/customizer.php:6819
+msgid "Modal Text Color"
+msgstr ""
+
+#: inc/customizer.php:6840
+msgid "Login Page Background Image"
+msgstr ""
+
+#: inc/customizer.php:6859
+msgid "Login Page Background Color"
+msgstr ""
+
+#: inc/customizer.php:6878
+msgid "Login Page Field Label Color"
+msgstr ""
+
+#: inc/customizer.php:6912
+msgid "Login Button"
+msgstr ""
+
+#: inc/customizer.php:6931
+msgid "Login Button Text"
+msgstr ""
+
+#: inc/customizer.php:6951
+msgid "Register Button"
+msgstr ""
+
+#: inc/customizer.php:6970
+msgid "Register Button Text"
+msgstr ""
+
+#: inc/customizer.php:6993 inc/customizer.php:7599
+msgid "Empty Bar Color"
+msgstr ""
+
+#: inc/customizer.php:7012
+msgid "Complete Bar Color"
+msgstr ""
+
+#: inc/customizer.php:7033
+msgid "Groups Directory"
+msgstr ""
+
+#: inc/customizer.php:7053
+msgid "Group List Layout"
+msgstr ""
+
+#: inc/customizer.php:7077
+msgid "Show Group Description"
+msgstr ""
+
+#: inc/customizer.php:7111
+msgid "Groups Style"
+msgstr ""
+
+#: inc/customizer.php:7130
+msgid "Group Title Color"
+msgstr ""
+
+#: inc/customizer.php:7150
+msgid "Group Description Text"
+msgstr ""
+
+#: inc/customizer.php:7170
+msgid "Group Background Color"
+msgstr ""
+
+#: inc/customizer.php:7190
+msgid "Group Tab Border Color"
+msgstr ""
+
+#: inc/customizer.php:7209
+msgid "Search Button Color"
+msgstr ""
+
+#: inc/customizer.php:7228
+msgid "Search Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:7247 inc/customizer.php:9227 inc/customizer.php:11419
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:7269
+msgid "Description Font Size"
+msgstr ""
+
+#: inc/customizer.php:7295
+msgid "Enable ProfilePage Schema"
+msgstr ""
+
+#: inc/customizer.php:7320
+msgid "Tags Background Color"
+msgstr ""
+
+#: inc/customizer.php:7339
+msgid "Tags Text Color"
+msgstr ""
+
+#: inc/customizer.php:7358
+msgid "Tags Border Color"
+msgstr ""
+
+#: inc/customizer.php:7377
+msgid "Tags Hover Background Color"
+msgstr ""
+
+#: inc/customizer.php:7396
+msgid "Tags Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:7415
+msgid "Tags Hover Border Color"
+msgstr ""
+
+#: inc/customizer.php:7460
+msgid "Verified Icon Color"
+msgstr ""
+
+#: inc/customizer.php:7482
+msgid "Product Box Background"
+msgstr ""
+
+#: inc/customizer.php:7501
+msgid "Product Price"
+msgstr ""
+
+#: inc/customizer.php:7520 inc/customizer.php:10186
+msgid "Product Title"
+msgstr ""
+
+#: inc/customizer.php:7539
+msgid "Product Review"
+msgstr ""
+
+#: inc/customizer.php:7561
+msgid "Star Color"
+msgstr ""
+
+#: inc/customizer.php:7580
+msgid "Review Bar Color"
+msgstr ""
+
+#: inc/customizer.php:7618
+msgid "Review Title Color"
+msgstr ""
+
+#: inc/customizer.php:7637
+msgid "Review Section Header Color"
+msgstr ""
+
+#: inc/customizer.php:7659
+msgid "Meta Color"
+msgstr ""
+
+#: inc/customizer.php:7678
+msgid "Followers Count Color"
+msgstr ""
+
+#: inc/customizer.php:7702
+msgid "Show Floating Notifications"
+msgstr ""
+
+#: inc/customizer.php:7745
+msgid "Notification Bell Icon Color"
+msgstr ""
+
+#: inc/customizer.php:7769
+msgid "Show Friend box in Users Profile"
+msgstr ""
+
+#: inc/customizer.php:7791
+msgid "Friends Avatar Border Radius"
+msgstr ""
+
+#: inc/customizer.php:7812
+msgid "Add Friend Button Color"
+msgstr ""
+
+#: inc/customizer.php:7831
+msgid "Add Friend Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:7850
+msgid "Add Friend Button Hover Color"
+msgstr ""
+
+#: inc/customizer.php:7869
+msgid "Add Friend Button Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:7892
+msgid "Avatar Border Radius"
+msgstr ""
+
+#: inc/customizer.php:7914
+msgid "Activity Head Color"
+msgstr ""
+
+#: inc/customizer.php:7933
+msgid "Activity Meta Color"
+msgstr ""
+
+#: inc/customizer.php:7952
+msgid "Activity Border Color"
+msgstr ""
+
+#: inc/customizer.php:7971
+msgid "Activity Text Color"
+msgstr ""
+
+#: inc/customizer.php:7990
+msgid "Text Font Size"
+msgstr ""
+
+#: inc/customizer.php:8013
+msgid "Conversation Color"
+msgstr ""
+
+#: inc/customizer.php:8032
+msgid "Your Message Color"
+msgstr ""
+
+#: inc/customizer.php:8051
+msgid "Your Message Background"
+msgstr ""
+
+#: inc/customizer.php:8070
+msgid "Other Persons Message Color"
+msgstr ""
+
+#: inc/customizer.php:8089
+msgid "Other Persons Message Background"
+msgstr ""
+
+#: inc/customizer.php:8109
+msgid "Download Chat History"
+msgstr ""
+
+#: inc/customizer.php:8164
+msgid "Message Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:8183
+msgid "Message Button Color"
+msgstr ""
+
+#: inc/customizer.php:8240
+msgid "Account Tab Position"
+msgstr ""
+
+#: inc/customizer.php:8246
+msgid "Left (default)"
+msgstr ""
+
+#: inc/customizer.php:8247
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:8264
+msgid "Tab Color"
+msgstr ""
+
+#: inc/customizer.php:8283
+msgid "Tab Text Color"
+msgstr ""
+
+#: inc/customizer.php:8302
+msgid "Tab Icon Color"
+msgstr ""
+
+#: inc/customizer.php:8321
+msgid "Tab Hover Color"
+msgstr ""
+
+#: inc/customizer.php:8340
+msgid "Tab Text Hover Color"
+msgstr ""
+
+#: inc/customizer.php:8362
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:8381
+msgid "UM Meta Color"
+msgstr ""
+
+#: inc/customizer.php:8431
+msgid "UM Button"
+msgstr ""
+
+#: inc/customizer.php:8450
+msgid "UM Button Text"
+msgstr ""
+
+#: inc/customizer.php:8469
+msgid "UM Button Hover"
+msgstr ""
+
+#: inc/customizer.php:8488
+msgid "UM Button Hover Text"
+msgstr ""
+
+#: inc/customizer.php:8507
+msgid "UM Button Text (Alt)"
+msgstr ""
+
+#: inc/customizer.php:8526
+msgid "UM Button (Alt)"
+msgstr ""
+
+#: inc/customizer.php:8545
+msgid "UM Button Hover (Alt)"
+msgstr ""
+
+#: inc/customizer.php:8564
+msgid "UM Button Hover Text (Alt)"
+msgstr ""
+
+#: inc/customizer.php:8587
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/customizer.php:8606
+msgid "Box Text Color"
+msgstr ""
+
+#: inc/customizer.php:8646
+msgid "Profile Header Area Text Color"
+msgstr ""
+
+#: inc/customizer.php:8665
+msgid "Profile Header Area Background Color"
+msgstr ""
+
+#: inc/customizer.php:8684
+msgid "Profile Navigation Bar Color"
+msgstr ""
+
+#: inc/customizer.php:8703
+msgid "Profile Navigation Menu Color"
+msgstr ""
+
+#: inc/customizer.php:8722
+msgid "Profile Navigation Menu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:8741
+msgid "Menu Background Hover Color"
+msgstr ""
+
+#: inc/customizer.php:8773
+msgid "Profile Content"
+msgstr ""
+
+#: inc/customizer.php:8792
+msgid "Profile Content Text Color"
+msgstr ""
+
+#: inc/customizer.php:8811
+msgid "Profile Meta"
+msgstr ""
+
+#: inc/customizer.php:8830
+msgid "Profile Content Background Color"
+msgstr ""
+
+#: inc/customizer.php:8849
+msgid "Field Label Border"
+msgstr ""
+
+#: inc/customizer.php:8900
+msgid "Profile Sidebar Container Color"
+msgstr ""
+
+#: inc/customizer.php:8923
+msgid "Form Border"
+msgstr ""
+
+#: inc/customizer.php:8942
+msgid "Form Text"
+msgstr ""
+
+#: inc/customizer.php:8961
+msgid "Form Field Background"
+msgstr ""
+
+#: inc/customizer.php:8980
+msgid "Form Border Focus"
+msgstr ""
+
+#: inc/customizer.php:8999
+msgid "Form Error Text"
+msgstr ""
+
+#: inc/customizer.php:9018
+msgid "Form Error Background"
+msgstr ""
+
+#: inc/customizer.php:9037
+msgid "Form Field Label"
+msgstr ""
+
+#: inc/customizer.php:9056
+msgid "Form Placeholder Text"
+msgstr ""
+
+#: inc/customizer.php:9069 inc/customizer.php:9085
+msgid "JavaScript Code"
+msgstr ""
+
+#: inc/customizer.php:9086
+msgid ""
+"JavaScript entered in the box below will be rendered within <script> tags."
+msgstr ""
+
+#: inc/customizer.php:9098 inc/customizer.php:9114
+msgid "Head Code"
+msgstr ""
+
+#: inc/customizer.php:9115
+msgid ""
+"Code entered in the box below will be rendered within the page <head> tag."
+msgstr ""
+
+#: inc/customizer.php:9126 inc/customizer.php:9142
+msgid "Header Code"
+msgstr ""
+
+#: inc/customizer.php:9143
+msgid ""
+"Code entered in the box below will be rendered directly after the opening "
+"<body> tag."
+msgstr ""
+
+#: inc/customizer.php:9154 inc/customizer.php:9170
+msgid "Footer Code"
+msgstr ""
+
+#: inc/customizer.php:9171
+msgid ""
+"Code entered in the box below will be rendered directly before the closing "
+"<body> tag."
+msgstr ""
+
+#: inc/customizer.php:9185
+msgid "bbPress Color"
+msgstr ""
+
+#: inc/customizer.php:9207
+msgid "Forum Color"
+msgstr ""
+
+#: inc/customizer.php:9249 inc/customizer.php:11441
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer.php:9268
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:9287
+msgid "Author Name Color"
+msgstr ""
+
+#: inc/customizer.php:9318
+msgid "Forum Header"
+msgstr ""
+
+#: inc/customizer.php:9336
+msgid "Forum Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:9355
+msgid "Forum Header Text Color"
+msgstr ""
+
+#: inc/customizer.php:9374
+msgid "Forum Header Border Color"
+msgstr ""
+
+#: inc/customizer.php:9405
+msgid "Sticky & Notice"
+msgstr ""
+
+#: inc/customizer.php:9423
+msgid "Sticky topic background color"
+msgstr ""
+
+#: inc/customizer.php:9442 inc/customizer.php:10624
+msgid "Notice Background Color"
+msgstr ""
+
+#: inc/customizer.php:9461 inc/customizer.php:10644
+msgid "Notice Text Color"
+msgstr ""
+
+#: inc/customizer.php:9480
+msgid "Notice Border Color"
+msgstr ""
+
+#: inc/customizer.php:9494
+msgid "LifterLMS Buttons"
+msgstr ""
+
+#: inc/customizer.php:9505
+msgid "LifterLMS Pricing Tables"
+msgstr ""
+
+#: inc/customizer.php:9516
+msgid "LifterLMS Checkout"
+msgstr ""
+
+#: inc/customizer.php:9540
+msgid "Primary Button Color"
+msgstr ""
+
+#: inc/customizer.php:9559
+msgid "Primary Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:9579
+msgid "Primary Button Hover Color"
+msgstr ""
+
+#: inc/customizer.php:9598
+msgid "Primary Button Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:9618
+msgid "Secondary Button Color"
+msgstr ""
+
+#: inc/customizer.php:9638
+msgid "Secondary Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:9658
+msgid "Secondary Button Hover Color"
+msgstr ""
+
+#: inc/customizer.php:9677
+msgid "Secondary Button Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:9700
+msgid "Plan Title Color"
+msgstr ""
+
+#: inc/customizer.php:9719
+msgid "Plan Title Background Color"
+msgstr ""
+
+#: inc/customizer.php:9739
+msgid "Plan Featured Color"
+msgstr ""
+
+#: inc/customizer.php:9758
+msgid "Plan Featured Background Color"
+msgstr ""
+
+#: inc/customizer.php:9777
+msgid "Plan Border Color"
+msgstr ""
+
+#: inc/customizer.php:9796
+msgid "Restrictions Link Color"
+msgstr ""
+
+#: inc/customizer.php:9815
+msgid "Restrictions Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:9838
+msgid "Checkout Heading Color"
+msgstr ""
+
+#: inc/customizer.php:9857
+msgid "Checkout Heading Background Color"
+msgstr ""
+
+#: inc/customizer.php:9876
+msgid "Checkout Border Color"
+msgstr ""
+
+#: inc/customizer.php:9890
+msgid "WooCommerce Color"
+msgstr ""
+
+#: inc/customizer.php:9900
+msgid "WooCommerce Layouts"
+msgstr ""
+
+#: inc/customizer.php:9910
+msgid "Related & Upsell"
+msgstr ""
+
+#: inc/customizer.php:9920
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/customizer.php:9945
+msgid "Wishlist Add to Cart Button"
+msgstr ""
+
+#: inc/customizer.php:9965
+msgid "Wishlist Add to Cart Button Text"
+msgstr ""
+
+#: inc/customizer.php:9985
+msgid "Wishlist Remove Button"
+msgstr ""
+
+#: inc/customizer.php:10005
+msgid "Wishlist Remove Button Text"
+msgstr ""
+
+#: inc/customizer.php:10023
+msgid "Show Wishlist below Shop products"
+msgstr ""
+
+#: inc/customizer.php:10048
+msgid "Products layout"
+msgstr ""
+
+#: inc/customizer.php:10075
+msgid "WooCommerce Info Color"
+msgstr ""
+
+#: inc/customizer.php:10094
+msgid "WooCommerce Info"
+msgstr ""
+
+#: inc/customizer.php:10114
+msgid "WooCommerce Message"
+msgstr ""
+
+#: inc/customizer.php:10134
+msgid "WooCommerce Message Text"
+msgstr ""
+
+#: inc/customizer.php:10166
+msgid "Product Colors"
+msgstr ""
+
+#: inc/customizer.php:10206
+msgid "Price Color"
+msgstr ""
+
+#: inc/customizer.php:10226
+msgid "Star Rating Color"
+msgstr ""
+
+#: inc/customizer.php:10257
+msgid "On Sale Badge"
+msgstr ""
+
+#: inc/customizer.php:10258
+msgid "Change the color of On Sale Badges."
+msgstr ""
+
+#: inc/customizer.php:10277
+msgid "Sale Badge Color"
+msgstr ""
+
+#: inc/customizer.php:10297
+msgid "Sale Badge Text"
+msgstr ""
+
+#: inc/customizer.php:10328
+msgid "Buttons Color"
+msgstr ""
+
+#: inc/customizer.php:10329
+msgid "Change the color of Add to Cart Buttons"
+msgstr ""
+
+#: inc/customizer.php:10368 inc/customizer.php:11052 inc/customizer.php:11480
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:10388 inc/customizer.php:11071
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/customizer.php:10439
+msgid "Shop Page Content"
+msgstr ""
+
+#: inc/customizer.php:10472
+msgid "Number of products"
+msgstr ""
+
+#: inc/customizer.php:10503
+msgid "Show / Hide"
+msgstr ""
+
+#: inc/customizer.php:10520
+msgid "Show Product Title"
+msgstr ""
+
+#: inc/customizer.php:10539
+msgid "Show Product Price"
+msgstr ""
+
+#: inc/customizer.php:10558
+msgid "Show Add To Cart Button"
+msgstr ""
+
+#: inc/customizer.php:10577
+msgid "Show Sale Badge"
+msgstr ""
+
+#: inc/customizer.php:10597
+msgid "Product Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:10668
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/customizer.php:10693
+msgid "Number of Related Products per page"
+msgstr ""
+
+#: inc/customizer.php:10698 inc/customizer.php:10721
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:10716
+msgid "Number of Upsell Products per page"
+msgstr ""
+
+#: inc/customizer.php:10733 inc/customizer.php:10841
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:10757
+msgid "Restrict Message Text"
+msgstr ""
+
+#: inc/customizer.php:10776
+msgid "Restrict Message Background"
+msgstr ""
+
+#: inc/customizer.php:10796
+msgid "Logout Button Text"
+msgstr ""
+
+#: inc/customizer.php:10815
+msgid "Logout Button"
+msgstr ""
+
+#: inc/customizer.php:10830
+msgid "Product Loop"
+msgstr ""
+
+#: inc/customizer.php:10864
+msgid "Store Pages"
+msgstr ""
+
+#: inc/customizer.php:10883
+msgid "Store Name"
+msgstr ""
+
+#: inc/customizer.php:10902
+msgid "Store Info"
+msgstr ""
+
+#: inc/customizer.php:10923
+msgid "Show Sold By"
+msgstr ""
+
+#: inc/customizer.php:10942
+msgid "Show Vendor Info"
+msgstr ""
+
+#: inc/customizer.php:10957
+msgid "EDD Buttons"
+msgstr ""
+
+#: inc/customizer.php:10968
+msgid "EDD Info Color"
+msgstr ""
+
+#: inc/customizer.php:10991
+msgid "Button"
+msgstr ""
+
+#: inc/customizer.php:11090
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:11113
+msgid "Error Background Color"
+msgstr ""
+
+#: inc/customizer.php:11132
+msgid "Error Text Color"
+msgstr ""
+
+#: inc/customizer.php:11151
+msgid "Error Border Color"
+msgstr ""
+
+#: inc/customizer.php:11184
+msgid "Success Background Color"
+msgstr ""
+
+#: inc/customizer.php:11203
+msgid "Success Text Color"
+msgstr ""
+
+#: inc/customizer.php:11222
+msgid "Success Border Color"
+msgstr ""
+
+#: inc/customizer.php:11254
+msgid "Info Background Color"
+msgstr ""
+
+#: inc/customizer.php:11273
+msgid "Info Text Color"
+msgstr ""
+
+#: inc/customizer.php:11292
+msgid "Info Border Color"
+msgstr ""
+
+#: inc/customizer.php:11325
+msgid "Warn Background Color"
+msgstr ""
+
+#: inc/customizer.php:11344
+msgid "Warn Text Color"
+msgstr ""
+
+#: inc/customizer.php:11363
+msgid "Warn Border Color"
+msgstr ""
+
+#: inc/customizer.php:11376
+msgid "Single Job Listing"
+msgstr ""
+
+#: inc/customizer.php:11399
+msgid "Job Title"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:28
+msgid "This listing has expired."
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:6
+msgid "Deleted User"
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:21
+msgid "Block user"
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:23
+msgid "Delete conversation"
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:29
+msgid "Close chat"
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:47
+msgid "Your membership level does not allow you to view conversations."
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:70
+msgid "You are blocked and not allowed continue this conversation."
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:74
+#: ultimate-member/templates/conversation.php:78
+msgid "You have reached your limit for sending messages."
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:88
+msgid "Type your message..."
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:98
+msgid "Send message"
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:111
+msgid "You are not allowed to start conversations."
+msgstr ""
+
+#: ultimate-member/templates/conversation.php:113
+msgid "You are not allowed to reply to private messages."
+msgstr ""
+
+#: ultimate-member/templates/profile-one.php:67
+#: ultimate-member/templates/profile-two.php:69
+msgid "Upload photo"
+msgstr ""
+
+#: ultimate-member/templates/profile-one.php:68
+#: ultimate-member/templates/profile-one.php:80
+#: ultimate-member/templates/profile-two.php:70
+#: ultimate-member/templates/profile-two.php:82
+msgid "Cancel"
+msgstr ""
+
+#: ultimate-member/templates/profile-one.php:78
+#: ultimate-member/templates/profile-two.php:80
+msgid "Change photo"
+msgstr ""
+
+#: ultimate-member/templates/profile-one.php:79
+#: ultimate-member/templates/profile-two.php:81
+msgid "Remove photo"
+msgstr ""
+
+#: ultimate-member/templates/profile/posts-single.php:21
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ultimate-member/templates/profile/posts-single.php:24
+msgid "in"
+msgstr ""
+
+#: ultimate-member/templates/profile/posts-single.php:30
+msgid "no comments"
+msgstr ""
+
+#: ultimate-member/templates/profile/posts-single.php:32
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: ultimate-member/templates/profile/posts-single.php:34
+msgid "1 comment"
+msgstr ""
+
+#: ultimate-member/templates/searchform.php:4
+#: ultimate-member/templates/searchform.php:5
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: updater/theme-updater-admin.php:250
+msgid "Error"
+msgstr ""
+
+#: updater/theme-updater-admin.php:281 updater/theme-updater-admin.php:329
+#: updater/theme-updater-admin.php:382
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: updater/theme-updater-admin.php:295
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: updater/theme-updater-admin.php:303
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: updater/theme-updater-admin.php:308
+msgid "Invalid license."
+msgstr ""
+
+#: updater/theme-updater-admin.php:314
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: updater/theme-updater-admin.php:319
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: updater/theme-updater-admin.php:324
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:35 updater/theme-updater.php:48
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:39
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: updater/theme-updater.php:40
+msgid "Lifetime License."
+msgstr ""
+
+#: updater/theme-updater.php:41
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:42
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:43
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:46
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:47
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:49
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:50
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "UM Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://ultimatemember.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"UM Theme is an intuitive & flexible, WordPress theme offering deep "
+"integration with Ultimate Member."
+msgstr ""

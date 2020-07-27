@@ -1,0 +1,17 @@
+
+b	php:S1192À"GDefine a constant instead of duplicating this literal "msgstr" 3 times.(Şöáúÿÿÿÿÿ
+o	php:S3776È"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(ø†Òúÿÿÿÿ
+k	php:S1142È"PReduce the number of returns of this function 12, down to the maximum allowed 3.(ø†Òúÿÿÿÿ
+v	php:S1488C"\Immediately return this expression instead of assigning it to the temporary variable "$res".(£³ıûÿÿÿÿ
+I	php:S11353"4Complete the task associated to this "TODO" comment.(“Š‹ú
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Â€ÃŠùÿÿÿÿ
+i	php:S1192À"NDefine a constant instead of duplicating this literal "msgstr_plural" 4 times.(Şöáúÿÿÿÿÿ
+d	php:S1192å"IDefine a constant instead of duplicating this literal "put-back" 4 times.(²¬àƒøÿÿÿÿ
+p	php:S1488~"[Immediately return this expression instead of assigning it to the temporary variable "$po".(ÎÌÏ„
+\	php:S1192ƒ"FDefine a constant instead of duplicating this literal "msgid" 4 times.(®¨Ü
+c	php:S1192‰"MDefine a constant instead of duplicating this literal "msgid_plural" 3 times.(ÔœîÔ
+o	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÁÍşÒúÿÿÿÿ
+c	php:S1192ê"HDefine a constant instead of duplicating this literal "comment" 3 times.(®˜¥Öúÿÿÿÿ
+c	php:S1192ø"HDefine a constant instead of duplicating this literal "msgctxt" 3 times.(ËÏÄ®ıÿÿÿÿ
+[	php:S1192©"FDefine a constant instead of duplicating this literal "entry" 4 times.(°è±I
+x	php:S1488¥"bImmediately return this expression instead of assigning it to the temporary variable "$unpoified".(şä‰¯

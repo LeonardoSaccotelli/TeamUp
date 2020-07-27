@@ -1,0 +1,4 @@
+
+i	php:S3776i"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ðËù¢
+D	php:S1066s"/Merge this if statement with the enclosing one.(Þ«ù±
+{php:S101"gRename class "ParagonIE_Sodium_Core_Base64_Common" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ð‘Ýû

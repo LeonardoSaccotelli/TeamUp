@@ -1,0 +1,8 @@
+
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+G	php:S1172&"-Remove the unused function parameter "$args".(»¹Ú¦şÿÿÿÿ
+_	php:S11923"JDefine a constant instead of duplicating this literal "user_tags" 4 times.(è£Ì
+{	php:S1488˜"`Immediately return this expression instead of assigning it to the temporary variable "$options".(½±ğıÿÿÿÿ
+`	php:S1192T"FDefine a constant instead of duplicating this literal "value" 3 times.(¸èÎ›øÿÿÿÿ
+rphp:S101"^Rename class "User_Tags_Member_Directory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Û¸İş
+]	php:S1192U"HDefine a constant instead of duplicating this literal "compare" 3 times.(éæÛ¢

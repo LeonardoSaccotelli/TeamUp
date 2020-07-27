@@ -1,0 +1,36 @@
+
+k	php:S1192¸"PDefine a constant instead of duplicating this literal "md5_data_source" 4 times.(ðõÙÖúÿÿÿÿ
+d	php:S1192n"ODefine a constant instead of duplicating this literal "VORBIS_COMMENT" 7 times.(»‡Œ
+g	php:S1192!"MDefine a constant instead of duplicating this literal "avdataoffset" 5 times.(ß†·®üÿÿÿÿ
+b	php:S1192ì"GDefine a constant instead of duplicating this literal "tracks" 7 times.(•Íí¿ùÿÿÿÿ
+f	php:S1192X"LDefine a constant instead of duplicating this literal "STREAMINFO" 18 times.(’‚ñ§üÿÿÿÿ
+`	php:S1192b"LDefine a constant instead of duplicating this literal "APPLICATION" 4 times.(ö›èN
+g	php:S1192>"MDefine a constant instead of duplicating this literal ") at offset " 4 times.(Òšƒ†þÿÿÿÿ
+_	php:S1192t"JDefine a constant instead of duplicating this literal "CUESHEET" 14 times.(çÝ‰À
+j	php:S1192¨"ODefine a constant instead of duplicating this literal "samples_stream" 3 times.(¾Å¦™üÿÿÿÿ
+g	php:S1192ø"QDefine a constant instead of duplicating this literal "playtime_seconds" 3 times.(Éîü¼
+i	php:S37762"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(ù´“Ë
+c	php:S1192B"IDefine a constant instead of duplicating this literal "reserved" 4 times.(­…–¥ÿÿÿÿÿ
+d	php:S1192¨"IDefine a constant instead of duplicating this literal "channels" 4 times.(¾Å¦™üÿÿÿÿ
+k	php:S1192¨"PDefine a constant instead of duplicating this literal "bits_per_sample" 8 times.(¾Å¦™üÿÿÿÿ
+b	php:S1192^"HDefine a constant instead of duplicating this literal "PADDING" 3 times.(¶ï’›úÿÿÿÿ
+a	php:S1192'"GDefine a constant instead of duplicating this literal "audio" 11 times.(ªÇ¾±üÿÿÿÿ
+f	php:S1192²"PDefine a constant instead of duplicating this literal "audio_signature" 4 times.(ä³Îé
+a	php:S1192™"KDefine a constant instead of duplicating this literal "datalength" 4 times.(Ž™ô÷
+a	php:S1192™"KDefine a constant instead of duplicating this literal "image_mime" 4 times.(Ž™ô÷
+m	php:S1192¦"WDefine a constant instead of duplicating this literal "compressed_audio_bytes" 3 times.(Þþæ­
+d	php:S1192¥"IDefine a constant instead of duplicating this literal "matroska" 3 times.(þã¹„ýÿÿÿÿ
+d	php:S11422"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ù´“Ë
+a	php:S1192Þ"FDefine a constant instead of duplicating this literal "flags" 3 times.(ÒÙæØûÿÿÿÿ
+e	php:S1192T"KDefine a constant instead of duplicating this literal "block_data" 6 times.(†žµœûÿÿÿÿ
+d	php:S1192h"JDefine a constant instead of duplicating this literal "SEEKTABLE" 5 times.(ÝÑ¹‰ÿÿÿÿÿ
+^	php:S1192•"HDefine a constant instead of duplicating this literal "picture" 3 times.(§ÕÂÆ
+_	php:S1192Š"IDefine a constant instead of duplicating this literal "comments" 6 times.(Ã±òæ
+hphp:S101"ORename class "getid3_flac" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×ÒóŒþÿÿÿÿ
+wphp:S115"^Rename this constant "syncword" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÞË±×øÿÿÿÿ
+b	php:S1192Þ"LDefine a constant instead of duplicating this literal "sample_rate" 5 times.(¿­´Ó
+d	php:S1192="JDefine a constant instead of duplicating this literal "avdataend" 3 times.(µïœÃûÿÿÿÿ
+M	php:S1172¿"2Remove the unused function parameter "$BlockData".(¸öù¹üÿÿÿÿ
+\	php:S1192z"HDefine a constant instead of duplicating this literal "PICTURE" 5 times.(ÏöÝ
+t	php:S1192¨"YDefine a constant instead of duplicating this literal "uncompressed_audio_bytes" 3 times.(¾Å¦™üÿÿÿÿ
+b	php:S1192™"LDefine a constant instead of duplicating this literal "picturetype" 3 times.(Ž™ô÷

@@ -1,0 +1,25 @@
+
+o	php:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÈìòÁıÿÿÿÿ
+~	php:S1488ù"cImmediately return this expression instead of assigning it to the temporary variable "$post_types".(Ì£ÙĞûÿÿÿÿ
+?	php:S1481ô")Remove this unused "$key" local variable.(¦æÔÑ
+N	php:S1135T"4Complete the task associated to this "TODO" comment.(ê…¼úÿÿÿÿ
+o	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(´‰„şÿÿÿÿ
+`	php:S1192½"JDefine a constant instead of duplicating this literal "instance" 10 times.(Ä‚ƒ€
+J	php:S1135Ë"4Complete the task associated to this "TODO" comment.(Ÿ¤…§
+^	php:S1192¹"HDefine a constant instead of duplicating this literal "page_no" 4 times.(»·»ò
+{	php:S1192©"`Define a constant instead of duplicating this literal "astra-sites-batch-status-string" 5 times.(—õ‘¬øÿÿÿÿ
+’	php:S1448"xClass "Astra_Sites_Batch_Processing" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(Õ¨ÍŸøÿÿÿÿ
+l	php:S1192»"VDefine a constant instead of duplicating this literal "last_export_checksums" 3 times.(•Í¯Ä
+]	php:S1192ç"GDefine a constant instead of duplicating this literal "pages" 10 times.(ãî‡
+O	php:S1172ì"4Remove the unused function parameter "$can_process".(¼¢ÙÃøÿÿÿÿ
+j	php:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(°¸»ò
+?	php:S1481»")Remove this unused "$key" local variable.(»¿ÏÕ
+Š	php:S1192¨"tDefine a constant instead of duplicating this literal "Error! Batch Not Start due to disabled cron events!" 3 times.(¾Àñ®
+c	php:S1192ª"HDefine a constant instead of duplicating this literal "page_id" 4 times.(ºœÓ¢úÿÿÿÿ
+yphp:S101"`Rename class "Astra_Sites_Batch_Processing" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Õ¨ÍŸøÿÿÿÿ
+J	php:S1481»"5Remove this unused "$sites_and_pages" local variable.(¤ÙÖ
+v	php:S1192ñ"`Define a constant instead of duplicating this literal "Request Failed! Still Calling.." 3 times.(çğÂğ
+]	php:S1192¾"GDefine a constant instead of duplicating this literal "method" 6 times.(­¼¯
+^	php:S1192³"HDefine a constant instead of duplicating this literal "timeout" 3 times.(àøÏ¯
+J	php:S1135ª"4Complete the task associated to this "TODO" comment.(Ÿ¤…§
+c	php:S1192 "HDefine a constant instead of duplicating this literal "WP_CLI" 11 times.(â“”úÿÿÿÿ

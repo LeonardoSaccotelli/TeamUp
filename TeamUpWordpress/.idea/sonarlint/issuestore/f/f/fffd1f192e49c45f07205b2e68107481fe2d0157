@@ -1,0 +1,5 @@
+
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+8php:S125P"Remove this commented out code.(µÍÉ‹ûÿÿÿÿ
+php:S101
+"hRename class "ParagonIE_Sodium_Core32_ChaCha20_Ctx" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¢ˆ´’ûÿÿÿÿ

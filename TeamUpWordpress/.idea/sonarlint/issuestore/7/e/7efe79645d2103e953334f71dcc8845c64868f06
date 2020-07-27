@@ -1,0 +1,21 @@
+
+I	php:S1172M"/Remove the unused function parameter "$output".(¢•¿žùÿÿÿÿ
+o	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÛòÀòøÿÿÿÿ
+G	php:S1172M"-Remove the unused function parameter "$args".(¢•¿žùÿÿÿÿ
+H	php:S1172M".Remove the unused function parameter "$depth".(¢•¿žùÿÿÿÿ
+H	php:S1172m".Remove the unused function parameter "$depth".(ô²Œ§üÿÿÿÿ
+L	php:S1155†"7Use empty() to check whether the array is empty or not.(§‹Ó
+B	php:S1172^"-Remove the unused function parameter "$args".(¢ùáÄ
+C	php:S1172^".Remove the unused function parameter "$depth".(¢ùáÄ
+D	php:S1172>"/Remove the unused function parameter "$output".(à©ä­
+O	php:S1172^":Remove the unused function parameter "$current_object_id".(¢ùáÄ
+G	php:S1172m"-Remove the unused function parameter "$args".(ô²Œ§üÿÿÿÿ
+I	php:S1172m"/Remove the unused function parameter "$object".(ô²Œ§üÿÿÿÿ
+D	php:S1172^"/Remove the unused function parameter "$object".(¢ùáÄ
+M	php:S1155û"7Use empty() to check whether the array is empty or not.(Ã£Í›
+j	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(å”öÒ
+D	php:S1172^"/Remove the unused function parameter "$output".(¢ùáÄ
+]	php:S1192Ä"GDefine a constant instead of duplicating this literal "parent" 3 times.(í‹äÁ
+C	php:S1172>".Remove the unused function parameter "$depth".(à©ä­
+B	php:S1172>"-Remove the unused function parameter "$args".(à©ä­
+I	php:S1172m"/Remove the unused function parameter "$output".(ô²Œ§üÿÿÿÿ

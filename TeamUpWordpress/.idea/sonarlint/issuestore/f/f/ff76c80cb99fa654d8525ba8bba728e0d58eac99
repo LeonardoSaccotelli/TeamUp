@@ -1,0 +1,16 @@
+
+k	php:S3776ø"URefactor this function to reduce its Cognitive Complexity from 192 to the 15 allowed.(ëÀğÁ
+o	php:S3776°
+"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ñŠôüÿÿÿÿ
+s	php:S1192”"XDefine a constant instead of duplicating this literal "wp-includes/version.php" 8 times.(ˆóÈåúÿÿÿÿ
+b	php:S1192µ	"LDefine a constant instead of duplicating this literal "wp-content/" 3 times.(ÚÎÈ•
+j	php:S1142°
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ñŠôüÿÿÿÿ
+a	php:S1192"KDefine a constant instead of duplicating this literal "wp-content" 4 times.(àÜÊ®
+f	php:S1192"PDefine a constant instead of duplicating this literal "update_feedback" 6 times.(İ€ê™
+J	php:S1066Ç
+"/Merge this if statement with the enclosing one.(ú®üÌùÿÿÿÿ
+e	php:S1142ø"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ëÀğÁ
+Ú	php:S1192§"ÃDefine a constant instead of duplicating this literal "The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions." 3 times.(ã×˜Â
+E	php:S1066¢	"/Merge this if statement with the enclosing one.(ÂÒñÛ
+php:S138ø"{This function "update_core" has 289 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ëÀğÁ

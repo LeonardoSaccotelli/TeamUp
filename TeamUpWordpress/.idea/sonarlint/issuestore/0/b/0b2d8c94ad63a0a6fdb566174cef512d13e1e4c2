@@ -1,0 +1,19 @@
+
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ş§áÖúÿÿÿÿ
+c	php:S1192+"IDefine a constant instead of duplicating this literal "schedule" 7 times.(Æ»É­ÿÿÿÿÿ
+`	php:S1192Í"JDefine a constant instead of duplicating this literal "interval" 11 times.(ªŒç
+e	php:S1142¼"OReduce the number of returns of this function 5, down to the maximum allowed 3.(›ıÙ»
+e	php:S1142Õ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(­ºÍ·
+f	php:S1192‡"KDefine a constant instead of duplicating this literal "doing_cron" 3 times.(¡¼ûÿÿÿÿ
+i	php:S1142""OReduce the number of returns of this function 5, down to the maximum allowed 3.(£Ô“çúÿÿÿÿ
+n	php:S3776""TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(£Ô“çúÿÿÿÿ
+j	php:S1142÷"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ÌÆÚ™ûÿÿÿÿ
+o	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(É£Áãşÿÿÿÿ
+d	php:S1192*"JDefine a constant instead of duplicating this literal "timestamp" 4 times.(¿÷äøşÿÿÿÿ
+j	php:S1142ë"OReduce the number of returns of this function 5, down to the maximum allowed 3.(É£Áãşÿÿÿÿ
+j	php:S1142ı"OReduce the number of returns of this function 4, down to the maximum allowed 3.(×øÚáûÿÿÿÿ
+c	php:S1192³"HDefine a constant instead of duplicating this literal "display" 4 times.(ùñëÔûÿÿÿÿ
+e	php:S1142÷"OReduce the number of returns of this function 4, down to the maximum allowed 3.(âæò°
+d	php:S1192ü"NDefine a constant instead of duplicating this literal "doing_wp_cron" 3 times.(Ôæ˜®
+]	php:S1192±"HDefine a constant instead of duplicating this literal "version" 6 times.(¹Æ­;
+j	php:S1142—"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¾·ıİşÿÿÿÿ

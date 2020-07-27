@@ -1,0 +1,23 @@
+
+h	php:S1301ê"MReplace this "switch" statement with "if" statements to increase readability.(»“é’úÿÿÿÿ
+k	php:S1192"QDefine a constant instead of duplicating this literal "ultimate-member" 26 times.(´­¦§øÿÿÿÿ
+Qphp:S131Ğ"7Add a "case default" clause to this "switch" statement.(Ûâ¥Çúÿÿÿÿ
+]	php:S1192"IDefine a constant instead of duplicating this literal "um_roles" 4 times.(…Á¸2
+b	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(ÈÅÊ‚
+\	php:S1192 "FDefine a constant instead of duplicating this literal "users" 3 times.(Ìáüî
+lphp:S101‚"WRename class "UM_Roles_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÇÙÆ½
+h	php:S1301Ğ"MReplace this "switch" statement with "if" statements to increase readability.(Ûâ¥Çúÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "delete" 3 times.(¤ìşîûÿÿÿÿ
+`	php:S1192"FDefine a constant instead of duplicating this literal "Roles" 3 times.(´­¦§øÿÿÿÿ
+h	php:S1192$"NDefine a constant instead of duplicating this literal "_um_is_custom" 5 times.(¨›˜Ñøÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(ÅëÍ
+b	php:S1117Ê"LRename "$columns" which has the same name as the field declared at line 166.(ä²Í‚
+g	php:S1117Ñ"LRename "$actions" which has the same name as the field declared at line 154.(Èôè³úÿÿÿÿ
+]	php:S1192±"GDefine a constant instead of duplicating this literal "plural" 3 times.(¦“«‡
+b	php:S1192¶"LDefine a constant instead of duplicating this literal "avail_roles" 4 times.(ñÛ›¸
+1	php:S3626õ"Remove this redundant jump.(ÉŠ©ƒ
+k	php:S1192"QDefine a constant instead of duplicating this literal "_wp_http_referer" 5 times.(–¸Ÿúùÿÿÿÿ
+Kphp:S131"7Add a "case default" clause to this "switch" statement.(ÈÅÊ‚
+Qphp:S131ê"7Add a "case default" clause to this "switch" statement.(»“é’úÿÿÿÿ
+[	php:S1192S"FDefine a constant instead of duplicating this literal "reset" 3 times.(¾ô¬¥
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ

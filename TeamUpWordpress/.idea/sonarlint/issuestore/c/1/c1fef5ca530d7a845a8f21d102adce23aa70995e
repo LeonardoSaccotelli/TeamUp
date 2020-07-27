@@ -1,0 +1,7 @@
+
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+p	php:S1192S"VDefine a constant instead of duplicating this literal "_um_groups_first_post" 4 times.(ÅÔ†üÿÿÿÿ
+G	php:S1172v"-Remove the unused function parameter "$args".(§Ôâúÿÿÿÿ
+B	php:S1172Q"-Remove the unused function parameter "$args".(¶ò°ì
+I	php:S1172v"/Remove the unused function parameter "$update".(§Ôâúÿÿÿÿ
+‘	php:S4144v"wUpdate this method so that its implementation is not identical to "um_groups_after_group_creation_frontend" on line 81.(§Ôâúÿÿÿÿ

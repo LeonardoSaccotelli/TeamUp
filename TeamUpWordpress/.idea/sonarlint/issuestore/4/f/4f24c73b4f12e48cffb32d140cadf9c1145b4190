@@ -1,0 +1,28 @@
+
+c	php:S1192‘"HDefine a constant instead of duplicating this literal "options" 9 times.(œä¤ıüÿÿÿÿ
+_	php:S1192›"IDefine a constant instead of duplicating this literal "relation" 4 times.(œ»é·
+_	php:S1192³"IDefine a constant instead of duplicating this literal "role__in" 8 times.(†’ˆ
+h	php:S1192/"NDefine a constant instead of duplicating this literal "header_single" 4 times.(«Ó‡ÿÿÿÿÿ
+c	php:S1192ÿ"HDefine a constant instead of duplicating this literal "BETWEEN" 5 times.(õ®¥Êøÿÿÿÿ
+‘php:S138Ÿ"wThis function "filters" has 166 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(”áäøÿÿÿÿ
+b	php:S1192—"GDefine a constant instead of duplicating this literal "search" 5 times.(ÖËËøÿÿÿÿ
+e	php:S1192€"JDefine a constant instead of duplicating this literal "inclusive" 6 times.(†‹È¶ÿÿÿÿÿ
+D	php:S1481¸")Remove this unused "$key" local variable.(å´…¥şÿÿÿÿ
+_	php:S1192."JDefine a constant instead of duplicating this literal "um-groups" 3 times.(î¥ş¢
+a	php:S1192‡"KDefine a constant instead of duplicating this literal "gmt_offset" 9 times.(Œ¿†œ
+o	php:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(”áäøÿÿÿÿ
+o	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(ÿ¦Şúÿÿÿÿÿ
+7	php:S1116¾"Remove this empty statement.(ôŸìúÿÿÿÿ
+g	php:S1192¬"LDefine a constant instead of duplicating this literal "meta_query" 11 times.(¶¦ƒÁùÿÿÿÿ
+u	php:S1192—"_Define a constant instead of duplicating this literal "custom_dropdown_options_source" 3 times.(¢®‰É
+k	php:S1192©"PDefine a constant instead of duplicating this literal "ultimate-member" 8 times.(û©¼ıÿÿÿÿ
+]	php:S1192"GDefine a constant instead of duplicating this literal "value" 13 times.(°¢Óá
+f	php:S1192æ"KDefine a constant instead of duplicating this literal "date_query" 4 times.(œÑµçüÿÿÿÿ
+_	php:S1192"IDefine a constant instead of duplicating this literal "compare" 12 times.(øãßİ
+kphp:S101"RRename class "Groups_Invites" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÍÃŸÿÿÿÿÿ
+Qphp:S131ö"7Add a "case default" clause to this "switch" statement.(ë–îÁùÿÿÿÿ
+]	php:S1192œ"GDefine a constant instead of duplicating this literal "label" 10 times.(û¤„
+\	php:S1192."GDefine a constant instead of duplicating this literal "header" 4 times.(î¥ş¢
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+g	php:S1192Ú"LDefine a constant instead of duplicating this literal "Y-m-d H:s:i" 4 times.(ˆÕ¦æùÿÿÿÿ
+u	php:S1488—"_Immediately return this expression instead of assigning it to the temporary variable "$filter".(®½ğ

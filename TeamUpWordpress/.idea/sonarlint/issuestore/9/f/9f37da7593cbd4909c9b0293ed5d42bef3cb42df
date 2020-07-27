@@ -1,0 +1,16 @@
+
+c	php:S1192."NDefine a constant instead of duplicating this literal "admin_notices" 3 times.(®­ÿ€
+wphp:S115"dRename this constant "um_groups_path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(”°Ö
+php:S115"fRename this constant "um_groups_plugin" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ØÙ¬›ıÿÿÿÿ
+e	php:S1192+"KDefine a constant instead of duplicating this literal "</p></div>" 3 times.(±ºûµıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+php:S115"hRename this constant "um_groups_requires" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(şàŸÕıÿÿÿÿ
+|php:S115"iRename this constant "um_groups_extension" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¾P
+l	php:S1192"RDefine a constant instead of duplicating this literal "um_groups_version" 3 times.(¥½…ùÿÿÿÿ
+l	php:S1192."WDefine a constant instead of duplicating this literal "um_groups_dependencies" 3 times.(®­ÿ€
+d	php:S1192"JDefine a constant instead of duplicating this literal "um-groups" 3 times.(ĞôÀüûÿÿÿÿ
+q	php:S1192+"WDefine a constant instead of duplicating this literal "<div class="error"><p>" 3 times.(±ºûµıÿÿÿÿ
+z	php:S4144:"fUpdate this method so that its implementation is not identical to "um_groups_dependencies" on line 42.(èäÿ
+€php:S115"gRename this constant "um_groups_version" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¥½…ùÿÿÿÿ
+ƒphp:S115"jRename this constant "um_groups_textdomain" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ĞôÀüûÿÿÿÿ
+wphp:S115"cRename this constant "um_groups_url" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ò°„¬

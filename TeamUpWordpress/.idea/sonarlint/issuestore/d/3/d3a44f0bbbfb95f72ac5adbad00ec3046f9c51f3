@@ -1,0 +1,33 @@
+
+	php:S1192½"fDefine a constant instead of duplicating this literal "<aside id="%1$s" class="widget %2$s">" 6 times.(ŸÂ€€şÿÿÿÿ
+v	php:S1192Ô"aDefine a constant instead of duplicating this literal "um_theme_end_footer_widget_title" 4 times.(Î‚Ş
+a	php:S11925"LDefine a constant instead of duplicating this literal "boot-col-12" 4 times.(›®ù´
+e	php:S11922"PDefine a constant instead of duplicating this literal "boot-col-md-12" 12 times.(áşß
+d	php:S1192¾"IDefine a constant instead of duplicating this literal "</aside>" 6 times.(ˆÕÊ¯şÿÿÿÿ
+g	php:S1192
+"MDefine a constant instead of duplicating this literal "sidebar-page" 6 times.(Šûœéÿÿÿÿÿ
+d	php:S1192x"ODefine a constant instead of duplicating this literal " boot-col-md-9" 3 times.(‡·¬Â
+d	php:S1192z"ODefine a constant instead of duplicating this literal " boot-col-md-8" 3 times.(¬“Ç§
+h	php:S1192¾"MDefine a constant instead of duplicating this literal "after_widget" 6 times.(ˆÕÊ¯şÿÿÿÿ
+i	php:S1192½"NDefine a constant instead of duplicating this literal "before_widget" 6 times.(ŸÂ€€şÿÿÿÿ
+u	php:S1192¿"ZDefine a constant instead of duplicating this literal "<h3 class="widget-title">" 6 times.(êä®Šıÿÿÿÿ
+o	php:S3776"URefactor this function to reduce its Cognitive Complexity from 156 to the 15 allowed.(Ğ‡üÿÿÿÿ
+e	php:S1192º"JDefine a constant instead of duplicating this literal "um-theme" 12 times.(“ùå«øÿÿÿÿ
+b	php:S1192À"LDefine a constant instead of duplicating this literal "after_title" 6 times.(£Ğ‡õ
+i	php:S11920"ODefine a constant instead of duplicating this literal "boot-col-md-6" 11 times.(îÀ’ƒùÿÿÿÿ
+i	php:S1192."ODefine a constant instead of duplicating this literal "boot-col-md-7" 10 times.(Ê“ÃÛşÿÿÿÿ
+b	php:S1192¼"LDefine a constant instead of duplicating this literal "description" 6 times.(ÛÌ 
+d	php:S1192,"ODefine a constant instead of duplicating this literal "boot-col-md-8" 10 times.(¬“Ç§
+\	php:S1192À"FDefine a constant instead of duplicating this literal "</h3>" 6 times.(£Ğ‡õ
+d	php:S1192*"ODefine a constant instead of duplicating this literal "boot-col-md-9" 10 times.(‡·¬Â
+E	php:S1066É"/Merge this if statement with the enclosing one.(Èßµ
+h	php:S1192¿"MDefine a constant instead of duplicating this literal "before_title" 6 times.(êä®Šıÿÿÿÿ
+b	php:S1192M"HDefine a constant instead of duplicating this literal "product" 3 times.(ñÕÿÿÿÿÿ
+1	php:S2010u"Replace "or" with "||".(û˜Åİüÿÿÿÿ
+~	php:S1192Ó"cDefine a constant instead of duplicating this literal "um_theme_start_footer_widget_title" 4 times.(·îÀ‡úÿÿÿÿ
+i	php:S1192|"ODefine a constant instead of duplicating this literal " boot-col-md-7" 3 times.(Ê“ÃÛşÿÿÿÿ
+i	php:S1192~"ODefine a constant instead of duplicating this literal " boot-col-md-6" 3 times.(îÀ’ƒùÿÿÿÿ
+«php:S138"‘This function "um_determine_single_content_width" has 211 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ğ‡üÿÿÿÿ
+1	php:S2010u"Replace "or" with "||".(û˜Åİüÿÿÿÿ
+_	php:S1126
+"EReplace this "if-then-else" statement by a single "return" statement.(Šûœéÿÿÿÿÿ

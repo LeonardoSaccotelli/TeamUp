@@ -1,0 +1,5 @@
+
+‚php:S101"iRename class "Astra_Sites_Compatibility_WooCommerce" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÑÉƒ»ýÿÿÿÿ
+=	php:S1481I"(Remove this unused "$id" local variable.(Ø·Ø³
+J	php:S1172<"5Remove the unused function parameter "$demo_api_uri".(ŠÁ…´
+C	php:S1481@")Remove this unused "$key" local variable.(ÿ£·öúÿÿÿÿ

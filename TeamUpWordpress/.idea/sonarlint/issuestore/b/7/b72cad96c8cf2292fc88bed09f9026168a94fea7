@@ -1,0 +1,21 @@
+
+o	php:S1192º"TDefine a constant instead of duplicating this literal "um_groups_shortcode" 3 times.(ª“öùÿÿÿÿ
+g	php:S1192¤"RDefine a constant instead of duplicating this literal "um_groups_account" 3 times.(»ÉÏP
+m	php:S1192™"RDefine a constant instead of duplicating this literal "um_groups_blocked" 3 times.(ØÌ´ùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+fphp:S101"MRename class "UM_Groups" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·Óš‰øÿÿÿÿ
+k	php:S1192Z"QDefine a constant instead of duplicating this literal "templates/email/" 5 times.(œÁ¼İÿÿÿÿÿ
+h	php:S1192ƒ"RDefine a constant instead of duplicating this literal "um_groups_members" 3 times.(ı¯¤Ë
+h	php:S1192"SDefine a constant instead of duplicating this literal "um_groups_requests" 3 times.(¥ÑÙ
+{	php:S1488j"aImmediately return this expression instead of assigning it to the temporary variable "$defaults".(³¸•²úÿÿÿÿ
+	php:S1448"eClass "UM_Groups" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.(·Óš‰øÿÿÿÿ
+m	php:S1192Å"RDefine a constant instead of duplicating this literal "um_groups_enqueue" 3 times.(ºşƒ†üÿÿÿÿ
+e	php:S1192¯"ODefine a constant instead of duplicating this literal "um_groups_ajax" 3 times.(Ïô¾Í
+k	php:S1192™"PDefine a constant instead of duplicating this literal "um_groups_setup" 3 times.(Èµÿ¸úÿÿÿÿ
+k	php:S1192Ğ"UDefine a constant instead of duplicating this literal "um_groups_taxonomies" 3 times.(¾Æïä
+o	php:S1192t"UDefine a constant instead of duplicating this literal "um_groups_discussion" 4 times.(ÜÅ¿Âøÿÿÿÿ
+4php:S125ó"Remove this commented out code.(Ô®ä§
+e	php:S1192"ODefine a constant instead of duplicating this literal "um_groups_form" 3 times.(Ò’ø€
+i	php:S1192¤"SDefine a constant instead of duplicating this literal "um_groups_main_api" 3 times.(¿Á·Ë
+h	php:S1192ñ"RDefine a constant instead of duplicating this literal "um_groups_invites" 3 times.(–´ ¨
+g	php:S1192Û"QDefine a constant instead of duplicating this literal "um_groups_member" 3 times.(ààÎ

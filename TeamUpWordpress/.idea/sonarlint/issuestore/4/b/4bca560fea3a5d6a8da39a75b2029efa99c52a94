@@ -1,0 +1,48 @@
+
+a	php:S1192û"KDefine a constant instead of duplicating this literal "condition" 15 times.(Ä‹
+`	php:S1192ä"JDefine a constant instead of duplicating this literal "line_icon" 4 times.(†¦„‚
+f	php:S1192ï"KDefine a constant instead of duplicating this literal "selectors" 18 times.(Ú‘›æúÿÿÿÿ
+c	php:S1192ö"HDefine a constant instead of duplicating this literal "wrapper" 3 times.(ÜÚÇÉúÿÿÿÿ
+a	php:S1192è"FDefine a constant instead of duplicating this literal "style" 7 times.(ìîõÂúÿÿÿÿ
+b	php:S1192u"HDefine a constant instead of duplicating this literal "shapes" 22 times.( ®¦ìúÿÿÿÿ
+„	php:S1488l"jImmediately return this expression instead of assigning it to the temporary variable "$additional_styles".(–¯¤©ùÿÿÿÿ
+b	php:S1192Â"GDefine a constant instead of duplicating this literal "dashed" 4 times.(¼õäÉıÿÿÿÿ
+b	php:S1192À"GDefine a constant instead of duplicating this literal "double" 4 times.(Æù½üÿÿÿÿ
+\	php:S1192v"GDefine a constant instead of duplicating this literal "shape" 23 times.(Èñî…
+php:S138Ş"‚This function "_register_controls" has 556 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+b	php:S1192ğ"LDefine a constant instead of duplicating this literal "{{WRAPPER}}" 8 times.(Ö¤©«
+c	php:S1192ú"MDefine a constant instead of duplicating this literal "prefix_class" 7 times.(¯™¡Á
+f	php:S1192¦"KDefine a constant instead of duplicating this literal "size_units" 4 times.(Œÿ˜şÿÿÿÿ
+\	php:S1192Ê"FDefine a constant instead of duplicating this literal "right" 3 times.(¸½¤”
+k	php:S1192x"QDefine a constant instead of duplicating this literal "supports_amount" 24 times.(áºàäùÿÿÿÿ
+c	php:S1192Š"HDefine a constant instead of duplicating this literal "pattern" 8 times.(È¥øüÿÿÿÿ
+a	php:S1192¤"FDefine a constant instead of duplicating this literal "color" 3 times.(é÷ÚŸûÿÿÿÿ
+\	php:S1192z"GDefine a constant instead of duplicating this literal "group" 27 times.(‹“ö•
+d	php:S1192î"IDefine a constant instead of duplicating this literal "default" 24 times.(õäÙúÿÿÿÿ
+\	php:S1192§"FDefine a constant instead of duplicating this literal "range" 9 times.(÷¦ç£
+]	php:S1192Ã"GDefine a constant instead of duplicating this literal "title" 12 times.(Šô×
+]	php:S1192¾"HDefine a constant instead of duplicating this literal "options" 9 times.(ò–»6
+\	php:S1192¿"FDefine a constant instead of duplicating this literal "solid" 5 times.(˜ê¼¯
+]	php:S1192-"HDefine a constant instead of duplicating this literal "Divider" 4 times.(ú¶é„
+c	php:S1192Ü"HDefine a constant instead of duplicating this literal "tribal" 10 times.(“²™¾şÿÿÿÿ
+r	php:S1192Ÿ"\Define a constant instead of duplicating this literal "{{WRAPPER}} .elementor-icon" 3 times.(×¨—ß
+a	php:S1192¨"KDefine a constant instead of duplicating this literal "icon_view!" 3 times.(ºü·Ó
+d	php:S1192í"IDefine a constant instead of duplicating this literal "template" 6 times.(É´£’úÿÿÿÿ
+`	php:S1192à"JDefine a constant instead of duplicating this literal "line_text" 4 times.(ğÀ¨¦
+a	php:S1192ï"KDefine a constant instead of duplicating this literal "0 0 120 26" 3 times.(òß²·
+]	php:S1192¨"GDefine a constant instead of duplicating this literal "scheme" 4 times.(¡ŠËÆ
+b	php:S1192Ç"GDefine a constant instead of duplicating this literal "Center" 3 times.(¾ÕÀ“úÿÿÿÿ
+f	php:S1192İ"KDefine a constant instead of duplicating this literal "0 0 126 26" 4 times.(‚ ¬ûÿÿÿÿ
+]	php:S1192Æ"GDefine a constant instead of duplicating this literal "center" 5 times.(¼Í
+\	php:S1192Ë"FDefine a constant instead of duplicating this literal "Right" 3 times.(æå‚
+\	php:S1192"FDefine a constant instead of duplicating this literal "value" 4 times.(šÿŞ
+e	php:S1192’"JDefine a constant instead of duplicating this literal "view_box" 14 times.(Š®òÖıÿÿÿÿ
+`	php:S1192-"KDefine a constant instead of duplicating this literal "elementor" 73 times.(ú¶é„
+a	php:S1192u"GDefine a constant instead of duplicating this literal "label" 54 times.( ®¦ìúÿÿÿÿ
+q	php:S1192w"WDefine a constant instead of duplicating this literal "preserve_aspect_ratio" 23 times.(ÍØ¥üÿÿÿÿ
+]	php:S1192Á"GDefine a constant instead of duplicating this literal "dotted" 4 times.(÷ŠÓß
+\	php:S1192y"GDefine a constant instead of duplicating this literal "round" 23 times.(üÜª¾
+fphp:S101"RRename class "Widget_Divider" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ä®ÈÔ
+g	php:S1192í"LDefine a constant instead of duplicating this literal "render_type" 6 times.(É´£’úÿÿÿÿ
+php:S138p"„This function "get_separator_styles" has 195 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ú«†Áøÿÿÿÿ
+b	php:S1192ü"GDefine a constant instead of duplicating this literal "style!" 4 times.(şÍÂŞûÿÿÿÿ

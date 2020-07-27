@@ -1,0 +1,76 @@
+
+D	php:S1172”".Remove the unused function parameter "$user1".(ÉÁéÀ
+a	php:S1192¶"FDefine a constant instead of duplicating this literal "</li>" 5 times.(¡–Âëúÿÿÿÿ
+a	php:S1192­"KDefine a constant instead of duplicating this literal "first_name" 3 times.(é³²
+e	php:S1192Ê"JDefine a constant instead of duplicating this literal "<a href="" 3 times.(êüÉ©üÿÿÿÿ
+r	php:S1192º"WDefine a constant instead of duplicating this literal "<span>%s</span> member" 3 times.(–Úø ÿÿÿÿÿ
+C	php:S2041Œ"-Remove the parentheses from this "echo" call.(’–ˆ
+]	php:S1192³"GDefine a constant instead of duplicating this literal "author" 3 times.(ş¶­é
+^	php:S1192Ì"HDefine a constant instead of duplicating this literal "default" 7 times.(•ûºã
+@	php:S1481¨"*Remove this unused "$slug" local variable.(§„«ç
+>	php:S1125Å"(Remove the literal "true" boolean value.(¿†æ
+z	php:S1192K"eDefine a constant instead of duplicating this literal "um_theme_header_friend_request_modal" 3 times.(Ù¾Ÿ²
+H	php:S1481©"2Remove this unused "$unread_count" local variable.(øÚ‡²
+s	php:S1192U"^Define a constant instead of duplicating this literal "um_theme_header_profile_after" 3 times.(–ÙÀó
+a	php:S1192Ë"FDefine a constant instead of duplicating this literal "small" 3 times.(å—´Ñûÿÿÿÿ
+2	php:S1116"Remove this empty statement.(œĞäß
+C	php:S1125ã"(Remove the literal "true" boolean value.(À»ş¹ÿÿÿÿÿ
+b	php:S1192§"GDefine a constant instead of duplicating this literal "groups" 3 times.(Ìğáóøÿÿÿÿ
+?	php:S1125…")Remove the literal "false" boolean value.(Û“¡
+o	php:S1192i"ZDefine a constant instead of duplicating this literal "um_friends_plugins_loaded" 3 times.(—òÎÓ
+HWeb:ImgWithoutAltCheckÆ"%Add an "alt" attribute to this image.(¼îí
+C	php:S1172ø"-Remove the unused function parameter "$args".(–Îàø
+g	php:S1192Ë"LDefine a constant instead of duplicating this literal "avatar_size" 3 times.(å—´Ñûÿÿÿÿ
+j	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(¯°ı
+IWeb:BoldAndItalicTagsCheckÏ"Replace this <i> tag by <em>.(‰Ã‘Øûÿÿÿÿ
+o	php:S1192Œ"TDefine a constant instead of duplicating this literal "um_groups_directory" 3 times.(üıÍ¡ÿÿÿÿÿ
+{	php:S1192"`Define a constant instead of duplicating this literal "um_groups_directory_search_form" 3 times.(Ù¯ùüùÿÿÿÿ
+x	php:S1192À"bDefine a constant instead of duplicating this literal "um_theme_profile_layout_one_close" 3 times.(„öÛ™
+Ephp:S121…"0Add curly braces around the nested statement(s).(Û“¡
+C	php:S1125‰"(Remove the literal "true" boolean value.(À»ş¹ÿÿÿÿÿ
+=	php:S1481"'Remove this unused "$k" local variable.(“ìó
+y	php:S1192P"dDefine a constant instead of duplicating this literal "um_notifications_check_dependencies" 4 times.(šóá×
+~	php:S1192ª"cDefine a constant instead of duplicating this literal "um_theme_header_notification_modal" 3 times.(™¡ë·úÿÿÿÿ
+b	php:S1192ç"GDefine a constant instead of duplicating this literal "</div>" 8 times.(˜ñÄøÿÿÿÿ
+>	php:S1125ƒ"(Remove the literal "true" boolean value.(¿†æ
+™	php:S4144”"~Update this method so that its implementation is not identical to "um_theme_below_profile_layout_one_image_close" on line 261.(ğ™ˆøùÿÿÿÿ
+E	php:S1066ò"/Merge this if statement with the enclosing one.(ÂÄÁ
+q	php:S1192µ"VDefine a constant instead of duplicating this literal "um_groups_join_button" 3 times.(à˜ĞÚşÿÿÿÿ
+t	php:S1192K"_Define a constant instead of duplicating this literal "um_theme_header_profile_before" 3 times.(Ù¾Ÿ²
+c	php:S1192°"MDefine a constant instead of duplicating this literal "show_actions" 5 times.(æõ÷û
+o	php:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ó‚Á·ùÿÿÿÿ
+_	php:S1192u"JDefine a constant instead of duplicating this literal "um-theme" 35 times.(ğğ®Ú
+e	php:S1192œ"JDefine a constant instead of duplicating this literal "um_groups" 6 times.(­âê‚üÿÿÿÿ
+D	php:S1481¥".Remove this unused "$response" local variable.(¸Õ®Á
+H	php:S1481¦"2Remove this unused "$update_query" local variable.(š‰á™
+DWeb:BoldAndItalicTagsCheck³"Replace this <i> tag by <em>.(áîËÖ
+IWeb:BoldAndItalicTagsCheck€"Replace this <i> tag by <em>.( »Şùÿÿÿÿ
+E	php:S1066Š"/Merge this if statement with the enclosing one.(¬â¿‡
+J	php:S1066˜"/Merge this if statement with the enclosing one.(ğ¡ôåüÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(œû“Ã
+C	php:S2041“"-Remove the parentheses from this "echo" call.(·åõæ
+D	php:S1172”".Remove the unused function parameter "$user2".(ÉÁéÀ
+d	php:S1192Ø"IDefine a constant instead of duplicating this literal "%s Group" 3 times.(µ«âşÿÿÿÿ
+k	php:S1192§"PDefine a constant instead of duplicating this literal "conversation_id" 3 times.(³’Ûûÿÿÿÿ
+B	php:S1481Ñ"'Remove this unused "$k" local variable.(“ßÿ¾ıÿÿÿÿ
+C	php:S1125‘"(Remove the literal "true" boolean value.(À»ş¹ÿÿÿÿÿ
+2	php:S1116ñ"Remove this empty statement.(‚Î×Ğ
+`	php:S1192²"JDefine a constant instead of duplicating this literal "recipient" 5 times.(ö³†£
+C	php:S1125Î"(Remove the literal "true" boolean value.(À»ş¹ÿÿÿÿÿ
+c	php:S1192»"HDefine a constant instead of duplicating this literal "</span>" 4 times.(…Ù¶¹øÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckğ"Replace this <i> tag by <em>.(ŸÃÍìúÿÿÿÿ
+}	php:S1192¡"bDefine a constant instead of duplicating this literal "um_theme_ext_um_group_list_layout" 3 times.(‘°Èõÿÿÿÿÿ
+u	php:S1192Q"[Define a constant instead of duplicating this literal "um_notification_rearrrange" 3 times.(ò¥‘õÿÿÿÿÿ
+z	php:S1192¹"_Define a constant instead of duplicating this literal "<span class="group-meta-info">" 3 times.(ñ‚ˆıÿÿÿÿ
+CWeb:BoldAndItalicTagsChecko"Replace this <i> tag by <em>.(¤î¦Î
+y	php:S1192L"_Define a constant instead of duplicating this literal "um_theme_header_activity_modal" 3 times.(¦ôÇúúÿÿÿÿ
+h	php:S1192©"MDefine a constant instead of duplicating this literal "display_name" 4 times.(–Éƒßüÿÿÿÿ
+f	php:S1192Ú"PDefine a constant instead of duplicating this literal "sidebar-profile" 3 times.(™ÜéÏ
+s	php:S1192º"XDefine a constant instead of duplicating this literal "<span>%s</span> members" 3 times.(–Úø ÿÿÿÿÿ
+Ephp:S121«"0Add curly braces around the nested statement(s).(‚­«ğ
+>	php:S1125°"(Remove the literal "true" boolean value.(æõ÷û
+C	php:S1125—"(Remove the literal "true" boolean value.(Ä¦ÖÒüÿÿÿÿ
+Dphp:S121š"0Add curly braces around the nested statement(s).(½Èƒx
+l	php:S1192À"VDefine a constant instead of duplicating this literal "um_profile_menu_after" 3 times.(„öÛ™
+o	php:S1192"YDefine a constant instead of duplicating this literal "um_groups_directory_tabs" 3 times.(©÷à 
+N	php:S1481é"3Remove this unused "$notifications" local variable.(ÃÙ’Ÿıÿÿÿÿ

@@ -1,0 +1,14 @@
+
+j	php:S1142‘"OReduce the number of returns of this function 4, down to the maximum allowed 3.(²ø„¬ûÿÿÿÿ
+p	php:S1192Ç"ZDefine a constant instead of duplicating this literal "upgrader_source_selection" 3 times.(åËÁï
+o	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(äÀ¬Àüÿÿÿÿ
+v	php:S1192¿"[Define a constant instead of duplicating this literal "upgrader_process_complete" 10 times.(ýúŽŽþÿÿÿÿ
+f	php:S1192z"RDefine a constant instead of duplicating this literal "remove_old_failed" 3 times.( É¶
+i	php:S11421"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¾Üùþüÿÿÿÿ
+j	php:S1142§"OReduce the number of returns of this function 4, down to the maximum allowed 3.(äÀ¬Àüÿÿÿÿ
+nphp:S101"ZRename class "Language_Pack_Upgrader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒÜßô
+j	php:S1142ñ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(úŸÌ¥ùÿÿÿÿ
+o	php:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(²ø„¬ûÿÿÿÿ
+e	php:S1117€"JRename "$result" which has the same name as the field declared at line 28.(èÍš£ûÿÿÿÿ
+E	php:S1066ß"/Merge this if statement with the enclosing one.(µôÃ­
+Qphp:S131ò"7Add a "case default" clause to this "switch" statement.(¡Ž»Öøÿÿÿÿ

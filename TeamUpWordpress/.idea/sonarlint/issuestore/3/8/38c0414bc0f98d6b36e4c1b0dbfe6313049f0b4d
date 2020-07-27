@@ -1,0 +1,15 @@
+
+a	php:S1192•"FDefine a constant instead of duplicating this literal "theme" 7 times.(¸ù¬øÿÿÿÿ
+^	php:S1192À"HDefine a constant instead of duplicating this literal "install" 3 times.(ŞÒ¨Õ
+\	php:S1192<"GDefine a constant instead of duplicating this literal "search" 4 times.(¼ÕôÛ
+\	php:S1192@"GDefine a constant instead of duplicating this literal "themes" 3 times.(ñ®¥Ç
+f	php:S1192¡"KDefine a constant instead of duplicating this literal "update.php" 4 times.(®¨Ã³ûÿÿÿÿ
+k	php:S1192¸"PDefine a constant instead of duplicating this literal "newer_installed" 3 times.(òÃÍ”ùÿÿÿÿ
+sphp:S101"_Rename class "WP_Theme_Install_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ş ×
+g	php:S1192¹"QDefine a constant instead of duplicating this literal "latest_installed" 3 times.(Îí±¢
+^	php:S1192["IDefine a constant instead of duplicating this literal "per_page" 3 times.(Í™±İ
+Pphp:S131b"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+l	php:S1192¯"QDefine a constant instead of duplicating this literal "update_available" 3 times.(°ä—Şúÿÿÿÿ
+TWeb:FrameWithoutTitleCheck "-Add a "title" attribute to this <iframe> tag.(Ùœ¸¥
+8php:S125A"Remove this commented out code.(œıˆıÿÿÿÿ
+]	php:S1192"GDefine a constant instead of duplicating this literal "action" 4 times.(À÷³†

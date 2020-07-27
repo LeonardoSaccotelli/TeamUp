@@ -1,0 +1,23 @@
+
+a	php:S1192„"KDefine a constant instead of duplicating this literal "Media File" 3 times.(­ë·»
+\	php:S1192ß"FDefine a constant instead of duplicating this literal "Right" 3 times.(”‡âú
+b	php:S1192Ü"GDefine a constant instead of duplicating this literal "Center" 3 times.(À”™şÿÿÿÿ
+G	Web:S4084^"3Add subtitles and description files for this video.(‡’†
+e	php:S1192§"JDefine a constant instead of duplicating this literal "thumbnail" 3 times.(ëÙÄşÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(âÖ“Õúÿÿÿÿ
+c	php:S1192Ì	"HDefine a constant instead of duplicating this literal "-source" 4 times.(¸¥¡”øÿÿÿÿ
+a	php:S1192©"FDefine a constant instead of duplicating this literal "Large" 3 times.(û³Ÿ§üÿÿÿÿ
+k	php:S1192×"UDefine a constant instead of duplicating this literal "Drop files to upload" 3 times.(…Ÿºû
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "medium" 3 times.(ÙÂÀÿúÿÿÿÿ
+n	php:S1192‘"XDefine a constant instead of duplicating this literal "post-plupload-upload-ui" 4 times.( ¡ë
+k	php:S1192‹"PDefine a constant instead of duplicating this literal "Attachment Page" 3 times.(ñ×¹Æùÿÿÿÿ
+c	php:S1192ç"HDefine a constant instead of duplicating this literal "Caption" 5 times.(¡ú¸Ïüÿÿÿÿ
+]	php:S1192í"HDefine a constant instead of duplicating this literal "Link To" 4 times.(ôèï9
+£php:S138"ˆThis function "wp_print_media_templates" has 329 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(âÖ“Õúÿÿÿÿ
+s	php:S1192¥"XDefine a constant instead of duplicating this literal "image_size_names_choose" 3 times.(ù´á­úÿÿÿÿ
+e	php:S1192ª"JDefine a constant instead of duplicating this literal "Full Size" 3 times.(ñ«õ´ÿÿÿÿÿ
+e	php:S1192§"JDefine a constant instead of duplicating this literal "Thumbnail" 3 times.(ëÙÄşÿÿÿÿ
+a	php:S1192©"FDefine a constant instead of duplicating this literal "large" 3 times.(û³Ÿ§üÿÿÿÿ
+l	php:S1192Î"QDefine a constant instead of duplicating this literal "Alternative Text" 3 times.(Ìí¨­øÿÿÿÿ
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "Medium" 3 times.(ÙÂÀÿúÿÿÿÿ
+a	php:S1192"KDefine a constant instead of duplicating this literal "Custom URL" 3 times.(—Ã½È

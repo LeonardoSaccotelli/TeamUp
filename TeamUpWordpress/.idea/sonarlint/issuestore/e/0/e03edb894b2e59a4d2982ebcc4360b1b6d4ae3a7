@@ -1,0 +1,45 @@
+
+i	php:S1192Â"NDefine a constant instead of duplicating this literal "menu-item-xfn" 4 times.(·Ö€Çúÿÿÿÿ
+j	php:S1142¹"OReduce the number of returns of this function 4, down to the maximum allowed 3.(„ùÂ§ùÿÿÿÿ
+d	php:S1871Ù	"NThis branch's code block is the same as the block for the branch on line 1239.(•‡¥¢
+h	php:S1192¬"RDefine a constant instead of duplicating this literal "_menu_item_object" 4 times.(êü¿
+`	php:S1192ı"JDefine a constant instead of duplicating this literal "menu-name" 8 times.(èœè¤
+j	php:S1192Ó"ODefine a constant instead of duplicating this literal "#%d (no title)" 3 times.(Î·À›úÿÿÿÿ
+l	php:S1192¸"QDefine a constant instead of duplicating this literal "menu-item-object" 7 times.(«˜“–ıÿÿÿÿ
+c	php:S1192ˆ"HDefine a constant instead of duplicating this literal "publish" 7 times.(Û¼²¥ÿÿÿÿÿ
+e	php:S1142˜	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÊÑÈ
+n	php:S1192¥"SDefine a constant instead of duplicating this literal "nav_menu_locations" 3 times.(ëƒ¨¯ùÿÿÿÿ
+]	php:S1192»"GDefine a constant instead of duplicating this literal "custom" 4 times.(Ùü“Ñ
+e	php:S1142º"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ûºÅÏ
+_	php:S1192"JDefine a constant instead of duplicating this literal "nav_menu" 14 times.(£ŸûÓ
+j	php:S3776˜	"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÊÑÈ
+d	php:S1871Ì	"NThis branch's code block is the same as the block for the branch on line 1226.(÷ÑÒµ
+o	php:S1192¶"TDefine a constant instead of duplicating this literal "_menu_item_orphaned" 3 times.(ï’»ùúÿÿÿÿ
+]	php:S1192Ã"GDefine a constant instead of duplicating this literal "parent" 4 times.(¼Ãàô
+o	php:S1192·"TDefine a constant instead of duplicating this literal "menu-item-object-id" 7 times.(âÎ¹³ùÿÿÿÿ
+d	php:S1871€"NThis branch's code block is the same as the block for the branch on line 1018.(­ïã
+f	php:S1192©"PDefine a constant instead of duplicating this literal "_menu_item_type" 4 times.(×ÊÁª
+a	php:S1192â"KDefine a constant instead of duplicating this literal "post_type" 13 times.(×é«
+n	php:S1192º"SDefine a constant instead of duplicating this literal "menu-item-position" 5 times.(õ²çıÿÿÿÿ
+\	php:S1788¥"AMove arguments "$object_id" after arguments without default value(š’™¬úÿÿÿÿ
+I	php:S1172¥".Remove the unused function parameter "$tt_id".(š’™¬úÿÿÿÿ
+e	php:S1192»"ODefine a constant instead of duplicating this literal "menu-item-type" 8 times.(Ùü“Ñ
+p	php:S1192«"UDefine a constant instead of duplicating this literal "_menu_item_object_id" 4 times.(’†±«øÿÿÿÿ
+k	php:S1192¾"VDefine a constant instead of duplicating this literal "menu-item-description" 4 times.(„¶…R
+^	php:S1192ö"HDefine a constant instead of duplicating this literal "term_id" 3 times.(ş ¡Í
+g	php:S1192Á"LDefine a constant instead of duplicating this literal "description" 4 times.(£³ª úÿÿÿÿ
+i	php:S1192½"NDefine a constant instead of duplicating this literal "menu-item-url" 5 times.(ğ”ÖÚùÿÿÿÿ
+j	php:S1142¢"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¼•¤şÿÿÿÿ
+g	php:S1192Ã"QDefine a constant instead of duplicating this literal "menu-item-status" 4 times.(‡ëÀ‹
+m	php:S1192Á"RDefine a constant instead of duplicating this literal "menu-item-classes" 4 times.(È½êùÿÿÿÿ
+f	php:S1192ú"KDefine a constant instead of duplicating this literal "menu_order" 3 times.(§·‘ºûÿÿÿÿ
+d	php:S1192î"NDefine a constant instead of duplicating this literal "nav_menu_item" 5 times.(ÕÔœ‘
+g	php:S1192Ë"LDefine a constant instead of duplicating this literal "post_status" 6 times.(ì£˜‰ıÿÿÿÿ
+a	php:S1192ˆ"FDefine a constant instead of duplicating this literal "draft" 4 times.(Û¼²¥ÿÿÿÿÿ
+o	php:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(„ùÂ§ùÿÿÿÿ
+o	php:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(¼•¤şÿÿÿÿ
+k	php:S3776§"URefactor this function to reduce its Cognitive Complexity from 111 to the 15 allowed.(à¤÷ 
+_	php:S1192ß"IDefine a constant instead of duplicating this literal "taxonomy" 9 times.(½şı
+k	php:S1192¼"PDefine a constant instead of duplicating this literal "menu-item-title" 5 times.(çÎ™€øÿÿÿÿ
+j	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¹Àíá
+a	php:S1192´"KDefine a constant instead of duplicating this literal "output_key" 3 times.(¥æ±ñ

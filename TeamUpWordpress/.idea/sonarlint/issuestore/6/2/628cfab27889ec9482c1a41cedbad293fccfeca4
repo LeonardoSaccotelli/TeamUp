@@ -1,0 +1,37 @@
+
+h	php:S1192Ç"RDefine a constant instead of duplicating this literal "clear_destination" 6 times.(ÅüÃ¾
+j	php:S1142ı"OReduce the number of returns of this function 4, down to the maximum allowed 3.(²ø„¬ûÿÿÿÿ
+j	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(°ú…
+R	php:S1155ø"7Use empty() to check whether the array is empty or not.(Ÿû—›ıÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "fs_no_folder" 3 times.(µ…Š€şÿÿÿÿ
+i	php:S1192¥"SDefine a constant instead of duplicating this literal "files_not_writable" 3 times.(ÜÙ´°
+o	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ù“ÿÿÿÿÿ
+g	php:S1192™"RDefine a constant instead of duplicating this literal "fs_no_content_dir" 3 times.(°ıÜ0
+a	php:S1192Ê"KDefine a constant instead of duplicating this literal "hook_extra" 9 times.(È¦”û
+d	php:S1192˜"ODefine a constant instead of duplicating this literal "fs_no_root_dir" 3 times.(ò›¯Q
+^	php:S1192—"IDefine a constant instead of duplicating this literal "fs_error" 3 times.(ÌËı%
+_	php:S1192¡"IDefine a constant instead of duplicating this literal "is_multi" 7 times.(´öâº
+c	php:S1192œ"HDefine a constant instead of duplicating this literal "package" 3 times.(¿¯áËüÿÿÿÿ
+d	php:S1192È"NDefine a constant instead of duplicating this literal "clear_working" 6 times.(Ñ×…
+b	php:S1192Æ"LDefine a constant instead of duplicating this literal "destination" 7 times.(»·œ€
+E	php:S1066Ê"/Merge this if statement with the enclosing one.(µôÃ­
+hphp:S1013"ORename class "WP_Upgrader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ãœ„üÿÿÿÿ
+k	php:S1142¹"PReduce the number of returns of this function 10, down to the maximum allowed 3.(ı¿äôÿÿÿÿÿ
+j	php:S1142™"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ù“ÿÿÿÿÿ
+m	php:S1192š"RDefine a constant instead of duplicating this literal "softfail-filename" 3 times.(ôÛÆßûÿÿÿÿ
+p	php:S1192¤"UDefine a constant instead of duplicating this literal "incompatible_archive" 5 times.(…Îú¾ûÿÿÿÿ
+]	php:S1192Å"GDefine a constant instead of duplicating this literal "source" 8 times.(‹òšÎ
+e	php:S1117Å"JRename "$result" which has the same name as the field declared at line 92.(òñ¬Ùıÿÿÿÿ
+h	php:S1192š"RDefine a constant instead of duplicating this literal "fs_no_plugins_dir" 3 times.(ÎèÚ
+g	php:S1192•"LDefine a constant instead of duplicating this literal "bad_request" 3 times.(Ë¶¢àøÿÿÿÿ
+r	php:S1192É"\Define a constant instead of duplicating this literal "abort_if_destination_exists" 5 times.(®ÿÜ»
+l	php:S1192›"QDefine a constant instead of duplicating this literal "fs_no_themes_dir" 3 times.(…úÁûúÿÿÿÿ
+`	php:S1117Ğ"JRename "$result" which has the same name as the field declared at line 92.(½æîÑ
+j	php:S1142ı"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ŠËÙéúÿÿÿÿ
+`	php:S1117“"JRename "$result" which has the same name as the field declared at line 92.(¶–Ğë
+i	php:S1192¢"NDefine a constant instead of duplicating this literal "folder_exists" 3 times.(ñ×Õáıÿÿÿÿ
+f	php:S1142Á"PReduce the number of returns of this function 10, down to the maximum allowed 3.(°ú…
+k	php:S1192Ÿ"PDefine a constant instead of duplicating this literal "download_failed" 3 times.(ÇÌßŞûÿÿÿÿ
+e	php:S1142õ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(î‹
+o	php:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ı¿äôÿÿÿÿÿ
+e	php:S1192–"ODefine a constant instead of duplicating this literal "fs_unavailable" 3 times.(æ¯Ñ

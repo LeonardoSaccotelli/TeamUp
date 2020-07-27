@@ -1,0 +1,40 @@
+
+\	php:S1192œ"FDefine a constant instead of duplicating this literal "width" 6 times.(‡û”„
+F	php:S1172÷"0Remove the unused function parameter "$user_id".(»¡ÒÀ
+E	php:S1066®	"/Merge this if statement with the enclosing one.(³Òèù
+I	php:S1172Æ".Remove the unused function parameter "$coord".( ˆÚ´øÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "height" 5 times.(¥İá×ûÿÿÿÿ
+\	php:S1192ö"FDefine a constant instead of duplicating this literal "error" 7 times.(…ªÄ‰
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+f	php:S1192ø"KDefine a constant instead of duplicating this literal "min_height" 3 times.(‚õËŒıÿÿÿÿ
+d	php:S1192È"NDefine a constant instead of duplicating this literal "allowed_types" 3 times.(˜®øê
+f	php:S1192o"LDefine a constant instead of duplicating this literal "cover_photo" 5 times.(¿¹ûÿÿÿÿ
+c	php:S1192…
+"HDefine a constant instead of duplicating this literal "metakey" 3 times.(’Â«üÿÿÿÿ
+G	php:S1172Æ",Remove the unused function parameter "$key".( ˆÚ´øÿÿÿÿ
+K	php:S1172Æ"0Remove the unused function parameter "$user_id".( ˆÚ´øÿÿÿÿ
+a	php:S1192é"KDefine a constant instead of duplicating this literal "file_info" 22 times.(şûş¢
+f	php:S1192Ü"KDefine a constant instead of duplicating this literal "source_url" 3 times.(‰Å½­úÿÿÿÿ
+y	php:S1488—"^Immediately return this expression instead of assigning it to the temporary variable "$error".(„³ÁŠıÿÿÿÿ
+G	php:S1172Æ",Remove the unused function parameter "$src".( ˆÚ´øÿÿÿÿ
+Lphp:S131û"7Add a "case default" clause to this "switch" statement.(Üÿøå
+j	php:S3776ù	"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(”¹Û
+G	php:S1172œ",Remove the unused function parameter "$dir".(ÔÌŒ¢ùÿÿÿÿ
+o	php:S3776™	"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(ÃÀ¾ûıÿÿÿÿ
+g	php:S1192g"MDefine a constant instead of duplicating this literal "stream_photo" 6 times.(›™Ğ“şÿÿÿÿ
+d	php:S1192Ş"IDefine a constant instead of duplicating this literal "filename" 3 times.(®æåÁøÿÿÿÿ
+D	php:S1172²".Remove the unused function parameter "$coord".(Ö²‹’
+h	php:S1192µ"RDefine a constant instead of duplicating this literal "image_compression" 3 times.(¿çÈ
+k	php:S1192—"PDefine a constant instead of duplicating this literal "ultimate-member" 9 times.(„³ÁŠıÿÿÿÿ
+_	php:S1192é"IDefine a constant instead of duplicating this literal "basename" 4 times.(şûş¢
+]	php:S1192ï"GDefine a constant instead of duplicating this literal "image" 11 times.(ÓåóÜ
+`	php:S1192ö"JDefine a constant instead of duplicating this literal "min_width" 3 times.(¸ƒ«
+b	php:S1192n"NDefine a constant instead of duplicating this literal "profile_photo" 5 times.(£»¸Y
+9php:S125ó"Remove this commented out code.(¥ùÿÿÿÿ
+g	php:S1192İ"LDefine a constant instead of duplicating this literal "source_path" 3 times.(·•Æİşÿÿÿÿ
+i	php:S1192ô"NDefine a constant instead of duplicating this literal "max_file_size" 4 times.(ï·Ìéúÿÿÿÿ
+f	php:S1192Å"PDefine a constant instead of duplicating this literal "image_max_width" 3 times.(–Àï—
+C	php:S1125ğ"(Remove the literal "true" boolean value.(üÖˆÿıÿÿÿÿ
+G	php:S1172œ",Remove the unused function parameter "$ext".(ÔÌŒ¢ùÿÿÿÿ
+~	php:S1448"dClass "Uploader" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.(ÃÊë¢üÿÿÿÿ
+D	php:S1172÷".Remove the unused function parameter "$coord".(»¡ÒÀ

@@ -1,0 +1,4 @@
+
+i	php:S1142J"OReduce the number of returns of this function 6, down to the maximum allowed 3.(®ÏËúÿÿÿÿ
+j	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ê°ŒÑ
+wphp:S101"cRename class "WP_Recovery_Mode_Cookie_Service" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Û–¸ˆ

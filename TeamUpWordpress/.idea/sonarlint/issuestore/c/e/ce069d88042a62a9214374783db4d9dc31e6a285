@@ -1,0 +1,18 @@
+
+o	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(°ò·’ùÿÿÿÿ
+f	php:S1192³"KDefine a constant instead of duplicating this literal "single-top" 3 times.(ÌĞÓ¼øÿÿÿÿ
+P	php:S1172ù"5Remove the unused function parameter "$current_page".(çãŒÕıÿÿÿÿ
+h	php:S1192Î"MDefine a constant instead of duplicating this literal "twentytwenty" 9 times.(‹ç“¹ÿÿÿÿÿ
+s	php:S1488¢"]Immediately return this expression instead of assigning it to the temporary variable "$link".(»”Ûë
+]	php:S1226Ë"BIntroduce a new variable instead of reusing the parameter "$text".(•—€¶şÿÿÿÿ
+o	php:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ñºï¡ùÿÿÿÿ
+m	php:S1192‰"WDefine a constant instead of duplicating this literal "menu-item-has-children" 3 times.(ÆˆÜô
+I	php:S1172›".Remove the unused function parameter "$depth".(á¢—©şÿÿÿÿ
+I	php:S1172ù".Remove the unused function parameter "$depth".(çãŒÕıÿÿÿÿ
+H	php:S1172ù"-Remove the unused function parameter "$item".(çãŒÕıÿÿÿÿ
+O	php:S3801ä"4Refactor this function to use "return" consistently.(Ñºï¡ùÿÿÿÿ
+O	php:S3801À"4Refactor this function to use "return" consistently.(ÌÁÇ®úÿÿÿÿ
+D	php:S1172Ê".Remove the unused function parameter "$depth".(Ğà Ú
+b	php:S1192"GDefine a constant instead of duplicating this literal "author" 3 times.(Ù·èçşÿÿÿÿ
+I	php:S3801_"4Refactor this function to use "return" consistently.(—œ¥™
+v	php:S1488ü"aImmediately return this expression instead of assigning it to the temporary variable "$duration".(ËµÈS

@@ -1,0 +1,31 @@
+
+jphp:S101"QRename class "Widget_Toggle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·í€şÿÿÿÿ
+J	php:S1135ÿ"4Complete the task associated to this "TODO" comment.(ç†à¶
+CWeb:BoldAndItalicTagsCheck¯"Replace this <i> tag by <em>.(óÁ­
+_	php:S1192_"JDefine a constant instead of duplicating this literal "tab_title" 5 times.(àáì¡
+\	php:S1192X"GDefine a constant instead of duplicating this literal "label" 26 times.(äÔ£Ü
+a	php:S1192l"LDefine a constant instead of duplicating this literal "tab_content" 5 times.(¸•—
+b	php:S1192c"HDefine a constant instead of duplicating this literal "default" 8 times.(õÓæûúÿÿÿÿ
+œphp:S138T"‚This function "_register_controls" has 376 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+b	php:S1192³"LDefine a constant instead of duplicating this literal "icon_active" 3 times.(·¯™
+a	php:S1192÷"KDefine a constant instead of duplicating this literal "icon_align" 4 times.(ˆÉ«€
+\	php:S1192î"FDefine a constant instead of duplicating this literal "range" 3 times.(÷¦ç£
+d	php:S1192“"NDefine a constant instead of duplicating this literal "selected_icon" 4 times.(™° ‡
+e	php:S1192-"KDefine a constant instead of duplicating this literal "elementor" 35 times.(ÉààØıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckî"Replace this <i> tag by <em>.(Ã¬Ù
+	php:S1192õ"sDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-toggle .elementor-tab-title" 4 times.(¤½Éúøÿÿÿÿ
+_	php:S1192›"IDefine a constant instead of duplicating this literal "fa-solid" 4 times.(Õíú
+j	php:S1192Í"ODefine a constant instead of duplicating this literal "title_html_tag" 3 times.(ÜÚ¹¸úÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "toggle" 3 times.(Ú×„¤ÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck°"Replace this <i> tag by <em>.(ƒ÷µ†úÿÿÿÿ
+d	php:S1192œ"IDefine a constant instead of duplicating this literal "selector" 3 times.(³ÈË“ÿÿÿÿÿ
+Š	php:S1192ö"uDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-toggle .elementor-tab-content" 6 times.(Ø½
+f	php:S1192ô"KDefine a constant instead of duplicating this literal "selectors" 13 times.(Ú‘›æúÿÿÿÿ
+a	php:S1192-"GDefine a constant instead of duplicating this literal "Toggle" 3 times.(ÉààØıÿÿÿÿ
+]	php:S1192¾"GDefine a constant instead of duplicating this literal "scheme" 5 times.(¡ŠËÆ
+f	php:S1192d"LDefine a constant instead of duplicating this literal "label_block" 3 times.(à–ÂÆúÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckï"Replace this <i> tag by <em>.(í­±úÿÿÿÿ
+m	php:S1192¼"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 5 times.(Òˆ‰‚ûÿÿÿÿ
+\	php:S1192¹"FDefine a constant instead of duplicating this literal "Color" 3 times.(ì¡¤
+\	php:S1192–"FDefine a constant instead of duplicating this literal "class" 3 times.(Øõ”ß
+\	php:S1192š"FDefine a constant instead of duplicating this literal "value" 6 times.(”®¥

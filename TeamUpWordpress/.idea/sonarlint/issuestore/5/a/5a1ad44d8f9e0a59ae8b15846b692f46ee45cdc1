@@ -1,0 +1,119 @@
+
+l	php:S1192¬"QDefine a constant instead of duplicating this literal "wp-head-callback" 9 times.(Şôì›üÿÿÿÿ
+s	php:S1192€"XDefine a constant instead of duplicating this literal "nav_menus_created_posts" 3 times.(´ ¯½ùÿÿÿÿ
+j	php:S1142Š"OReduce the number of returns of this function 8, down to the maximum allowed 3.(Ö’ƒÒúÿÿÿÿ
+J	php:S3801Õ"4Refactor this function to use "return" consistently.(›¹—˜
+\	php:S1192%"GDefine a constant instead of duplicating this literal "errors" 4 times.(—ç²á
+e	php:S1192­	"ODefine a constant instead of duplicating this literal "random-default" 3 times.(µ…¥©
+O	php:S1135ğ"4Complete the task associated to this "TODO" comment.(£Ú®åúÿÿÿÿ
+j	php:S1192á"TDefine a constant instead of duplicating this literal "custom_image_header" 3 times.(óá
+^	php:S1192Î"HDefine a constant instead of duplicating this literal "wp_head" 4 times.(”²‰î
+—php:S138Õ"This function "add_theme_support" has 168 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(›¹—˜
+a	php:S1192ê"FDefine a constant instead of duplicating this literal "items" 3 times.(¯§¿Ìùÿÿÿÿ
+b	php:S1192"LDefine a constant instead of duplicating this literal "flex-height" 5 times.(º¢‡Ú
+d	php:S1192­"NDefine a constant instead of duplicating this literal "template_root" 3 times.(ôÃ˜
+i	php:S1192’"NDefine a constant instead of duplicating this literal "current_theme" 3 times.(¡ÓöÚúÿÿÿÿ
+\	php:S1192Æ"FDefine a constant instead of duplicating this literal "style" 4 times.(±ß
+g	php:S1192Æ"QDefine a constant instead of duplicating this literal " type="text/css"" 4 times.(±ß
+h	php:S1301Ø"MReplace this "switch" statement with "if" statements to increase readability.(·ª¡«ûÿÿÿÿ
+b	php:S1192›"LDefine a constant instead of duplicating this literal "header-text" 9 times.(Øÿ—»
+o	php:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¤ÏÜïúÿÿÿÿ
+J	php:S1066Ê"/Merge this if statement with the enclosing one.(ğÃÇúÿÿÿÿ
+d	php:S1192¸"NDefine a constant instead of duplicating this literal "customize.php" 3 times.(‚©€Ë
+f	php:S1192«"PDefine a constant instead of duplicating this literal "stylesheet_root" 3 times.(²¦˜…
+f	php:S1192ñ"KDefine a constant instead of duplicating this literal "/style.css" 9 times.(ÔÄÛ²şÿÿÿÿ
+a	php:S1192†"LDefine a constant instead of duplicating this literal "custom-logo" 5 times.(°ÅâC
+]	php:S1192 "GDefine a constant instead of duplicating this literal "repeat" 3 times.(«ëï‡
+i	php:S1871ä	"NThis branch's code block is the same as the block for the branch on line 1250.(ì ÌĞøÿÿÿÿ
+d	php:S1192Û"NDefine a constant instead of duplicating this literal "default-color" 6 times.(¾éã‹
+e	php:S1192‡"ODefine a constant instead of duplicating this literal "custom-header" 28 times.(Ô»¯
+r	php:S1488˜"\Immediately return this expression instead of assigning it to the temporary variable "$css".(ñÈ¨Û
+j	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(†Ÿæ
+\	php:S1192³"FDefine a constant instead of duplicating this literal "__jit" 6 times.(…­†Ë
+b	php:S1192y"HDefine a constant instead of duplicating this literal "/themes" 4 times.(ÈˆÑ¢ûÿÿÿÿ
+r	php:S1192‡"WDefine a constant instead of duplicating this literal "Theme starter content" 37 times.(ø³Ûªÿÿÿÿÿ
+J	php:S1066à"/Merge this if statement with the enclosing one.(ÙË±õúÿÿÿÿ
+n	php:S1192Ç"SDefine a constant instead of duplicating this literal "custom-background" 18 times.(åÛöÎøÿÿÿÿ
+h	php:S1192±"MDefine a constant instead of duplicating this literal "preprocessed" 4 times.(†«ĞËúÿÿÿÿ
+]	php:S1192İ"GDefine a constant instead of duplicating this literal "width" 14 times.(ÃŞèÅ
+o	php:S1192­"TDefine a constant instead of duplicating this literal "admin-head-callback" 4 times.(‘ğÇšıÿÿÿÿ
+n	php:S1192ä"SDefine a constant instead of duplicating this literal "custom_css_post_id" 3 times.(íçœŸûÿÿÿÿ
+d	php:S1142°"OReduce the number of returns of this function 4, down to the maximum allowed 3.(úİäa
+h	php:S1192¸"MDefine a constant instead of duplicating this literal "header_image" 4 times.(‚‰£¸øÿÿÿÿ
+^	php:S1192â"HDefine a constant instead of duplicating this literal "publish" 4 times.(¦—Êı
+g	php:S1192û"LDefine a constant instead of duplicating this literal "theme_roots" 5 times.(‘ª¾‘ùÿÿÿÿ
+^	php:S1192›"HDefine a constant instead of duplicating this literal "uploads" 4 times.(öª«“
+a	php:S1192€"FDefine a constant instead of duplicating this literal "value" 3 times.(´ ¯½ùÿÿÿÿ
+o	php:S1192¾"YDefine a constant instead of duplicating this literal "customize_changeset_uuid" 5 times.(“Âùÿ
+j	php:S1192¸"ODefine a constant instead of duplicating this literal "default-image" 14 times.(‚‰£¸øÿÿÿÿ
+i	php:S1192‡"SDefine a constant instead of duplicating this literal "default-text-color" 6 times.(Ô»¯
+_	php:S1192È"IDefine a constant instead of duplicating this literal "mimeType" 3 times.(ĞÒ¸Ä
+`	php:S1192©"JDefine a constant instead of duplicating this literal "wp_loaded" 3 times.(’½ûç
+\	php:S1192Æ"FDefine a constant instead of duplicating this literal "html5" 9 times.(±ß
+]	php:S1192Ñ"GDefine a constant instead of duplicating this literal "object" 5 times.(ã¼Ÿ­
+f	php:S11926"LDefine a constant instead of duplicating this literal "theme_root" 11 times.(É½è”üÿÿÿÿ
+h	php:S1192š"MDefine a constant instead of duplicating this literal "editor-style" 4 times.(‰âüğıÿÿÿÿ
+J	php:S3801È"4Refactor this function to use "return" consistently.(ÎäÏÄ
+j	php:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿŠ½û
+Qphp:S131Ü"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+d	php:S1192™
+"NDefine a constant instead of duplicating this literal "thumbnail_url" 5 times.(·‚Å’
+f	php:S1192İ"PDefine a constant instead of duplicating this literal "post-thumbnails" 5 times.(”È—Á
+c	php:S1192Ş"HDefine a constant instead of duplicating this literal "height" 14 times.(›Á‰Çıÿÿÿÿ
+i	php:S3776!"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¢øÏ
+e	php:S1192Ò"JDefine a constant instead of duplicating this literal "object_id" 5 times.(Ûä¶åüÿÿÿÿ
+l	php:S1192š"VDefine a constant instead of duplicating this literal "custom-header-uploads" 3 times.(Íª¶ö
+J	php:S1135‚
+"4Complete the task associated to this "TODO" comment.(”ò”™
+j	php:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(»ì× 
+¤php:S138ú"‰This function "get_theme_starter_content" has 271 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(—Å“¼ıÿÿÿÿ
+f	php:S1192Ê"PDefine a constant instead of duplicating this literal "customize_theme" 3 times.(²úšå
+g	php:S1192Ø"LDefine a constant instead of duplicating this literal "post_status" 3 times.(ƒ—©£üÿÿÿÿ
+c	php:S1192ƒ"HDefine a constant instead of duplicating this literal "widgets" 3 times.(şÊ¡†ÿÿÿÿÿ
+_	php:S1192¸"IDefine a constant instead of duplicating this literal "template" 5 times.(€éâæ
+a	php:S1192à"KDefine a constant instead of duplicating this literal "theme_file" 4 times.(´Ççõ
+h	php:S1192ã"MDefine a constant instead of duplicating this literal "post_content" 6 times.(Ì–şÿÿÿÿ
+e	php:S1142È"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÎäÏÄ
+m	php:S1192›
+"RDefine a constant instead of duplicating this literal "attachment_parent" 3 times.(»ÌŞ—üÿÿÿÿ
+Qphp:S131Â"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+Qphp:S131š"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+h	php:S1192¼"MDefine a constant instead of duplicating this literal "wp_customize" 3 times.(îßÓÿÿÿÿÿ
+d	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(”Šˆx
+f	php:S1192"KDefine a constant instead of duplicating this literal "flex-width" 5 times.(«ûíúÿÿÿÿ
+\	php:S1192Ê"FDefine a constant instead of duplicating this literal "theme" 4 times.(²úšå
+d	php:S1192¶"NDefine a constant instead of duplicating this literal "editor_styles" 4 times.(…ûŒè
+b	php:S1192&"HDefine a constant instead of duplicating this literal "allowed" 3 times.(·™ñ€üÿÿÿÿ
+e	php:S1142Õ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(›¹—˜
+ƒ	Web:S4645Æ"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(ãõ§üÿÿÿÿ
+o	php:S1192–"TDefine a constant instead of duplicating this literal "customize_changeset" 3 times.(‚¿‡ùÿÿÿÿ
+o	php:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(—Å“¼ıÿÿÿÿ
+r	php:S1192Ê"\Define a constant instead of duplicating this literal "customize_messenger_channel" 3 times.(²úšå
+b	php:S1192'"HDefine a constant instead of duplicating this literal "blog_id" 4 times.(ü·„Åúÿÿÿÿ
+i	php:S1192ô"SDefine a constant instead of duplicating this literal "nav_menu_locations" 3 times.(–½’ı
+j	php:S1142Ä"OReduce the number of returns of this function 5, down to the maximum allowed 3.(£†ŒÑıÿÿÿÿ
+e	php:S1142Ú	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹Ø§½
+Qphp:S131Ø"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+”	php:S1192—"yDefine a constant instead of duplicating this literal "<!-- wp:paragraph -->\n<p>%s</p>\n<!-- /wp:paragraph -->" 4 times.(‰›ûûÿÿÿÿ
+b	php:S1192‡"GDefine a constant instead of duplicating this literal "title" 20 times.(ø³Ûªÿÿÿÿÿ
+i	php:S1192ª"SDefine a constant instead of duplicating this literal "customize_register" 3 times.(ú¦î
+j	php:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(›¹—˜
+g	php:S1192²"LDefine a constant instead of duplicating this literal "stylesheet" 14 times.(»»¨¶ıÿÿÿÿ
+j	php:S3776±
+"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(á¸ ä
+e	php:S1192Ê"ODefine a constant instead of duplicating this literal "changeset_uuid" 5 times.(²úšå
+i	php:S3776°"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(úİäa
+\	php:S1192Ğ
+"FDefine a constant instead of duplicating this literal "video" 4 times.(ÑñÈè
+9php:S125Ø"Remove this commented out code.(úÑîùÿÿÿÿ
+a	php:S1192ß"KDefine a constant instead of duplicating this literal "post_title" 8 times.(ÄÏ»¿
+Qphp:S131Ë"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+\	php:S1192ê"FDefine a constant instead of duplicating this literal "sizes" 3 times.(…Úİ¯
+e	php:S1192à"JDefine a constant instead of duplicating this literal "post_name" 6 times.(š†¥õşÿÿÿÿ
+J	php:S1066­"/Merge this if statement with the enclosing one.(ú¬Ğ†ûÿÿÿÿ
+m	php:S1192®"WDefine a constant instead of duplicating this literal "admin-preview-callback" 4 times.(Ğ§Æ×
+f	php:S1192…
+"KDefine a constant instead of duplicating this literal "post_type" 17 times.(£·â©úÿÿÿÿ
+i	php:S1192‹"SDefine a constant instead of duplicating this literal "after_switch_theme" 4 times.(±Âå÷
+h	php:S1301Ë"MReplace this "switch" statement with "if" statements to increase readability.(·ª¡«ûÿÿÿÿ
+e	php:S1192¦"ODefine a constant instead of duplicating this literal "theme_switched" 3 times.(üƒåâ

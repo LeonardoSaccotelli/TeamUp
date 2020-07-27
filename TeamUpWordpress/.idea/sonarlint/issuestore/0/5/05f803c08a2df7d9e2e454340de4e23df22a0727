@@ -1,0 +1,16 @@
+
+i	php:S1192“"NDefine a constant instead of duplicating this literal "blog-details" 13 times.(šøçÿùÿÿÿÿ
+^	php:S1192„"HDefine a constant instead of duplicating this literal "blog_id" 4 times.(ÈÑÒÆ
+c	php:S1192‘"HDefine a constant instead of duplicating this literal "publish" 6 times.(ïÚùÿÿÿÿ
+d	php:S1192œ"IDefine a constant instead of duplicating this literal "archived" 4 times.(ÂÍâŸıÿÿÿÿ
+k	php:S1142€"PReduce the number of returns of this function 12, down to the maximum allowed 3.(Ìáè¨ùÿÿÿÿ
+a	php:S1192“"FDefine a constant instead of duplicating this literal "short" 4 times.(šøçÿùÿÿÿÿ
+_	php:S1192‡"IDefine a constant instead of duplicating this literal "switched" 4 times.(İ‰Úƒ
+i	php:S1192ó"SDefine a constant instead of duplicating this literal "_wp_switched_stack" 6 times.(Ü‡¿‚
+U	php:S1854ı":Remove this useless assignment to local variable '$_args'.(®Œ´İùÿÿÿÿ
+N	php:S1172ë"3Remove the unused function parameter "$deprecated".(”¥Üµùÿÿÿÿ
+b	php:S1192ˆ"LDefine a constant instead of duplicating this literal "blog-lookup" 5 times.(òÜÈĞ
+g	php:S1192†"LDefine a constant instead of duplicating this literal "switch_blog" 4 times.(åÙ÷œüÿÿÿÿ
+]	php:S1192f"HDefine a constant instead of duplicating this literal "domain" 14 times.(£ş½Ø
+o	php:S3776€"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(Ìáè¨ùÿÿÿÿ
+h	php:S1192Æ"MDefine a constant instead of duplicating this literal "site-details" 3 times.(õ×Êüıÿÿÿÿ

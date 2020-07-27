@@ -1,0 +1,43 @@
+
+T	Web:S5254]"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(áÈÑx
+\	php:S1192æ"FDefine a constant instead of duplicating this literal "error" 4 times.(¸â·°
+e	php:S1142é"OReduce the number of returns of this function 5, down to the maximum allowed 3.(şïúâ
+k	php:S1192Ñ"PDefine a constant instead of duplicating this literal "remind_me_later" 3 times.(ÚÀ·™ûÿÿÿÿ
+c	php:S1192§
+"HDefine a constant instead of duplicating this literal "confirm" 3 times.(½İîÊøÿÿÿÿ
+e	php:S1192û"JDefine a constant instead of duplicating this literal "PATH_INFO" 3 times.(…Ñïüÿÿÿÿ
+\	php:S1192ë"GDefine a constant instead of duplicating this literal "Log in" 4 times.(‘Ş_
+<	php:S1110
+"!Remove these useless parentheses.(œ°ÕÚùÿÿÿÿ
+b	php:S1192í"LDefine a constant instead of duplicating this literal "user_login" 13 times.(Ø ¶õ
+b	php:S1192Ü"GDefine a constant instead of duplicating this literal "action" 4 times.(ı®ìÚùÿÿÿÿ
+d	php:S1192ë"IDefine a constant instead of duplicating this literal "register" 5 times.(ÌŒªÛşÿÿÿÿ
+E	php:S1066š	"/Merge this if statement with the enclosing one.(£Ê–ş
+o	php:S1192Œ"TDefine a constant instead of duplicating this literal "<p class="message">" 3 times.(Ë†Şåşÿÿÿÿ
+^	php:S1192ñ"HDefine a constant instead of duplicating this literal "message" 8 times.(îŸ¶
+i	php:S11926"ODefine a constant instead of duplicating this literal "empty_password" 3 times.(´ºìşÿÿÿÿ
+`	php:S1192à"JDefine a constant instead of duplicating this literal "resetpass" 3 times.(­ñÑ‚
+`	php:S1192"LDefine a constant instead of duplicating this literal "REQUEST_URI" 4 times.(ãúÌo
+p	php:S1192Ø"UDefine a constant instead of duplicating this literal "admin_email_lifespan" 3 times.(öáÛ†üÿÿÿÿ
+i	php:S11926"ODefine a constant instead of duplicating this literal "empty_username" 3 times.(´ºìşÿÿÿÿ
+e	php:S1192-"KDefine a constant instead of duplicating this literal "login_head" 3 times.(Ã÷ñïøÿÿÿÿ
+c	php:S1192¹"MDefine a constant instead of duplicating this literal "redirect_to" 16 times.(Ï£€ 
+c	php:S1192©
+"HDefine a constant instead of duplicating this literal "newpass" 3 times.(Ù¹é½úÿÿÿÿ
+_	php:S1192ï"IDefine a constant instead of duplicating this literal "Register" 4 times.(™¯Ï‡
+f	php:S1192§
+"KDefine a constant instead of duplicating this literal "checkemail" 8 times.(½İîÊøÿÿÿÿ
+d	php:S1192û"IDefine a constant instead of duplicating this literal "PHP_SELF" 4 times.(…Ñïüÿÿÿÿ
+[	php:S1192"FDefine a constant instead of duplicating this literal "https" 3 times.(ÓÒê‰
+j	php:S1192ä"TDefine a constant instead of duplicating this literal "confirm_admin_email" 7 times.(—ÏÒ¶
+a	php:S1192d"GDefine a constant instead of duplicating this literal "login" 10 times.(İ‘Ú­ıÿÿÿÿ
+a	php:S1192)"GDefine a constant instead of duplicating this literal "Log In" 3 times.(…ÜØñüÿÿÿÿ
+a	php:S1192Ÿ"KDefine a constant instead of duplicating this literal "user_email" 3 times.(Çİ°¸
+[	php:S1192"FDefine a constant instead of duplicating this literal "pass1" 6 times.(‚ÎÉM
+i	php:S1192î"SDefine a constant instead of duplicating this literal "users_can_register" 4 times.(Šëµ¹
+_	php:S1192¢"IDefine a constant instead of duplicating this literal "\r\n\r\n" 5 times.(®ƒŠÄ
+a	php:S1192†"KDefine a constant instead of duplicating this literal "login_post" 5 times.(ØúÊ
+j	php:S1192ï"TDefine a constant instead of duplicating this literal "<a href="%s">%s</a>" 3 times.(™¯Ï‡
+g	php:S1192A"MDefine a constant instead of duplicating this literal "login_footer" 3 times.(”öÄÇıÿÿÿÿ
+d	php:S1192k"JDefine a constant instead of duplicating this literal "loggedout" 6 times.(ú‡˜²üÿÿÿÿ
+n	php:S3776)"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(…ÜØñüÿÿÿÿ

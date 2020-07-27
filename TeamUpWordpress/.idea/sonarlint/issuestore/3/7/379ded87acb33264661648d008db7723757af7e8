@@ -1,0 +1,20 @@
+
+a	php:S1192K"GDefine a constant instead of duplicating this literal "WP_CLI" 7 times.(â“”úÿÿÿÿ
+j	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¬Æ¦ï
+K	php:S1481Ÿ"0Remove this unused "$all_blocks" local variable.(ÆïÊıÿÿÿÿ
+u	php:S1192¼"`Define a constant instead of duplicating this literal "Complete storing data for page " 3 times.(¿™Îu
+}php:S101"iRename class "Astra_Sites_Batch_Processing_Importer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•š›Ó
+e	php:S1192Ú"ODefine a constant instead of duplicating this literal "beaver-builder" 3 times.(¿ë¦Ä
+j	php:S1192D"UDefine a constant instead of duplicating this literal "HTTP Request Error: " 7 times.(Æ¢ÁÌ
+`	php:S1192Ú"JDefine a constant instead of duplicating this literal "elementor" 3 times.(¿ë¦Ä
+?	php:S1481£")Remove this unused "$key" local variable.(Ÿ÷£Ğ
+j	php:S3776È"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(µØÙ’
+|	php:S1192Û"aDefine a constant instead of duplicating this literal "astra-sites-license-page-builder" 3 times.(³î»«ùÿÿÿÿ
+i	php:S1192F"TDefine a constant instead of duplicating this literal "HTTP Request Error!" 7 times.(—åù›
+u	php:S11928"aDefine a constant instead of duplicating this literal "astra-sites-batch-status-string" 11 times.(û¶ÆC
+c	php:S1192B"IDefine a constant instead of duplicating this literal "message" 14 times.(Ë±«ÿÿÿÿÿ
+r	php:S1192¯"WDefine a constant instead of duplicating this literal "Storing data for page " 3 times.(Âòİşşÿÿÿÿ
+]	php:S1192;"HDefine a constant instead of duplicating this literal "timeout" 7 times.(İªõÌ
+|	php:S1192¡"aDefine a constant instead of duplicating this literal "astra-blocks-batch-status-string" 3 times.(òášìÿÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹…°ó
+o	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÊÛ„Üúÿÿÿÿ

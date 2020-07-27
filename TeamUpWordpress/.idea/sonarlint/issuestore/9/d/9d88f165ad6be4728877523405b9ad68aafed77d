@@ -1,0 +1,36 @@
+
+g	php:S1192“"QDefine a constant instead of duplicating this literal "show_search_form" 3 times.(¯çº°
+o	php:S1192{"UDefine a constant instead of duplicating this literal "um_groups_discussion" 8 times.(ÑîÔîûÿÿÿÿ
+d	php:S1192"IDefine a constant instead of duplicating this literal "category" 3 times.(€Ç»ûÿÿÿÿ
+Ephp:S121¦"0Add curly braces around the nested statement(s).(ûÚÍı
+^	php:S1192—"HDefine a constant instead of duplicating this literal "user_id" 5 times.(š‹ûğ
+I	php:S3801M"4Refactor this function to use "return" consistently.(“
+O	php:S1135ª"4Complete the task associated to this "TODO" comment.(äïüÿÿÿÿÿ
+g	php:S1192Œ"LDefine a constant instead of duplicating this literal "avatar_size" 4 times.(ÔÜƒ™ùÿÿÿÿ
+j	php:S1192˜"TDefine a constant instead of duplicating this literal "show_with_less_than" 3 times.(Ã·¼
+k	php:S1192’"PDefine a constant instead of duplicating this literal "show_pagination" 3 times.(¸†‹öûÿÿÿÿ
+[	php:S11926"FDefine a constant instead of duplicating this literal "group" 5 times.(¡ñıÙ
+s	php:S1192–"XDefine a constant instead of duplicating this literal "show_total_groups_count" 3 times.(—®ÏÂÿÿÿÿÿ
+o	php:S3776’"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ó¥¾Òúÿÿÿÿ
+d	php:S11921"JDefine a constant instead of duplicating this literal "group_id" 21 times.(§éÖÊûÿÿÿÿ
+I	php:S3801Ø"4Refactor this function to use "return" consistently.(‡™†E
+H	php:S1481™"-Remove this unused "$options" local variable.(ô•³ıÿÿÿÿ
+r	php:S1192”"WDefine a constant instead of duplicating this literal "show_search_categories" 3 times.(‚šŒøúÿÿÿÿ
+v	php:S1192œ"`Define a constant instead of duplicating this literal "pre_groups_shortcode_query_list" 3 times.(Š›¬ª
+e	php:S1192"KDefine a constant instead of duplicating this literal "own_groups" 3 times.(ÊÔÆ’øÿÿÿÿ
+k	php:S1192"PDefine a constant instead of duplicating this literal "groups_per_page" 3 times.(ÃËÎ•şÿÿÿÿ
+l	php:S1192•"QDefine a constant instead of duplicating this literal "show_search_tags" 3 times.(½à·¡ÿÿÿÿÿ
+g	php:S1192î"LDefine a constant instead of duplicating this literal "um_scrollto" 3 times.(ÍûÏúÿÿÿÿ
+r	php:S1192"WDefine a constant instead of duplicating this literal "groups_per_page_mobile" 3 times.(—ğ…úÿÿÿÿ
+c	php:S1192Œ"HDefine a constant instead of duplicating this literal "default" 3 times.(ÔÜƒ™ùÿÿÿÿ
+d	php:S1192™"NDefine a constant instead of duplicating this literal "newest_groups" 3 times.(õˆ‰ó
+r	php:S1192"^Define a constant instead of duplicating this literal "ultimatemember_group_comments" 3 times.(àü”M
+Ephp:S121¨"0Add curly braces around the nested statement(s).(â†ÔÀ
+c	php:S1192"HDefine a constant instead of duplicating this literal "privacy" 3 times.(“ÌÈûÿÿÿÿ
+hphp:S101"TRename class "Groups_Shortcode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œ’èı
+c	php:S1192˜"HDefine a constant instead of duplicating this literal "hashtag" 4 times.(Š’Ù¶øÿÿÿÿ
+m	php:S1192—"WDefine a constant instead of duplicating this literal "show_with_greater_than" 3 times.(¨¢ô¼
+h	php:S1192‘"MDefine a constant instead of duplicating this literal "show_actions" 4 times.(€÷¨üùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+e	php:S1192<"KDefine a constant instead of duplicating this literal "um_groups" 20 times.(­âê‚üÿÿÿÿ
+E	php:S1481 "/Remove this unused "$post_link" local variable.(‡«àâ

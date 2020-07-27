@@ -1,0 +1,3 @@
+
+~php:S101"eRename class "Requests_Utility_FilteredIterator" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Õ¿Ó¤øÿÿÿÿ
+s	php:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ÌÏ»Ë

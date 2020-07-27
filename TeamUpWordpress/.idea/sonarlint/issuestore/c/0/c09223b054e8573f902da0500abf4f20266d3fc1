@@ -1,0 +1,70 @@
+
+l	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(–¦¢ƒ
+dphp:S127·"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(Ì÷Ú
+4php:S125Õ"Remove this commented out code.(ÄèÙ‘
+iphp:S127ñ"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(²œ›Íüÿÿÿÿ
+‘php:S138Ç"wThis function "_encode" has 160 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ğúœÑÿÿÿÿÿ
+dphp:S127¤"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(š½Ş
+Qphp:S131æ"7Add a "case default" clause to this "switch" statement.(ü‚úúÿÿÿÿ
+j	php:S1142ö"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ÜĞ‡Àÿÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "delim" 7 times.(Š¶¾‡
+3php:S125¥"Remove this commented out code.(Ôã¯	
+O	php:S1135î"4Complete the task associated to this "TODO" comment.(Æ‰Ï³ûÿÿÿÿ
+C	php:S1172÷"-Remove the unused function parameter "$code".(‹üº¤
+[	php:S1192"GDefine a constant instead of duplicating this literal "5.3.0" 18 times.(á’»
+cphp:S127¤"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(££ï
+4php:S125"Remove this commented out code.(ø–¸
+K	php:S1172ø"0Remove the unused function parameter "$options".(ÜòÎèùÿÿÿÿ
+p	php:S3776ö"URefactor this function to reduce its Cognitive Complexity from 107 to the 15 allowed.(ÜĞ‡Àÿÿÿÿÿ
+dphp:S127¬"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(š½Ş
+b	php:S1192"GDefine a constant instead of duplicating this literal "\u%04s" 5 times.(¢°Ëÿÿÿÿÿ
+Lphp:S131ó"7Add a "case default" clause to this "switch" statement.(è©ÃŠ
+dphp:S127Ó"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(ºµ‚Û
+dphp:S127°"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(š½Ş
+L	php:S1172ø"1Remove the unused function parameter "$userinfo".(ÜòÎèùÿÿÿÿ
+dphp:S127”"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(¥®¤Ÿ
+dphp:S127½"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(È™ûÖ
+4php:S125—"Remove this commented out code.(ÚøÈÖ
+dphp:S127í"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(ºµ‚Û
+9php:S125Ì"Remove this commented out code.(úİ¦Ÿÿÿÿÿÿ
+Qphp:S131¡"7Add a "case default" clause to this "switch" statement.(ü‚úúÿÿÿÿ
+k	php:S1142Ç"PReduce the number of returns of this function 14, down to the maximum allowed 3.(ğúœÑÿÿÿÿÿ
+4php:S125ò"Remove this commented out code.(ŠÂõ½
+dphp:S127À"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(Ì÷Ú
+d	php:S1192Õ"NDefine a constant instead of duplicating this literal "unknown error" 4 times.(‹üº¤
+dphp:S127´"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(š½Ş
+dphp:S127"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(¥®¤Ÿ
+qphp:S101Î"WRename class "Services_JSON_Error" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ĞùÂ’ÿÿÿÿÿ
+dphp:S127Ø"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(¥®¤Ÿ
+dphp:S127Æ"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(ºµ‚Û
+php:S138ö"vThis function "decode" has 176 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÜĞ‡Àÿÿÿÿÿ
+[	php:S1605Ú"@Replace "parent::PEAR_Error(...)" by "parent::__construct(...)".(Í‚Ÿûÿÿÿÿ
+H	php:S1172ø"-Remove the unused function parameter "$mode".(ÜòÎèùÿÿÿÿ
+‘	php:S1603„"vReplace this function name "Services_JSON_Error", since a "__construct" method has already been defined in this class.(÷Ÿåùÿÿÿÿ
+iphp:S127÷"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(²œ›Íüÿÿÿÿ
+z	php:S1192•"_Define a constant instead of duplicating this literal "The PHP native JSON extension" 14 times.(Ï˜üÉıÿÿÿÿ
+F	php:S1172÷"0Remove the unused function parameter "$message".(‹üº¤
+‹	php:S1603¤"pReplace this function name "Services_JSON", since a "__construct" method has already been defined in this class.(­¾Ìşÿÿÿÿ
+lphp:S101ğ"WRename class "Services_JSON_Error" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÍôÃà
+cphp:S127®"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(££ï
+‘	php:S1603ä"vReplace this function name "Services_JSON_Error", since a "__construct" method has already been defined in this class.(÷Ÿåùÿÿÿÿ
+cphp:S127ß"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(££ï
+dphp:S127æ"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(Ì÷Ú
+4php:S125æ"Remove this commented out code.(Äµ¶¿
+4php:S125ü"Remove this commented out code.(ëúÖ½
+\	php:S1192‡"FDefine a constant instead of duplicating this literal "where" 9 times.(Ï—°Í
+jphp:S101z"QRename class "Services_JSON" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŠÙ¨Ãúÿÿÿÿ
+4php:S125Û"Remove this commented out code.(Úâ‹‰
+e	php:S1142ê"OReduce the number of returns of this function 5, down to the maximum allowed 3.(à¨Ã®
+4php:S125ë"Remove this commented out code.(‡Ÿ¾ê
+Ephp:S121ù"0Add curly braces around the nested statement(s).(°Ôÿæ
+iphp:S127"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(éêŠ®øÿÿÿÿ
+9php:S125à"Remove this commented out code.(ôá…Öÿÿÿÿÿ
+dphp:S127Ñ"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(š½Ş
+Qphp:S131Å"7Add a "case default" clause to this "switch" statement.(ü‚úúÿÿÿÿ
+iphp:S127‡"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(éêŠ®øÿÿÿÿ
+O	php:S1135‘"4Complete the task associated to this "TODO" comment.(Ã¤¦‚ÿÿÿÿÿ
+o	php:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(ğúœÑÿÿÿÿÿ
+dphp:S127Ç"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(ºµ‚Û
+e	php:S1142º"OReduce the number of returns of this function 5, down to the maximum allowed 3.(€’§à
+dphp:S127¨"ORefactor the code to avoid updating the loop counter "$c" within the loop body.(š½Ş

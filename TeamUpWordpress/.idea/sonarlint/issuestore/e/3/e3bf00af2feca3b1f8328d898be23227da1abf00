@@ -1,0 +1,8 @@
+
+g	php:S1117Ç"QRename "$nesting_level" which has the same name as the field declared at line 50.(ëàÄ•
+_php:S101"KRename class "WP_Hook" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ë¤¹ƒ
+i	php:S3776g"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(›Á•Ì
+g	php:S1117"QRename "$nesting_level" which has the same name as the field declared at line 50.(ëàÄ•
+c	php:S1192O"IDefine a constant instead of duplicating this literal "function" 6 times.(Øã³Øûÿÿÿÿ
+c	php:S1192P"NDefine a constant instead of duplicating this literal "accepted_args" 5 times.(Á­ÓÔ
+j	php:S1142Ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ìä„Æùÿÿÿÿ

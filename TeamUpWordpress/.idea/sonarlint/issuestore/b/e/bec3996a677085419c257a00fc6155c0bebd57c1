@@ -1,0 +1,109 @@
+
+iphp:S101‚"TRename class "getid3_exception" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(øÒˆ¿
+u	php:S1192´"ZDefine a constant instead of duplicating this literal "application/octet-stream" 17 times.(ª§şùÿÿÿÿ
+A	php:S1481Å"+Remove this unused "$dummy" local variable.(ÑÕëß
+l	php:S1192÷"QDefine a constant instead of duplicating this literal "reference_volume" 4 times.(éŠğúüÿÿÿÿ
+o	php:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(è ¶İşÿÿÿÿ
+j	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ë§«À
+e	php:S1192Ì"JDefine a constant instead of duplicating this literal "filesize" 14 times.(¦ˆı†úÿÿÿÿ
+\	php:S1192‘"FDefine a constant instead of duplicating this literal "id3v1" 7 times.(—òªï
+G	php:S1481²
+"1Remove this unused "$format_name" local variable.(©ß´´
+c	php:S1192ô"MDefine a constant instead of duplicating this literal "audio-video" 11 times.(‚¾ª©
+4php:S125Ã"Remove this commented out code.(“¼¶ú
+Lphp:S131Ş"7Add a "case default" clause to this "switch" statement.(ù™ôÂ
+J	php:S1066ˆ"/Merge this if statement with the enclosing one.(¢‘Ñëûÿÿÿÿ
+j	php:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(†æà¿
+]	php:S1192‘"GDefine a constant instead of duplicating this literal "id3v2" 10 times.(—òªï
+c	php:S1192ö"MDefine a constant instead of duplicating this literal "replay_gain" 17 times.(¾÷ÂÒ
+b	php:S1192ğ"LDefine a constant instead of duplicating this literal "channelmode" 3 times.( ï˜Ğ
+d	php:S1192Ä"IDefine a constant instead of duplicating this literal "bitrate" 35 times.(¹Í¯áüÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "resolution_x" 4 times.(ƒáæøÿÿÿÿ
+[	php:S1192]"FDefine a constant instead of duplicating this literal "UTF-8" 9 times.(˜›çø
+4php:S125­"Remove this commented out code.(şë×Û
+H	php:S1172©"-Remove the unused function parameter "$text".(”‚Õåúÿÿÿÿ
+c	php:S1301Ş"MReplace this "switch" statement with "if" statements to increase readability.(ù™ôÂ
+v	php:S1448R"bClass "getID3" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(ÒÈ³7
+e	php:S1192¸"JDefine a constant instead of duplicating this literal "tags_html" 4 times.(ì‘§èıÿÿÿÿ
+e	php:S1192à"JDefine a constant instead of duplicating this literal "iconv_req" 3 times.(ÕÄ™èüÿÿÿÿ
+o	php:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(éúÜÅûÿÿÿÿ
+g	php:S1192ã"LDefine a constant instead of duplicating this literal "sample_rate" 6 times.(ò‡ã°úÿÿÿÿ
+Lphp:S131ã"7Add a "case default" clause to this "switch" statement.(¼º……
+f	php:S1192Ö"KDefine a constant instead of duplicating this literal "avdataend" 15 times.(ØáÍïÿÿÿÿÿ
+g	php:S1192Ÿ"QDefine a constant instead of duplicating this literal "tag_offset_start" 3 times.(œÔõŞ
+E	php:S1481İ"*Remove this unused "$ampm" local variable.(í¨ƒ›ûÿÿÿÿ
+]	php:S1192Ù"GDefine a constant instead of duplicating this literal "video" 28 times.(«€ç×
+9php:S125³"Remove this commented out code.(äÔ¿£ıÿÿÿÿ
+o	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(À¢ä“ùÿÿÿÿ
+j	php:S1142«
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(İËˆ™ÿÿÿÿÿ
+i	php:S1192Õ"NDefine a constant instead of duplicating this literal "avdataoffset" 16 times.(ÊÀé€ûÿÿÿÿ
+c	php:S1192Ò"MDefine a constant instead of duplicating this literal "filenamepath" 6 times.(ç»Ğ
+f	php:S1192×"KDefine a constant instead of duplicating this literal "fileformat" 4 times.(ò¡„£ûÿÿÿÿ
+^	php:S1192¤"HDefine a constant instead of duplicating this literal "picture" 8 times.(Ïï†ƒ
+P	php:S1481Ã"5Remove this unused "$PlaytimeSeconds" local variable.(¬ô‡…øÿÿÿÿ
+f	php:S1192Ö"KDefine a constant instead of duplicating this literal "mime_type" 60 times.(¤ŠÜÖşÿÿÿÿ
+a	php:S1192ú"KDefine a constant instead of duplicating this literal "adjustment" 4 times.(ƒïàÓ
+9php:S125‚"Remove this commented out code.(¶½½Ùúÿÿÿÿ
+˜php:S138ô"‚This function "GetFileFormatArray" has 401 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ğ²å±
+\	php:S1192•"FDefine a constant instead of duplicating this literal "_data" 7 times.(á‚Íæ
+\	php:S1192ú"FDefine a constant instead of duplicating this literal "track" 6 times.(ƒïàÓ
+m	php:S1192Š"RDefine a constant instead of duplicating this literal "playtime_seconds" 12 times.(§ã®ûşÿÿÿÿ
+D	php:S1066"/Merge this if statement with the enclosing one.(¤İï{
+_	php:S1192ğ"IDefine a constant instead of duplicating this literal "channels" 8 times.( ï˜Ğ
+^	php:S1192‘"HDefine a constant instead of duplicating this literal "lyrics3" 6 times.(—òªï
+`	php:S1192Ì"JDefine a constant instead of duplicating this literal "fail_ape" 26 times.(†¿¡
+J	php:S1066Œ"/Merge this if statement with the enclosing one.(îíà„ùÿÿÿÿ
+4php:S125ÿ"Remove this commented out code.(å‘©É
+J	php:S1066Š"/Merge this if statement with the enclosing one.(ŒõÄ÷ûÿÿÿÿ
+E	php:S1481İ"*Remove this unused "$date" local variable.(í¨ƒ›ûÿÿÿÿ
+c	php:S1192î"HDefine a constant instead of duplicating this literal "module" 62 times.(Ì•íŸıÿÿÿÿ
+]	php:S1192Æ"HDefine a constant instead of duplicating this literal "WARNING" 7 times.(Õµ-
+`	php:S1192d"LDefine a constant instead of duplicating this literal "ISO-8859-1" 13 times.(»‘ÔN
+[php:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(û§€§
+e	php:S1192­"JDefine a constant instead of duplicating this literal "quicktime" 4 times.(Õï˜Ëıÿÿÿÿ
+b	php:S1192ş"GDefine a constant instead of duplicating this literal "group" 61 times.(¬ƒ¶—úÿÿÿÿ
+m	php:S1192Û"RDefine a constant instead of duplicating this literal "compression_ratio" 3 times.(¿‘âıÿÿÿÿ
+D	php:S1481Ô")Remove this unused "$key" local variable.(Ç’Àúøÿÿÿÿ
+e	php:S1142Š"OReduce the number of returns of this function 8, down to the maximum allowed 3.(†æà¿
+]	php:S1192Ã"GDefine a constant instead of duplicating this literal "ERROR" 40 times.(Ã¤Çæ
+^	php:S1192Û"HDefine a constant instead of duplicating this literal "graphic" 8 times.(µÑ¥…
+g	php:S1192Ø"LDefine a constant instead of duplicating this literal "dataformat" 10 times.(üµĞ½øÿÿÿÿ
+E	php:S1481İ"*Remove this unused "$time" local variable.(í¨ƒ›ûÿÿÿÿ
+\	php:S1192ı"FDefine a constant instead of duplicating this literal "album" 6 times.(àáôö
+J	php:S1066Š"/Merge this if statement with the enclosing one.(§ã®ûşÿÿÿÿ
+_	php:S1192‹"IDefine a constant instead of duplicating this literal "matroska" 4 times.(Âº¿Ç
+`php:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(ÊÍ™ûÿÿÿÿ
+`php:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(õ±Èúÿÿÿÿ
+4php:S125ª"Remove this commented out code.(™šŠ
+c	php:S1192Ü"HDefine a constant instead of duplicating this literal "warning" 5 times.(·ˆÿ­ùÿÿÿÿ
+k	php:S1192Ä"PDefine a constant instead of duplicating this literal "bits_per_sample" 7 times.(¹Í¯áüÿÿÿÿ
+c	php:S1192Ä"HDefine a constant instead of duplicating this literal "streams" 7 times.(¹Í¯áüÿÿÿÿ
+o	php:S3776í"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(²Ï¶Íşÿÿÿÿ
+r	php:S2737›"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(Ó‰³Óşÿÿÿÿ
+^	php:S1192½	"HDefine a constant instead of duplicating this literal "archive" 6 times.(øÚ°
+`	php:S1192Â"JDefine a constant instead of duplicating this literal "fail_id3" 23 times.(Õ¹™¤
+c	php:S1192–"HDefine a constant instead of duplicating this literal "getid3_" 3 times.(´§ÛÂûÿÿÿÿ
+_	php:S1192ı"IDefine a constant instead of duplicating this literal "pattern" 60 times.(ğÓºİ
+c	php:S1192Ù"HDefine a constant instead of duplicating this literal "include" 8 times.(‚ëœıÿÿÿÿ
+]php:S101R"JRename class "getID3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÒÈ³7
+[php:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ãŸ„ª
+c	php:S1301À"MReplace this "switch" statement with "if" statements to increase readability.(ù™ôÂ
+j	php:S1142°"OReduce the number of returns of this function 7, down to the maximum allowed 3.(–ıåÕıÿÿÿÿ
+p	php:S3776ï
+"URefactor this function to reduce its Cognitive Complexity from 110 to the 15 allowed.(šÎ‘•ıÿÿÿÿ
+b	php:S1192Ø"GDefine a constant instead of duplicating this literal "audio" 68 times.(üµĞ½øÿÿÿÿ
+^	php:S1192¶
+"HDefine a constant instead of duplicating this literal "module." 5 times.(»îÈ¡
+3php:S125""Remove this commented out code.(éÖ¯
+4php:S125Í"Remove this commented out code.(’„à¨
+F	php:S1481İ"+Remove this unused "$dummy" local variable.(í¨ƒ›ûÿÿÿÿ
+j	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ş¬È·
+a	php:S1192Û"FDefine a constant instead of duplicating this literal "error" 8 times.(Îû©Áúÿÿÿÿ
+d	php:S1117À
+"IRename "$info" which has the same name as the field declared at line 231.(øÏûÿÿÿÿ
+_	php:S1192İ"IDefine a constant instead of duplicating this literal "comments" 9 times.(šÅ¦„
+Lphp:S131À"7Add a "case default" clause to this "switch" statement.(ù™ôÂ
+lphp:S101Ã"RRename class "getid3_handler" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ü¡—½şÿÿÿÿ
+D	php:S1125Ô")Remove the literal "false" boolean value.(Ú¡Ñıÿÿÿÿ
+d	php:S1192Ş"IDefine a constant instead of duplicating this literal "encoding" 5 times.(£Çş‚ùÿÿÿÿ

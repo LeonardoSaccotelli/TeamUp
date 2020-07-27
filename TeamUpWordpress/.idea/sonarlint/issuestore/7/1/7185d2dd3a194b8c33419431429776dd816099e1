@@ -1,0 +1,42 @@
+
+\	php:S11925"GDefine a constant instead of duplicating this literal "target" 4 times.(çê¾‘
+s	php:S1488ÿ"]Immediately return this expression instead of assigning it to the temporary variable "$post".(½òÁº
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(îüàùÿÿÿÿ
+O	php:S1135Œ"4Complete the task associated to this "TODO" comment.(š¯°éûÿÿÿÿ
+o	php:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Î«§ûÿÿÿÿ
+f	php:S1192Õ"KDefine a constant instead of duplicating this literal "menu_order" 3 times.(ŠìÇ“øÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "error" 9 times.(Ş£ÙÍ
+q	php:S1192ö"VDefine a constant instead of duplicating this literal "nav_menu_item_updates" 3 times.(“¸²ùÿÿÿÿ
+o	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ãü«Ÿûÿÿÿÿ
+^	php:S1192™"IDefine a constant instead of duplicating this literal "taxonomy" 4 times.(‘Ä¥v
+a	php:S1192/"GDefine a constant instead of duplicating this literal "object" 6 times.(ˆ½íÅÿÿÿÿÿ
+b	php:S1192:"HDefine a constant instead of duplicating this literal "publish" 3 times.(ÕíÊÂùÿÿÿÿ
+h	php:S1192"RDefine a constant instead of duplicating this literal "post_type_archive" 4 times.(µØšÇ
+_	php:S1117Û"IRename "$value" which has the same name as the field declared at line 89.(ãµ•‡
+[php:S112«"FDefine and throw a dedicated exception instead of using a generic one.(öÛš
+j	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÛÁÑ”
+`	php:S1192"JDefine a constant instead of duplicating this literal "post_type" 5 times.(ŞÇÜê
+b	php:S11928"HDefine a constant instead of duplicating this literal "classes" 5 times.(ÎƒÓ÷üÿÿÿÿ
+Zphp:S112·"FDefine and throw a dedicated exception instead of using a generic one.(’¹ûk
+f	php:S11920"QDefine a constant instead of duplicating this literal "menu_item_parent" 9 times.(¿­³Ş
+i	php:S1192;"ODefine a constant instead of duplicating this literal "original_title" 8 times.(ÒŞÒÓıÿÿÿÿ
+}	php:S1488¤"gImmediately return this expression instead of assigning it to the temporary variable "$original_title".(¬·³
+l	php:S1192Æ"VDefine a constant instead of duplicating this literal "wp_get_nav_menu_items" 3 times.(øï×î
+d	php:S1192."JDefine a constant instead of duplicating this literal "object_id" 5 times.(ËÕ¢Áşÿÿÿÿ
+g	php:S1192<"RDefine a constant instead of duplicating this literal "nav_menu_term_id" 16 times.(¢¶…ñ
+c	php:S1192"NDefine a constant instead of duplicating this literal "nav_menu_item" 3 times.(†‚°ª
+^	php:S1192="IDefine a constant instead of duplicating this literal "_invalid" 9 times.(„—îı
+php:S101"fRename class "WP_Customize_Nav_Menu_Item_Setting" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«üğ»ÿÿÿÿÿ
+j	php:S1142ñ"OReduce the number of returns of this function 7, down to the maximum allowed 3.(êñµ®ûÿÿÿÿ
+a	php:S11927"LDefine a constant instead of duplicating this literal "description" 5 times.(Èæ’
+[	php:S11923"FDefine a constant instead of duplicating this literal "title" 8 times.(¹÷¿â
+b	php:S1192Ù"LDefine a constant instead of duplicating this literal "post_status" 3 times.(àìÙ
+`	php:S11926"KDefine a constant instead of duplicating this literal "attr_title" 5 times.(ôĞÔ¡
+[php:S112§"FDefine and throw a dedicated exception instead of using a generic one.(—­Ò
+a	php:S1192:"GDefine a constant instead of duplicating this literal "status" 7 times.(ÕíÊÂùÿÿÿÿ
+O	php:S1135Í"4Complete the task associated to this "TODO" comment.(Å™Ãúÿÿÿÿ
+O	php:S1135«"4Complete the task associated to this "TODO" comment.(‘¸Íúÿÿÿÿ
+^	php:S11921"IDefine a constant instead of duplicating this literal "position" 6 times.(µö§®
+o	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(êñµ®ûÿÿÿÿ
+f	php:S1117›"KRename "$default" which has the same name as the field declared at line 44.(¤¸•Òıÿÿÿÿ
+d	php:S1117»"IRename "$value" which has the same name as the field declared at line 89.(ä®¢ãıÿÿÿÿ

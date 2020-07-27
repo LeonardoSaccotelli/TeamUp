@@ -1,0 +1,9 @@
+
+x	php:S11925"^Define a constant instead of duplicating this literal "delete_theme_update_transient" 3 times.(‚ÛºÅúÿÿÿÿ
+`	php:S1117L"KRename "$strings" which has the same name as the field declared at line 18.(£êé
+b	php:S1192#"HDefine a constant instead of duplicating this literal "version" 3 times.(ËëšÆùÿÿÿÿ
+F	php:S1068"1Remove this unused "$request_data" private field.(Î÷ÖÇ
+iphp:S101	"URename class "EDD_Theme_Updater" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŸîàÆ
+E	php:S1068"0Remove this unused "$license_key" private field.(òŞé´
+a	php:S1192$"GDefine a constant instead of duplicating this literal "author" 3 times.(ÀèÔùÿÿÿÿ
+]	php:S1192""HDefine a constant instead of duplicating this literal "license" 3 times.(ş†çå

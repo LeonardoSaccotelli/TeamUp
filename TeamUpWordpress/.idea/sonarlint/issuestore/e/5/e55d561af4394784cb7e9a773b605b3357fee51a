@@ -1,0 +1,35 @@
+
+a	php:S1192’"KDefine a constant instead of duplicating this literal "WordPress/" 3 times.(Îˆ¦÷
+_	php:S1192»"IDefine a constant instead of duplicating this literal "download" 3 times.(Å‹ªˆ
+O	php:S1135 "4Complete the task associated to this "TODO" comment.(Öôû±ùÿÿÿÿ
+j	php:S1192¢"UDefine a constant instead of duplicating this literal "load-update-core.php" 4 times.(êê
+a	php:S1192""LDefine a constant instead of duplicating this literal "update_core" 8 times.(ùÍıò
+g	php:S1192å"QDefine a constant instead of duplicating this literal "wp_version_check" 6 times.(äüûå
+`	php:S1192Œ"JDefine a constant instead of duplicating this literal "wordpress" 6 times.(†‰ßí
+k	php:S1192¦"PDefine a constant instead of duplicating this literal "load-update.php" 4 times.(äˆÒõşÿÿÿÿ
+l	php:S1192™"QDefine a constant instead of duplicating this literal "wp_update_themes" 7 times.(‚Ş„êüÿÿÿÿ
+d	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ã»ÿ‰
+d	php:S1192¶"IDefine a constant instead of duplicating this literal "packages" 4 times.(÷Ç”±ÿÿÿÿÿ
+a	php:S1192‹"FDefine a constant instead of duplicating this literal "https" 3 times.(¥—ùÂıÿÿÿÿ
+^	php:S1192À"HDefine a constant instead of duplicating this literal "themes" 11 times.(óùŞ€
+c	php:S1192‘"HDefine a constant instead of duplicating this literal "timeout" 3 times.(—ä—ñıÿÿÿÿ
+a	php:S1192’"KDefine a constant instead of duplicating this literal "user-agent" 3 times.(Îˆ¦÷
+m	php:S1192•"RDefine a constant instead of duplicating this literal "wp_update_plugins" 7 times.(Ü©Ø£úÿÿÿÿ
+\	php:S1192^"GDefine a constant instead of duplicating this literal "locale" 4 times.(òÌ‘‚
+Ç	php:S1192¡"°Define a constant instead of duplicating this literal "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)" 3 times.(¦ğÀÌ
+i	php:S1192€"NDefine a constant instead of duplicating this literal "translations" 12 times.(–Å„ùÿÿÿÿ
+p	php:S1192ì"UDefine a constant instead of duplicating this literal "wp_maybe_auto_update" 4 times.(×Ñ¹Ìıÿÿÿÿ
+d	php:S1192"IDefine a constant instead of duplicating this literal "plugins" 12 times.(ÆáÆ»üÿÿÿÿ
+e	php:S1192“"ODefine a constant instead of duplicating this literal "update_plugins" 8 times.(šÖÖ¨
+j	php:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(·¡Åº
+g	php:S1192"MDefine a constant instead of duplicating this literal "/version.php" 4 times.(éµéüüÿÿÿÿ
+•php:S138"€This function "wp_version_check" has 152 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ã»ÿ‰
+c	php:S1192¶"HDefine a constant instead of duplicating this literal "Version" 5 times.(÷™‘âşÿÿÿÿ
+a	php:S1192±"KDefine a constant instead of duplicating this literal "admin_init" 3 times.(šÖ†Ê
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ã»ÿ‰
+j	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ïäÈå
+j	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(›©œ»
+i	php:S1192Â"NDefine a constant instead of duplicating this literal "update_themes" 7 times.(øÆãşùÿÿÿÿ
+œ	php:S1192Ÿ"€Define a constant instead of duplicating this literal "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="%s">support forums</a>." 3 times.(Áîª¹úÿÿÿÿ
+f	php:S1192’"KDefine a constant instead of duplicating this literal "twicedaily" 3 times.(©ş–Ôüÿÿÿÿ
+	php:S1192 "fDefine a constant instead of duplicating this literal "https://wordpress.org/support/forums/" 3 times.(³Î¶ãûÿÿÿÿ

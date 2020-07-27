@@ -1,0 +1,30 @@
+
+\	php:S1192["GDefine a constant instead of duplicating this literal "header" 6 times.(ÄØÎ
+g	php:S1192‘"LDefine a constant instead of duplicating this literal "data_length" 3 times.(ÆÀ¢ıÿÿÿÿ
+c	php:S11924"IDefine a constant instead of duplicating this literal "APETAGEX" 4 times.(ûµ¯Ùşÿÿÿÿ
+]	php:S1192Ñ"HDefine a constant instead of duplicating this literal "mp3gain" 7 times.(ˆ¬Ø
+e	php:S1192§"ODefine a constant instead of duplicating this literal "attachment at " 3 times.(ÅûÓˆ
+\	php:S1192»"FDefine a constant instead of duplicating this literal "album" 7 times.(Ãªõş
+c	php:S1192¿"HDefine a constant instead of duplicating this literal "picture" 3 times.(¥’âëÿÿÿÿÿ
+[	php:S1192f"FDefine a constant instead of duplicating this literal "id3v1" 3 times.(Æ‘ş÷
+a	php:S1192¦"FDefine a constant instead of duplicating this literal "track" 7 times.(ƒ›Âèúÿÿÿÿ
+[	php:S1192["FDefine a constant instead of duplicating this literal "flags" 7 times.(ÄØÎ
+j	php:S3776""URefactor this function to reduce its Cognitive Complexity from 147 to the 15 allowed.(¾‡óÁ
+f	php:S1192}"LDefine a constant instead of duplicating this literal "replay_gain" 3 times.(²–™¯ıÿÿÿÿ
+f	php:S1192]"QDefine a constant instead of duplicating this literal "tag_offset_start" 9 times.(®ÆŸ‚
+d	php:S1192ğ"IDefine a constant instead of duplicating this literal "comments" 5 times.(æèÎ…şÿÿÿÿ
+f	php:S1192§"KDefine a constant instead of duplicating this literal "originator" 4 times.(…Åªñüÿÿÿÿ
+]	php:S1192\"HDefine a constant instead of duplicating this literal "tagsize" 5 times.(‚‘÷
+^	php:S1192%"IDefine a constant instead of duplicating this literal "filesize" 3 times.(¨æıé
+8php:S1259"Remove this commented out code.(û‹—ºÿÿÿÿÿ
+‹php:S138""wThis function "Analyze" has 261 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¾‡óÁ
+b	php:S1192"GDefine a constant instead of duplicating this literal "offset" 5 times.(ƒ—Ûıÿÿÿÿ
+a	php:S1192”"KDefine a constant instead of duplicating this literal "image_mime" 3 times.(¨³Ÿ¯
+ephp:S101"QRename class "getid3_apetag" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(µõ÷ú
+d	php:S1142""OReduce the number of returns of this function 6, down to the maximum allowed 3.(¾‡óÁ
+g	php:S1192§"LDefine a constant instead of duplicating this literal "unspecified" 4 times.(…Åªñüÿÿÿÿ
+b	php:S1192i"HDefine a constant instead of duplicating this literal "warning" 3 times.(ï¼µùüÿÿÿÿ
+2php:S1253"Remove this commented out code.(Š«M
+]	php:S1192V"HDefine a constant instead of duplicating this literal "footer" 11 times.(¸©êñ
+g	php:S1192—"RDefine a constant instead of duplicating this literal "item_contents_raw" 3 times.(øçëO
+i	php:S11927"ODefine a constant instead of duplicating this literal "tag_offset_end" 9 times.(ş’‘”üÿÿÿÿ

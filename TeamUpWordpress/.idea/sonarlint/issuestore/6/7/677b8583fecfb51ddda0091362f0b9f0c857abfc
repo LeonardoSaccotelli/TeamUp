@@ -1,0 +1,4 @@
+
+ephp:S101"QRename class "WP_Widget_RSS" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Џум”
+[	php:S1192."FDefine a constant instead of duplicating this literal "error" 3 times.(№≥Ћф
+n	php:S3776-"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(√Ёшащ€€€€

@@ -1,0 +1,31 @@
+
+H	php:S1481®"-Remove this unused "$NewLine" local variable.(‹œûðøÿÿÿÿ
+>	php:S1481<")Remove this unused "$res" local variable.(ÊØšÁ
+Ephp:S121°"0Add curly braces around the nested statement(s).(©Î’í
+c	php:S1192("IDefine a constant instead of duplicating this literal "_connect" 4 times.(Éº¬–ýÿÿÿÿ
+Dphp:S121i"0Add curly braces around the nested statement(s).(¨ºžâ
+Jphp:S121¾"0Add curly braces around the nested statement(s).(ßÊÔ…úÿÿÿÿ
+d	php:S1142]"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ú”±¨
+Dphp:S121n"0Add curly braces around the nested statement(s).(öÿ¾¬
+Jphp:S121¿"0Add curly braces around the nested statement(s).(û–Þúÿÿÿÿ
+e	php:S1142m"PReduce the number of returns of this function 13, down to the maximum allowed 3.( øýÒ
+Ephp:S121¼"0Add curly braces around the nested statement(s).(îìêÚ
+Jphp:S121Ô"0Add curly braces around the nested statement(s).(ìÓÁŠúÿÿÿÿ
+Jphp:S121½"0Add curly braces around the nested statement(s).(ßêŒ«ýÿÿÿÿ
+i	php:S3776m"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.( øýÒ
+d	php:S11424"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ìž¯Í
+j	php:S1192…"ODefine a constant instead of duplicating this literal "Connecting to " 3 times.(½ë¢•ýÿÿÿÿ
+Dphp:S121b"0Add curly braces around the nested statement(s).(àñ¢”
+Ephp:S121‹"0Add curly braces around the nested statement(s).(ÁØýý
+Jphp:S121¯"0Add curly braces around the nested statement(s).(ºš‰þÿÿÿÿ
+Jphp:S121Ö"0Add curly braces around the nested statement(s).(º¼Ýˆÿÿÿÿÿ
+Ephp:S121Ç"0Add curly braces around the nested statement(s).(©Î’í
+Ephp:S121Û"0Add curly braces around the nested statement(s).(úü´Â
+Dphp:S121:"0Add curly braces around the nested statement(s).(èÏèÛ
+Jphp:S121Æ"0Add curly braces around the nested statement(s).(ºš‰þÿÿÿÿ
+H	php:S1481Å"-Remove this unused "$NewLine" local variable.(‹œûðøÿÿÿÿ
+c	php:S1192r"NDefine a constant instead of duplicating this literal "_data_prepare" 6 times.(ŒŽòÎ
+cphp:S101"ORename class "ftp_sockets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÓŸäì
+j	php:S1142Ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÑŽì’øÿÿÿÿ
+D	php:S1481Æ")Remove this unused "$out" local variable.(ºš‰þÿÿÿÿ
+Iphp:S121X"0Add curly braces around the nested statement(s).(óôº±ûÿÿÿÿ

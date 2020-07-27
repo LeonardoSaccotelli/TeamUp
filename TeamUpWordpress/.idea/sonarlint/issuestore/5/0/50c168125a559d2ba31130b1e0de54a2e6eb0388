@@ -1,0 +1,8 @@
+
+c	php:S1142"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¥Õî2
+^	php:S1192å"HDefine a constant instead of duplicating this literal "current" 4 times.(¬ÂÎÓ
+d	php:S1192ö"IDefine a constant instead of duplicating this literal "autosave" 4 times.(ßş×¼ûÿÿÿÿ
+h	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¥Õî2
+o	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(°êÒøÿÿÿÿ
+™	php:S1192”"ƒDefine a constant instead of duplicating this literal "<span class="author-name">{{ data.attributes.author.name }}</span>" 3 times.(ˆÖå{
+Z	php:S1192x"FDefine a constant instead of duplicating this literal "</td>" 3 times.(³Şw

@@ -1,0 +1,15 @@
+
+y	php:S1192Ï"^Define a constant instead of duplicating this literal "um_messaging_member_directory" 3 times.(²ù·şÿÿÿÿ
+g	php:S1192 "MDefine a constant instead of duplicating this literal "um_messaging" 5 times.(ƒ–”®ûÿÿÿÿ
+m	php:S1192®"RDefine a constant instead of duplicating this literal "um_messaging_gdpr" 3 times.(ÇË®Øøÿÿÿÿ
+k	php:S1192˜"UDefine a constant instead of duplicating this literal "um_messaging_enqueue" 3 times.(¹£…ó
+n	php:S1192å"SDefine a constant instead of duplicating this literal "um_messaging_admin" 3 times.(îêø®ıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+i	php:S1192‚"SDefine a constant instead of duplicating this literal "um_messaging_setup" 3 times.(ÏØËÑ
+k	php:S1192Ä"UDefine a constant instead of duplicating this literal "um_messaging_profile" 3 times.(Úú’ï
+mphp:S101"TRename class "UM_Messaging_API" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(û³‹ÿÿÿÿÿ
+q	php:S1192"VDefine a constant instead of duplicating this literal "um_messaging_main_api" 3 times.(®³ø£ÿÿÿÿÿ
+p	php:S1192¹"UDefine a constant instead of duplicating this literal "um_messaging_account" 3 times.(ê„Ûùÿÿÿÿ
+m	php:S1192£"WDefine a constant instead of duplicating this literal "um_messaging_shortcode" 3 times.(ôßœ™
+{	php:S1488q"aImmediately return this expression instead of assigning it to the temporary variable "$defaults".(³¸•²úÿÿÿÿ
+v	php:S1192Ú"[Define a constant instead of duplicating this literal "um_messaging_admin_upgrade" 3 times.(„—øüøÿÿÿÿ

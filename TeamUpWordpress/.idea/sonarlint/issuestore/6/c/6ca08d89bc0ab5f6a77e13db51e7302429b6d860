@@ -1,0 +1,7 @@
+
+`	php:S1192€"JDefine a constant instead of duplicating this literal "elementor" 7 times.(Ô­ùÊ
+f	php:S1117—"KRename "$reports" which has the same name as the field declared at line 57.(ò¦ð¡øÿÿÿÿ
+f	php:S1117Ë"KRename "$reports" which has the same name as the field declared at line 57.(­ ø°ùÿÿÿÿ
+\	php:S1481À"ARemove this unused "$required_plugins_properties" local variable.(­äÒðüÿÿÿÿ
+e	php:S1192_"KDefine a constant instead of duplicating this literal "class_name" 3 times.(ì«Ûðüÿÿÿÿ
+K	php:S1481¾"0Remove this unused "$tabs_count" local variable.(ÜŠ´‘ùÿÿÿÿ

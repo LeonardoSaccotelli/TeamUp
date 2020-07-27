@@ -1,0 +1,62 @@
+
+_	php:S1192‹"IDefine a constant instead of duplicating this literal "\xFF\xFE" 9 times.(ˆè˜Á
+N	php:S1479
+"8Reduce the number of switch cases from 31 to at most 30.(‡²¤«
+d	php:S1192ì	"IDefine a constant instead of duplicating this literal "UTF-16LE" 4 times.(Á©Îòùÿÿÿÿ
+cphp:S127Î
+"ORefactor the code to avoid updating the loop counter "$i" within the loop body.( ç¯D
+J	php:S1066Æ"/Merge this if statement with the enclosing one.(Ïı½şÿÿÿÿ
+iphp:S127Ê
+"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(§úÁ»üÿÿÿÿ
+e	php:S1142ı"OReduce the number of returns of this function 4, down to the maximum allowed 3.(á¡Ò¸
+J	php:S1066Ò"/Merge this if statement with the enclosing one.(ñé¥¼ûÿÿÿÿ
+[php:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(ê‚öÈ
+`php:S112™"FDefine and throw a dedicated exception instead of using a generic one.(ÅØ÷ıÿÿÿÿ
+9php:S125"Remove this commented out code.(Ò›¸æùÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "UTF-8" 11 times.(Û½×Âÿÿÿÿÿ
+cphp:S127Ë
+"ORefactor the code to avoid updating the loop counter "$i" within the loop body.( ç¯D
+j	php:S3776™
+"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¼óÏ›
+j	php:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(á¡Ò¸
+h	php:S1301Ì	"MReplace this "switch" statement with "if" statements to increase readability.(ØĞšÓÿÿÿÿÿ
+J	php:S1481ã"/Remove this unused "$keylength" local variable.(À åéıÿÿÿÿ
+_	php:S1192ë	"IDefine a constant instead of duplicating this literal "UTF-16BE" 4 times.(ö¥ªñ
+J	php:S1066²"/Merge this if statement with the enclosing one.(­¿‰›øÿÿÿÿ
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.( ªØ·ıÿÿÿÿ
+`php:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ¤Çëüÿÿÿÿ
+aphp:S101"NRename class "getid3_lib" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ú§”m
+[php:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ØÈÉà
+`php:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(®ı¿‘úÿÿÿÿ
+b	php:S1192Á	"GDefine a constant instead of duplicating this literal "UTF-16" 6 times.(ÍÖ¼êüÿÿÿÿ
+h	php:S1301Ø	"MReplace this "switch" statement with "if" statements to increase readability.(ØĞšÓÿÿÿÿÿ
+I	php:S1066^"/Merge this if statement with the enclosing one.(²çæÀûÿÿÿÿ
+`php:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(š§Ãêûÿÿÿÿ
+Qphp:S131Ø	"7Add a "case default" clause to this "switch" statement.(ØĞšÓÿÿÿÿÿ
+cphp:S127Ç
+"ORefactor the code to avoid updating the loop counter "$i" within the loop body.( ç¯D
+9php:S125ü"Remove this commented out code.(Ùïå—øÿÿÿÿ
+	php:S1488¿"jImmediately return this expression instead of assigning it to the temporary variable "$binarypointnumber".(î¾”5
+iphp:S127Å
+"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(‹¥§éûÿÿÿÿ
+iphp:S127Æ
+"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(§úÁ»üÿÿÿÿ
+U	php:S1854µ"?Remove this useless assignment to local variable '$floatvalue'.(Ò¾À
+`php:S112ü	"FDefine and throw a dedicated exception instead of using a generic one.(µÂ¹şÿÿÿÿ
+j	php:S1142¹	"OReduce the number of returns of this function 7, down to the maximum allowed 3.(”£„·øÿÿÿÿ
+o	php:S3776¹	"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(”£„·øÿÿÿÿ
+9php:S125›"Remove this commented out code.(µÄõÿÿÿÿÿ
+7	php:S1110¤"!Remove these useless parentheses.(¬Î»“
+k	php:S3776ú"URefactor this function to reduce its Cognitive Complexity from 113 to the 15 allowed.(ª¹»½
+`	php:S1192‚"JDefine a constant instead of duplicating this literal "comments" 17 times.(ÅËÈ¡
+Qphp:S131Ì	"7Add a "case default" clause to this "switch" statement.(ØĞšÓÿÿÿÿÿ
+[php:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(ùàõƒ
+9php:S125˜"Remove this commented out code.(ÇòÜÃùÿÿÿÿ
+_	php:S1192ø"IDefine a constant instead of duplicating this literal "\xFE\xFF" 8 times.(êŒ¿
+E	php:S1066Æ	"/Merge this if statement with the enclosing one.(óŸß”
+z	php:S1448"fClass "getid3_lib" has 70 methods, which is greater than 20 authorized. Split it into smaller classes.(ú§”m
+4php:S125õ"Remove this commented out code.(ÙŞ³
+i	php:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(·ÂºI
+y	php:S1488µ"cImmediately return this expression instead of assigning it to the temporary variable "$gainstring".(šğ°
+`php:S112²"FDefine and throw a dedicated exception instead of using a generic one.(ìü´‚şÿÿÿÿ
+g	php:S1192Í	"LDefine a constant instead of duplicating this literal "ISO-8859-1" 12 times.(ğÍÄıÿÿÿÿ

@@ -1,0 +1,10 @@
+
+i	php:S3776$"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(Ú¬óÔ
+g	php:S1301?"MReplace this "switch" statement with "if" statements to increase readability.(¾‘ò»úÿÿÿÿ
+B	php:S1172$"-Remove the unused function parameter "$args".(Ú¬óÔ
+Pphp:S131?"7Add a "case default" clause to this "switch" statement.(¾‘ò»úÿÿÿÿ
+B	php:S1172"-Remove the unused function parameter "$args".(¤éÎ
+0	php:S3626w"Remove this redundant jump.(ÉŠ©ƒ
+Iphp:S121"0Add curly braces around the nested statement(s).(èÉ¹êûÿÿÿÿ
+C	php:S1172Œ"-Remove the unused function parameter "$menu".(‡åû¹
+x	php:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$items".(³ú ¶ıÿÿÿÿ

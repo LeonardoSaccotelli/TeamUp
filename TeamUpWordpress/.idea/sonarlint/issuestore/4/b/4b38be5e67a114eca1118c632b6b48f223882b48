@@ -1,0 +1,44 @@
+
+3	Web:S5258ó"Remove this "th" element(ñÉÇÉùÿÿÿÿ
+3	Web:S5258˜"Remove this "th" element(¹ì£€ÿÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "<code>" 8 times.(èƒ¶ˆÿÿÿÿÿ
+7	php:S1110Š"!Remove these useless parentheses.(ÅÔ¿¶
+3	Web:S5258á"Remove this "th" element(”Ëé­üÿÿÿÿ
+i	php:S11425"OReduce the number of returns of this function 4, down to the maximum allowed 3.(÷Ö„Âÿÿÿÿÿ
+O	php:S1135ä"4Complete the task associated to this "TODO" comment.(üœç¡şÿÿÿÿ
+.	Web:S5258ç"Remove this "th" element(‡ ´ô
+–php:S138m"}This function "network_step1" has 164 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ùíşÿÿÿÿ
+B	Web:S5257å",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+m Web:TableHeaderHasIdOrScopeCheckó";Add either an 'id' or a 'scope' attribute to this <th> tag.(ñÉÇÉùÿÿÿÿ
+n	php:S1192Ä"YDefine a constant instead of duplicating this literal "<code>mod_rewrite</code>" 3 times.(şÕÒ!
+e	php:S1192µ"JDefine a constant instead of duplicating this literal "</strong>" 3 times.(íï¿úÿÿÿÿ
+à	php:S1192µ"ÄDefine a constant instead of duplicating this literal "The main site in a sub-directory installation will need to use a modified permalink structure, potentially breaking existing links." 3 times.(íï¿úÿÿÿÿ
+_	php:S1192¸"IDefine a constant instead of duplicating this literal "<strong>" 3 times.(¾á°²
+3	Web:S5258É"Remove this "th" element(Üòş‡ûÿÿÿÿ
+t	php:S1192w"ZDefine a constant instead of duplicating this literal "wp-admin/admin-footer.php" 3 times.(ØÖääıÿÿÿÿ
+e	php:S1192µ"JDefine a constant instead of duplicating this literal " <strong>" 3 times.(íï¿úÿÿÿÿ
+h	php:S1192¶"RDefine a constant instead of duplicating this literal "subdomain_install" 3 times.(”ğ¸Ï
+3	Web:S5258¼"Remove this "th" element(‚§³şÿÿÿÿ
+B	Web:S5257–",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+3	Web:S5258ê"Remove this "th" element(îæóøÿÿÿÿÿ
+e	php:S1192Š"ODefine a constant instead of duplicating this literal "Server Address" 3 times.(…•°”
+H	php:S1135d"4Complete the task associated to this "TODO" comment.(·ëÛT
+c	php:S1192"HDefine a constant instead of duplicating this literal "</code>" 8 times.(èƒ¶ˆÿÿÿÿÿ
+_	php:S1192¸"IDefine a constant instead of duplicating this literal "Caution:" 3 times.(¾á°²
+n	php:S3776m"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ùíşÿÿÿÿ
+e	php:S1192u"KDefine a constant instead of duplicating this literal "</p></div>" 5 times.(µü¥…øÿÿÿÿ
+a	php:S1192v"GDefine a constant instead of duplicating this literal "</div>" 5 times.(˜ñÄøÿÿÿÿ
+­	php:S1192„"–Define a constant instead of duplicating this literal "Subdirectory networks may not be fully compatible with custom wp-content directories." 3 times.(’’ÙÏ
+3	Web:S5258ª"Remove this "th" element(‚§³şÿÿÿÿ
+v	php:S1192¼"[Define a constant instead of duplicating this literal "<code>wp-config.php</code>" 6 times.(©ºã úÿÿÿÿ
+f	php:S1192ƒ"KDefine a constant instead of duplicating this literal "wp-content" 3 times.(äæÔöùÿÿÿÿ
+B	Web:S5257§",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+e	php:S1192q"KDefine a constant instead of duplicating this literal "</strong> " 9 times.(ù…²æüÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(¹˜ ´
+y	php:S1192q"_Define a constant instead of duplicating this literal "<div class="error"><p><strong>" 3 times.(ù…²æüÿÿÿÿ
+i	php:S1192"NDefine a constant instead of duplicating this literal "</strong></p>" 3 times.(¦„ŠÀøÿÿÿÿ
+^	php:S1192}"IDefine a constant instead of duplicating this literal "Warning:" 8 times.(÷î©ì
+3	Web:S5258Ô"Remove this "th" element(¹ì£€ÿÿÿÿÿ
+N	php:S1135e"4Complete the task associated to this "TODO" comment.(¿ªÜŸûÿÿÿÿ
+’php:S138"}This function "network_step2" has 213 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¹˜ ´
+h Web:TableHeaderHasIdOrScopeCheckç";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡ ´ô

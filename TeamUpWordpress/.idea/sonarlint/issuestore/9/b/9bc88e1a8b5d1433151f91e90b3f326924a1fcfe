@@ -1,0 +1,46 @@
+
+mphp:S101"TRename class "Reviews_Main_API" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹ÀÅğşÿÿÿÿ
+`	php:S1192·"JDefine a constant instead of duplicating this literal "review_id" 3 times.(î™¡Û
+M	php:S1172"3Remove the unused function parameter "$old_rating".(§‚Íùÿÿÿÿ
+w	php:S1488º"aImmediately return this expression instead of assigning it to the temporary variable "$nav_link".(òİ­ä
+†	php:S1448"lClass "Reviews_Main_API" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(‹ÀÅğşÿÿÿÿ
+c	php:S1192ô"HDefine a constant instead of duplicating this literal "pending" 3 times.(Í¡¿Şüÿÿÿÿ
+]	php:S1192f"HDefine a constant instead of duplicating this literal "reviews" 3 times.(¦—êÚ
+|	php:S1192K"bDefine a constant instead of duplicating this literal "um_reviews_allow_multiple_reviews" 3 times.(·çóŞøÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+j	php:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(‘¢ñ¿
+c	php:S1192ë"HDefine a constant instead of duplicating this literal "content" 5 times.(üÔş¦ıÿÿÿÿ
+M	php:S1172›"2Remove the unused function parameter "$review_id".(¶ƒö×ıÿÿÿÿ
+N	php:S3801q"4Refactor this function to use "return" consistently.(ÅÇƒõşÿÿÿÿ
+Lphp:S131î"7Add a "case default" clause to this "switch" statement.(´ŞŞÕ
+a	php:S1192ê"FDefine a constant instead of duplicating this literal "title" 4 times.(…Ï´”ûÿÿÿÿ
+_	php:S1192ğ"IDefine a constant instead of duplicating this literal "_flagged" 3 times.(„¦™’
+>	php:S1125Ü"(Remove the literal "true" boolean value.(åöµì
+b	php:S1192%"HDefine a constant instead of duplicating this literal "_rating" 4 times.(×şÜïùÿÿÿÿ
+]	php:S1192é"GDefine a constant instead of duplicating this literal "rating" 3 times.(…ª¶­
+z	php:S1488«"_Immediately return this expression instead of assigning it to the temporary variable "$result".(•¾„çúÿÿÿÿ
+a	php:S1192D"LDefine a constant instead of duplicating this literal "post_status" 6 times.(¦—Êı
+\	php:S1192:"GDefine a constant instead of duplicating this literal "value" 10 times.(¾ÏÚ
+]	php:S1192–"GDefine a constant instead of duplicating this literal "filter" 9 times.(ôÍÑƒ
+h	php:S1192È"MDefine a constant instead of duplicating this literal "_reviewer_id" 7 times.(Œ¢®¬ÿÿÿÿÿ
+j	php:S1192´"ODefine a constant instead of duplicating this literal "posts_per_page" 4 times.(ÍöÚñøÿÿÿÿ
+e	php:S1142Î"OReduce the number of returns of this function 7, down to the maximum allowed 3.(“€ìŒ
+X	php:S1854Æ"BRemove this useless assignment to local variable '$reviews_total'.(ğÕû
+j	php:S1142ü"OReduce the number of returns of this function 4, down to the maximum allowed 3.(•Ë»¤üÿÿÿÿ
+e	php:S11926"KDefine a constant instead of duplicating this literal "meta_query" 7 times.(¦Ûì¯üÿÿÿÿ
+^	php:S1192""JDefine a constant instead of duplicating this literal "_user_id" 10 times.(©¶@
+_	php:S1192è"IDefine a constant instead of duplicating this literal "reply_id" 4 times.(ıéöÅ
+d	php:S1192E"JDefine a constant instead of duplicating this literal "um_review" 6 times.(†¡€¤ùÿÿÿÿ
+<	php:S1110¬"!Remove these useless parentheses.(ğñ¿ôûÿÿÿÿ
+c	php:S1192¼"HDefine a constant instead of duplicating this literal "compare" 8 times.(¤“øíıÿÿÿÿ
+]	php:S1192D"HDefine a constant instead of duplicating this literal "publish" 7 times.(¦—Êı
+c	php:S1301î"MReplace this "switch" statement with "if" statements to increase readability.(´ŞŞÕ
+j	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ç·©ã
+d	php:S1192]"ODefine a constant instead of duplicating this literal "_reviews_total" 5 times.(ğ£ÂÌ
+	php:S1186"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¨ÿ—¦
+b	php:S11929"HDefine a constant instead of duplicating this literal "_status" 7 times.(«“òØùÿÿÿÿ
+c	php:S1192¼"HDefine a constant instead of duplicating this literal "message" 3 times.(şñ¨øÿÿÿÿ
+d	php:S1192E"JDefine a constant instead of duplicating this literal "post_type" 6 times.(†¡€¤ùÿÿÿÿ
+c	php:S11927"IDefine a constant instead of duplicating this literal "relation" 3 times.(”²Ÿ®şÿÿÿÿ
+b	php:S1192ò"LDefine a constant instead of duplicating this literal "um-reviews" 20 times.(æë¼“
+w	php:S1488ñ"aImmediately return this expression instead of assigning it to the temporary variable "$comments".(Ÿ‚ÑË

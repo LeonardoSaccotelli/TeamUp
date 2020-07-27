@@ -1,0 +1,16 @@
+
+e	php:S1192"JDefine a constant instead of duplicating this literal "max_bytes" 4 times.(ŒÎÛ—úÿÿÿÿ
+`	php:S1226í"EIntroduce a new variable instead of reusing the parameter "$options".(ãÑÊ úÿÿÿÿ
+P	php:S4830Ÿ":Activate SSL/TLS certificates chain of trust verification.(êäÍã
+b	php:S1192å"GDefine a constant instead of duplicating this literal "handle" 5 times.(ÂíŞãıÿÿÿÿ
+k	php:S1192ñ"PDefine a constant instead of duplicating this literal "connect_timeout" 3 times.(‹»ÇÍúÿÿÿÿ
+j	php:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(üíû—
+c	php:S1192Ï"HDefine a constant instead of duplicating this literal "options" 5 times.(¦„°şıÿÿÿÿ
+a	php:S1192Â"FDefine a constant instead of duplicating this literal "query" 6 times.(ÖÑÔªûÿÿÿÿ
+P	php:S4830—":Activate SSL/TLS certificates chain of trust verification.(ŞšÔ›
+d	php:S1192‰"IDefine a constant instead of duplicating this literal "filename" 5 times.(¼òù“úÿÿÿÿ
+j	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Í§å˜
+P	php:S4830–":Activate SSL/TLS certificates chain of trust verification.(êäÍã
+ophp:S101"[Rename class "Requests_Transport_cURL" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ëç¼§
+b	php:S1192”"GDefine a constant instead of duplicating this literal "verify" 4 times.(ßÜáıÿÿÿÿ
+b	php:S1192ƒ"GDefine a constant instead of duplicating this literal "hooks" 13 times.(Ò²Ë»ÿÿÿÿÿ

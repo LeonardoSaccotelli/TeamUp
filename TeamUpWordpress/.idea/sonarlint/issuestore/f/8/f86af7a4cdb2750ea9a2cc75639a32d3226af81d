@@ -1,0 +1,24 @@
+
+Dphp:S121^"0Add curly braces around the nested statement(s).(¨ºâ
+Dphp:S121c"0Add curly braces around the nested statement(s).(öÿ¾¬
+Jphp:S121›"0Add curly braces around the nested statement(s).(º¼İˆÿÿÿÿÿ
+d	php:S1142b"OReduce the number of returns of this function 6, down to the maximum allowed 3.( øıÒ
+Ephp:S121 "0Add curly braces around the nested statement(s).(úü´Â
+d	php:S1142R"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ú”±¨
+Iphp:S121M"0Add curly braces around the nested statement(s).(óôº±ûÿÿÿÿ
+Ephp:S121‘"0Add curly braces around the nested statement(s).(©Î’í
+Dphp:S121J"0Add curly braces around the nested statement(s).(õ³Ù´
+Jphp:S121"0Add curly braces around the nested statement(s).(ºš‰şÿÿÿÿ
+Iphp:S121w"0Add curly braces around the nested statement(s).(· ğÃøÿÿÿÿ
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ñì’øÿÿÿÿ
+Jphp:S121‰"0Add curly braces around the nested statement(s).(ßÊÔ…úÿÿÿÿ
+x	php:S1192y"dDefine a constant instead of duplicating this literal "Only passive connections available!" 3 times.(ÕíÒ
+Jphp:S121Š"0Add curly braces around the nested statement(s).(û–Şúÿÿÿÿ
+Dphp:S121W"0Add curly braces around the nested statement(s).(àñ¢”
+D	php:S1481")Remove this unused "$out" local variable.(ºš‰şÿÿÿÿ
+-	php:S2010²"Replace "or" with "||".(‘ÿ¼
+_php:S101"LRename class "ftp_pure" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äàV
+Ephp:S121"0Add curly braces around the nested statement(s).(©Î’í
+Jphp:S121€"0Add curly braces around the nested statement(s).(ºš‰şÿÿÿÿ
+Jphp:S121™"0Add curly braces around the nested statement(s).(ìÓÁŠúÿÿÿÿ
+Jphp:S121ˆ"0Add curly braces around the nested statement(s).(ßêŒ«ıÿÿÿÿ

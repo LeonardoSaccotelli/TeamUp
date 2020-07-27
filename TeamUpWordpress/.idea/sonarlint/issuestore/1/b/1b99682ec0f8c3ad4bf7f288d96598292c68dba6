@@ -1,0 +1,16 @@
+
+Cphp:S121p"0Add curly braces around the nested statement(s).(èò$
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Iphp:S121Z"0Add curly braces around the nested statement(s).(Ê—­Şúÿÿÿÿ
+Cphp:S121c"0Add curly braces around the nested statement(s).(èò$
+{	php:S1488Ï"`Immediately return this expression instead of assigning it to the temporary variable "$message".(¥‘¿‡üÿÿÿÿ
+`	php:S1192*"FDefine a constant instead of duplicating this literal "2.2.0" 3 times.(ËÖÃîÿÿÿÿÿ
+Cphp:S121~"0Add curly braces around the nested statement(s).(èò$
+[	php:S11922"FDefine a constant instead of duplicating this literal "1.0.0" 5 times.(ÑÃùŞ
+Dphp:S121Ì"0Add curly braces around the nested statement(s).(èò$
+b	php:S1192Á"GDefine a constant instead of duplicating this literal "<br />" 3 times.(ÅÑÊËûÿÿÿÿ
+`	php:S1192)"FDefine a constant instead of duplicating this literal "2.0.5" 4 times.(ìÛ©³ıÿÿÿÿ
+Dphp:S121š"0Add curly braces around the nested statement(s).(èò$
+Dphp:S121¨"0Add curly braces around the nested statement(s).(èò$
+k	php:S1192À"PDefine a constant instead of duplicating this literal "ultimate-member" 6 times.(â„˜öÿÿÿÿÿ
+Dphp:S121Œ"0Add curly braces around the nested statement(s).(èò$

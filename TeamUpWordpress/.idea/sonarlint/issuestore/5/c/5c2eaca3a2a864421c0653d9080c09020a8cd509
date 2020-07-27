@@ -1,0 +1,6 @@
+
+gphp:S101
+"NRename class "IXR_Client" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å¥úïÿÿÿÿÿ
+n	php:S3776="TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(€˜ºùÿÿÿÿ
+i	php:S1142="OReduce the number of returns of this function 5, down to the maximum allowed 3.(€˜ºùÿÿÿÿ
+‚	php:S16039"mReplace this function name "IXR_Client", since a "__construct" method has already been defined in this class.(æÅËŞ

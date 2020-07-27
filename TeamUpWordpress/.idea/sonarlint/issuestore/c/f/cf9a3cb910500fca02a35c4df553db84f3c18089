@@ -1,0 +1,22 @@
+
+b	php:S1192¤"GDefine a constant instead of duplicating this literal "status" 7 times.(ÁõÜ·üÿÿÿÿ
+`	php:S1192c"FDefine a constant instead of duplicating this literal "order" 6 times.(ƒ¿İõşÿÿÿÿ
+f	php:S1192‡"KDefine a constant instead of duplicating this literal "registered" 5 times.(•—çöûÿÿÿÿ
+\	php:S1192j"GDefine a constant instead of duplicating this literal "number" 3 times.(ÍçØ‡
+h	php:S1192Š"MDefine a constant instead of duplicating this literal "last_updated" 3 times.(Ğ•‚şÿÿÿÿ
+d	php:S1192‹"IDefine a constant instead of duplicating this literal "blogname" 6 times.(Í× ¢ûÿÿÿÿ
+\	php:S11920"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+`	php:S1192µ"JDefine a constant instead of duplicating this literal "<a href="" 8 times.(™‡Ñ¨
+n	php:S3776E"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÂŞû©úÿÿÿÿ
+^	php:S1192'"IDefine a constant instead of duplicating this literal "archived" 4 times.(Ì’åÿ
+k	php:S1192ğ"PDefine a constant instead of duplicating this literal "wpmublogsaction" 3 times.(¾¤õäúÿÿÿÿ
+sphp:S101"ZRename class "WP_MS_Sites_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹¸‰Ûıÿÿÿÿ
+d	php:S1192‘"IDefine a constant instead of duplicating this literal "blog_id" 37 times.(¿¯±ûÿÿÿÿ
+b	php:S1192)"HDefine a constant instead of duplicating this literal "deleted" 4 times.(ÙÜ¶ºøÿÿÿÿ
+[	php:S1192/"FDefine a constant instead of duplicating this literal "sites" 3 times.(´¦¯¿
+\	php:S1192£"GDefine a constant instead of duplicating this literal "delete" 3 times.(®­Ïi
+a	php:S1192*"GDefine a constant instead of duplicating this literal "mature" 3 times.(«ÁÁƒüÿÿÿÿ
+]	php:S1192_"HDefine a constant instead of duplicating this literal "orderby" 6 times.(™Ü 
+]	php:S1192"GDefine a constant instead of duplicating this literal "domain" 4 times.(èÉš
+b	php:S1192‰"LDefine a constant instead of duplicating this literal "lastupdated" 4 times.(³Éİó
+Œ	php:S1448"rClass "WP_MS_Sites_List_Table" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(‹¸‰Ûıÿÿÿÿ

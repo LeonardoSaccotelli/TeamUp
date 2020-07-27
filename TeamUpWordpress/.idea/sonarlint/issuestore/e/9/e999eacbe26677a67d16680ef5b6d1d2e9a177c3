@@ -1,0 +1,9 @@
+
+c	php:S1117ñ"HRename "$done" which has the same name as the field declared at line 49.(œªìıÿÿÿÿ
+c	php:S1871·"MThis branch's code block is the same as the block for the branch on line 179.(Üè·
+c	php:S1871µ"MThis branch's code block is the same as the block for the branch on line 179.(Ä„şÉ
+j	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(´á®“
+H	php:S1172µ"2Remove the unused function parameter "$recursion".(ÖÈÇâ
+Qphp:S131‘"7Add a "case default" clause to this "switch" statement.(øôËøÿÿÿÿ
+gphp:S101"SRename class "WP_Dependencies" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÍöáŒ
+e	php:S1142"OReduce the number of returns of this function 7, down to the maximum allowed 3.(²ª«‡

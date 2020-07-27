@@ -1,0 +1,19 @@
+
+e	php:S1192ğ"JDefine a constant instead of duplicating this literal "um_groups" 4 times.(“âåãşÿÿÿÿ
+„	php:S1488Ö"iImmediately return this expression instead of assigning it to the temporary variable "$create_group_url".(€§§åùÿÿÿÿ
+g	php:S1192õ"LDefine a constant instead of duplicating this literal "numberposts" 3 times.(†êú¶şÿÿÿÿ
+\	php:S1192ù"GDefine a constant instead of duplicating this literal "hidden" 3 times.(¸o
+c	php:S1192ú"HDefine a constant instead of duplicating this literal "compare" 3 times.(¤“øíıÿÿÿÿ
+e	php:S1192ó"JDefine a constant instead of duplicating this literal "post_type" 3 times.(•¥íÎÿÿÿÿÿ
+{	php:S14887"fImmediately return this expression instead of assigning it to the temporary variable "$total_members".(ñ±á
+€	php:S1488B"fImmediately return this expression instead of assigning it to the temporary variable "$total_members".(·‹øšøÿÿÿÿ
+€	php:S1488N"fImmediately return this expression instead of assigning it to the temporary variable "$total_members".(ï€Ä½úÿÿÿÿ
+{	php:S1488,"fImmediately return this expression instead of assigning it to the temporary variable "$total_members".(…¿ş
+d	php:S1142q"OReduce the number of returns of this function 4, down to the maximum allowed 3.(À¸¸Í
+^	php:S1192ô"HDefine a constant instead of duplicating this literal "publish" 3 times.(¦—Êı
+f	php:S1192ö"KDefine a constant instead of duplicating this literal "meta_query" 3 times.(¦Ûì¯üÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+Y	php:S1854ò"CRemove this useless assignment to local variable '$private_groups'.(´±×ÿ
+n	php:S1192ø"SDefine a constant instead of duplicating this literal "_um_groups_privacy" 3 times.(ÏïŒàùÿÿÿÿ
+[	php:S1192ù"FDefine a constant instead of duplicating this literal "value" 3 times.(¸o
+a	php:S1192"LDefine a constant instead of duplicating this literal "post_status" 4 times.(¥ã²T

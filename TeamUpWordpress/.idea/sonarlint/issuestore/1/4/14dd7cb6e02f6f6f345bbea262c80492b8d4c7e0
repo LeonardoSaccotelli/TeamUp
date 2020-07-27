@@ -1,0 +1,51 @@
+
+j	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(œ©¡Êşÿÿÿÿ
+f	php:S1192Å"KDefine a constant instead of duplicating this literal "title_left" 4 times.(»Ö­äÿÿÿÿÿ
+}	php:S1192¬"gDefine a constant instead of duplicating this literal "Website: %1$s (IP address: %2$s, %3$s)" 4 times.(œÄ’¿
+]	php:S1192´"GDefine a constant instead of duplicating this literal "height" 4 times.(Ûşà…
+o	php:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ğşê®ıÿÿÿÿ
+a	php:S1192ó"KDefine a constant instead of duplicating this literal "expiration" 3 times.(ÛüÆé
+d	php:S1192µ"IDefine a constant instead of duplicating this literal "subject" 11 times.(¢ß²öıÿÿÿÿ
+e	php:S1192˜"JDefine a constant instead of duplicating this literal "HTTP_HOST" 3 times.(á®ªŠùÿÿÿÿ
+j	php:S1142Î"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ğşê®ıÿÿÿÿ
+o	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ö«×îşÿÿÿÿ
+^	php:S1192®"HDefine a constant instead of duplicating this literal "URL: %s" 6 times.(Ì¹æ…
+g	php:S1192Æ"LDefine a constant instead of duplicating this literal "title_right" 4 times.(êÂÆûÿÿÿÿ
+\	php:S1192µ"FDefine a constant instead of duplicating this literal "width" 4 times.(¹Ô³ï
+g	php:S1192µ"LDefine a constant instead of duplicating this literal "attachments" 5 times.(¢ß²öıÿÿÿÿ
+a	php:S1192"KDefine a constant instead of duplicating this literal "get_avatar" 3 times.(—ÓÅ¾
+a	php:S1192Û"FDefine a constant instead of duplicating this literal "https" 4 times.(ÿ½ğûÿÿÿÿ
+`	php:S1192¿"JDefine a constant instead of duplicating this literal "WordPress" 3 times.(¹Ğ×
+`	php:S1192ñ"JDefine a constant instead of duplicating this literal "boundary=" 3 times.(²¬ıÄ
+E	php:S1066Ñ"/Merge this if statement with the enclosing one.(ş•›ï
+Œphp:S138ª"wThis function "wp_mail" has 200 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(—ÏÚ
+j	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ûâÊÇ
+_	php:S1192°"JDefine a constant instead of duplicating this literal "\r\n\r\n" 14 times.(¹ÚÉ
+o	php:S3776°"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(†ê®˜ûÿÿÿÿ
+b	php:S1192Œ"LDefine a constant instead of duplicating this literal "secure_auth" 4 times.(¹«“²
+d	php:S1192µ"IDefine a constant instead of duplicating this literal "headers" 11 times.(¢ß²öıÿÿÿÿ
+O	php:S1135"4Complete the task associated to this "TODO" comment.(á¡õÆøÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(œ©¡Êşÿÿÿÿ
+\	php:S1192à"FDefine a constant instead of duplicating this literal "nonce" 4 times.(Ã£ŒÑ
+a	php:S1192»"FDefine a constant instead of duplicating this literal "class" 5 times.(œ¸·ãÿÿÿÿÿ
+e	php:S1142ß"OReduce the number of returns of this function 6, down to the maximum allowed 3.(õá¸”
+j	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 98 to the 15 allowed.(—ÏÚ
+\	php:S1192Ä"FDefine a constant instead of duplicating this literal "title" 4 times.(¹÷¿â
+`	php:S1192Ê"JDefine a constant instead of duplicating this literal "Email: %s" 3 times.(æ×îÄ
+j	php:S1142È"OReduce the number of returns of this function 4, down to the maximum allowed 3.(³×«‚ıÿÿÿÿ
+h	php:S1192“"MDefine a constant instead of duplicating this literal "REQUEST_URI" 12 times.(ÂÜğ™ùÿÿÿÿ
+Lphp:S131‰"7Add a "case default" clause to this "switch" statement.(ªŒˆØ
+h	php:S1192Î"MDefine a constant instead of duplicating this literal "edit_comment" 3 times.(ÎÃšÑùÿÿÿÿ
+d	php:S1192Ş"IDefine a constant instead of duplicating this literal "_wpnonce" 3 times.(Æ¢Ñáùÿÿÿÿ
+b	php:S1192Ï"LDefine a constant instead of duplicating this literal "admin_email" 5 times.(¸ş£•
+j	php:S1142°"OReduce the number of returns of this function 4, down to the maximum allowed 3.(†ê®˜ûÿÿÿÿ
+^	php:S1192¶"HDefine a constant instead of duplicating this literal "default" 4 times.(Ù€§ï
+]	php:S1192ï"GDefine a constant instead of duplicating this literal "scheme" 7 times.(µË‘ø
+_	php:S1192¤"IDefine a constant instead of duplicating this literal "blogname" 4 times.(…¹¼£
+p	php:S1488õ"ZImmediately return this expression instead of assigning it to the temporary variable "$r".(´‹“¡
+e	php:S1192"JDefine a constant instead of duplicating this literal "logged_in" 4 times.(õĞ×Ìûÿÿÿÿ
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ğ­˜ìøÿÿÿÿ
+J	php:S1066ƒ"/Merge this if statement with the enclosing one.(÷ÇÓÀÿÿÿÿÿ
+j	php:S1192ì"ODefine a constant instead of duplicating this literal "wp_mail_failed" 4 times.(ïüÂ‰ıÿÿÿÿ
+d	php:S1192µ"IDefine a constant instead of duplicating this literal "message" 11 times.(¢ß²öıÿÿÿÿ
+a	php:S1192°"LDefine a constant instead of duplicating this literal "Comment: %s" 4 times.(¹ÚÉ

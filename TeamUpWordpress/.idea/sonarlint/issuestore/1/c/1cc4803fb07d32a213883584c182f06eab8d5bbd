@@ -1,0 +1,18 @@
+
+a	php:S1192m"GDefine a constant instead of duplicating this literal "um-api" 4 times.(® Ê×ùÿÿÿÿ
+1	php:S3626ê"Remove this redundant jump.(ûÁİ…
+K	php:S1172l"6Remove the unused function parameter "$rewrite_rules".(ÿÖš÷
+u	php:S4144ó"ZUpdate this method so that its implementation is not identical to "get_users" on line 335.(ßş‚ şÿÿÿÿ
+k	php:S1192ı"PDefine a constant instead of duplicating this literal "ultimate-member" 4 times.(ØÓ®Úıÿÿÿÿ
+a	php:S1192ı"FDefine a constant instead of duplicating this literal "error" 4 times.(ØÓ®Úıÿÿÿÿ
+C	php:S1172è"-Remove the unused function parameter "$data".(†Øíö
+C	php:S1172Û"-Remove the unused function parameter "$args".(Úş³
+C	php:S1172ç"-Remove the unused function parameter "$args".(ŸàÉ
+C	php:S1172Ï"-Remove the unused function parameter "$args".(Ğİ’
+C	php:S1172£"-Remove the unused function parameter "$args".(ŠÓ­ä
+H	php:S1172ó"-Remove the unused function parameter "$args".(ßş‚ şÿÿÿÿ
+G	php:S1172ò",Remove the unused function parameter "$key".(Û¦Ø›şÿÿÿÿ
+‡	php:S1186æ"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¶ª¬¡ıÿÿÿÿ
+c	php:S1117"HRename "$data" which has the same name as the field declared at line 52.(šÛ¶üÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+|	php:S1488Ã"aImmediately return this expression instead of assigning it to the temporary variable "$response".(±ºğÿÿÿÿÿ

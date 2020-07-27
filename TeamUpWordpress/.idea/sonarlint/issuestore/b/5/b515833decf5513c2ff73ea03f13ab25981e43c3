@@ -1,0 +1,18 @@
+
+e	php:S1142£"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÎêíÀ
+e	php:S1142™"OReduce the number of returns of this function 9, down to the maximum allowed 3.(µİ€
+`	php:S1126­"EReplace this "if-then-else" statement by a single "return" statement.(ËÌŒüÿÿÿÿ
+\	php:S1192¹"FDefine a constant instead of duplicating this literal ":data" 5 times.(»÷œ
+`	php:S1126“"EReplace this "if-then-else" statement by a single "return" statement.(Œ¢Óîşÿÿÿÿ
+a	php:S1192º"FDefine a constant instead of duplicating this literal ":time" 5 times.(ÕÅğàıÿÿÿÿ
+a	php:S1192»"FDefine a constant instead of duplicating this literal "child" 9 times.(â½ñ«ùÿÿÿÿ
+b	php:S1192`"HDefine a constant instead of duplicating this literal "prefix" 20 times.(ò“ƒÙşÿÿÿÿ
+j	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 70 to the 15 allowed.(µİ€
+r	php:S1192ª"]Define a constant instead of duplicating this literal "cache_data` WHERE `id` = :id" 3 times.(ö¹x
+d	php:S1192Ã"NDefine a constant instead of duplicating this literal "INSERT INTO `" 3 times.(Ğ™æÜ
+a	php:S1192§"FDefine a constant instead of duplicating this literal ":feed" 8 times.(ßÈ‰¥şÿÿÿÿ
+\	php:S1192_"HDefine a constant instead of duplicating this literal "extras" 20 times.(¯¬@
+a	php:S1192‰"FDefine a constant instead of duplicating this literal "items" 3 times.(°»…ôüÿÿÿÿ
+j	php:S3776£"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÎêíÀ
+rphp:S1019"YRename class "SimplePie_Cache_MySQL" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¶…×ùûÿÿÿÿ
+d	php:S1192¯"IDefine a constant instead of duplicating this literal "UPDATE `" 4 times.(šé¾‹ùÿÿÿÿ

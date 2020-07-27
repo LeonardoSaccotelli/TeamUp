@@ -1,0 +1,21 @@
+
+pphp:S115"\Rename this constant "um_url" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¤ãş£
+`	php:S1192="FDefine a constant instead of duplicating this literal "trash" 4 times.(”§—ıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(á›Äßøÿÿÿÿ
+`	php:S1192="FDefine a constant instead of duplicating this literal "draft" 4 times.(”§—ıÿÿÿÿ
+b	php:S1192="HDefine a constant instead of duplicating this literal "pending" 4 times.(”§—ıÿÿÿÿ
+b	php:S1192="HDefine a constant instead of duplicating this literal "inherit" 4 times.(”§—ıÿÿÿÿ
+e	php:S1192="KDefine a constant instead of duplicating this literal "auto-draft" 4 times.(”§—ıÿÿÿÿ
+Iphp:S121
+"0Add curly braces around the nested statement(s).(èú€šùÿÿÿÿ
+a	php:S1192="GDefine a constant instead of duplicating this literal "future" 4 times.(”§—ıÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(¾Ë¢
+d	php:S11921"JDefine a constant instead of duplicating this literal "post_type" 4 times.(ŒäŒæıÿÿÿÿ
+f	php:S1192>"LDefine a constant instead of duplicating this literal "numberposts" 4 times.(ü­ùÌøÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(¨üÊøÿÿÿÿ
+b	php:S1192="HDefine a constant instead of duplicating this literal "publish" 4 times.(”§—ıÿÿÿÿ
+Iphp:S121%"0Add curly braces around the nested statement(s).(ÎÈùÿÿÿÿ
+b	php:S1192="HDefine a constant instead of duplicating this literal "private" 4 times.(”§—ıÿÿÿÿ
+f	php:S1192="LDefine a constant instead of duplicating this literal "post_status" 4 times.(”§—ıÿÿÿÿ
+vphp:S115"]Rename this constant "um_path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(æÿÂ²øÿÿÿÿ
+rphp:S115"_Rename this constant "um_plugin" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¥Ÿ¥

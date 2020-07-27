@@ -1,0 +1,181 @@
+
+3php:S125±"Remove this commented out code.(½òš.
+3php:S125ı
+"Remove this commented out code.(Ï÷ÉA
+†php:S115"rRename this constant "aead_chacha20poly1305_ABYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ŸÙÕÙ
+4php:S125·"Remove this commented out code.(ÕÙÓâ
+php:S115"{Rename this constant "aead_xchacha20poly1305_IETF_NSECBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÆÍ¼˜
+‰php:S115"uRename this constant "aead_chacha20poly1305_NSECBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(†‚²¸
+9php:S125Ü"Remove this commented out code.(íºŞËûÿÿÿÿ
+4php:S125•"Remove this commented out code.(µˆò
+o	php:S1488«"ZImmediately return this expression instead of assigning it to the temporary variable "$c".(ŸÙ´f
+“php:S115$"Rename this constant "box_curve25519xsalsa20poly1305_NONCEBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(”ï¡‡
+4php:S125¬
+"Remove this commented out code.(¶š¢ş
+4php:S125Ó"Remove this commented out code.(•èƒÿ
+4php:S125™
+"Remove this commented out code.(ù•¤Š
+“php:S1154"zRename this constant "secretbox_xchacha20poly1305_MACBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Ç´¾÷ÿÿÿÿÿ
+3php:S125å	"Remove this commented out code.(½òš.
+—php:S1155"~Rename this constant "secretbox_xchacha20poly1305_BOXZEROBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ğãí¥ıÿÿÿÿ
+4php:S125–
+"Remove this commented out code.(ìŞô
+3php:S125À"Remove this commented out code.(Â¶Ü"
+9php:S125Ò
+"Remove this commented out code.(“å£Îúÿÿÿÿ
+4php:S125­"Remove this commented out code.(‹µ¡ú
+php:S115""ƒRename this constant "box_curve25519xsalsa20poly1305_SECRETKEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÄÇ¹İşÿÿÿÿ
+9php:S125©
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125”"Remove this commented out code.(Œ›á¥ıÿÿÿÿ
+4php:S125É
+"Remove this commented out code.(ìƒ£¢
+“php:S115"zRename this constant "aead_xchacha20poly1305_IETF_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ñ¼Íûÿÿÿÿ
+9php:S125ò
+"Remove this commented out code.(•é„ûÿÿÿÿ
+9php:S125“"Remove this commented out code.(©¦‹Âûÿÿÿÿ
+9php:S125†"Remove this commented out code.(ï—ÒÔøÿÿÿÿ
+3php:S125Ù
+"Remove this commented out code.(…çĞ\
+9php:S125ğ"Remove this commented out code.(•é„ûÿÿÿÿ
+3php:S125Ô"Remove this commented out code.(êî»q
+9php:S125Ø"Remove this commented out code.(Úéô½üÿÿÿÿ
+php:S115,"yRename this constant "secretbox_xsalsa20poly1305_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ç°í³
+9php:S125Î"Remove this commented out code.(ïÜéäùÿÿÿÿ
+4php:S125¦"Remove this commented out code.(¶š¢ş
+9php:S125’"Remove this commented out code.(÷ø—¥ÿÿÿÿÿ
+“php:S1152"zRename this constant "secretbox_xchacha20poly1305_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¼ŠŒûÿÿÿÿ
+3php:S125¶
+"Remove this commented out code.(±¢0
+3php:S125ß
+"Remove this commented out code.(êî»q
+php:S1150"zRename this constant "secretbox_xsalsa20poly1305_ZEROBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ßÃƒ'
+4php:S125™"Remove this commented out code.(‹µ¡ú
+9php:S125"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+’php:S115."yRename this constant "secretbox_xsalsa20poly1305_MACBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ØÇ¥õûÿÿÿÿ
+9php:S125€"Remove this commented out code.(úĞ§şÿÿÿÿ
+4php:S125í
+"Remove this commented out code.(…Ëãõ
+9php:S125ÿ
+"Remove this commented out code.(¿´½ÿÿÿÿÿ
+3php:S125÷"Remove this commented out code.(Ï÷ÉA
+4php:S125µ"Remove this commented out code.(ÿŠ¦ß
+‡php:S115*"sRename this constant "onetimeauth_poly1305_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‹Ñú“
+9php:S125—
+"Remove this commented out code.(ÏÍÈÙşÿÿÿÿ
+4php:S125«"Remove this commented out code.(¢¯¹ì
+4php:S125¥
+"Remove this commented out code.(šÆ³­
+9php:S125¤
+"Remove this commented out code.(ï—ÒÔøÿÿÿÿ
+“php:S115"zRename this constant "aead_chacha20poly1305_IETF_NPUBBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ôáò«øÿÿÿÿ
+4php:S125¼
+"Remove this commented out code.(ÕÙÓâ
+4php:S125¡"Remove this commented out code.(ç¬±Ú
+9php:S125¨
+"Remove this commented out code.(Îº¶Çıÿÿÿÿ
+4php:S125¯"Remove this commented out code.(–íËª
+9php:S125´"Remove this commented out code.( ñ†»ùÿÿÿÿ
+9php:S125¬"Remove this commented out code.(˜Ä¨´ûÿÿÿÿ
+g	php:S1192¼"QDefine a constant instead of duplicating this literal "Invalid key size" 3 times.(ä›‘
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+–php:S115/"}Rename this constant "secretbox_xsalsa20poly1305_BOXZEROBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(£üÿÿÿÿ
+php:S115"zRename this constant "aead_chacha20poly1305_IETF_NSECBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ï¬æ™
+f	php:S1192v"LDefine a constant instead of duplicating this literal "Invalid MAC" 4 times.(±³·–øÿÿÿÿ
+9php:S125Ü
+"Remove this commented out code.(ïÜéäùÿÿÿÿ
+”php:S115-"{Rename this constant "secretbox_xsalsa20poly1305_NONCEBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(–ÊïÅùÿÿÿÿ
+9php:S125è
+"Remove this commented out code.(àÍ’áüÿÿÿÿ
+4php:S125¿"Remove this commented out code.(ÿŠ¦ß
+3php:S125Ï"Remove this commented out code.(êî»q
+php:S115"tRename this constant "aead_chacha20poly1305_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(£ç³ùÿÿÿÿ
+php:S115!"ƒRename this constant "box_curve25519xsalsa20poly1305_PUBLICKEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Àáî­ÿÿÿÿÿ
+tphp:S101"[Rename class "ParagonIE_Sodium_Crypto" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£âƒùûÿÿÿÿ
+9php:S125Æ"Remove this commented out code.(Ó†€ãûÿÿÿÿ
+4php:S125§
+"Remove this commented out code.(…“ß¶
+	php:S1448"sClass "ParagonIE_Sodium_Crypto" has 41 methods, which is greater than 20 authorized. Split it into smaller classes.(£âƒùûÿÿÿÿ
+4php:S125â
+"Remove this commented out code.(•èƒÿ
+9php:S125"Remove this commented out code.(Îº¶Çıÿÿÿÿ
+9php:S125û"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+”php:S1156"{Rename this constant "secretbox_xchacha20poly1305_ZEROBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÜøÂçûÿÿÿÿ
+4php:S125œ"Remove this commented out code.(…“ß¶
+‰php:S115"uRename this constant "aead_chacha20poly1305_NPUBBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(“íˆ
+4php:S125«
+"Remove this commented out code.(ş¾¥’
+‘php:S115"xRename this constant "aead_xchacha20poly1305_IETF_ABYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Í’¼­úÿÿÿÿ
+3php:S125Ë"Remove this commented out code.(…çĞ\
+•php:S1153"|Rename this constant "secretbox_xchacha20poly1305_NONCEBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(•À“ıÿÿÿÿ
+3php:S125Ä
+"Remove this commented out code.(Â¶Ü"
+9php:S125ö
+"Remove this commented out code.(ĞÌİ­şÿÿÿÿ
+9php:S125ª"Remove this commented out code.(Œ›á¥ıÿÿÿÿ
+9php:S125ˆ"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125§"Remove this commented out code.(Ï÷ÂÅüÿÿÿÿ
+4php:S125¥"Remove this commented out code.(ş¾¥’
+9php:S125›"Remove this commented out code.(¡€ùÒÿÿÿÿÿ
+4php:S125ù	"Remove this commented out code.(ÚŠóê
+—php:S115#"‚Rename this constant "box_curve25519xsalsa20poly1305_BEFORENMBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ß¤ØÉ
+9php:S125Û	"Remove this commented out code.(åÜ—ìşÿÿÿÿ
+9php:S125­
+"Remove this commented out code.(Ï÷ÂÅüÿÿÿÿ
+9php:S125"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125ê	"Remove this commented out code.(‡¡åøÿÿÿÿ
+9php:S125¬"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+„php:S115)"pRename this constant "onetimeauth_poly1305_BYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(°Ú‡©
+4php:S125˜"Remove this commented out code.(ªĞ÷‚
+4php:S125¾"Remove this commented out code.(«†©Í
+9php:S125ô"Remove this commented out code.(ĞÌİ­şÿÿÿÿ
+4php:S125Ê
+"Remove this commented out code.(ˆ¬ûù
+9php:S125–"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+4php:S125•
+"Remove this commented out code.(õüŠ”
+9php:S125²
+"Remove this commented out code.(˜Ä¨´ûÿÿÿÿ
+4php:S125‡"Remove this commented out code.(‚ë«Ÿ
+”php:S115"{Rename this constant "aead_xchacha20poly1305_IETF_NPUBBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(µ¾àŒøÿÿÿÿ
+9php:S125é
+"Remove this commented out code.(Úéô½üÿÿÿÿ
+9php:S125Ç"Remove this commented out code.(“å£Îúÿÿÿÿ
+9php:S125¹
+"Remove this commented out code.( ñ†»ùÿÿÿÿ
+3php:S125°"Remove this commented out code.(±¢0
+9php:S125ß"Remove this commented out code.(øœî°úÿÿÿÿ
+9php:S125ù"Remove this commented out code.(¿´½ÿÿÿÿÿ
+3php:S125å
+"Remove this commented out code.(êî»q
+9php:S125°"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+4php:S125º
+"Remove this commented out code.(ŒÎ«›
+–php:S115&"Rename this constant "box_curve25519xsalsa20poly1305_BOXZEROBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(´É«
+9php:S125ú"Remove this commented out code.(úĞ§şÿÿÿÿ
+9php:S125à"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125İ"Remove this commented out code.(–ô¢Ñüÿÿÿÿ
+9php:S125œ"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125Ş	"Remove this commented out code.(Û£Æáúÿÿÿÿ
+9php:S125Ş"Remove this commented out code.(Ô„íïùÿÿÿÿ
+‹php:S115"wRename this constant "aead_chacha20poly1305_IETF_ABYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(×àÃ×
+—php:S115'"~Rename this constant "box_curve25519xsalsa20poly1305_ZEROBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.( ½ô°ıÿÿÿÿ
+4php:S125Ç
+"Remove this commented out code.(ñ­»Ù
+9php:S125ç"Remove this commented out code.(âöâ üÿÿÿÿ
+9php:S125„
+"Remove this commented out code.(•é„ûÿÿÿÿ
+4php:S125˜
+"Remove this commented out code.(ô«˜
+4php:S125Ù"Remove this commented out code.(…Ëãõ
+’php:S115"yRename this constant "aead_chacha20poly1305_IETF_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ò²ÕÜıÿÿÿÿ
+’php:S115 "~Rename this constant "box_curve25519xsalsa20poly1305_SEEDBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¯«şÔ
+9php:S125…
+"Remove this commented out code.(‡¡åøÿÿÿÿ
+9php:S125†
+"Remove this commented out code.(ÂÁïäÿÿÿÿÿ
+9php:S125¦
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125é	"Remove this commented out code.(•é„ûÿÿÿÿ
+‘php:S115%"}Rename this constant "box_curve25519xsalsa20poly1305_MACBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(å¬¨ï
+€php:S1158"mRename this constant "stream_salsa20_KEYBYTES" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¢Æe

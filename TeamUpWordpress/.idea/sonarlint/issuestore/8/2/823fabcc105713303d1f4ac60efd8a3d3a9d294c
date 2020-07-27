@@ -1,0 +1,10 @@
+
+a	php:S1192E"LDefine a constant instead of duplicating this literal "description" 5 times.(«”Õ„
+d	php:S1192Y"JDefine a constant instead of duplicating this literal "maxheight" 3 times.(—®Êçşÿÿÿÿ
+b	php:S1192ƒ"GDefine a constant instead of duplicating this literal "status" 3 times.(¼Í­²ÿÿÿÿÿ
+j	php:S1142¢"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¤…ªŸûÿÿÿÿ
+l	php:S1192,"RDefine a constant instead of duplicating this literal "sanitize_callback" 6 times.(¿õıŸúÿÿÿÿ
+c	php:S11922"IDefine a constant instead of duplicating this literal "maxwidth" 5 times.(ñ…Ş†üÿÿÿÿ
+qphp:S101"XRename class "WP_oEmbed_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†ĞÓ’ÿÿÿÿÿ
+\	php:S11924"GDefine a constant instead of duplicating this literal "absint" 3 times.(§Ó®
+b	php:S1192/"HDefine a constant instead of duplicating this literal "default" 5 times.(¸…ãüÿÿÿÿ

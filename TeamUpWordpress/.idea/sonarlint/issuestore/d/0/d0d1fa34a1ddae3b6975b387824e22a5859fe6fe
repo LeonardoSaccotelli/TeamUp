@@ -1,0 +1,11 @@
+
+[	php:S1192g"FDefine a constant instead of duplicating this literal "Title" 3 times.(‡ÅÈ¾
+`	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 24 times.(š´à°
+{	php:S1192ç"eDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-heading-title" 4 times.(šŒ¤¹
+\	php:S1192X"GDefine a constant instead of duplicating this literal "title" 12 times.(û¤ó…
+b	php:S1192t"HDefine a constant instead of duplicating this literal "default" 8 times.(¢Ëƒıÿÿÿÿ
+e	php:S1192Ä"JDefine a constant instead of duplicating this literal "selectors" 3 times.(Ú‘›æúÿÿÿÿ
+]	php:S1192"HDefine a constant instead of duplicating this literal "options" 4 times.(ò–»6
+œphp:S138c"‚This function "_register_controls" has 170 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+\	php:S1192g"GDefine a constant instead of duplicating this literal "label" 10 times.(‡ÅÈ¾
+kphp:S101"RRename class "Widget_Heading" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Úƒœşÿÿÿÿ

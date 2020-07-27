@@ -1,0 +1,21 @@
+
+_	php:S1192A"JDefine a constant instead of duplicating this literal "elementor" 6 times.(©Ùš
+w	php:S1488Œ"\Immediately return this expression instead of assigning it to the temporary variable "$url".( Ê‡øÿÿÿÿ
+_php:S101"LRename class "Base_App" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ôö–1
+h	php:S1301Š"MReplace this "switch" statement with "if" statements to increase readability.(äâ«™ÿÿÿÿÿ
+`	php:S1192•"JDefine a constant instead of duplicating this literal "client_id" 8 times.(áœ×¯
+h	php:S1301˜"MReplace this "switch" statement with "if" statements to increase readability.(äâ«™ÿÿÿÿÿ
+j	php:S1142´"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Á¡ö¶ÿÿÿÿÿ
+c	php:S1192×"MDefine a constant instead of duplicating this literal "access_token" 3 times.(“õÊ†
+I	php:S1135"4Complete the task associated to this "TODO" comment.(ë¦Ë
+`	php:S1192o"FDefine a constant instead of duplicating this literal "state" 9 times.(”½»Óÿÿÿÿÿ
+h	php:S1301ı"MReplace this "switch" statement with "if" statements to increase readability.(äâ«™ÿÿÿÿÿ
+c	php:S1192­"HDefine a constant instead of duplicating this literal "content" 3 times.(«–Óœùÿÿÿÿ
+Qphp:S131Š"7Add a "case default" clause to this "switch" statement.(äâ«™ÿÿÿÿÿ
+g	php:S1192Õ"LDefine a constant instead of duplicating this literal "callback_id" 3 times.(Ÿ¤Âıÿÿÿÿ
+x	php:S1448"dClass "Base_App" has 36 methods, which is greater than 20 authorized. Split it into smaller classes.(Ôö–1
+a	php:S1192¤"FDefine a constant instead of duplicating this literal "popup" 4 times.(¥Ê¶íøÿÿÿÿ
+]	php:S1192Y"HDefine a constant instead of duplicating this literal "notices" 3 times.(«áŠÖ
+a	php:S1192"LDefine a constant instead of duplicating this literal "auth_secret" 3 times.(×»I
+H	php:S1135""4Complete the task associated to this "TODO" comment.(Ê«×
+`	php:S1192‘"JDefine a constant instead of duplicating this literal "get_token" 3 times.(Øó‰

@@ -1,0 +1,23 @@
+
+Jphp:S121Ä"0Add curly braces around the nested statement(s).(Ş³şËüÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(Ş³şËüÿÿÿÿ
+R	php:S1155¼"7Use empty() to check whether the array is empty or not.(ÊÆêúÿÿÿÿ
+Ephp:S121Ê"0Add curly braces around the nested statement(s).(«¼¦…
+e	php:S1142Â"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ó„©
+_	php:S1192›"IDefine a constant instead of duplicating this literal "current" 11 times.(‹¢´í
+a	php:S1192k"LDefine a constant instead of duplicating this literal "REQUEST_URI" 3 times.(ÇÜÖÏ
+h	php:S1192¿"MDefine a constant instead of duplicating this literal "display_name" 4 times.(É¯”òúÿÿÿÿ
+Jphp:S121©"0Add curly braces around the nested statement(s).(Ş³şËüÿÿÿÿ
+Jphp:S121÷"0Add curly braces around the nested statement(s).(Ş³şËüÿÿÿÿ
+‰	php:S1186€"nAdd a nested comment explaining why this function is empty, throw an Exception or complete the implementation.(³éËíşÿÿÿÿ
+3php:S125*"Remove this commented out code.(ûŸçæ
+{	php:S1488î"`Immediately return this expression instead of assigning it to the temporary variable "$subject".(ÌÙÄôüÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+c	php:S1192š"HDefine a constant instead of duplicating this literal "default" 6 times.(éèÁ„üÿÿÿÿ
+4php:S125¥"Remove this commented out code.(×Ş¦ï
+Jphp:S121É"0Add curly braces around the nested statement(s).( àÃêüÿÿÿÿ
+Jphp:S121È"0Add curly braces around the nested statement(s).(€ €•şÿÿÿÿ
+mphp:S101"YRename class "External_Integrations" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ôÊâ³
+N	php:S1135("4Complete the task associated to this "TODO" comment.(à‡·ßøÿÿÿÿ
+Jphp:S121¢"0Add curly braces around the nested statement(s).(Ş³şËüÿÿÿÿ
+x	php:S1488©"bImmediately return this expression instead of assigning it to the temporary variable "$icon_html".(ÛÙüû

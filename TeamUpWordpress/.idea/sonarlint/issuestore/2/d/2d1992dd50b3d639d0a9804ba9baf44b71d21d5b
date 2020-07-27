@@ -1,0 +1,61 @@
+
+C	php:S1481ò"-Remove this unused "$baseurl" local variable.(›ùË“
+\	php:S1192¾"GDefine a constant instead of duplicating this literal "Visual" 3 times.(‡ë«v
+c	php:S1192©"HDefine a constant instead of duplicating this literal "plugins" 3 times.(‡ µÔüÿÿÿÿ
+\	php:S1192Ÿ	"FDefine a constant instead of duplicating this literal "Close" 3 times.(”ìĞö
+l	php:S1192è	"QDefine a constant instead of duplicating this literal "Insert/edit link" 3 times.(Ó£…Æøÿÿÿÿ
+c	php:S1192
+"MDefine a constant instead of duplicating this literal "find/replace" 7 times.(ÏÒ€…
+c	php:S1192|"NDefine a constant instead of duplicating this literal "editor_height" 8 times.(ÑÛ»ş
+]	php:S1192"GDefine a constant instead of duplicating this literal "wp_adv" 3 times.(úÂëä
+q	php:S1192Ã"[Define a constant instead of duplicating this literal "admin_print_footer_scripts" 5 times.(Î¾Ó¸
+h	php:S1192"RDefine a constant instead of duplicating this literal "format_for_editor" 4 times.(ïÆáÏ
+g	php:S1192´"LDefine a constant instead of duplicating this literal "content_css" 4 times.(ç²¸Üúÿÿÿÿ
+b	php:S1192	"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(•–€óùÿÿÿÿ
+a	php:S1192…"FDefine a constant instead of duplicating this literal "lists" 3 times.(úäõÚşÿÿÿÿ
+i	php:S1192"SDefine a constant instead of duplicating this literal "the_editor_content" 3 times.(ïÆáÏ
+e	php:S1192`"KDefine a constant instead of duplicating this literal "editor_css" 3 times.(šó×Ÿûÿÿÿÿ
+”php:S138¾"This function "editor_settings" has 277 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÿ¬Èü
+]	php:S1192X"HDefine a constant instead of duplicating this literal "wpautop" 5 times.(»­¸¬
+f	php:S1192Œ
+"KDefine a constant instead of duplicating this literal "spellcheck" 3 times.(îĞ€Ãÿÿÿÿÿ
+f	php:S1192ò"KDefine a constant instead of duplicating this literal "body_class" 4 times.(ä²«åÿÿÿÿÿ
+_	php:S1192e"JDefine a constant instead of duplicating this literal "quicktags" 6 times.(ªÆøĞ
+g	php:S1192‰"LDefine a constant instead of duplicating this literal "wpeditimage" 3 times.(Å®¼ùÿÿÿÿ
+a	php:S1192¤	"KDefine a constant instead of duplicating this literal "list style" 9 times.(¹¬É‰
+^	php:S1192×"HDefine a constant instead of duplicating this literal "pagenum" 5 times.(ìÙîò
+d	php:S1192ş"IDefine a constant instead of duplicating this literal "toolbar4" 4 times.(´ı¸‡şÿÿÿÿ
+k	php:S3776¾"URefactor this function to reduce its Cognitive Complexity from 182 to the 15 allowed.(ÿ¬Èü
+b	php:S1192Š"GDefine a constant instead of duplicating this literal "wplink" 6 times.(Æ¬¸Âüÿÿÿÿ
+I	php:S1066l"/Merge this if statement with the enclosing one.(Â²†íÿÿÿÿÿ
+b	php:S1192«"GDefine a constant instead of duplicating this literal "indent" 3 times.(÷ŒĞâüÿÿÿÿ
+™php:S138ê"This function "get_translation" has 256 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(±ÂíÆıÿÿÿÿ
+d	php:S1192Û	"NDefine a constant instead of duplicating this literal "editor button" 3 times.(“Š¸Á
+`	php:S1192b"FDefine a constant instead of duplicating this literal "teeny" 4 times.(È²¸Äøÿÿÿÿ
+o	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ˆ‰µ±ûÿÿÿÿ
+s	php:S1192’"]Define a constant instead of duplicating this literal "print_default_editor_scripts" 3 times.(Ş¨É¢
+q	php:S1192Ä"[Define a constant instead of duplicating this literal "force_uncompressed_tinymce" 4 times.(÷˜á´
+c	php:S1192Í"MDefine a constant instead of duplicating this literal "<div id="wp-" 4 times.(Ÿ¦»í
+c	php:S1192Ü
+"MDefine a constant instead of duplicating this literal "TinyMCE menu" 7 times.(Í‰ñÖ
+i	php:S1192c"TDefine a constant instead of duplicating this literal "_content_editor_dfw" 4 times.(á€ûØ
+c	php:S1192Ñ"HDefine a constant instead of duplicating this literal "buttons" 6 times.(èŒùÿÿÿÿ
+d	php:S1192´"IDefine a constant instead of duplicating this literal "language" 3 times.(Åßöùÿÿÿÿ
+_	php:S1192ì"IDefine a constant instead of duplicating this literal "</div>\n" 3 times.(ğ¿Àç
+g	php:S1192_"RDefine a constant instead of duplicating this literal "tabfocus_elements" 3 times.(áÒŠÙ
+s	php:S1192Ç"XDefine a constant instead of duplicating this literal "wp_print_footer_scripts" 5 times.(ãİı¥úÿÿÿÿ
+a	php:S1192„"LDefine a constant instead of duplicating this literal "colorpicker" 3 times.(«›´j
+†	php:S1186 "lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(—÷¬Æûÿÿÿÿ
+o	php:S3776£"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(‹‰Êıÿÿÿÿ
+d	php:S1192ı"IDefine a constant instead of duplicating this literal "toolbar3" 3 times.(Ô¹±®úÿÿÿÿ
+^	php:S1192ï"HDefine a constant instead of duplicating this literal "TinyMCE" 5 times.(œñúê
+^	php:S1192^"IDefine a constant instead of duplicating this literal "tabindex" 3 times.(Âá¾Ë
+c	php:S1192d"IDefine a constant instead of duplicating this literal "tinymce" 12 times.(Ñîÿ˜ÿÿÿÿÿ
+a	php:S1192¦"FDefine a constant instead of duplicating this literal "4.3.0" 3 times.(§–Á÷øÿÿÿÿ
+cphp:S101"ORename class "_WP_Editors" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÛÛĞæ
+i	php:S1192Z"ODefine a constant instead of duplicating this literal "default_editor" 3 times.(çŸİ’ùÿÿÿÿ
+`	php:S1192ˆ"JDefine a constant instead of duplicating this literal "wordpress" 3 times.(–ĞÄ
+d	php:S1192ı"IDefine a constant instead of duplicating this literal "HTML tag" 4 times.(ˆ‘ÚÛıÿÿÿÿ
+h	php:S1192Y"NDefine a constant instead of duplicating this literal "media_buttons" 6 times.(±œøÿÿÿÿ
+f	php:S1192†"KDefine a constant instead of duplicating this literal "fullscreen" 5 times.(˜°§ûÿÿÿÿ
+^	php:S1192§"HDefine a constant instead of duplicating this literal "charmap" 3 times.(¹‰ãƒ

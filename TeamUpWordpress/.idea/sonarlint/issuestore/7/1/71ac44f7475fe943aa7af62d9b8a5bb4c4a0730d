@@ -1,0 +1,13 @@
+
+iphp:S101"URename class "Canary_Deployment" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Òƒ‹ñ
+c	php:S1192‚"HDefine a constant instead of duplicating this literal "version" 3 times.(ëîËˆşÿÿÿÿ
+b	php:S1192‹"GDefine a constant instead of duplicating this literal "plugin" 3 times.(‚ğí‡ıÿÿÿÿ
+i	php:S1142*"OReduce the number of returns of this function 4, down to the maximum allowed 3.(úÜì¹ùÿÿÿÿ
+d	php:S1192‚"IDefine a constant instead of duplicating this literal "operator" 4 times.(ëîËˆşÿÿÿÿ
+f	php:S1192["LDefine a constant instead of duplicating this literal "plugin_info" 3 times.(àîËéüÿÿÿÿ
+Pphp:S131~"7Add a "case default" clause to this "switch" statement.(ç÷ˆŞıÿÿÿÿ
+i	php:S3776v"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ˆúõº
+t	php:S1117D"ZRename "$canary_deployment_info" which has the same name as the field declared at line 16.(ß’şÿÿÿÿÿ
+c	php:S1192w"IDefine a constant instead of duplicating this literal "relation" 3 times.(ıÒçúşÿÿÿÿ
+c	php:S1142T"OReduce the number of returns of this function 4, down to the maximum allowed 3.(õ¡µ~
+f	php:S1192@"LDefine a constant instead of duplicating this literal "new_version" 3 times.(ğ¼ˆşüÿÿÿÿ

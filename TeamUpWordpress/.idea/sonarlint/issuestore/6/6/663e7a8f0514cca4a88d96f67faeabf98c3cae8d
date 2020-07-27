@@ -1,0 +1,3 @@
+
+iphp:S101"PRename class "Control_Icon" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îÕùûÿÿÿÿ
+php:S138,"yThis function "get_icons" has 792 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÂÚó¯

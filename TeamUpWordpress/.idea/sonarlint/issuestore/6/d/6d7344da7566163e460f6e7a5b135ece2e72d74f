@@ -1,0 +1,101 @@
+
+Qphp:S131ö
+"7Add a "case default" clause to this "switch" statement.(øØŒ©üÿÿÿÿ
+h	php:S1192Ò"MDefine a constant instead of duplicating this literal "_visibility" 22 times.(ÿäú£ÿÿÿÿÿ
+E	php:S1066§
+"/Merge this if statement with the enclosing one.(Ã®ÍÖ
+c	php:S1192Û"HDefine a constant instead of duplicating this literal "unique" 18 times.(ÄÆñ§ûÿÿÿÿ
+b	php:S1192Ò"GDefine a constant instead of duplicating this literal "_help" 18 times.(ÿäú£ÿÿÿÿÿ
+\	php:S1192¨"FDefine a constant instead of duplicating this literal "radio" 5 times.(Êÿ–ı
+Dphp:S121®"0Add curly braces around the nested statement(s).(¿‹Î!
+_	php:S1192 "JDefine a constant instead of duplicating this literal "Instagram" 3 times.(Ù†²j
+g	php:S1192Ó"QDefine a constant instead of duplicating this literal "_custom_validate" 7 times.(Ö•–Ã
+Jphp:S121­"0Add curly braces around the nested statement(s).(Ì¹ÆÙıÿÿÿÿ
+q	php:S1488°
+"\Immediately return this expression instead of assigning it to the temporary variable "$all".(™
+Jphp:S121Œ"0Add curly braces around the nested statement(s).(æ¶Øúÿÿÿÿ
+_	php:S1192Ö"IDefine a constant instead of duplicating this literal "_content" 3 times.(–üÁ
+_	php:S1192ã"IDefine a constant instead of duplicating this literal "url_text" 9 times.(ï”—±
+z	php:S1192"dDefine a constant instead of duplicating this literal "You have not added any choices yet." 4 times.(ç×Í»
+_	php:S1192Ó"IDefine a constant instead of duplicating this literal "_public" 20 times.(Ö•–Ã
+Ephp:S121¬"0Add curly braces around the nested statement(s).(˜ÅÊ
+d	php:S1192ü"IDefine a constant instead of duplicating this literal "LinkedIn" 3 times.(ºÏÅ‚ıÿÿÿÿ
+`	php:S1192å"JDefine a constant instead of duplicating this literal "VKontakte" 3 times.(ŠÚ›Ğ
+b	php:S1192Í"GDefine a constant instead of duplicating this literal "_icon" 19 times.(ÍÆõÒûÿÿÿÿ
+b	php:S1192ª"GDefine a constant instead of duplicating this literal "title" 40 times.(ß¡üšûÿÿÿÿ
+m	php:S1192Œ"RDefine a constant instead of duplicating this literal "ultimate-member" 584 times.(æ¶Øúÿÿÿÿ
+j	php:S3776ş	"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ñ÷ÕÓ
+]	php:S1192¯"HDefine a constant instead of duplicating this literal "public" 34 times.(š‚Ñr
+a	php:S1192Ô"KDefine a constant instead of duplicating this literal "_required" 18 times.(ÔŸ©‡
+c	php:S1192š"MDefine a constant instead of duplicating this literal "Phone Number" 3 times.(ú”Ÿ
+_	php:S1192Ø"IDefine a constant instead of duplicating this literal "Facebook" 3 times.(¦ÚŞ
+_	php:S1192²"IDefine a constant instead of duplicating this literal "Skype ID" 3 times.(” ö¸
+^	php:S1192Ó"HDefine a constant instead of duplicating this literal "_label" 18 times.(Ö•–Ã
+a	php:S1192Ô"KDefine a constant instead of duplicating this literal "_editable" 18 times.(ÔŸ©‡
+_	php:S1192«"IDefine a constant instead of duplicating this literal "metakey" 36 times.(ùºƒ
+c	php:S1192ş"HDefine a constant instead of duplicating this literal "numeric" 4 times.(Ğ¹¨£şÿÿÿÿ
+c	php:S1192æ"HDefine a constant instead of duplicating this literal "default" 3 times.(á˜¶Âûÿÿÿÿ
+b	php:S1192¾"LDefine a constant instead of duplicating this literal "private_use" 4 times.(ñ°÷Ï
+b	php:S1192¯"LDefine a constant instead of duplicating this literal "placeholder" 5 times.(„ë‹¿
+ php:S138ù"…This function "set_predefined_fields" has 475 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(åÿÇîúÿÿÿÿ
+g	php:S1192î"LDefine a constant instead of duplicating this literal "Website URL" 3 times.(ÂµêÈøÿÿÿÿ
+`	php:S1192Õ"JDefine a constant instead of duplicating this literal "validate" 38 times.(é½É¡
+Jphp:S121"0Add curly braces around the nested statement(s).(·–ŠÕıÿÿÿÿ
+d	php:S1192à"IDefine a constant instead of duplicating this literal "nofollow" 9 times.(‹Ô£Šşÿÿÿÿ
+y	php:S1488Ç"^Immediately return this expression instead of assigning it to the temporary variable "$array".(¿¸´®üÿÿÿÿ
+c	php:S1192Ò"HDefine a constant instead of duplicating this literal "_title" 44 times.(ÿäú£ÿÿÿÿÿ
+b	php:S1192ä"GDefine a constant instead of duplicating this literal "social" 8 times.(°·ë úÿÿÿÿ
+b	php:S1192ß"GDefine a constant instead of duplicating this literal "_blank" 9 times.(èÏÔ“şÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "languages" 4 times.(«Ã¡Ö
+_	php:S1192á"IDefine a constant instead of duplicating this literal "Password" 5 times.(¢î‹­
+Ephp:S121"0Add curly braces around the nested statement(s).(ñûµ­
+e	php:S1192É"JDefine a constant instead of duplicating this literal "form_only" 3 times.(„ÜÒŸûÿÿÿÿ
+^	php:S1192Á"HDefine a constant instead of duplicating this literal "YouTube" 3 times.(¥‹ Â
+a	php:S1192±"FDefine a constant instead of duplicating this literal "skype" 4 times.(©Œ½Éşÿÿÿÿ
+`	php:S1192ò"JDefine a constant instead of duplicating this literal "_max_size" 4 times.(±ú—¶
+^	php:S1192Ó"HDefine a constant instead of duplicating this literal "_roles" 20 times.(Ö•–Ã
+^	php:S1192ê"HDefine a constant instead of duplicating this literal "Twitter" 3 times.(ö¨ã’
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+c	php:S1192à"HDefine a constant instead of duplicating this literal "url_rel" 9 times.(‹Ô£Šşÿÿÿÿ
+e	php:S1192Ò"JDefine a constant instead of duplicating this literal "_default" 11 times.(ÿäú£ÿÿÿÿÿ
+h	php:S1192é"MDefine a constant instead of duplicating this literal "account_only" 5 times.( Ç«Æşÿÿÿÿ
+p	php:S1192Ø"ZDefine a constant instead of duplicating this literal "You must provide a title" 22 times.(†ÖÔ³
+y	php:S1488é
+"^Immediately return this expression instead of assigning it to the temporary variable "$array".(£–ƒıÿÿÿÿ
+d	php:S1192Ó"NDefine a constant instead of duplicating this literal "_placeholder" 13 times.(Ö•–Ã
+e	php:S1192Ò"JDefine a constant instead of duplicating this literal "_metakey" 36 times.(ÿäú£ÿÿÿÿÿ
+™php:S138Â"This function "set_core_fields" has 371 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ùüï–úÿÿÿÿ
+e	php:S1192×"JDefine a constant instead of duplicating this literal "required" 61 times.(óÃêåùÿÿÿÿ
+d	php:S1192"IDefine a constant instead of duplicating this literal "Everyone" 3 times.(ı»§¤ıÿÿÿÿ
+`	php:S1192Ó"JDefine a constant instead of duplicating this literal "_validate" 7 times.(Ö•–Ã
+b	php:S1192€"GDefine a constant instead of duplicating this literal "select" 4 times.(£‰ß×ÿÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(¥œ§ä
+Jphp:S121"0Add curly braces around the nested statement(s).(«ÁÂñúÿÿÿÿ
+a	php:S1192æ"FDefine a constant instead of duplicating this literal "match" 8 times.(Â÷ ‹şÿÿÿÿ
+\	php:S1192å"FDefine a constant instead of duplicating this literal "color" 8 times.(ûªá™
+d	php:S1192‚"IDefine a constant instead of duplicating this literal "_options" 8 times.(Öá®œüÿÿÿÿ
+j	php:S1142«"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Âå¡şÿÿÿÿ
+b	php:S1192­"GDefine a constant instead of duplicating this literal "label" 35 times.(´¿´“ûÿÿÿÿ
+f	php:S1192Ó"KDefine a constant instead of duplicating this literal "SoundCloud" 3 times.(¡‘øÿÿÿÿ
+h	php:S1301ö
+"MReplace this "switch" statement with "if" statements to increase readability.(øØŒ©üÿÿÿÿ
+`	php:S1192°"JDefine a constant instead of duplicating this literal "editable" 33 times.(©Ô¯§
+i	php:S1192·"SDefine a constant instead of duplicating this literal "Username or E-mail" 3 times.(ù•âò
+Iphp:S121@"0Add curly braces around the nested statement(s).(êÁ±óÿÿÿÿÿ
+a	php:S1192Ó"KDefine a constant instead of duplicating this literal "_max_chars" 3 times.(Ö•–Ã
+a	php:S1192Ò"KDefine a constant instead of duplicating this literal "soundcloud" 3 times.(¥ä“–
+]	php:S1192Ø"GDefine a constant instead of duplicating this literal "error" 30 times.(†ÖÔ³
+Jphp:S121"0Add curly braces around the nested statement(s).(É†¹èûÿÿÿÿ
+e	php:S1142‹"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¼Ç«
+d	php:S1192à"IDefine a constant instead of duplicating this literal "password" 4 times.(®Òäåıÿÿÿÿ
+c	php:S1192@"IDefine a constant instead of duplicating this literal "options" 10 times.(êÁ±óÿÿÿÿÿ
+c	php:S1192•"MDefine a constant instead of duplicating this literal "unique_email" 3 times.(»© Ñ
+c	php:S1192™"MDefine a constant instead of duplicating this literal "phone_number" 5 times.(ÏÅåÜ
+f	php:S1192ß"KDefine a constant instead of duplicating this literal "url_target" 9 times.(èÏÔ“şÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(ñòŒ
+ˆphp:S138õ
+"sThis function "get" has 445 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ô“§ü
+Iphp:S121E"0Add curly braces around the nested statement(s).( ‡ºÚúÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "Google+" 3 times.(÷åó‰şÿÿÿÿ
+d	php:S1192ä"IDefine a constant instead of duplicating this literal "advanced" 8 times.(°·ë úÿÿÿÿ
+\	php:S1192ğ"FDefine a constant instead of duplicating this literal "image" 4 times.(ÉÂ‘ü

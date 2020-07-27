@@ -1,0 +1,33 @@
+
+o	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(É·“ùùÿÿÿÿ
+[	php:S1192_"GDefine a constant instead of duplicating this literal "action" 3 times.(¯À
+N	php:S1481ƒ"3Remove this unused "$group_item_id" local variable.(‰Å¾şÿÿÿÿ
+C	php:S1172Ö"-Remove the unused function parameter "$page".(ã½ö˜
+\	php:S1192ö"FDefine a constant instead of duplicating this literal "items" 9 times.(Ğ•Ç¯
+f	php:S1192<"LDefine a constant instead of duplicating this literal "post_status" 3 times.(­˜¬Êÿÿÿÿÿ
+l	php:S1192ë"QDefine a constant instead of duplicating this literal "_export_data_raw" 4 times.(úô­¹úÿÿÿÿ
+\	php:S1192›"GDefine a constant instead of duplicating this literal "</div>" 3 times.(åò/
+e	php:S1142Ö"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ã½ö˜
+|	php:S1192g"gDefine a constant instead of duplicating this literal "username_or_email_for_privacy_request" 10 times.(×ƒÌƒ
+p	php:S1192J"[Define a constant instead of duplicating this literal "privacy_action_email_retry" 6 times.(›ÔÒß
+`	php:S1192U"FDefine a constant instead of duplicating this literal "error" 6 times.(‡Šµûÿÿÿÿ
+f	php:S1192i"LDefine a constant instead of duplicating this literal "action_type" 4 times.(´¼î«şÿÿÿÿ
+y	php:S14889"_Immediately return this expression instead of assigning it to the temporary variable "$result".(û•¿Êûÿÿÿÿ
+L	php:S1172Ö"6Remove the unused function parameter "$email_address".(ã½ö˜
+Q	php:S1172Ë"6Remove the unused function parameter "$email_address".(É·“ùùÿÿÿÿ
+a	php:S1192ˆ"FDefine a constant instead of duplicating this literal "value" 5 times.(Ë×ŸÒÿÿÿÿÿ
+b	php:S1192ñ"LDefine a constant instead of duplicating this literal "group_label" 7 times.(À£È©
+b	php:S1301b"MReplace this "switch" statement with "if" statements to increase readability.(´ŞŞÕ
+j	php:S1142Ë"OReduce the number of returns of this function 6, down to the maximum allowed 3.(É·“ùùÿÿÿÿ
+o	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Àö¢íûÿÿÿÿ
+p	php:S1192â"UDefine a constant instead of duplicating this literal "_export_data_grouped" 3 times.(’»¤úúÿÿÿÿ
+Kphp:S131b"7Add a "case default" clause to this "switch" statement.(´ŞŞÕ
+i	php:S3776I"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¹Ÿ±Š
+x	php:S1488"cImmediately return this expression instead of assigning it to the temporary variable "$group_html".(åò/
+h	php:S1192ı"RDefine a constant instead of duplicating this literal "group_description" 6 times.(©ú’å
+P	php:S1172Ë"5Remove the unused function parameter "$exporter_key".(É·“ùùÿÿÿÿ
+¸php:S138ª"This function "wp_privacy_generate_personal_data_export_file" has 153 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Àö¢íûÿÿÿÿ
+k	php:S1192²"UDefine a constant instead of duplicating this literal "export_personal_data" 3 times.(êë½Ğ
+g	php:S1192Ø"QDefine a constant instead of duplicating this literal "_export_file_url" 4 times.(Œøıã
+p	php:S1192"VDefine a constant instead of duplicating this literal "privacy_request_error" 3 times.(ÚºóÏıÿÿÿÿ
+i	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(üáøÚüÿÿÿÿ

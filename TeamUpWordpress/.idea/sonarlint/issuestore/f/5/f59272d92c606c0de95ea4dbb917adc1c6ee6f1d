@@ -1,0 +1,11 @@
+
+9php:S125ú"Remove this commented out code.(ÔìÖâüÿÿÿÿ
+7	php:S1116Ñ"Remove this empty statement.(µÁö¢ÿÿÿÿÿ
+E	php:S1066„"/Merge this if statement with the enclosing one.(œåáÞ
+Ž	php:S1448
+"yClass "ParagonIE_Sodium_Core32_Int32" has 31 methods, which is greater than 20 authorized. Split it into smaller classes.(ž´Ò¶
+d	php:S1117’"IRename "$limbs" which has the same name as the field declared at line 18.(œ³þÈÿÿÿÿÿ
+uphp:S101
+"aRename class "ParagonIE_Sodium_Core32_Int32" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ž´Ò¶
+o	php:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Œ—‡¤ûÿÿÿÿ
+d	php:S1117Ü"IRename "$limbs" which has the same name as the field declared at line 18.(œ³þÈÿÿÿÿÿ

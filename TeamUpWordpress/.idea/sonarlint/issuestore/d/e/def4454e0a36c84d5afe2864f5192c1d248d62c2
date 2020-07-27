@@ -1,0 +1,167 @@
+
+b	php:S1192â"GDefine a constant instead of duplicating this literal "common" 5 times.(‘­šøÿÿÿÿ
+`	php:S1192Ö"JDefine a constant instead of duplicating this literal "admin-bar" 3 times.(³Û¤
+g	php:S1192"LDefine a constant instead of duplicating this literal "date_format" 3 times.(¤ßÀãşÿÿÿÿ
+a	php:S1192ë"KDefine a constant instead of duplicating this literal "word-count" 3 times.(áøÆá
+b	php:S1192‰"LDefine a constant instead of duplicating this literal "site-health" 4 times.(¤êâ¢
+e	php:S1192œ"JDefine a constant instead of duplicating this literal "saveAlert" 5 times.(òªäùÿÿÿÿ
+g	php:S1192ü"LDefine a constant instead of duplicating this literal "wp-plupload" 3 times.(´°À•ÿÿÿÿÿ
+e	php:S1192Y"PDefine a constant instead of duplicating this literal "wp-polyfill-url" 3 times.(âĞàÛ
+f	php:S1192Š"KDefine a constant instead of duplicating this literal "admin-menu" 3 times.(‹Ô©ıÿÿÿÿ
+J	php:S1135ÿ"4Complete the task associated to this "TODO" comment.(ÈÉšÃ
+q	php:S1192["\Define a constant instead of duplicating this literal "wp-polyfill-element-closest" 3 times.(òç›ö
+l	php:S1192ı"QDefine a constant instead of duplicating this literal "wp-block-library" 7 times.(‹Î‡ÿÿÿÿÿ
+o	php:S1192Z"UDefine a constant instead of duplicating this literal "wp-polyfill-dom-rect" 3 times.(÷Ÿ¥üÿÿÿÿ
+j	php:S1192‰"ODefine a constant instead of duplicating this literal "jquery-ui-menu" 3 times.(÷‹¾ùşÿÿÿÿ
+l	php:S1192ß	"QDefine a constant instead of duplicating this literal "media-audiovideo" 4 times.(Á˜£ğıÿÿÿÿ
+f	php:S1192ç"PDefine a constant instead of duplicating this literal "wp-block-editor" 3 times.(æÙªÏ
+b	php:S1192ş"GDefine a constant instead of duplicating this literal "editor" 5 times.(ÀÖÃŞıÿÿÿÿ
+e	php:S1192”"JDefine a constant instead of duplicating this literal "site-icon" 3 times.(ŞÀùåıÿÿÿÿ
+f	php:S11929"LDefine a constant instead of duplicating this literal "js/tinymce/" 3 times.(†œÁâùÿÿÿÿ
+\	php:S1192ã"FDefine a constant instead of duplicating this literal "1.9.0" 7 times.(Âä„í
+O	php:S1135±	"4Complete the task associated to this "TODO" comment.(´¸°áûÿÿÿÿ
+c	php:S1192"MDefine a constant instead of duplicating this literal "media-models" 6 times.(ÉÀĞ”
+e	php:S11929"KDefine a constant instead of duplicating this literal "wp-tinymce" 3 times.(†œÁâùÿÿÿÿ
+c	php:S1192"MDefine a constant instead of duplicating this literal "media-views" 10 times.(ÉÀĞ”
+o	php:S1192Ä	"TDefine a constant instead of duplicating this literal "customize-nav-menus" 3 times.(…€òæúÿÿÿÿ
+g	php:S1192Š"QDefine a constant instead of duplicating this literal "jquery-ui-button" 3 times.(Ÿ«åœ
+a	php:S1192ì
+"FDefine a constant instead of duplicating this literal "error" 5 times.(ë¹¨íúÿÿÿÿ
+J	php:S2201à"/The return value of "array_merge" must be used.(Üüİëùÿÿÿÿ
+j	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ç³‰á
+i	php:S1192Û
+"NDefine a constant instead of duplicating this literal "media-widgets" 6 times.(î†ú¢ÿÿÿÿÿ
+[	php:S1192‰"FDefine a constant instead of duplicating this literal "forms" 5 times.(ã­B
+`	php:S1192—"JDefine a constant instead of duplicating this literal "prototype" 5 times.(Êøİë
+c	php:S1192‹
+"MDefine a constant instead of duplicating this literal "tags-suggest" 4 times.(á‡àÃ
+]	php:S1192Ş"GDefine a constant instead of duplicating this literal "update" 3 times.(ÜÉ–É
+m	php:S1192³"RDefine a constant instead of duplicating this literal "jquery-ui-widget" 10 times.(¨Ì°éùÿÿÿÿ
+_	php:S1192ß"IDefine a constant instead of duplicating this literal "wp-lists" 5 times.(–í÷š
+O	php:S1135£"4Complete the task associated to this "TODO" comment.(´¸°áûÿÿÿÿ
+w	php:S1192¿	"\Define a constant instead of duplicating this literal "customize-selective-refresh" 3 times.(Ø¯Ìıÿÿÿÿ
+\	php:S1192É"FDefine a constant instead of duplicating this literal "Close" 3 times.(°Àß€
+j	php:S1192Ó"ODefine a constant instead of duplicating this literal "wp-edit-blocks" 3 times.(ÖÛœæıÿÿÿÿ
+q	php:S1192å"VDefine a constant instead of duplicating this literal "scriptaculous-effects" 3 times.(£‡‹µıÿÿÿÿ
+^	php:S1192‡"HDefine a constant instead of duplicating this literal "wp-i18n" 3 times.(‡‚ô‚
+m	php:S1192Á	"RDefine a constant instead of duplicating this literal "customize-widgets" 3 times.(ŞÔ²³øÿÿÿÿ
+a	php:S1192î"LDefine a constant instead of duplicating this literal "wp-sanitize" 5 times.(¥•—'
+j	php:S1192î"ODefine a constant instead of duplicating this literal "shortcode_tags" 4 times.(Ô¨‰¥úÿÿÿÿ
+c	php:S1301ü"MReplace this "switch" statement with "if" statements to increase readability.(¬×¿Õ
+b	php:S1192”"GDefine a constant instead of duplicating this literal "wplink" 3 times.(Æ¬¸Âüÿÿÿÿ
+d	php:S1192Ä	"IDefine a constant instead of duplicating this literal "nav-menu" 3 times.(…€òæúÿÿÿÿ
+k	php:S1192ö"UDefine a constant instead of duplicating this literal "jquery-effects-core" 16 times.(´Ëù
+^	php:S1192"HDefine a constant instead of duplicating this literal "postbox" 8 times.(ÉÀĞ”
+g	php:S1192ˆ"LDefine a constant instead of duplicating this literal "conditional" 3 times.(¶‰ö©ùÿÿÿÿ
+g	php:S1192â"LDefine a constant instead of duplicating this literal "hoverIntent" 3 times.(‘­šøÿÿÿÿ
+d	php:S1192œ"NDefine a constant instead of duplicating this literal "imgareaselect" 5 times.(Šıó•
+b	php:S1192°"GDefine a constant instead of duplicating this literal "suffix" 3 times.( Œú±ùÿÿÿÿ
+e	php:S1192§"ODefine a constant instead of duplicating this literal "wp-api-request" 6 times.(¼•™ì
+Lphp:S131ü"7Add a "case default" clause to this "switch" statement.(¬×¿Õ
+£	php:S1192œ"‡Define a constant instead of duplicating this literal "The changes you made will be lost if you navigate away from this page." 5 times.(òªäùÿÿÿÿ
+c	php:S1192©"MDefine a constant instead of duplicating this literal "SCRIPT_DEBUG" 5 times.(ëô‰É
+b	php:S1192¢"GDefine a constant instead of duplicating this literal "plural" 3 times.(îÛıïÿÿÿÿÿ
+m	php:S1192Ğ"WDefine a constant instead of duplicating this literal "wp-block-library-theme" 4 times.(Ôú“ì
+j	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(½‚Ôä
+^	php:S1192š"HDefine a constant instead of duplicating this literal "default" 3 times.(à÷“±
+]	php:S1192ƒ"HDefine a constant instead of duplicating this literal "tinymce" 4 times.(ëå¨D
+i	php:S1192Ì"NDefine a constant instead of duplicating this literal "wp-auth-check" 4 times.(åú¡Çşÿÿÿÿ
+a	php:S1192÷"KDefine a constant instead of duplicating this literal "farbtastic" 3 times.(‡½äÍ
+n	php:S1192ù"SDefine a constant instead of duplicating this literal "customize-controls" 6 times.(Ô‡ò–úÿÿÿÿ
+j	php:S1192"TDefine a constant instead of duplicating this literal "jquery-ui-droppable" 4 times.(©Ï—¨
+`	php:S1192R"FDefine a constant instead of duplicating this literal "react" 3 times.(÷ ‘õÿÿÿÿÿ
+i	php:S1192ã"SDefine a constant instead of duplicating this literal "scriptaculous-root" 5 times.(Âä„í
+c	php:S1192—"MDefine a constant instead of duplicating this literal "wp-api-fetch" 4 times.(™×ı˜
+d	php:S1192"NDefine a constant instead of duplicating this literal "wp-codemirror" 4 times.(šÍÂ
+g	php:S1192Œ"LDefine a constant instead of duplicating this literal "list-tables" 3 times.(ÌŠø¤şÿÿÿÿ
+b	php:S1192Š"LDefine a constant instead of duplicating this literal "underscore" 13 times.(¹é™Ø
+e	php:S1192ô"ODefine a constant instead of duplicating this literal "customize-base" 5 times.(ƒÚøö
+r	php:S1192‰"WDefine a constant instead of duplicating this literal "jquery-ui-autocomplete" 4 times.(÷‹¾ùşÿÿÿÿ
+c	php:S1192"MDefine a constant instead of duplicating this literal "mediaelement" 7 times.(ğ¤¢œ
+a	php:S1192Ö"FDefine a constant instead of duplicating this literal "utils" 5 times.(ßÏ´Şÿÿÿÿÿ
+f	php:S1192ú"PDefine a constant instead of duplicating this literal "wp-mediaelement" 4 times.(Íù‹ó
+h	php:S1192"RDefine a constant instead of duplicating this literal "mediaelement-core" 3 times.(ğ¤¢œ
+^	php:S1192ƒ"HDefine a constant instead of duplicating this literal "buttons" 7 times.(¥òŞº
+o	php:S1192Œ"TDefine a constant instead of duplicating this literal "jquery-ui-draggable" 6 times.(ÒÑşÿÿÿÿ
+o	php:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÌùëŠıÿÿÿÿ
+]	php:S1192ë"GDefine a constant instead of duplicating this literal "wp-nux" 3 times.(øäİÅ
+c	php:S1192õ"HDefine a constant instead of duplicating this literal "1.11.4" 37 times.(íÊ¿Åøÿÿÿÿ
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "wp-admin" 6 times.(¥òŞº
+b	php:S1192"GDefine a constant instead of duplicating this literal "themes" 3 times.(Ü¶Ï¶ÿÿÿÿÿ
+a	php:S1192¥
+"KDefine a constant instead of duplicating this literal "dateFormat" 3 times.(ª™”¤
+h	php:S1192ö"RDefine a constant instead of duplicating this literal "customize-preview" 6 times.(—Û¾ê
+]	php:S1192Ş"GDefine a constant instead of duplicating this literal "Update" 3 times.(ÜÉ–É
+f	php:S1192R"LDefine a constant instead of duplicating this literal "wp-polyfill" 6 times.(÷ ‘õÿÿÿÿÿ
+œphp:S138Ò"This function "wp_default_styles" has 172 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÌùëŠıÿÿÿÿ
+]	php:S1192Ì"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(Â³ é
+j	php:S1192W"UDefine a constant instead of duplicating this literal "wp-polyfill-formdata" 3 times.(­Í‰´
+^	php:S1192œ"HDefine a constant instead of duplicating this literal "updates" 3 times.(€ÔéØ
+l	php:S1192£"VDefine a constant instead of duplicating this literal "Something went wrong." 4 times.(ğı®Ì
+k	php:S1192õ"PDefine a constant instead of duplicating this literal "jquery-ui-core" 13 times.(íÊ¿Åøÿÿÿÿ
+j	php:S1142À"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‡ÁªŞıÿÿÿÿ
+d	php:S1192ï	"ODefine a constant instead of duplicating this literal "admin-comments" 3 times.(“†ã
+j	php:S1142›"OReduce the number of returns of this function 4, down to the maximum allowed 3.(±‚šüÿÿÿÿ
+\	php:S1192¤"FDefine a constant instead of duplicating this literal "after" 6 times.(ˆ‡ç±
+g	php:S1192˜"LDefine a constant instead of duplicating this literal "wp-backbone" 6 times.(ïÎÿøÿÿÿÿ
+a	php:S1192±"FDefine a constant instead of duplicating this literal "query" 3 times.(¹†±üÿÿÿÿ
+d	php:S1192°"IDefine a constant instead of duplicating this literal "schedule" 3 times.(ß®¸²ıÿÿÿÿ
+O	php:S3801¤"4Refactor this function to use "return" consistently.(¸„£ıùÿÿÿÿ
+O	php:S1135©	"4Complete the task associated to this "TODO" comment.(´¸°áûÿÿÿÿ
+^	php:S1192è"HDefine a constant instead of duplicating this literal "dismiss" 3 times.(îú¬¥
+o	php:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(…Ÿ†Ãûÿÿÿÿ
+l	php:S1192Í"QDefine a constant instead of duplicating this literal "wp_print_scripts" 4 times.(ÂåÚ±ıÿÿÿÿ
+^	php:S1192ó"IDefine a constant instead of duplicating this literal "plupload" 4 times.(‚õÙ
+l	php:S1192"QDefine a constant instead of duplicating this literal "wp-ajax-response" 4 times.(­Ñ¯ıÿÿÿÿ
+i	php:S1192Ö"NDefine a constant instead of duplicating this literal "wp-components" 7 times.(ŸĞ¹ˆüÿÿÿÿ
+e	php:S1192"ODefine a constant instead of duplicating this literal "4.2.13-9993131" 4 times.(ğ¤¢œ
+a	php:S1192T"GDefine a constant instead of duplicating this literal "moment" 3 times.(†©¹Ãøÿÿÿÿ
+a	php:S1192‹	"FDefine a constant instead of duplicating this literal "saved" 4 times.(¨“ÿøÿÿÿÿ
+c	php:S1192â"HDefine a constant instead of duplicating this literal "jquery" 67 times.(‘­šøÿÿÿÿ
+`	php:S1192™"KDefine a constant instead of duplicating this literal "dashicons" 12 times.(µÜ¾j
+a	php:S1192ü"FDefine a constant instead of duplicating this literal "json2" 6 times.(´°À•ÿÿÿÿÿ
+o	php:S1192X"ZDefine a constant instead of duplicating this literal "wp-polyfill-node-contains" 3 times.(¤ƒÜ×
+p	php:S1192‹"UDefine a constant instead of duplicating this literal "jquery-ui-datepicker" 3 times.(®’…¯úÿÿÿÿ
+n	php:S1192—"SDefine a constant instead of duplicating this literal "jquery-ui-sortable" 7 times.(¦ì‹Ïüÿÿÿÿ
+_	php:S1192ò"JDefine a constant instead of duplicating this literal "quicktags" 3 times.(Öõ²w
+f	php:S1192¢"PDefine a constant instead of duplicating this literal "wp-block-styles" 4 times.(†áµ
+f	php:S1192³"KDefine a constant instead of duplicating this literal "wp-pointer" 5 times.(¨Ì°éùÿÿÿÿ
+`	php:S1192š"JDefine a constant instead of duplicating this literal "revisions" 4 times.(§ŞÅÚ
+m	php:S1192º"RDefine a constant instead of duplicating this literal "password strength" 5 times.(Ûşİ»şÿÿÿÿ
+`	php:S1192’"JDefine a constant instead of duplicating this literal "nav-menus" 3 times.( ôÜ³
+c	php:S1192ƒ"NDefine a constant instead of duplicating this literal "classic-block" 8 times.(ëå¨D
+a	php:S1192å
+"FDefine a constant instead of duplicating this literal "theme" 9 times.(óÑÊ³ıÿÿÿÿ
+c	php:S1192…"HDefine a constant instead of duplicating this literal "version" 3 times.(ò©œşÿÿÿÿ
+h	php:S1192¢"RDefine a constant instead of duplicating this literal "No results found." 3 times.(©±åó
+k	php:S1192ú"PDefine a constant instead of duplicating this literal "wp-color-picker" 5 times.(™ß…Şüÿÿÿÿ
+r	php:S1192å"WDefine a constant instead of duplicating this literal "scriptaculous-dragdrop" 3 times.(£‡‹µıÿÿÿÿ
+F	php:S1481Á"0Remove this unused "$block_name" local variable.(çã¸Œ
+php:S138Ç"‚This function "wp_default_scripts" has 827 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(…Ÿ†Ãûÿÿÿÿ
+_	php:S1192Ò"IDefine a constant instead of duplicating this literal "relative" 4 times.(µº‰Á
+l	php:S1192–"QDefine a constant instead of duplicating this literal "jquery-ui-slider" 3 times.(ÂÍòÈúÿÿÿÿ
+s	php:S1192µ"XDefine a constant instead of duplicating this literal "password-strength-meter" 3 times.(Éà¼ˆøÿÿÿÿ
+c	php:S1192½
+"HDefine a constant instead of duplicating this literal "comment" 3 times.(şìòëøÿÿÿÿ
+\	php:S1192U"GDefine a constant instead of duplicating this literal "lodash" 3 times.(æ»¼Â
+e	php:S1192×"JDefine a constant instead of duplicating this literal "wp-editor" 3 times.(å±× úÿÿÿÿ
+c	php:S1192“"HDefine a constant instead of duplicating this literal "widgets" 3 times.(‡Óäøÿÿÿÿ
+]	php:S1192ƒ"GDefine a constant instead of duplicating this literal "colors" 5 times.(¥òŞº
+`	php:S1192í"JDefine a constant instead of duplicating this literal "shortcode" 4 times.(®îÂ×
+l	php:S1192V"RDefine a constant instead of duplicating this literal "wp-polyfill-fetch" 3 times.(·Âëåûÿÿÿÿ
+d	php:S1192À"IDefine a constant instead of duplicating this literal "thickbox" 5 times.(Ï€ç¦şÿÿÿÿ
+]	php:S1192Ì"GDefine a constant instead of duplicating this literal "cancel" 3 times.(Â³ é
+d	php:S1192‰"IDefine a constant instead of duplicating this literal "wp-a11y" 18 times.(÷‹¾ùşÿÿÿÿ
+^	php:S1192©"HDefine a constant instead of duplicating this literal "plugin" 13 times.(¼´äû
+`	php:S1192¼"JDefine a constant instead of duplicating this literal "heartbeat" 4 times.(ØæÆğ
+c	php:S1192¬"MDefine a constant instead of duplicating this literal "zxcvbn-async" 3 times.(éöËˆ
+a	php:S1192Š"FDefine a constant instead of duplicating this literal "media" 6 times.(Á›¥Ñùÿÿÿÿ
+d	php:S1192 "IDefine a constant instead of duplicating this literal "singular" 3 times.(Ç™ó°ûÿÿÿÿ
+_	php:S1192"IDefine a constant instead of duplicating this literal "wp-util" 15 times.(æıú¯
+_	php:S1192ˆ"JDefine a constant instead of duplicating this literal "dashboard" 6 times.(¾ëäj
+n	php:S1192³"SDefine a constant instead of duplicating this literal "jquery-ui-position" 5 times.(¨Ì°éùÿÿÿÿ
+c	php:S1192ø"MDefine a constant instead of duplicating this literal "media-editor" 4 times.(ğìàÖ
+a	php:S1192‘"FDefine a constant instead of duplicating this literal "about" 3 times.(ˆì¾¿ûÿÿÿÿ
+a	php:S1192õ"FDefine a constant instead of duplicating this literal "html5" 3 times.(¶¯µ´şÿÿÿÿ
+_	php:S1192‹"IDefine a constant instead of duplicating this literal "backbone" 7 times.(À–şİ
+f	php:S1192"PDefine a constant instead of duplicating this literal "jquery-ui-mouse" 7 times.(—„şŞ

@@ -1,0 +1,10 @@
+
+j	php:S1142«"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ŒÆÏŸøÿÿÿÿ
+i	php:S3776°"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(æ™ÞA
+g	php:S1134è"LTake the required action to fix the issue indicated by this "FIXME" comment.(€„ÕÁüÿÿÿÿ
+e	php:S1142É"OReduce the number of returns of this function 4, down to the maximum allowed 3.(½ÚÍü
+qphp:S101"XRename class "WP_Filesystem_Direct" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™Ñ¡£þÿÿÿÿ
+d	php:S1142|"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÑÛî«
+e	php:S1142¿"OReduce the number of returns of this function 4, down to the maximum allowed 3.(è„Æ‚
+Š	php:S1448"pClass "WP_Filesystem_Direct" has 27 methods, which is greater than 20 authorized. Split it into smaller classes.(™Ñ¡£þÿÿÿÿ
+g	php:S1192Ù"LDefine a constant instead of duplicating this literal "lastmodunix" 3 times.(î°–…ÿÿÿÿÿ

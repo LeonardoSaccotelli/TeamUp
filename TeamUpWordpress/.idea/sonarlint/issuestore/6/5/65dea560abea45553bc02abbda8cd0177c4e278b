@@ -1,0 +1,6 @@
+
+c	php:S1192"NDefine a constant instead of duplicating this literal "um_messaging" 12 times.(Ìá‡´
+G	php:S1172N"-Remove the unused function parameter "$data".(åÚÓËüÿÿÿÿ
+E	php:S1172B"0Remove the unused function parameter "$user_id".(Š±Ïá
+t	php:S1192C"ZDefine a constant instead of duplicating this literal "um_messaging_invite_login" 4 times.(°øš÷ÿÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ

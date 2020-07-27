@@ -1,0 +1,114 @@
+
+_	php:S1192¼"IDefine a constant instead of duplicating this literal "excerpt" 13 times.(Ç‹•Ö
+h	php:S1192À"MDefine a constant instead of duplicating this literal "post__not_in" 3 times.(¹ £ıÿÿÿÿ
+g	php:S1192·"LDefine a constant instead of duplicating this literal "arg_options" 5 times.(­åŸ×øÿÿÿÿ
+^	php:S1192›"HDefine a constant instead of duplicating this literal "objects" 8 times.(Ô–¾¬
+c	php:S1192õ"HDefine a constant instead of duplicating this literal "object" 11 times.(¢Úêúÿÿÿÿ
+e	php:S1142Á"OReduce the number of returns of this function 7, down to the maximum allowed 3.(÷‹Éá
+™php:S138í"This function "get_item_schema" has 359 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‰±şŒøÿÿÿÿ
+‰	php:S1448"tClass "WP_REST_Posts_Controller" has 36 methods, which is greater than 20 authorized. Split it into smaller classes.(ÓıßÂ
+b	php:S1192Î	"LDefine a constant instead of duplicating this literal "ping_status" 6 times.(Ï‰“£
+b	php:S1192V"HDefine a constant instead of duplicating this literal "string" 33 times.(Şåáßúÿÿÿÿ
+c	php:S1117¿"MRename "$post_type" which has the same name as the field declared at line 24.(¶Ô¬
+f	php:S1192S"LDefine a constant instead of duplicating this literal "properties" 59 times.(Ûô±Äûÿÿÿÿ
+c	php:S1192ê"HDefine a constant instead of duplicating this literal "sticky" 19 times.(û‚‹ƒûÿÿÿÿ
+j	php:S1142š"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ÏÎ¨äúÿÿÿÿ
+f	php:S1192Ù"KDefine a constant instead of duplicating this literal "date_query" 3 times.( ÿéşÿÿÿÿ
+n	php:S1192B"TDefine a constant instead of duplicating this literal "permission_callback" 5 times.(Õïäìıÿÿÿÿ
+c	php:S1117”"MRename "$post_type" which has the same name as the field declared at line 24.(¶Ô¬
+c	php:S1871–"NThis branch's code block is the same as the block for the branch on line 2196.(›˜
+o	php:S3776»"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(èµ‡Ëüÿÿÿÿ
+c	php:S1192Q"IDefine a constant instead of duplicating this literal "default" 15 times.(²ÒÄüÿÿÿÿ
+g	php:S1192U"MDefine a constant instead of duplicating this literal "description" 58 times.(¤„ÓÃüÿÿÿÿ
+i	php:S1192–	"SDefine a constant instead of duplicating this literal "rest_invalid_field" 3 times.(†ƒ¨é
+j	php:S1192ø"ODefine a constant instead of duplicating this literal "featured_media" 9 times.(ãïª¸úÿÿÿÿ
+c	php:S1192¨"HDefine a constant instead of duplicating this literal "term_id" 3 times.(¾•Ô±ÿÿÿÿÿ
+^	php:S1192Î"IDefine a constant instead of duplicating this literal "modified" 4 times.(Ü•³7
+c	php:S1192ü"HDefine a constant instead of duplicating this literal "format" 18 times.(ó¢™íùÿÿÿÿ
+c	php:S1117ç"MRename "$post_type" which has the same name as the field declared at line 24.(¶Ô¬
+b	php:S1192Ü"GDefine a constant instead of duplicating this literal "before" 5 times.(ì›Îõşÿÿÿÿ
+e	php:S1192É	"ODefine a constant instead of duplicating this literal "comment_status" 6 times.(“ó§€
+j	php:S1142¸
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(„¿ÆĞıÿÿÿÿ
+d	php:S1192É"IDefine a constant instead of duplicating this literal "rendered" 8 times.(…´‘½üÿÿÿÿ
+]	php:S1192`"IDefine a constant instead of duplicating this literal "integer" 21 times.(Ò†Ö1
+h	php:S1192•"MDefine a constant instead of duplicating this literal "targetSchema" 6 times.(Â¨Ëûÿÿÿÿ
+d	php:S1192¢"IDefine a constant instead of duplicating this literal "orderby" 13 times.(»×ÉŒøÿÿÿÿ
+e	php:S1192İ"JDefine a constant instead of duplicating this literal "revisions" 5 times.(†Œ‘Ñøÿÿÿÿ
+f	php:S1192Ï"KDefine a constant instead of duplicating this literal "embeddable" 5 times.(Úä™ìúÿÿÿÿ
+h	php:S1192¸"RDefine a constant instead of duplicating this literal "sanitize_callback" 6 times.(Ğæ¾œ
+]	php:S1192ü"GDefine a constant instead of duplicating this literal "embed" 13 times.(ø®Éœ
+e	php:S1192"JDefine a constant instead of duplicating this literal "tax_query" 3 times.(ê”¶Íøÿÿÿÿ
+^	php:S1192¾"HDefine a constant instead of duplicating this literal "author" 24 times.(Ú¦ñ
+h	php:S1117Í"MRename "$post_type" which has the same name as the field declared at line 24.(Ÿ°±»ıÿÿÿÿ
+J	php:S1066Ï"/Merge this if statement with the enclosing one.(¹‹¾ıÿÿÿÿ
+i	php:S1192ò"NDefine a constant instead of duplicating this literal "custom-fields" 5 times.(÷ëÛ¼ùÿÿÿÿ
+b	php:S1192Ü"GDefine a constant instead of duplicating this literal "items" 13 times.(ì¿©¸ûÿÿÿÿ
+j	php:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¼òôò
+e	php:S1192¾"ODefine a constant instead of duplicating this literal "__return_false" 5 times.(—ÒÍ
+o	php:S3776í"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(‰±şŒøÿÿÿÿ
+b	php:S1192ê"GDefine a constant instead of duplicating this literal "editor" 4 times.(Œê¼ƒüÿÿÿÿ
+›php:S138ˆ"…This function "get_collection_params" has 155 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¶‰’
+e	php:S1142¦"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÜÍåğ
+c	php:S1192"MDefine a constant instead of duplicating this literal "tax_relation" 3 times.(êÃù¢
+e	php:S1142‹"OReduce the number of returns of this function 6, down to the maximum allowed 3.(É“á‚
+h	php:S1117¾"MRename "$post_type" which has the same name as the field declared at line 24.(íÑ·ãıÿÿÿÿ
+e	php:S1192í"JDefine a constant instead of duplicating this literal "thumbnail" 4 times.(Ù°·İûÿÿÿÿ
+`	php:S1192ˆ"JDefine a constant instead of duplicating this literal "readonly" 16 times.(åúÆÖ
+k	php:S1192ğ"PDefine a constant instead of duplicating this literal "page-attributes" 5 times.(îÿàÂúÿÿÿÿ
+^	php:S1192"HDefine a constant instead of duplicating this literal "status" 45 times.(ååÄ
+i	php:S1192î"SDefine a constant instead of duplicating this literal "permalink_template" 3 times.(ğªàĞ
+j	php:S1142Ã"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ÊÃ¹…ûÿÿÿÿ
+r	php:S1192û"WDefine a constant instead of duplicating this literal "protected_title_format" 4 times.(°¼å‰ûÿÿÿÿ
+h	php:S1192Ò"MDefine a constant instead of duplicating this literal "modified_gmt" 3 times.(€®Õúÿÿÿÿ
+e	php:S1142å"OReduce the number of returns of this function 6, down to the maximum allowed 3.(®Š»Ü
+d	php:S1192Á"IDefine a constant instead of duplicating this literal "post__in" 7 times.(ş§Ÿåøÿÿÿÿ
+c	php:S1192«"HDefine a constant instead of duplicating this literal "include" 6 times.(Ù’†”üÿÿÿÿ
+`	php:S1192€"JDefine a constant instead of duplicating this literal "template" 12 times.(áŞò³
+o	php:S1192Š"TDefine a constant instead of duplicating this literal "0000-00-00 00:00:00" 3 times.(Ç¥¢üÿÿÿÿ
+o	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 83 to the 15 allowed.(ÏÎ¨äúÿÿÿÿ
+j	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷‹Éá
+c	php:S1192ñ"MDefine a constant instead of duplicating this literal "post-formats" 3 times.(…ì¸ë
+d	php:S1192Ó"IDefine a constant instead of duplicating this literal "comments" 6 times.(©¤¹¤øÿÿÿÿ
+c	php:S1192A"IDefine a constant instead of duplicating this literal "callback" 5 times.(Çƒöûıÿÿÿÿ
+h	php:S1117Ä"MRename "$post_type" which has the same name as the field declared at line 24.(íÑ·ãıÿÿÿÿ
+h	php:S1117“"MRename "$post_type" which has the same name as the field declared at line 24.(íÑ·ãıÿÿÿÿ
+]	php:S1192@"HDefine a constant instead of duplicating this literal "methods" 5 times.(ŸÊşµ
+`	php:S1192û"JDefine a constant instead of duplicating this literal "date-time" 6 times.(äÇ…
+c	php:S1117Š"MRename "$post_type" which has the same name as the field declared at line 24.(¶Ô¬
+b	php:S1192ª"GDefine a constant instead of duplicating this literal "title" 24 times.(ŸÕ´¬ıÿÿÿÿ
+]	php:S1192Ã"GDefine a constant instead of duplicating this literal "offset" 3 times.(¯…ßÄ
+j	php:S1142Ÿ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‰î×Ïûÿÿÿÿ
+`	php:S1192–"JDefine a constant instead of duplicating this literal "protected" 4 times.(Æû°
+e	php:S1142ì"OReduce the number of returns of this function 8, down to the maximum allowed 3.(¼òôò
+`	php:S1192·"KDefine a constant instead of duplicating this literal "attachment" 7 times.(½ñ˜
+c	php:S1192›"MDefine a constant instead of duplicating this literal "show_in_rest" 8 times.(Ô–¾¬
+g	php:S1192Â"LDefine a constant instead of duplicating this literal "menu_order" 10 times.(îšÛßşÿÿÿÿ
+m	php:S1192¾"WDefine a constant instead of duplicating this literal "post_password_required" 5 times.(—ÒÍ
+E	php:S1066É"/Merge this if statement with the enclosing one.(ˆ‘Ş
+^	php:S1192ş	"HDefine a constant instead of duplicating this literal "publish" 4 times.(ã¯Úû
+c	php:S1192Q"IDefine a constant instead of duplicating this literal "context" 51 times.(²ÒÄüÿÿÿÿ
+m	php:S1192£"RDefine a constant instead of duplicating this literal "validate_callback" 4 times.(äÜîÀşÿÿÿÿ
+a	php:S1192Ä"FDefine a constant instead of duplicating this literal "order" 3 times.(»ñ­Èùÿÿÿÿ
+a	php:S1192Æ"FDefine a constant instead of duplicating this literal "paged" 3 times.(´Œ€üÿÿÿÿ
+_	php:S1192§"IDefine a constant instead of duplicating this literal "taxonomy" 3 times.(À¥é‹
+d	php:S1142×"OReduce the number of returns of this function 4, down to the maximum allowed 3.(É…ÖY
+e	php:S1192ï"ODefine a constant instead of duplicating this literal "generated_slug" 3 times.( ´™í
+pphp:S101"\Rename class "WP_REST_Posts_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÓıßÂ
+_	php:S1192³"IDefine a constant instead of duplicating this literal "content" 14 times.(û¤Íù
+b	php:S1192u"HDefine a constant instead of duplicating this literal "boolean" 6 times.(¦Õ¬üşÿÿÿÿ
+]	php:S1192Û"GDefine a constant instead of duplicating this literal "array" 13 times.(÷Áİş
+J	php:S1066§	"/Merge this if statement with the enclosing one.(Ì»Ä¤øÿÿÿÿ
+E	php:S1066¶"/Merge this if statement with the enclosing one.(„õÛ¡
+o	php:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(‰î×Ïûÿÿÿÿ
+d	php:S1192ã"IDefine a constant instead of duplicating this literal "date_gmt" 9 times.(¾ğˆÿÿÿÿÿÿ
+¤php:S138¥"‰This function "prepare_item_for_response" has 172 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(›”’àıÿÿÿÿ
+^	php:S1192Ç"HDefine a constant instead of duplicating this literal "parent" 11 times.(ãòÏÛ
+h	php:S1117ï"MRename "$post_type" which has the same name as the field declared at line 24.(íÑ·ãıÿÿÿÿ
+Kphp:S131š"7Add a "case default" clause to this "switch" statement.(òµß7
+o	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(›”’àıÿÿÿÿ
+h	php:S1117"MRename "$post_type" which has the same name as the field declared at line 24.(íÑ·ãıÿÿÿÿ
+d	php:S1192S"JDefine a constant instead of duplicating this literal "password" 13 times.(Ûô±Äûÿÿÿÿ
+j	php:S1142¹"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Äó³ÿÿÿÿÿ
+a	php:S1192á"FDefine a constant instead of duplicating this literal "after" 5 times.(ùÃ—…ıÿÿÿÿ
+j	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰„Ì—

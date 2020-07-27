@@ -1,0 +1,31 @@
+
+d	php:S1117Ğ"NRename "$categories" which has the same name as the field declared at line 73.(ô¡Ô
+Lphp:S131é"7Add a "case default" clause to this "switch" statement.(µÓ®Ñ
+Lphp:S131Ê	"7Add a "case default" clause to this "switch" statement.(¹ÂŞÜ
+kphp:S1017"WRename class "SimplePie_Enclosure" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(§ßøÒ
+e	php:S1192º	"JDefine a constant instead of duplicating this literal "audio/wav" 3 times.(öö×øÿÿÿÿ
+J	php:S1135Å"4Complete the task associated to this "TODO" comment.(’€·õ
+Jphp:S121¥	"0Add curly braces around the nested statement(s).(éïøÿÿÿÿ
+f	php:S1117¤"KRename "$hashes" which has the same name as the field declared at line 127.(£í×øÿÿÿÿ
+d	php:S1117À	"IRename "$type" which has the same name as the field declared at line 211.(ßÓæĞùÿÿÿÿ
+]php:S107ã"HThis function has 26 parameters, which is greater than the 7 authorized.(…•’
+c	php:S1117ë"MRename "$keywords" which has the same name as the field declared at line 145.(î™†‰
+g	php:S1117×"LRename "$handler" which has the same name as the field declared at line 121.(´àã…şÿÿÿÿ
+d	php:S1117Ø"IRename "$type" which has the same name as the field declared at line 211.(íÙòşÿÿÿÿ
+I	php:S1172ã"3Remove the unused function parameter "$javascript".(…•’
+g	php:S1117Õ"LRename "$ratings" which has the same name as the field declared at line 181.(şì½’ÿÿÿÿÿ
+„	php:S14487"oClass "SimplePie_Enclosure" has 41 methods, which is greater than 20 authorized. Split it into smaller classes.(§ßøÒ
+f	php:S1117–"KRename "$credits" which has the same name as the field declared at line 91.(˜£ˆ’ıÿÿÿÿ
+x	php:S1488Ï"]Immediately return this expression instead of assigning it to the temporary variable "$time".(ôº¦¨üÿÿÿÿ
+b	php:S1117¬"LRename "$captions" which has the same name as the field declared at line 67.(»Åº
+j	php:S1142µ	"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¶îçñüÿÿÿÿ
+`	php:S1117­"KRename "$length" which has the same name as the field declared at line 157.(¯¼ú
+j	php:S1117À"ORename "$thumbnails" which has the same name as the field declared at line 199.(Ğ¯ûéşÿÿÿÿ
+Šphp:S138Ê"uThis function "embed" has 191 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¼¶àš
+a	php:S1192ë"FDefine a constant instead of duplicating this literal "audio" 4 times.(—¢Üˆûÿÿÿÿ
+e	php:S1117Ò"JRename "$width" which has the same name as the field declared at line 217.(¾¤ÿ‰úÿÿÿÿ
+N	php:S1479Ê	"8Reduce the number of switch cases from 45 to at most 30.(¹ÂŞÜ
+a	php:S1117Ó"KRename "$height" which has the same name as the field declared at line 133.(é¯ˆœ
+\	php:S1192ï"FDefine a constant instead of duplicating this literal "video" 4 times.(üŞÉâ
+j	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(¼¶àš
+l	php:S1117ù"QRename "$restrictions" which has the same name as the field declared at line 187.(ê¼™øüÿÿÿÿ

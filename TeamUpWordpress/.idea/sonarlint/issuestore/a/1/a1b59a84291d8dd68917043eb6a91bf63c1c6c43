@@ -1,0 +1,25 @@
+
+E	php:S1172Ô"0Remove the unused function parameter "$postarr".(ûüğ}
+o	php:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼Ò¬üÿÿÿÿ
+O	php:S3801´"4Refactor this function to use "return" consistently.(—…şıüÿÿÿÿ
+j	php:S1142‹"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¼Ò¬üÿÿÿÿ
+c	php:S1192š"MDefine a constant instead of duplicating this literal "manage_sites" 4 times.(û ¡¯
+k	php:S1192Š"PDefine a constant instead of duplicating this literal "<option value="" 4 times.(µ¹ÚÊûÿÿÿÿ
+d	php:S1142Ô"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ûüğ}
+j	php:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(Şè’§
+J	php:S1135„"4Complete the task associated to this "TODO" comment.(úÊˆ›
+m Web:TableHeaderHasIdOrScopeCheck©";Add either an 'id' or a 'scope' attribute to this <th> tag.(Í§úÕşÿÿÿÿ
+i	php:S3776B"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦öÃØ
+`	php:S1192Û"JDefine a constant instead of duplicating this literal "post_name" 5 times.(’¨‡’
+b	php:S1192h"HDefine a constant instead of duplicating this literal "blog_id" 7 times.(™¸¨êûÿÿÿÿ
+e	php:S1192Š"JDefine a constant instead of duplicating this literal "</option>" 5 times.(µ¹ÚÊûÿÿÿÿ
+–php:S138Ğ"€This function "format_code_lang" has 192 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ó¤Ø
+3	Web:S5258„"Remove this "th" element(Œ‘Ùıÿÿÿÿ
+[	php:S1192"FDefine a constant instead of duplicating this literal "error" 6 times.(ûšäÖ
+I	php:S1172ï"3Remove the unused function parameter "$permission".(ûïîÉ
+b	php:S1192ÿ"MDefine a constant instead of duplicating this literal "primary_blog" 3 times.(ïÇâi
+.	Web:S5258û"Remove this "th" element(¢Œÿ¸
+d	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¹ºÏ
+B	Web:S5257è",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+\	php:S1192˜"FDefine a constant instead of duplicating this literal "label" 5 times.(´å¤º
+B	Web:S5257ø",Replace this layout table with a CSS layout.(ÿ¹ËŞ

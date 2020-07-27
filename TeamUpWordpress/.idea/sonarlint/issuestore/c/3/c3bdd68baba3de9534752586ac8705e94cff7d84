@@ -1,0 +1,167 @@
+
+p	php:S1192Ö"ZDefine a constant instead of duplicating this literal "%s Comments in moderation" 3 times.(ØæÓĞ
+{	php:S1192Ì("`Define a constant instead of duplicating this literal "health-check-site-status-result" 3 times.(±äçøúÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "screen_id" 4 times.(óÀÚû
+\	php:S1192Â"FDefine a constant instead of duplicating this literal "trash" 9 times.(¶ú±
+`	php:S1192Ã"JDefine a constant instead of duplicating this literal "tax_input" 6 times.(æ¶üå
+b	php:S1192ç"MDefine a constant instead of duplicating this literal "post_excerpt" 4 times.(ª ÊT
+g	php:S1192™"QDefine a constant instead of duplicating this literal "additional_sizes" 4 times.(äÎ¤
+J	php:S1066…"/Merge this if statement with the enclosing one.(ÄÛ˜µøÿÿÿÿ
+b	php:S1192Ğ"LDefine a constant instead of duplicating this literal "delete_post" 3 times.(™í‹÷
+^	php:S1192º"HDefine a constant instead of duplicating this literal "_parent" 3 times.(Å£‘û
+]	php:S1192˜"GDefine a constant instead of duplicating this literal "F j, Y" 3 times.(ù°âÏ
+a	php:S1192ì"FDefine a constant instead of duplicating this literal "query" 6 times.(Â‰…œúÿÿÿÿ
+e	php:S1192›"ODefine a constant instead of duplicating this literal "install_themes" 3 times.(”ÂŸÚ
+j	php:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ğ©³ü
+h	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(÷î¬ÿÿÿÿÿ
+j	php:S3776Ÿ""TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨ı¯–
+†	php:S1192‚("kDefine a constant instead of duplicating this literal "wp-admin/includes/class-wp-site-health.php" 4 times.(¸Œ™¼şÿÿÿÿ
+c	php:S1192À!"HDefine a constant instead of duplicating this literal "plugin" 10 times.(¤†ÿ…şÿÿÿÿ
+o	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(…‰±©şÿÿÿÿ
+c	php:S1192ú	"HDefine a constant instead of duplicating this literal "pending" 3 times.(èş‰¾şÿÿÿÿ
+o	php:S3776€"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(­€Àİüÿÿÿÿ
+a	php:S1192Û!"KDefine a constant instead of duplicating this literal "pluginName" 3 times.(Şğ©è
+h	php:S1192•"MDefine a constant instead of duplicating this literal "post_status" 13 times.(ò‡Éşÿÿÿÿ
+d	php:S1192ı"NDefine a constant instead of duplicating this literal "attachment_id" 3 times.(–á™£
+d	php:S1192–"NDefine a constant instead of duplicating this literal "errorMessage" 48 times.(ÜšÙ‘
+o	php:S3776×$"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(´–…Ëúÿÿÿÿ
+]	php:S1192¬"GDefine a constant instead of duplicating this literal "browse" 4 times.(´ø„’
+i	php:S1192"SDefine a constant instead of duplicating this literal "autocomplete_field" 3 times.(œ”Åœ
+3php:S125£"Remove this commented out code.(ÛÔ‘ 
+c	php:S1192÷"MDefine a constant instead of duplicating this literal "comment_type" 5 times.(¯…İ³
+{	php:S1192Í"`Define a constant instead of duplicating this literal "unable_to_connect_to_filesystem" 6 times.(ä©ĞÙúÿÿÿÿ
+o	php:S3776•&"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(µ§äêûÿÿÿÿ
+o	php:S1192Ö"YDefine a constant instead of duplicating this literal "%s Comment in moderation" 3 times.(ØæÓĞ
+i	php:S1192½	"NDefine a constant instead of duplicating this literal "edit-comments" 4 times.(»ë¡€üÿÿÿÿ
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "post_id" 15 times.(òÍ¾Ñ
+^	php:S1192¬"HDefine a constant instead of duplicating this literal "blog_id" 3 times.(İåø
+b	php:S1192Å"LDefine a constant instead of duplicating this literal "description" 3 times.(û±Ë²
+J	php:S1135š"4Complete the task associated to this "TODO" comment.(Í‚ŠŸ
+a	php:S1192
+"KDefine a constant instead of duplicating this literal "comment_ID" 3 times.(ÂÔöÏ
+`	php:S1192ñ"JDefine a constant instead of duplicating this literal "position" 14 times.(æãåÛ
+n	php:S1192•"SDefine a constant instead of duplicating this literal "no_theme_specified" 3 times.(ğúÃÛûÿÿÿÿ
+b	php:S1192X"HDefine a constant instead of duplicating this literal "screen" 13 times.(îêàşÿÿÿÿ
+f	php:S1192Ñ"KDefine a constant instead of duplicating this literal "themes.php" 4 times.(ƒÓ“Úıÿÿÿÿ
+`	php:S1192Š"JDefine a constant instead of duplicating this literal "shortcode" 4 times.(ôÙ¤ñ
+d	php:S1192Ğ"IDefine a constant instead of duplicating this literal "_wpnonce" 7 times.(İ¬¤ûÿÿÿÿ
+c	php:S1192º"HDefine a constant instead of duplicating this literal "success" 5 times.(—¬¢¡ıÿÿÿÿ
+^	php:S1192"HDefine a constant instead of duplicating this literal "updates" 8 times.(…ı ı
+B	php:S1481š",Remove this unused "$errors" local variable.(Í‚ŠŸ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¶ªÂÄ
+	php:S1192Î"†Define a constant instead of duplicating this literal "Unable to connect to the filesystem. Please confirm your credentials." 6 times.(¬¶®±
+a	php:S1192ş"FDefine a constant instead of duplicating this literal "order" 4 times.(óÿ™ëúÿÿÿÿ
+j	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ªéÉÀ
+w	php:S1192‰
+"\Define a constant instead of duplicating this literal "_wp_unfiltered_html_comment" 3 times.(Ê§İÓıÿÿÿÿ
+c	php:S1192…
+"HDefine a constant instead of duplicating this literal "content" 3 times.(åÅúıÿÿÿÿ
+M	php:S1155Ø&"7Use empty() to check whether the array is empty or not.(àçœÅ
+]	php:S1192æ"GDefine a constant instead of duplicating this literal "postid" 4 times.(¾äÖ‘
+`	php:S1192™"JDefine a constant instead of duplicating this literal "callback" 10 times.(ÿ‘œÛ
+j	php:S1192¹"TDefine a constant instead of duplicating this literal "menu-item-object-id" 3 times.(İîéŸ
+h	php:S1192•"RDefine a constant instead of duplicating this literal "autocomplete_type" 3 times.(«Åë„
+d	php:S1192Ö"IDefine a constant instead of duplicating this literal "activate" 3 times.(‡Ç¹ùÿÿÿÿ
+M	php:S1155%"7Use empty() to check whether the array is empty or not.(‰÷ÔŸ
+j	php:S1192´"UDefine a constant instead of duplicating this literal "can_compress_scripts" 3 times.(“—¼
+]	php:S1192ä"GDefine a constant instead of duplicating this literal "delete" 4 times.(ßÙõ
+f	php:S1192› "KDefine a constant instead of duplicating this literal "newVersion" 4 times.(ÒÌşúÿÿÿÿ
+Lphp:S131‰"7Add a "case default" clause to this "switch" statement.(¹¦ì“
+^	php:S1192Â"HDefine a constant instead of duplicating this literal "widget-" 6 times.(˜¹»
+]	php:S1192•"GDefine a constant instead of duplicating this literal "search" 6 times.(«Åë„
+j	php:S3776°"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(†üØ
+`	php:S1192Œ"JDefine a constant instead of duplicating this literal "post_name" 3 times.(’¨Õ£
+o	php:S1192û'"YDefine a constant instead of duplicating this literal "health-check-site-status" 4 times.(í‹Ê±
+c	php:S1192"HDefine a constant instead of duplicating this literal "orderby" 3 times.(×çÎÀüÿÿÿÿ
+^	php:S1192à"HDefine a constant instead of duplicating this literal "context" 7 times.(Ö¹…ı
+j	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ö÷Å
+b	php:S1192Ë"GDefine a constant instead of duplicating this literal "status" 8 times.(ØÜ–ñüÿÿÿÿ
+o	php:S3776í"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(–×¶Õıÿÿÿÿ
+o	php:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ó±Éúÿÿÿÿ
+b	php:S1192 "GDefine a constant instead of duplicating this literal "fields" 7 times.(­È—ƒüÿÿÿÿ
+i	php:S3776‰ "TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦È…-
+d	php:S1192²'"IDefine a constant instead of duplicating this literal "messages" 3 times.(˜½ïãşÿÿÿÿ
+f	php:S1192¼"KDefine a constant instead of duplicating this literal "post_type" 11 times.(–Æ¸âúÿÿÿÿ
+]	php:S1192ç"HDefine a constant instead of duplicating this literal "excerpt" 3 times.(ª ÊT
+d	php:S1192ú"IDefine a constant instead of duplicating this literal "message" 15 times.(¤Äà¦üÿÿÿÿ
+s	php:S1192ı'"XDefine a constant instead of duplicating this literal "view_site_health_checks" 6 times.(¡¨ï†üÿÿÿÿ
+a	php:S1192˜"FDefine a constant instead of duplicating this literal "title" 3 times.(Óöëúşÿÿÿÿ
+j	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ƒ„öè
+c	php:S1192½"MDefine a constant instead of duplicating this literal "async-upload" 7 times.(ùÄÜú
+e	php:S1192·"ODefine a constant instead of duplicating this literal "menu-item-type" 3 times.(ß¬ÅŞ
+_	php:S1192“"IDefine a constant instead of duplicating this literal "post_ID" 14 times.(Œˆá¦
+\	php:S1192˜"FDefine a constant instead of duplicating this literal "g:i a" 3 times.(ù°âÏ
+^	php:S1192Ö"HDefine a constant instead of duplicating this literal "term_id" 4 times.(Èòƒ™
+o	php:S1192¹!"TDefine a constant instead of duplicating this literal "no_plugin_specified" 3 times.(íîôÂøÿÿÿÿ
+k	php:S1192Ô"UDefine a constant instead of duplicating this literal "i18n_moderation_text" 3 times.(Ğçæ‰
+b	php:S1192‚""LDefine a constant instead of duplicating this literal "plugins.php" 3 times.(ŒÄÃø
+w	php:S1192½	"\Define a constant instead of duplicating this literal "WP_Post_Comments_List_Table" 3 times.(»ë¡€üÿÿÿÿ
+_	php:S1192À"IDefine a constant instead of duplicating this literal "maxwidth" 5 times.(¬¯É–
+g	php:S1192¯"LDefine a constant instead of duplicating this literal "savewidgets" 4 times.(óÖçÛüÿÿÿÿ
+p	php:S1192º!"UDefine a constant instead of duplicating this literal "No plugin specified." 3 times.(§°–àıÿÿÿÿ
+g	php:S1192ì"LDefine a constant instead of duplicating this literal "post_parent" 6 times.(î¨ñìüÿÿÿÿ
+g	php:S1192Ü"LDefine a constant instead of duplicating this literal "activateUrl" 5 times.(¶ó¹¬ÿÿÿÿÿ
+b	php:S1192¸"GDefine a constant instead of duplicating this literal "tax_ID" 3 times.(“­»ÿÿÿÿÿ
+h	php:S1192º"MDefine a constant instead of duplicating this literal "edit_comment" 6 times.( ¶Åøÿÿÿÿ
+b	php:S1192¶"GDefine a constant instead of duplicating this literal "hidden" 4 times.(‘õÿÖÿÿÿÿÿ
+j	php:S1192«"TDefine a constant instead of duplicating this literal "edit_theme_options" 10 times.(ºˆ‡É
+h	php:S1192Ğ"MDefine a constant instead of duplicating this literal "update-post_" 5 times.(İ¬¤ûÿÿÿÿ
+h	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(ëÂš–şÿÿÿÿ
+a	php:S1192"FDefine a constant instead of duplicating this literal "video" 3 times.(Âß‡ÿûÿÿÿÿ
+j	php:S3776²!"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÈÔÏí
+a	php:S1192ç"KDefine a constant instead of duplicating this literal "edit_post" 20 times.( †¥
+`	php:S1192"JDefine a constant instead of duplicating this literal "taxonomy" 16 times.(™»¢×
+_	php:S1192â"IDefine a constant instead of duplicating this literal "relative" 4 times.(åü°µ
+_	php:S1192×"IDefine a constant instead of duplicating this literal "location" 6 times.(ÆÕú¯
+o	php:S3776Ü("TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(’µÀìûÿÿÿÿ
+a	php:S1192˜"KDefine a constant instead of duplicating this literal "post_title" 5 times.(ù°âÏ
+c	php:S1192Ê"MDefine a constant instead of duplicating this literal "thumbnail_id" 3 times.(‚æ³
+q	php:S1192ƒ"[Define a constant instead of duplicating this literal "</th><th class="no-break">" 3 times.(¹‚¥ã
+\	php:S1192ı"FDefine a constant instead of duplicating this literal "count" 3 times.(ÌÉòÁ
+]	php:S1192™"GDefine a constant instead of duplicating this literal "errors" 3 times.(™ßÛæ
+c	php:S1192Ç"HDefine a constant instead of duplicating this literal "comment" 5 times.(¦ÂŒéşÿÿÿÿ
+C	php:S1125ˆ"(Remove the literal "true" boolean value.(ÕªÈûÿÿÿÿ
+Lphp:S131»"7Add a "case default" clause to this "switch" statement.(ÀßèÚ
+o	php:S3776æ	"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(’«¦Îúÿÿÿÿ
+g	php:S1192„"LDefine a constant instead of duplicating this literal "attachments" 5 times.(ËßõŸüÿÿÿÿ
+e	php:S1192("ODefine a constant instead of duplicating this literal "WP_Site_Health" 4 times.(ç —Õ
+j	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(¼Ÿ¾È
+a	php:S1192‚"FDefine a constant instead of duplicating this literal "theme" 9 times.(£Æş¤ùÿÿÿÿ
+h	php:S1871è"MThis branch's code block is the same as the block for the branch on line 358.(¹š¯½şÿÿÿÿ
+c	php:S1192‰"HDefine a constant instead of duplicating this literal "pagenow" 7 times.(º£¹ƒûÿÿÿÿ
+d	php:S1192Î"NDefine a constant instead of duplicating this literal "in_moderation" 3 times.(íÈôÃ
+j	php:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(´ƒäÒ
+d	php:S1192ƒ"NDefine a constant instead of duplicating this literal "delete_widget" 6 times.(»®èˆ
+e	php:S1192ï"ODefine a constant instead of duplicating this literal "comment_status" 9 times.(×Å¬
+j	php:S1192–"TDefine a constant instead of duplicating this literal "No theme specified." 3 times.(ÜšÙ‘
+d	php:S1192Ê"NDefine a constant instead of duplicating this literal "supplemental" 11 times.(ôğ”ö
+b	php:S1192Ñ"GDefine a constant instead of duplicating this literal "parent" 3 times.(¾àËùÿÿÿÿ
+k	php:S1192Ä"UDefine a constant instead of duplicating this literal "HTTP_ACCEPT_ENCODING" 3 times.(—Ôß¯
+Qphp:S131"7Add a "case default" clause to this "switch" statement.(ëÂš–şÿÿÿÿ
+d	php:S1871Ü"NThis branch's code block is the same as the block for the branch on line 3802.(¯†À
+c	php:S1192±"HDefine a constant instead of duplicating this literal "action" 12 times.(éşüˆşÿÿÿÿ
+]	php:S1192¼"GDefine a constant instead of duplicating this literal "debug" 12 times.(î‹¦ú
+c	php:S1192ñ"HDefine a constant instead of duplicating this literal "private" 4 times.(Éæ˜‰úÿÿÿÿ
+b	php:S1192Æ"GDefine a constant instead of duplicating this literal "absint" 4 times.(åØÇ€ıÿÿÿÿ
+b	php:S1192"LDefine a constant instead of duplicating this literal "item-object" 3 times.(¹ÆÎ—
+f	php:S1192š "KDefine a constant instead of duplicating this literal "oldVersion" 4 times.(ÛÉ¶ÿÿÿÿÿ
+i	php:S1192†"NDefine a constant instead of duplicating this literal "metakeyselect" 3 times.(¥Ö‚—ÿÿÿÿÿ
+b	php:S1192³"GDefine a constant instead of duplicating this literal "closed" 4 times.(Ê¢Ùêşÿÿÿÿ
+o	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ö‡¦ğÿÿÿÿÿ
+a	php:S1192ú	"FDefine a constant instead of duplicating this literal "draft" 5 times.(èş‰¾şÿÿÿÿ
+_	php:S1192½"IDefine a constant instead of duplicating this literal "filename" 4 times.(ùÄÜú
+ƒ	php:S1192§"hDefine a constant instead of duplicating this literal "wp-admin/includes/class-wp-upgrader.php" 4 times.(Üµƒ˜şÿÿÿÿ
+^	php:S1192¥ "HDefine a constant instead of duplicating this literal "Version" 6 times.(êº¼¹
+f	php:S1192ğ"KDefine a constant instead of duplicating this literal "attachment" 9 times.(ôõšŒüÿÿÿÿ
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(–˜Ø¦şÿÿÿÿ
+h	php:S1192ù"MDefine a constant instead of duplicating this literal "upload_files" 4 times.(Ïˆ÷Îıÿÿÿÿ
+d	php:S1192»"IDefine a constant instead of duplicating this literal "WP_DEBUG" 4 times.(¨ºÆÉûÿÿÿÿ
+a	php:S1192®"FDefine a constant instead of duplicating this literal "nonce" 8 times.(§†ı¤şÿÿÿÿ
+j	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ş ñâ
+o	php:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(à«í‰úÿÿÿÿ
+h	php:S1192æ"MDefine a constant instead of duplicating this literal "post_content" 3 times.(‘îÙæÿÿÿÿÿ
+Qphp:S131«"7Add a "case default" clause to this "switch" statement.(û©Ëÿÿÿÿÿ
+e	php:S1192†"JDefine a constant instead of duplicating this literal "item-type" 4 times.(ÜÂä–øÿÿÿÿ
+f	php:S1192•"KDefine a constant instead of duplicating this literal "errorCode" 18 times.(ğúÃÛûÿÿÿÿ
+\	php:S1192×"FDefine a constant instead of duplicating this literal "audio" 4 times.(ÉŞş
+z	php:S1192¯"_Define a constant instead of duplicating this literal "wp-admin/includes/nav-menu.php" 3 times.(ªÛ®°úÿÿÿÿ

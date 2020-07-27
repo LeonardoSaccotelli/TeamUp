@@ -1,0 +1,70 @@
+
+w	php:S1192°"aDefine a constant instead of duplicating this literal "author: %s, version: (undefined)" 3 times.(¡²»ˆ
+a	php:S1192Æ"KDefine a constant instead of duplicating this literal "Undefined" 10 times.(½²—²
+a	php:S1192ó"KDefine a constant instead of duplicating this literal "WP_SITEURL" 4 times.(«­Àö
+]	php:S1192£"GDefine a constant instead of duplicating this literal "Author" 4 times.(Ú€ö§
+h	php:S1192Ê"MDefine a constant instead of duplicating this literal "Not writable" 6 times.(ÂÄ´ùüÿÿÿÿ
+\	php:S1192¯"FDefine a constant instead of duplicating this literal "By %s" 3 times.(ãÜöã
+`	php:S1192»"JDefine a constant instead of duplicating this literal ".htaccess" 4 times.(ÙÙƒÙ
+d	php:S1192¨"IDefine a constant instead of duplicating this literal "wp-media" 7 times.(•™Ëûÿÿÿÿ
+n	php:S1192«"XDefine a constant instead of duplicating this literal "version: %s, author: %s" 3 times.(ôæ‚
+\	php:S1192Ä"FDefine a constant instead of duplicating this literal "false" 5 times.(Ú»şŸ
+^	php:S1192î"HDefine a constant instead of duplicating this literal "WP_HOME" 4 times.(ŒˆŒ†
+l	php:S1192Ë"QDefine a constant instead of duplicating this literal "COMPRESS_SCRIPTS" 3 times.(øÜÄìøÿÿÿÿ
+f	php:S1192±"KDefine a constant instead of duplicating this literal "DB_CHARSET" 4 times.(Ì…©şÿÿÿÿ
+`	php:S1192}"KDefine a constant instead of duplicating this literal "show_count" 7 times.(¥ıÛÜ
+]	php:S1192:"HDefine a constant instead of duplicating this literal "wp-core" 7 times.(«”›Ì
+z	php:S1488£	"_Immediately return this expression instead of assigning it to the temporary variable "$return".(¤ ½ûÿÿÿÿ
+d	php:S1192Ş"NDefine a constant instead of duplicating this literal "Not available" 3 times.(ŒøÊ¿
+a	php:S1192@"GDefine a constant instead of duplicating this literal "debug" 66 times.(ƒéË­úÿÿÿÿ
+q	php:S1192†"[Define a constant instead of duplicating this literal "imagick::RESOURCETYPE_FILE" 3 times.(ú™ŠÛ
+f	php:S1192¶"KDefine a constant instead of duplicating this literal "DB_COLLATE" 4 times.(÷Çúÿşÿÿÿÿ
+a	php:S1192µ"KDefine a constant instead of duplicating this literal "Version %s" 3 times.(ÃÑ‚™
+jphp:S101
+"QRename class "WP_Debug_Data" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡·¼ÿüÿÿÿÿ
+c	php:S1192Ë"MDefine a constant instead of duplicating this literal "not writable" 6 times.(ù½”’
+p	php:S1192‡"ZDefine a constant instead of duplicating this literal "imagick::RESOURCETYPE_MAP" 3 times.(»§¯†
+^	php:S1192µ"HDefine a constant instead of duplicating this literal "unknown" 7 times.(ëğ˜È
+x	php:S1488Ş"]Immediately return this expression instead of assigning it to the temporary variable "$info".(˜¶ˆøÿÿÿÿ
+p	php:S1192ª"UDefine a constant instead of duplicating this literal "Version %1$s by %2$s" 3 times.(«»…üÿÿÿÿ
+^	php:S1192À"HDefine a constant instead of duplicating this literal "basedir" 3 times.(ÁÚİÈ
+b	php:S1192>"HDefine a constant instead of duplicating this literal "Version" 5 times.(ö÷„¸şÿÿÿÿ
+d	php:S1192Ê"NDefine a constant instead of duplicating this literal "database_size" 3 times.(¶î‰•
+j	php:S1192Â"TDefine a constant instead of duplicating this literal "CONCATENATE_SCRIPTS" 3 times.(Ú‰”Ÿ
+|	php:S1192¶"aDefine a constant instead of duplicating this literal "author: (undefined), version: %s" 3 times.(òâ¼üÿÿÿÿ
+a	php:S1192?"GDefine a constant instead of duplicating this literal "value" 98 times.(¬ç‰•ûÿÿÿÿ
+c	php:S1192³"MDefine a constant instead of duplicating this literal "wp-database" 10 times.(ƒáŸ
+o	php:S3776 "URefactor this function to reduce its Cognitive Complexity from 205 to the 15 allowed.(¬ş±üÿÿÿÿ
+j	php:S11921"UDefine a constant instead of duplicating this literal "(Latest version: %s)" 5 times.(¯¡‡­
+d	php:S1192Ê"IDefine a constant instead of duplicating this literal "Writable" 6 times.(ÂÄ´ùüÿÿÿÿ
+…	php:S1192¥"oDefine a constant instead of duplicating this literal "No version or author information is available." 3 times.(’¶²
+f	php:S1192~"LDefine a constant instead of duplicating this literal "description" 4 times.(ÿš ‹ùÿÿÿÿ
+j	php:S1192ª"ODefine a constant instead of duplicating this literal "wordpress_size" 4 times.(•µëèüÿÿÿÿ
+“php:S138 "zThis function "debug_data" has 863 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¬ş±üÿÿÿÿ
+c	php:S1192Q"IDefine a constant instead of duplicating this literal "private" 13 times.(£¼¦ıÿÿÿÿ
+_	php:S1192¹"IDefine a constant instead of duplicating this literal "Disabled" 9 times.(Ãîıî
+b	php:S1192ş"LDefine a constant instead of duplicating this literal "new_version" 4 times.(½Õá¯
+h	php:S1192Ô"MDefine a constant instead of duplicating this literal "COMPRESS_CSS" 3 times.(¢¹‰Õüÿÿÿÿ
+c	php:S1192¾"HDefine a constant instead of duplicating this literal "Enabled" 9 times.(Ñï¥íıÿÿÿÿ
+k	php:S1192å"PDefine a constant instead of duplicating this literal "SERVER_SOFTWARE" 4 times.(öÿˆÑüÿÿÿÿ
+f	php:S1192­"KDefine a constant instead of duplicating this literal "loading..." 6 times.(åƒ±ãûÿÿÿÿ
+_	php:S1192Ë"IDefine a constant instead of duplicating this literal "writable" 6 times.(ù½”’
+l	php:S1192ã"VDefine a constant instead of duplicating this literal " (latest version: %s)" 4 times.(ªŸ§›
+h	php:S1192İ"MDefine a constant instead of duplicating this literal "WP_LOCAL_DEV" 3 times.(£™ü¡şÿÿÿÿ
+?	php:S1481."*Remove this unused "$core" local variable.(„‡• 
+a	php:S1192Ç"KDefine a constant instead of duplicating this literal "undefined" 10 times.(¾¥à
+o	php:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ğËòøÿÿÿÿ
+]	php:S1192*"HDefine a constant instead of duplicating this literal "version" 5 times.(Á“Ú–
+b	php:S1192<"HDefine a constant instead of duplicating this literal "fields" 63 times.(Î‹ƒøÿÿÿÿ
+q	php:S1192„"[Define a constant instead of duplicating this literal "imagick::RESOURCETYPE_AREA" 3 times.(Ğ½¿²
+]	php:S1192;"HDefine a constant instead of duplicating this literal "label" 113 times.(ûß¡ò
+f	php:S1192­"KDefine a constant instead of duplicating this literal "wp-server" 17 times.(Ò—Š‡üÿÿÿÿ
+o	php:S3776Å	"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¤¥¨Üÿÿÿÿÿ
+g	php:S1192Š"LDefine a constant instead of duplicating this literal "%1$s (%2$s)" 4 times.(Äê·Ãûÿÿÿÿ
+f	php:S1192Ï"KDefine a constant instead of duplicating this literal "total_size" 3 times.(Öµƒ¤ÿÿÿÿÿ
+^	php:S1192ô"HDefine a constant instead of duplicating this literal "ini_get" 3 times.(Êşƒ¾
+q	php:S1192…"[Define a constant instead of duplicating this literal "imagick::RESOURCETYPE_DISK" 3 times.(éÔˆò
+r	php:S1192ˆ"]Define a constant instead of duplicating this literal "imagick::RESOURCETYPE_MEMORY" 3 times.(ÄôÆN
+c	php:S1192™"MDefine a constant instead of duplicating this literal "curl_version" 3 times.(¤§µç
+s	php:S1192‰"]Define a constant instead of duplicating this literal "imagick::RESOURCETYPE_THREAD" 3 times.(¾§¼Ú
+e	php:S1192"ODefine a constant instead of duplicating this literal "not available" 11 times.(øø¨ñ

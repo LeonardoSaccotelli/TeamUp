@@ -1,0 +1,70 @@
+
+I	php:S1172û".Remove the unused function parameter "$atime".(€ÏòÄşÿÿÿÿ
+H	php:S1172¢"2Remove the unused function parameter "$recursive".(ÑÛî«
+C	php:S1172Á"-Remove the unused function parameter "$file".(Éìø
+e	php:S1142÷"OReduce the number of returns of this function 4, down to the maximum allowed 3.(å¾©
+C	php:S1172§"-Remove the unused function parameter "$path".(½§ƒº
+x	php:S4144é"]Update this method so that its implementation is not identical to "get_contents" on line 476.(¯­µ†øÿÿÿÿ
+H	php:S1172Ü"-Remove the unused function parameter "$file".(‚Õ’úúÿÿÿÿ
+H	php:S1172û"-Remove the unused function parameter "$file".(€ÏòÄşÿÿÿÿ
+s	php:S1488ï"]Immediately return this expression instead of assigning it to the temporary variable "$info".(úÂïæ
+C	php:S1172è"-Remove the unused function parameter "$file".(’ø±Ú
+Y	php:S3358ã"DExtract this nested ternary operation into an independent statement.(ôÿÚ
+C	php:S1172€"-Remove the unused function parameter "$type".(½ÚÍü
+C	php:S1172Î"-Remove the unused function parameter "$file".(ç­²À
+C	php:S1172"-Remove the unused function parameter "$path".(•‚õ¥
+H	php:S1172"-Remove the unused function parameter "$path".(Øàºûÿÿÿÿ
+j	php:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(å¾©
+C	php:S1172ù"-Remove the unused function parameter "$file".(¬¢·Ó
+C	php:S1172Û"-Remove the unused function parameter "$file".(»êÀí
+Z	php:S3358ê"DExtract this nested ternary operation into an independent statement.(Ù¼©Œ
+C	php:S1172€"-Remove the unused function parameter "$file".(½ÚÍü
+H	php:S1172û"-Remove the unused function parameter "$time".(€ÏòÄşÿÿÿÿ
+C	php:S1172ù"-Remove the unused function parameter "$mode".(¬¢·Ó
+C	php:S1172¢"-Remove the unused function parameter "$file".(ÑÛî«
+c	php:S1192€"HDefine a constant instead of duplicating this literal "<br/>\n" 3 times.(æÍ”ëıÿÿÿÿ
+ˆ	php:S1448"nClass "WP_Filesystem_Base" has 39 methods, which is greater than 20 authorized. Split it into smaller classes.(€„‘àøÿÿÿÿ
+C	php:S1172´"-Remove the unused function parameter "$file".(š¹ç
+C	php:S1172Í"-Remove the unused function parameter "$file".(Û î
+H	php:S1172€"2Remove the unused function parameter "$recursive".(½ÚÍü
+G	php:S1172»"2Remove the unused function parameter "$recursive".(æ™ŞA
+j	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(€œã¬
+H	php:S1172š"-Remove the unused function parameter "$file".(©Ûå†øÿÿÿÿ
+M	php:S1172³"2Remove the unused function parameter "$recursive".(•Àíİøÿÿÿÿ
+J	php:S1172ß"4Remove the unused function parameter "$destination".(åòğº
+H	php:S1172ß"2Remove the unused function parameter "$overwrite".(åòğº
+M	php:S1172ï"2Remove the unused function parameter "$overwrite".(ŒÆÏŸøÿÿÿÿ
+H	php:S1172³"-Remove the unused function parameter "$file".(•Àíİøÿÿÿÿ
+s	php:S4144´"]Update this method so that its implementation is not identical to "get_contents" on line 476.(š¹ç
+H	php:S1172Ã"2Remove the unused function parameter "$recursive".(è„Æ‚
+D	php:S1172".Remove the unused function parameter "$chown".(•‚õ¥
+E	php:S1172ß"/Remove the unused function parameter "$source".(åòğº
+H	php:S1172œ"-Remove the unused function parameter "$base".(¬ëíÅûÿÿÿÿ
+G	php:S1172’",Remove the unused function parameter "$dir".(ÊÜ™âıÿÿÿÿ
+s	php:S4144Á"]Update this method so that its implementation is not identical to "get_contents" on line 476.(Éìø
+H	php:S1172À"-Remove the unused function parameter "$file".(ƒ¯á–ıÿÿÿÿ
+J	php:S1172ï"/Remove the unused function parameter "$source".(ŒÆÏŸøÿÿÿÿ
+D	php:S1172Ã".Remove the unused function parameter "$owner".(è„Æ‚
+D	php:S1172".Remove the unused function parameter "$chmod".(•‚õ¥
+B	php:S1172»"-Remove the unused function parameter "$path".(æ™ŞA
+H	php:S1172"-Remove the unused function parameter "$file".(’ò©‰ûÿÿÿÿ
+M	php:S1172"2Remove the unused function parameter "$recursive".(Øàºûÿÿÿÿ
+O	php:S1172ï"4Remove the unused function parameter "$destination".(ŒÆÏŸøÿÿÿÿ
+L	php:S1172»"7Remove the unused function parameter "$include_hidden".(æ™ŞA
+H	php:S1172‡"-Remove the unused function parameter "$base".(Õ•Û¥úÿÿÿÿ
+C	php:S1172Ã"-Remove the unused function parameter "$file".(è„Æ‚
+o	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ú£¼×úÿÿÿÿ
+x	php:S4144š"]Update this method so that its implementation is not identical to "get_contents" on line 476.(©Ûå†øÿÿÿÿ
+H	php:S1172é"-Remove the unused function parameter "$file".(¯­µ†øÿÿÿÿ
+e	php:S1142­"OReduce the number of returns of this function 7, down to the maximum allowed 3.(€œã¬
+y	php:S4144œ"^Update this method so that its implementation is not identical to "find_base_dir" on line 135.(¬ëíÅûÿÿÿÿ
+C	php:S1172ı"-Remove the unused function parameter "$file".(£¿©‡
+ophp:S101"VRename class "WP_Filesystem_Base" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(€„‘àøÿÿÿÿ
+s	php:S4144§"]Update this method so that its implementation is not identical to "get_contents" on line 476.(½§ƒº
+Z	php:S3358ñ"DExtract this nested ternary operation into an independent statement.(Õ¹»
+C	php:S1172ß"-Remove the unused function parameter "$mode".(åòğº
+D	php:S1172¢".Remove the unused function parameter "$group".(ÑÛî«
+D	php:S1172".Remove the unused function parameter "$chgrp".(•‚õ¥
+v	php:S1488¦"`Immediately return this expression instead of assigning it to the temporary variable "$newmode".(÷ùÁ
+H	php:S1172³"-Remove the unused function parameter "$mode".(•Àíİøÿÿÿÿ
+G	php:S1172ù"1Remove the unused function parameter "$contents".(¬¢·Ó

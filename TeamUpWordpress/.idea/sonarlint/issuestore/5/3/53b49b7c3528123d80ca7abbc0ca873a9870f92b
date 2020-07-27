@@ -1,0 +1,22 @@
+
+g	php:S1192"MDefine a constant instead of duplicating this literal "description" 13 times.(­ã¹Œùÿÿÿÿ
+p	php:S1192\"VDefine a constant instead of duplicating this literal "should_preview_update" 9 times.(ÉÀÙ¥øÿÿÿÿ
+a	php:S1192E"GDefine a constant instead of duplicating this literal "string" 9 times.(Şåáßúÿÿÿÿ
+o	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(â¤ÇÌüÿÿÿÿ
+c	php:S1192t"NDefine a constant instead of duplicating this literal "image_classes" 3 times.(¨æ¤…
+a	php:S1192F"GDefine a constant instead of duplicating this literal "custom" 6 times.(Ó°¤€şÿÿÿÿ
+rphp:S101"YRename class "WP_Widget_Media_Image" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÛÜ’ûÿÿÿÿ
+b	php:S1192W"HDefine a constant instead of duplicating this literal "caption" 6 times.(Ù™È‰ùÿÿÿÿ
+c	php:S1192G"IDefine a constant instead of duplicating this literal "default" 14 times.(ğ£Ôõúÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "mime_type" 3 times.(¯È¬
+d	php:S1192d"JDefine a constant instead of duplicating this literal "link_type" 4 times.(ìã§Ïøÿÿÿÿ
+[	php:S1192J"FDefine a constant instead of duplicating this literal "width" 7 times.(¸ñŠÉ
+c	php:S1192l"IDefine a constant instead of duplicating this literal "link_url" 3 times.(îíÃˆşÿÿÿÿ
+l	php:S1192Z"RDefine a constant instead of duplicating this literal "sanitize_callback" 6 times.(ã£›šÿÿÿÿÿ
+a	php:S1192P"GDefine a constant instead of duplicating this literal "height" 5 times.(â£Îÿÿÿÿÿ
+i	php:S1192w"TDefine a constant instead of duplicating this literal "sanitize_token_list" 3 times.(¿âàÖ
+b	php:S1192|"MDefine a constant instead of duplicating this literal "link_classes" 3 times.(“ĞÂş
+`	php:S1192h"KDefine a constant instead of duplicating this literal "media_prop" 8 times.(Õì™Ò
+]	php:S1192L"HDefine a constant instead of duplicating this literal "minimum" 3 times.(¤Åğ°
+g	php:S1192“"LDefine a constant instead of duplicating this literal "image_title" 3 times.(û¦à­ÿÿÿÿÿ
+_	php:S1192„"IDefine a constant instead of duplicating this literal "link_rel" 3 times.(±›±€

@@ -1,0 +1,4 @@
+
+c	php:S1192Ë"HDefine a constant instead of duplicating this literal "options" 5 times.(É³õ¡úÿÿÿÿ
+mphp:S101"TRename class "Requests_Session" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ã“«ıÿÿÿÿ
+c	php:S1192Ë"HDefine a constant instead of duplicating this literal "headers" 6 times.(É³õ¡úÿÿÿÿ

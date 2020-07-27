@@ -1,0 +1,135 @@
+
+h	php:S1192"MDefine a constant instead of duplicating this literal "_hidden_from" 6 times.(Å¼Üıÿÿÿÿ
+D	php:S1481Ş")Remove this unused "$key" local variable.(Š±ÿƒûÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "timestamp" 4 times.(»Œ¦ã
+c	php:S1192"IDefine a constant instead of duplicating this literal "_user_id" 6 times.(Àèãéúÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "reply" 3 times.(®ô£¼
+B	php:S1481³"'Remove this unused "$k" local variable.(˜ôÊ™ıÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "_reported_by" 4 times.(‹›ˆéøÿÿÿÿ
+d	php:S1192ª"IDefine a constant instead of duplicating this literal "relation" 4 times.(”²Ÿ®şÿÿÿÿ
+d	php:S1192w"JDefine a constant instead of duplicating this literal "group_id" 20 times.(Úßè¿úÿÿÿÿ
+N	php:S1481¶"3Remove this unused "$user_reported" local variable.(ÜÚşÿÿÿÿ
+z	php:S1192†"eDefine a constant instead of duplicating this literal "um_groups_insert_post_content_filter" 3 times.(×µŞ`
+a	php:S11926"LDefine a constant instead of duplicating this literal "post_status" 3 times.(¦—Êı
+b	php:S1192Î"LDefine a constant instead of duplicating this literal "likes_count" 4 times.(«™Ì³
+o	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ó¿ñşÿÿÿÿ
+d	php:S1192J"ODefine a constant instead of duplicating this literal "{post_excerpt}" 4 times.(ØÏë
+d	php:S1192´"IDefine a constant instead of duplicating this literal "user_id1" 3 times.(Œ‡Ú†üÿÿÿÿ
+^	php:S1192ø"HDefine a constant instead of duplicating this literal "_liked" 13 times.(ñ™›¥
+d	php:S1871Õ	"NThis branch's code block is the same as the block for the branch on line 1235.(Åòı¢
+b	php:S1192~"HDefine a constant instead of duplicating this literal "_action" 4 times.(å†—Úüÿÿÿÿ
+f	php:S1192¤"KDefine a constant instead of duplicating this literal "um_hashtag" 4 times.(Úÿ¦°ûÿÿÿÿ
+a	php:S1192û"FDefine a constant instead of duplicating this literal "count" 3 times.(³€´õúÿÿÿÿ
+]	php:S1192ê"GDefine a constant instead of duplicating this literal "offset" 8 times.(±³Ää
+b	php:S1192ÿ
+"GDefine a constant instead of duplicating this literal "postid" 7 times.(…ø¸ûÿÿÿÿ
+h	php:S1192ï"MDefine a constant instead of duplicating this literal "show_pending" 3 times.(Ò¡‰şÿÿÿÿ
+`	php:S1192¯"JDefine a constant instead of duplicating this literal "commentid" 4 times.(şÿÏõ
+Jphp:S121»"0Add curly braces around the nested statement(s).(£Í¿ıÿÿÿÿ
+Jphp:S121š"0Add curly braces around the nested statement(s).(Îº¢ ıÿÿÿÿ
+z	php:S1488ò"_Immediately return this expression instead of assigning it to the temporary variable "$action".(µàØÃıÿÿÿÿ
+]	php:S1192µ"GDefine a constant instead of duplicating this literal "error" 25 times.(»œú´
+f	php:S1192Ê"KDefine a constant instead of duplicating this literal "_video_url" 3 times.(—…ÛÏúÿÿÿÿ
+c	php:S1192:"IDefine a constant instead of duplicating this literal "template" 4 times.(˜ğøªıÿÿÿÿ
+Dphp:S121Ö"0Add curly braces around the nested statement(s).(¬ì¢O
+i	php:S1192‰"SDefine a constant instead of duplicating this literal "_group_moderation" 11 times.(¯ú
+b	php:S1192³"MDefine a constant instead of duplicating this literal "image_width" 10 times.(õ âB
+v	php:S1488õ"`Immediately return this expression instead of assigning it to the temporary variable "$content".(ÔÜôó
+‚	php:S1448"mClass "Groups_Discussion" has 67 methods, which is greater than 20 authorized. Split it into smaller classes.(­¼
+Jphp:S121"0Add curly braces around the nested statement(s).(ú†Àğøÿÿÿÿ
+Ephp:S121¿"0Add curly braces around the nested statement(s).(½÷¥«
+^	php:S1192ç"HDefine a constant instead of duplicating this literal "comment" 4 times.(úÓ³–
+\	php:S1192â"FDefine a constant instead of duplicating this literal "likes" 3 times.(Õ‰‰–
+h	php:S1192ô"MDefine a constant instead of duplicating this literal "_shared_link" 4 times.(²¼—ãıÿÿÿÿ
+b	php:S1192K"MDefine a constant instead of duplicating this literal "{post_image}" 4 times.(ºš
+>	php:S1481ò")Remove this unused "$key" local variable.(ë—¸w
+Ephp:S121Î"0Add curly braces around the nested statement(s).(Ó±Öù
+e	php:S11924"KDefine a constant instead of duplicating this literal "post_title" 8 times.(ÏÕ™¡ùÿÿÿÿ
+Jphp:S121¾"0Add curly braces around the nested statement(s).(®Êœ…ÿÿÿÿÿ
+r	php:S1488€"\Immediately return this expression instead of assigning it to the temporary variable "$res".(²ıã¤
+b	php:S1192ú"GDefine a constant instead of duplicating this literal "parent" 6 times.(³æÊÓùÿÿÿÿ
+r	php:S1488“"\Immediately return this expression instead of assigning it to the temporary variable "$res".(ÌÉû”
+e	php:S1192î"JDefine a constant instead of duplicating this literal "core_page" 3 times.(ÒìÀƒùÿÿÿÿ
+x	php:S1488ÿ"]Immediately return this expression instead of assigning it to the temporary variable "$time".(æòéøÿÿÿÿ
+d	php:S11925"JDefine a constant instead of duplicating this literal "post_type" 6 times.(ª¹¼ãùÿÿÿÿ
+j	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(€û¦ş
+Ephp:S121À"0Add curly braces around the nested statement(s).(ë€´
+`	php:S1192ì"JDefine a constant instead of duplicating this literal "user_wall" 3 times.(’ÉâË
+e	php:S1192{"KDefine a constant instead of duplicating this literal "group_post" 4 times.(¢ Şúÿÿÿÿ
+Jphp:S121—"0Add curly braces around the nested statement(s).(üÒÁúÿÿÿÿÿ
+b	php:S1192­"GDefine a constant instead of duplicating this literal "value" 11 times.(öâà…úÿÿÿÿ
+c	php:S1192’"HDefine a constant instead of duplicating this literal "hashtag" 3 times.(úÃÕıùÿÿÿÿ
+e	php:S1192"KDefine a constant instead of duplicating this literal "um-groups" 72 times.(èÆÆÑøÿÿÿÿ
+¶	php:S1192å"šDefine a constant instead of duplicating this literal "You do not have the necessary permission for the specified Group to perform this action." 18 times.(Éıîéÿÿÿÿÿ
+Jphp:S121©"0Add curly braces around the nested statement(s).(‡¼ø£ûÿÿÿÿ
+B	php:S1481Å"'Remove this unused "$k" local variable.(ğ´¸ßùÿÿÿÿ
+{	php:S1488Í"`Immediately return this expression instead of assigning it to the temporary variable "$content".(îÚìøÿÿÿÿ
+e	php:S1142¸"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ëã•Â
+Jphp:S121Ë"0Add curly braces around the nested statement(s).(åÖÓûÿÿÿÿ
+b	php:S1192H"MDefine a constant instead of duplicating this literal "{post_title}" 3 times.(ÖÈ†ƒ
+b	php:S1192İ"GDefine a constant instead of duplicating this literal "number" 3 times.(Ôñ·şÿÿÿÿ
+]	php:S1192ë"HDefine a constant instead of duplicating this literal "user_id" 5 times.(ÊƒïC
+iphp:S101"URename class "Groups_Discussion" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­¼
+a	php:S1192æ	"KDefine a constant instead of duplicating this literal "comment_id" 5 times.(¡¢éË
+d	php:S1192ù"IDefine a constant instead of duplicating this literal "post_id" 11 times.(Şæ¾ßùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(®Êœ…ÿÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "_comments" 4 times.(ÃŠõÄ
+`	php:S1192‚"JDefine a constant instead of duplicating this literal "_group_id" 8 times.( å§ï
+_	php:S1192Û"IDefine a constant instead of duplicating this literal "%s at %s" 4 times.(ºáéï
+c	php:S1192€"HDefine a constant instead of duplicating this literal "_likes" 13 times.(äˆÑıÿÿÿÿ
+\	php:S1192¬"FDefine a constant instead of duplicating this literal "photo" 3 times.(¢è²£
+Ephp:S121¸"0Add curly braces around the nested statement(s).(Ó±Öù
+g	php:S1192·"LDefine a constant instead of duplicating this literal "description" 4 times.(ò¸½ˆşÿÿÿÿ
+e	php:S1142¦"OReduce the number of returns of this function 4, down to the maximum allowed 3.(–Óã®
+a	php:S1192Œ"FDefine a constant instead of duplicating this literal "width" 3 times.(ş·‡Äıÿÿÿÿ
+Ephp:S121Ë"0Add curly braces around the nested statement(s).(›¢ß¯
+c	php:S1192´"MDefine a constant instead of duplicating this literal "image_height" 3 times.(üŠ³
+o	php:S11925"UDefine a constant instead of duplicating this literal "um_groups_discussion" 8 times.(ª¹¼ãùÿÿÿÿ
+j	php:S1192”"ODefine a constant instead of duplicating this literal "pending_review" 6 times.(’õÚÍıÿÿÿÿ
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "</span>" 5 times.(¥¤–
+^	php:S1192Í"HDefine a constant instead of duplicating this literal "success" 4 times.(ÍÑ½á
+b	php:S1192²"GDefine a constant instead of duplicating this literal "_photo" 8 times.(à£ó–ÿÿÿÿÿ
+Jphp:S121ƒ"0Add curly braces around the nested statement(s).(ßíÄ¡úÿÿÿÿ
+>	php:S1125·"(Remove the literal "TRUE" boolean value.(ùÈÁ©
+x	php:S1488ß"]Immediately return this expression instead of assigning it to the temporary variable "$text".(â®Ûúÿÿÿÿ
+Ephp:S121ú"0Add curly braces around the nested statement(s).(¶·–ï
+Bphp:S108b")Either remove or fill this block of code.(§©ĞÂùÿÿÿÿ
+a	php:S11927"GDefine a constant instead of duplicating this literal "author" 3 times.(Ó­¥•ıÿÿÿÿ
+s	php:S1488Œ"]Immediately return this expression instead of assigning it to the temporary variable "$link".(ì”Ş¤
+[	php:S1192ß"FDefine a constant instead of duplicating this literal "order" 3 times.(şì…u
+Jphp:S121ı"0Add curly braces around the nested statement(s).(®Êœ…ÿÿÿÿÿ
+^	php:S1192¸"HDefine a constant instead of duplicating this literal "content" 6 times.(†•íå
+f	php:S1192©"KDefine a constant instead of duplicating this literal "meta_query" 6 times.(¦Ûì¯üÿÿÿÿ
+_	php:S1192‰"IDefine a constant instead of duplicating this literal "approved" 8 times.(¯ú
+]	php:S11926"HDefine a constant instead of duplicating this literal "publish" 3 times.(¦—Êı
+g	php:S1192’"RDefine a constant instead of duplicating this literal "um_groups_flagged" 4 times.(êşïl
+V	php:S1854";Remove this useless assignment to local variable '$retval'.(âòŸ×ÿÿÿÿÿ
+o	php:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(•á §ıÿÿÿÿ
+d	php:S1192®"IDefine a constant instead of duplicating this literal "compare" 11 times.(¤“øíıÿÿÿÿ
+d	php:S1871¹"NThis branch's code block is the same as the block for the branch on line 2103.(ÖÁÇˆ
+\	php:S1192ª"FDefine a constant instead of duplicating this literal "title" 4 times.(ÛğÁÄ
+>	php:S1125¿"(Remove the literal "TRUE" boolean value.(½÷¥«
+b	php:S1192â"LDefine a constant instead of duplicating this literal "user_hidden" 3 times.(Õ‰‰–
+Jphp:S121"0Add curly braces around the nested statement(s).(ã‰­’üÿÿÿÿ
+e	php:S1192Ø"JDefine a constant instead of duplicating this literal "_reported" 7 times.(µÑŸ‹ùÿÿÿÿ
+b	php:S1192Š"GDefine a constant instead of duplicating this literal "height" 5 times.(íùÏ›üÿÿÿÿ
+j	php:S1192ß"UDefine a constant instead of duplicating this literal "groups_order_comment" 3 times.(şì…u
+^	php:S1192}"IDefine a constant instead of duplicating this literal "_wall_id" 4 times.(¾éÀö
+E	php:S1066Ê"/Merge this if statement with the enclosing one.(ğ“‘ä
+q	php:S1192Ù"[Define a constant instead of duplicating this literal "groups_load_comments_count" 3 times.(ÒÏáš
+Lphp:S131©"7Add a "case default" clause to this "switch" statement.(´ŞŞÕ
+h	php:S1192<"NDefine a constant instead of duplicating this literal "post_content" 13 times.(¿èúùÿÿÿÿ
+m	php:S1192“"RDefine a constant instead of duplicating this literal "Invalid wall post" 3 times.(÷ŸÆüÿÿÿÿÿ
+J	php:S1481{"0Remove this unused "$_permalink" local variable.(¢ Şúÿÿÿÿ
+i	php:S37760"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÃÂõ
+d	php:S1192’"IDefine a constant instead of duplicating this literal "activity" 3 times.(úÃÕıùÿÿÿÿ
+\	php:S1192²"FDefine a constant instead of duplicating this literal "image" 7 times.(ß»´á
+a	php:S1192"GDefine a constant instead of duplicating this literal "status" 7 times.(èÆÆÑøÿÿÿÿ
+g	php:S1192å"LDefine a constant instead of duplicating this literal "restricted" 18 times.(Éıîéÿÿÿÿÿ
+Jphp:S121¾"0Add curly braces around the nested statement(s).(‘šåİşÿÿÿÿ
+e	php:S1142“"OReduce the number of returns of this function 4, down to the maximum allowed 3.(˜á«Ó
+Ephp:S121³"0Add curly braces around the nested statement(s).(›¢ß¯
+Jphp:S121¬"0Add curly braces around the nested statement(s).(®Êœ…ÿÿÿÿÿ
+<php:S905õ""Remove or refactor this statement.(’–¯Êÿÿÿÿÿ
+j	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÍƒËÙ

@@ -1,0 +1,24 @@
+
+9php:S125µ"Remove this commented out code.(Æ§„»úÿÿÿÿ
+o	php:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸Åèÿÿÿÿÿ
+9php:S125Å"Remove this commented out code.(Ğ‘­íùÿÿÿÿ
+9php:S125Ë"Remove this commented out code.(Ó¬éÒÿÿÿÿÿ
+4php:S125ø"Remove this commented out code.(áÕõ½
+9php:S125ê"Remove this commented out code.(Æ§„»úÿÿÿÿ
+zphp:S101"aRename class "ParagonIE_Sodium_Core_BLAKE2b" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™Å«•ùÿÿÿÿ
+\php:S107"GThis function has 8 parameters, which is greater than the 7 authorized.(µ‘¯“
+“	php:S1448"yClass "ParagonIE_Sodium_Core_BLAKE2b" has 21 methods, which is greater than 20 authorized. Split it into smaller classes.(™Å«•ùÿÿÿÿ
+4php:S125Ö"Remove this commented out code.(¦²ß
+4php:S125¼"Remove this commented out code.(³ØŸÒ
+9php:S125Œ"Remove this commented out code.(Ğ‘­íùÿÿÿÿ
+9php:S125±"Remove this commented out code.(×¤¾Œÿÿÿÿÿ
+9php:S125Ö"Remove this commented out code.(Œ”£Œıÿÿÿÿ
+9php:S125‰"Remove this commented out code.(Ğ‘­íùÿÿÿÿ
+9php:S125ê"Remove this commented out code.(œ¤è«ûÿÿÿÿ
+4php:S125ä"Remove this commented out code.(ì‡şÃ
+4php:S125ù"Remove this commented out code.(³ØŸÒ
+4php:S125»"Remove this commented out code.(áÕõ½
+9php:S125Ù"Remove this commented out code.(Ä¬¾âşÿÿÿÿ
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+4php:S125®"Remove this commented out code.(ËìáÁ
+4php:S125ç"Remove this commented out code.(¿é£Õ

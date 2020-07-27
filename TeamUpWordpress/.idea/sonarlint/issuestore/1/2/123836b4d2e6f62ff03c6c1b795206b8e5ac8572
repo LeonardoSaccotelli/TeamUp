@@ -1,0 +1,19 @@
+
+b	php:S1117^"HRename "$tabs" which has the same name as the field declared at line 21.(Á™ØÁûÿÿÿÿ
+>	php:S1125†"(Remove the literal "true" boolean value.(ØÃ„Ô
+c	php:S1192È"HDefine a constant instead of duplicating this literal "content" 3 times.(øÅà‚şÿÿÿÿ
+<	php:S1481C"'Remove this unused "$k" local variable.(âıú£
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+o	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(É½®Äùÿÿÿÿ
+^	php:S1192¨"IDefine a constant instead of duplicating this literal "account" 13 times.(œx
+`	php:S1192a"FDefine a constant instead of duplicating this literal "title" 7 times.(üıäÖùÿÿÿÿ
+b	php:S1192b"MDefine a constant instead of duplicating this literal "submit_title" 7 times.(Ù ú©
+]	php:S1192à"GDefine a constant instead of duplicating this literal "um_tab" 5 times.(ñ•÷¦
+k	php:S1192a"QDefine a constant instead of duplicating this literal "ultimate-member" 10 times.(üıäÖùÿÿÿÿ
+b	php:S1192"HDefine a constant instead of duplicating this literal "general" 4 times.(Üÿüıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck£"Replace this <i> tag by <em>.(—ÃË°
+E	php:S1066«"/Merge this if statement with the enclosing one.(Êíğø
+j	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê»ÃÙ
+u	php:S1488²"_Immediately return this expression instead of assigning it to the temporary variable "$secure".(š–Ç
+C	php:S1125Š"(Remove the literal "true" boolean value.(…®—œşÿÿÿÿ
+v	php:S1488¢"`Immediately return this expression instead of assigning it to the temporary variable "$classes".(©çó³

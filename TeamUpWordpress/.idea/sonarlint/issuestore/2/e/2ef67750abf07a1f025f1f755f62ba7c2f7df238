@@ -1,0 +1,26 @@
+
+b	php:S1192‘"GDefine a constant instead of duplicating this literal "Unlike" 3 times.(²¼åâüÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck·"Replace this <i> tag by <em>.(ğÃå×øÿÿÿÿ
+¬	php:S2681Ç"•This statement will not be executed conditionally; only the first statement of this 4-statement block will be. The rest will execute unconditionally.(†£›ê
+]	php:S1192­"GDefine a constant instead of duplicating this literal "Delete" 3 times.(×ĞÁİ
+b	php:S1192,"HDefine a constant instead of duplicating this literal "compare" 5 times.(©Ó—úÿÿÿÿ
+a	php:S1192!"GDefine a constant instead of duplicating this literal "author" 4 times.(¢í®Ñøÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckª"Replace this <i> tag by <em>.(è¶ßÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck–"Replace this <i> tag by <em>.(¦‰€œıÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck®"Replace this <i> tag by <em>.(£ñ—™øÿÿÿÿ
+a	php:S1192©"KDefine a constant instead of duplicating this literal "um-groups" 21 times.(ö…
+f	php:S1192»"KDefine a constant instead of duplicating this literal "edit_users" 3 times.(çÚãâúÿÿÿÿ
+>	php:S1125…"(Remove the literal "true" boolean value.(øù³ô
+e	php:S1192X"KDefine a constant instead of duplicating this literal "meta_value" 4 times.(¨üŒÄøÿÿÿÿ
+`	php:S1192,"FDefine a constant instead of duplicating this literal "value" 5 times.(©Ó—úÿÿÿÿ
+^	php:S1192W"IDefine a constant instead of duplicating this literal "meta_key" 4 times.(ÎÃ­…
+IWeb:BoldAndItalicTagsCheck“"Replace this <i> tag by <em>.(çÆÊ—ıÿÿÿÿ
+Dphp:S121p"0Add curly braces around the nested statement(s).(æßÙó
+Ephp:S121Ç"0Add curly braces around the nested statement(s).(†£›ê
+e	php:S1192,"KDefine a constant instead of duplicating this literal "meta_query" 4 times.(©Ó—úÿÿÿÿ
+g	php:S1192W"RDefine a constant instead of duplicating this literal "_group_moderation" 4 times.(ÎÃ­…
+c	php:S1192,"IDefine a constant instead of duplicating this literal "_user_id" 3 times.(©Ó—úÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck‘"Replace this <i> tag by <em>.(²¼åâüÿÿÿÿ
+]	php:S1192V"HDefine a constant instead of duplicating this literal "pending" 4 times.(ı¼Íß
+=	php:S1125V"(Remove the literal "true" boolean value.(ı¼Íß
+=	php:S1125b"(Remove the literal "true" boolean value.(ı¼Íß

@@ -1,0 +1,18 @@
+
+h	php:S1192j"NDefine a constant instead of duplicating this literal "progress_type" 3 times.(âı¸ûÿÿÿÿ
+]	php:S1192d"HDefine a constant instead of duplicating this literal "default" 6 times.(ô°¢‘
+z	php:S1192Ó"dDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-progress-bar" 3 times.(–Ô´à
+b	php:S1192z"HDefine a constant instead of duplicating this literal "percent" 3 times.(à—‰Òıÿÿÿÿ
+\	php:S1192W"GDefine a constant instead of duplicating this literal "label" 16 times.(‚î•ë
+a	php:S1192a"GDefine a constant instead of duplicating this literal "active" 3 times.(Ğÿ‰’şÿÿÿÿ
+]	php:S1192`"HDefine a constant instead of duplicating this literal "dynamic" 3 times.(Ï­ıñ
+œphp:S138S"‚This function "_register_controls" has 192 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+]	php:S1192¸"GDefine a constant instead of duplicating this literal "scheme" 3 times.(¡ŠËÆ
+e	php:S1192¼"JDefine a constant instead of duplicating this literal "selectors" 6 times.(Ú‘›æúÿÿÿÿ
+f	php:S1192“"KDefine a constant instead of duplicating this literal "inner_text" 6 times.(˜Şæÿÿÿÿÿ
+[	php:S1192\"FDefine a constant instead of duplicating this literal "title" 6 times.(£ËŠ¡
+\	php:S1192º"FDefine a constant instead of duplicating this literal "class" 5 times.(®¿é
+g	php:S1192,"MDefine a constant instead of duplicating this literal "Progress Bar" 3 times.(ˆÃ¢ºşÿÿÿÿ
+^	php:S1192¿"HDefine a constant instead of duplicating this literal "wrapper" 3 times.(Äµ°
+e	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 28 times.(ˆÃ¢ºşÿÿÿÿ
+gphp:S101"SRename class "Widget_Progress" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷ëŞ‡

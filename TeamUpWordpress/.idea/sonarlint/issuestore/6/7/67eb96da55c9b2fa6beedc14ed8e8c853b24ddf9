@@ -1,0 +1,12 @@
+
+Pphp:S131D"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+_	php:S1192)"KDefine a constant instead of duplicating this literal "DOING_AJAX" 3 times.(Ñx
+	php:S1186"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¨ÿ—¦
+J	php:S3801®"4Refactor this function to use "return" consistently.(Îèó†
+1	php:S3626’"Remove this redundant jump.(ûÁİ…
+y	php:S1488ô"^Immediately return this expression instead of assigning it to the temporary variable "$array".(ñ›™Òıÿÿÿÿ
+d	php:S1142C"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Òå‰
+r	php:S1488â"\Immediately return this expression instead of assigning it to the temporary variable "$cpt".(ï„¾û
+dphp:S101
+"PRename class "UM_Functions" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÕÇÚá
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ

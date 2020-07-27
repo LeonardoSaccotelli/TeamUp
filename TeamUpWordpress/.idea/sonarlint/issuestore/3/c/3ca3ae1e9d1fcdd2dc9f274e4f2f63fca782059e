@@ -1,0 +1,14 @@
+
+^	php:S1192­"HDefine a constant instead of duplicating this literal "id_base" 3 times.(¶óóú
+G	php:S1172p"-Remove the unused function parameter "$args".(Ãİøàùÿÿÿÿ
+‡	php:S1603À"lReplace this function name "WP_Widget", since a "__construct" method has already been defined in this class.(ø Œÿÿÿÿÿÿ
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(§æñ
+aphp:S101"MRename class "WP_Widget" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡½°¼
+^	php:S1192Ô"HDefine a constant instead of duplicating this literal "widget-" 6 times.(§Ä‹
+h	php:S1192´"MDefine a constant instead of duplicating this literal "_multiwidget" 3 times.(•Òİ ıÿÿÿÿ
+`	php:S1117 "JRename "$number" which has the same name as the field declared at line 76.(Ü¥Ú
+K	php:S1172‚"5Remove the unused function parameter "$old_instance".(ÏÕ·ş
+K	php:S1172p"1Remove the unused function parameter "$instance".(Ãİøàùÿÿÿÿ
+H	php:S1172"3Remove the unused function parameter "$deprecated".(§æñ
+c	php:S1192Ü"HDefine a constant instead of duplicating this literal "number" 13 times.(±Æ¬ÿúÿÿÿÿ
+L	php:S1172"1Remove the unused function parameter "$instance".(Ïşóùÿÿÿÿ

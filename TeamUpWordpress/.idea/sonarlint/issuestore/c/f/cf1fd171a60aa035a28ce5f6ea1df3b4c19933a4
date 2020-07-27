@@ -1,0 +1,31 @@
+
+ˆphp:S138Ñ"sThis function "get" has 160 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ïå•Ÿ
+a	php:S1117ã"KRename "$columns" which has the same name as the field declared at line 43.(˜è£
+^	php:S1192 "IDefine a constant instead of duplicating this literal "taxonomy" 3 times.(á®‰*
+f	php:S1117¬"KRename "$columns" which has the same name as the field declared at line 43.(ëêÜ¿øÿÿÿÿ
+o	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¥‹æùøÿÿÿÿ
+^	php:S1192¦"HDefine a constant instead of duplicating this literal "post_ID" 4 times.(°®›ç
+^	php:S1192ô"HDefine a constant instead of duplicating this literal "network" 4 times.(ª³İš
+ª	php:S1192£"Define a constant instead of duplicating this literal "get_current_screen()->add_help_tab(), get_current_screen()->remove_help_tab()" 3 times.(¨Ô€ùÿÿÿÿÿ
+a	php:S1117—	"FRename "$id" which has the same name as the field declared at line 51.(ë³şÿÿÿÿ
+b	php:S1192ÿ"GDefine a constant instead of duplicating this literal "_title" 3 times.(’£´“ÿÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "post_type" 6 times.(Ë´Ù:
+	php:S1448"eClass "WP_Screen" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(±ïº½ûÿÿÿÿ
+fphp:S101"MRename class "WP_Screen" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±ïº½ûÿÿÿÿ
+a	php:S1192¢"FDefine a constant instead of duplicating this literal "3.3.0" 3 times.(åÛ’ˆüÿÿÿÿ
+q	php:S1192Â"[Define a constant instead of duplicating this literal "screen_options_show_submit" 3 times.(˜Î—À
+_	php:S1192å"IDefine a constant instead of duplicating this literal "per_page" 5 times.(‡Í¥Ö
+_	php:S1192½"IDefine a constant instead of duplicating this literal "priority" 4 times.(ö­Ò¤
+a	php:S1117ø"KRename "$columns" which has the same name as the field declared at line 43.(˜è£
+e	php:S1192û"JDefine a constant instead of duplicating this literal "edit-tags" 4 times.(ş²±ÿÿÿÿÿ
+a	php:S1192õ"FDefine a constant instead of duplicating this literal "-user" 3 times.(şìô‡ùÿÿÿÿ
+c	php:S1192û"HDefine a constant instead of duplicating this literal "content" 3 times.(Æşíœıÿÿÿÿ
+^	php:S1192µ"HDefine a constant instead of duplicating this literal "default" 3 times.(Øü¦î
+e	php:S1192¯"ODefine a constant instead of duplicating this literal "layout_columns" 6 times.(Ó¹Õ¸
+\	php:S1192ù"FDefine a constant instead of duplicating this literal "title" 5 times.(Úº×¾
+j	php:S1142£"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÅüÉıÿÿÿÿ
+Lphp:S131¤"7Add a "case default" clause to this "switch" statement.(Ö˜ùœ
+d	php:S1192ò"IDefine a constant instead of duplicating this literal "-network" 3 times.(·åš”ÿÿÿÿÿ
+j	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 94 to the 15 allowed.(Ïå•Ÿ
+d	php:S1192ü"IDefine a constant instead of duplicating this literal "callback" 3 times.(šˆ±‘üÿÿÿÿ
+Lphp:S131Ê"7Add a "case default" clause to this "switch" statement.(Ö˜ùœ

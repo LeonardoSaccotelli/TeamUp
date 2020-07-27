@@ -1,0 +1,23 @@
+
+`	php:S1192œ"JDefine a constant instead of duplicating this literal "query_var" 6 times.(ú­€Ú
+c	php:S1192"HDefine a constant instead of duplicating this literal "show_ui" 6 times.(±ÍÈäşÿÿÿÿ
+g	php:S1192š"LDefine a constant instead of duplicating this literal "has_archive" 3 times.(½³€íşÿÿÿÿ
+i	php:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ûù“e
+h	php:S1192‘"RDefine a constant instead of duplicating this literal "show_in_admin_bar" 3 times.(‚š²¼
+c	php:S1192"MDefine a constant instead of duplicating this literal "show_in_menu" 4 times.(³¬í 
+c	php:S1192–"MDefine a constant instead of duplicating this literal "map_meta_cap" 5 times.(£Éèä
+i	php:S1192"SDefine a constant instead of duplicating this literal "publicly_queryable" 3 times.(ş©Ò—
+a	php:S1192ğ"FDefine a constant instead of duplicating this literal "pages" 3 times.(×Ø¸’üÿÿÿÿ
+c	php:S1192•"MDefine a constant instead of duplicating this literal "capabilities" 3 times.(‚¨ì
+dphp:S101"PRename class "WP_Post_Type" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—øá–
+o	php:S1192Œ"TDefine a constant instead of duplicating this literal "exclude_from_search" 3 times.(æ´£åûÿÿÿÿ
+h	php:S1192"RDefine a constant instead of duplicating this literal "show_in_nav_menus" 3 times.(ÆŠ”­
+a	php:S1192í"KDefine a constant instead of duplicating this literal "with_front" 3 times.(×ğÌ–
+f	php:S1192”"PDefine a constant instead of duplicating this literal "capability_type" 5 times.(Ä‰¿¿
+b	php:S1192Š"GDefine a constant instead of duplicating this literal "public" 5 times.(ªÊ¡Ãüÿÿÿÿ
+j	php:S1142Â"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÕğƒŸÿÿÿÿÿ
+o	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(œô²ëûÿÿÿÿ
+\	php:S1192ó"FDefine a constant instead of duplicating this literal "feeds" 4 times.(–à³
+a	php:S1192„"KDefine a constant instead of duplicating this literal "_edit_link" 3 times.(æÎ‡ø
+c	php:S1192ö"HDefine a constant instead of duplicating this literal "ep_mask" 3 times.(çó‘İûÿÿÿÿ
+_	php:S1192›"IDefine a constant instead of duplicating this literal "rewrite" 15 times.(“†”Ø

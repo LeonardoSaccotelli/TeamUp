@@ -1,0 +1,8 @@
+
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(©¿¬
+L	php:S1172"8Remove the unused function parameter "$reply_author_id".(ÇÊœ<
+°	php:S2681"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(«Óÿ½ÿÿÿÿÿ
+K	php:S1172"7Remove the unused function parameter "$anonymous_data".(ÇÊœ<
+Iphp:S121"0Add curly braces around the nested statement(s).(”¼ıÿÿÿÿ
+E	php:S1172"1Remove the unused function parameter "$forum_id".(ÇÊœ<

@@ -1,0 +1,76 @@
+
+a	php:S1192Û"FDefine a constant instead of duplicating this literal "order" 7 times.(ô˜‘Úıÿÿÿÿ
+j	php:S1192"PDefine a constant instead of duplicating this literal "response-format" 3 times.(ã•Ô‘ùÿÿÿÿ
+B	php:S2041‚"-Remove the parentheses from this "echo" call.(ñ¢ë;
+e	php:S1192™"ODefine a constant instead of duplicating this literal "menu-item-type" 6 times.(ƒ’ÏÏ
+^	php:S1192É"HDefine a constant instead of duplicating this literal "</span>" 4 times.(³Êç±
+C	php:S2041Ò"-Remove the parentheses from this "echo" call.(âÚ¥ 
+a	php:S1192­"KDefine a constant instead of duplicating this literal "</p></div>" 4 times.(Íûè
+p	php:S1192»"UDefine a constant instead of duplicating this literal "menu-item-attr-title" 4 times.(´½úëøÿÿÿÿ
+c	php:S1192Ü"HDefine a constant instead of duplicating this literal "search" 10 times.(é¬³©üÿÿÿÿ
+B	php:S2041¬"-Remove the parentheses from this "echo" call.(–Ó¾/
+b	php:S1192Î"GDefine a constant instead of duplicating this literal "object" 3 times.(¶˜¢»şÿÿÿÿ
+o	php:S1192–"TDefine a constant instead of duplicating this literal "menu-item-object-id" 5 times.(Ù®ú´úÿÿÿÿ
+]	php:S1192Ô"GDefine a constant instead of duplicating this literal "parent" 3 times.(‡¤”î
+®php:S138Î"“This function "wp_nav_menu_item_post_type_meta_box" has 216 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‚ìùèúÿÿÿÿ
+l	php:S1192´"QDefine a constant instead of duplicating this literal "menu-item-object" 4 times.(˜£¥üÿÿÿÿ
+]	php:S1192Ú"GDefine a constant instead of duplicating this literal "offset" 3 times.(Ñê‰­
+`	php:S1192-"KDefine a constant instead of duplicating this literal "post_type" 10 times.(Å°˜û
+o	php:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(‚ìùèúÿÿÿÿ
+r	php:S1192à"WDefine a constant instead of duplicating this literal "quick-search-posttype-" 3 times.(¢à«ùúÿÿÿÿ
+e	php:S1142û"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÈˆÑ”
+B	php:S2041Ÿ"-Remove the parentheses from this "echo" call.(ñ¢ë;
+H	php:S2041Ë"-Remove the parentheses from this "echo" call.(Ãá°Šúÿÿÿÿ
+^	php:S1192Ü"HDefine a constant instead of duplicating this literal "orderby" 8 times.(íóè˜
+g	php:S1192"QDefine a constant instead of duplicating this literal "menu-item-db-id" 12 times.(üıø†
+f	php:S1192¸"PDefine a constant instead of duplicating this literal "menu-item-title" 6 times.(çÀ‹„
+o	php:S1192µ"TDefine a constant instead of duplicating this literal "menu-item-parent-id" 4 times.(Ã®×·ùÿÿÿÿ
+b	php:S1192´"GDefine a constant instead of duplicating this literal "fields" 3 times.(¥ş«Åşÿÿÿÿ
+b	php:S1192„"GDefine a constant instead of duplicating this literal "Search" 6 times.(İÕ’Éÿÿÿÿÿ
+`	php:S1192ø"JDefine a constant instead of duplicating this literal "most-used" 5 times.(ÈæœÒ
+m	php:S1192‰"RDefine a constant instead of duplicating this literal "tabs-panel-active" 6 times.(®± ×ıÿÿÿÿ
+J	php:S1172Î"/Remove the unused function parameter "$object".(‚ìùèúÿÿÿÿ
+i	php:S1192›"NDefine a constant instead of duplicating this literal "menu-item-url" 5 times.(‘Àíııÿÿÿÿ
+J	php:S1172®"/Remove the unused function parameter "$object".(Ìú²Œúÿÿÿÿ
+m	php:S1192'"XDefine a constant instead of duplicating this literal "wp_setup_nav_menu_item" 11 times.(Äëß¾
+a	php:S1192Û"LDefine a constant instead of duplicating this literal "most-recent" 4 times.(ô³üm
+g	php:S1192³"LDefine a constant instead of duplicating this literal "Add to Menu" 3 times.(—ôøóüÿÿÿÿ
+^	php:S1192œ"HDefine a constant instead of duplicating this literal "publish" 4 times.(ç©êÀ
+l	php:S1192¼"QDefine a constant instead of duplicating this literal "menu-item-target" 4 times.(„ì­õûÿÿÿÿ
+j	php:S3776û"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÈˆÑ”
+`	php:S1192,"KDefine a constant instead of duplicating this literal "post_title" 6 times.(´Ë¨Û
+H	php:S2041ı"-Remove the parentheses from this "echo" call.(™º±êşÿÿÿÿ
+i	php:S1192¶"SDefine a constant instead of duplicating this literal "menu-item-position" 4 times.(Ì—àÔ
+J	php:S1135ª"4Complete the task associated to this "TODO" comment.(ò‡¡µ
+o	php:S3776î"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÊÚôŸşÿÿÿÿ
+H	php:S2041ø"-Remove the parentheses from this "echo" call.(Õì¬ùÿÿÿÿ
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(°ßƒÿÿÿÿÿ
+j	php:S3776Ş	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚÇÀú
+c	php:S1192"HDefine a constant instead of duplicating this literal "default" 3 times.(Ó†õşüÿÿÿÿ
+e	php:S1192"JDefine a constant instead of duplicating this literal "nav-menus" 6 times.(Ó†õşüÿÿÿÿ
+^	php:S1192j"IDefine a constant instead of duplicating this literal "taxonomy" 6 times.(Ã· Ë
+o	php:S1192‰"TDefine a constant instead of duplicating this literal "tabs-panel-inactive" 6 times.(®± ×ıÿÿÿÿ
+c	php:S1192¾"MDefine a constant instead of duplicating this literal "hierarchical" 3 times.(¼ôûª
+i	php:S1192N"ODefine a constant instead of duplicating this literal "posts_per_page" 3 times.(²ñŞ€ıÿÿÿÿ
+H	php:S2041•"-Remove the parentheses from this "echo" call.(¨Ë¶–ùÿÿÿÿ
+\	php:S1192Ö"FDefine a constant instead of duplicating this literal "paged" 6 times.(ÀàºÊ
+c	php:S1871é"MThis branch's code block is the same as the block for the branch on line 988.(å¥‡
+C	php:S2041¸"-Remove the parentheses from this "echo" call.(Ùò›¦
+o	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ìú²Œúÿÿÿÿ
+b	php:S1192Ø"LDefine a constant instead of duplicating this literal "post_status" 5 times.(¦—Êı
+h	php:S1192½"RDefine a constant instead of duplicating this literal "menu-item-classes" 4 times.(²ŠÑŒ
+H	php:S2041¦"-Remove the parentheses from this "echo" call.(¡ñ¥úÿÿÿÿ
+i	php:S1192¾"NDefine a constant instead of duplicating this literal "menu-item-xfn" 4 times.(€¦úÊúÿÿÿÿ
+H	php:S2041‰"-Remove the parentheses from this "echo" call.(®± ×ıÿÿÿÿ
+r	php:S1192ı"WDefine a constant instead of duplicating this literal "quick-search-taxonomy-" 3 times.(ª«‹ëúÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "markup" 6 times.(ã•Ô‘ùÿÿÿÿ
+z	php:S1488¶"_Immediately return this expression instead of assigning it to the temporary variable "$result".(ÌÔÚ±ıÿÿÿÿ
+\	php:S1192o"GDefine a constant instead of duplicating this literal "number" 4 times.(¯Ã½¥
+a	php:S1192"GDefine a constant instead of duplicating this literal "walker" 8 times.(ÕÄŠåıÿÿÿÿ
+i	php:S1192É"SDefine a constant instead of duplicating this literal "<span aria-label="" 4 times.(³Êç±
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(–¶…Ò
+d	php:S1192´	"IDefine a constant instead of duplicating this literal "auto_add" 8 times.(ÉÑÇ×ùÿÿÿÿ
+H	php:S2041š"-Remove the parentheses from this "echo" call.(™º±êşÿÿÿÿ
+i	php:S1192ø"NDefine a constant instead of duplicating this literal " class="tabs"" 6 times.(Õì¬ùÿÿÿÿ
+­php:S138®"’This function "wp_nav_menu_item_taxonomy_meta_box" has 154 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ìú²Œúÿÿÿÿ
+q	php:S1192º"VDefine a constant instead of duplicating this literal "menu-item-description" 4 times.(šŞ çùÿÿÿÿ

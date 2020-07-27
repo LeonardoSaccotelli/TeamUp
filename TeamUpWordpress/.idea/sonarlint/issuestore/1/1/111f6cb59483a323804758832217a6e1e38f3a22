@@ -1,0 +1,14 @@
+
+K	php:S1172Á"0Remove the unused function parameter "$headers".(¦¾¢Øıÿÿÿÿ
+D	php:S1172Ğ".Remove the unused function parameter "$entry".(Š»’¸
+b	php:S1192Ã"MDefine a constant instead of duplicating this literal "Plural-Forms" 3 times.(æ† 
+K	php:S1172ñ"0Remove the unused function parameter "$context".(†ÿ±Ìûÿÿÿÿ
+E	php:S1172»"/Remove the unused function parameter "$header".(ƒó÷­
+K	php:S1172Ø"0Remove the unused function parameter "$context".(–ĞÊ÷ùÿÿÿÿ
+D	php:S1172È"/Remove the unused function parameter "$header".(´Õ»[
+N	php:S1135="4Complete the task associated to this "TODO" comment.(ƒßìùÿÿÿÿ
+D	php:S1172»".Remove the unused function parameter "$value".(ƒó÷­
+D	php:S1172ø".Remove the unused function parameter "$other".(è‡ŠÚ
+jphp:S101¯"URename class "NOOP_Translations" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÔŠãï
+I	php:S1172³".Remove the unused function parameter "$entry".(ºÿÈùıÿÿÿÿ
+mphp:S101¸"XRename class "Gettext_Translations" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡ïÁÆ

@@ -1,0 +1,13 @@
+
+C	php:S14816")Remove this unused "$key" local variable.(–€¤úÿÿÿÿ
+g	php:S1192"MDefine a constant instead of duplicating this literal "{group_name}" 5 times.(„Õ¦¨øÿÿÿÿ
+f	php:S1192"QDefine a constant instead of duplicating this literal "templates/email/" 5 times.(Ø¥ ¨
+g	php:S1192"MDefine a constant instead of duplicating this literal "tags_replace" 5 times.(Óšõïøÿÿÿÿ
+e	php:S1192"KDefine a constant instead of duplicating this literal "plain_text" 5 times.(½›ôòûÿÿÿÿ
+f	php:S1192"LDefine a constant instead of duplicating this literal "{group_url}" 5 times.(ŒèŞËøÿÿÿÿ
+`	php:S1192"KDefine a constant instead of duplicating this literal "user_email" 4 times.(È¤Ğ—
+H	php:S1172Ë"2Remove the unused function parameter "$commentid".(ÅòÈÈ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+M	php:S1172Ë"7Remove the unused function parameter "$comment_parent".(ÅòÈÈ
+K	php:S1172"0Remove the unused function parameter "$wall_id".(ÑşÊğıÿÿÿÿ
+g	php:S11923"MDefine a constant instead of duplicating this literal "display_name" 4 times.(ºš¡ÿÿÿÿÿ

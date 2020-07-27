@@ -1,0 +1,9 @@
+
+c	php:S1192®"HDefine a constant instead of duplicating this literal "default" 4 times.(‘‚œÙÿÿÿÿÿ
+d	php:S1192p"ODefine a constant instead of duplicating this literal "displayExcerpt" 3 times.(ÄÞ½­
+h	php:S1192@"NDefine a constant instead of duplicating this literal "displayAvatar" 3 times.(ªøŸÐùÿÿÿÿ
+_	php:S1192x"JDefine a constant instead of duplicating this literal "className" 3 times.(íêè˜
+[	php:S1192{"FDefine a constant instead of duplicating this literal "align" 3 times.(Î¥¸©
+`	php:S1192h"LDefine a constant instead of duplicating this literal "displayDate" 3 times.(­Ý…z
+i	php:S3776+"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ØÊœ¼
+c	php:S1192³"HDefine a constant instead of duplicating this literal "boolean" 3 times.(¦Õ¬üþÿÿÿÿ

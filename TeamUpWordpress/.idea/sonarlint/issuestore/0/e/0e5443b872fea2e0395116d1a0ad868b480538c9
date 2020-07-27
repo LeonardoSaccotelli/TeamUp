@@ -1,0 +1,7 @@
+
+N	php:S1854Ü"8Remove this useless assignment to local variable '$crc'.(›—±‰
+3php:S125Þ"Remove this commented out code.(²…šK
+jphp:S1015"VRename class "SimplePie_gzdecode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(êÍÕÝ
+D	php:S1172µ".Remove the unused function parameter "$value".(¼ÚÑô
+o	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(Â¹áðÿÿÿÿÿ
+k	php:S1142Ê"PReduce the number of returns of this function 12, down to the maximum allowed 3.(Â¹áðÿÿÿÿÿ

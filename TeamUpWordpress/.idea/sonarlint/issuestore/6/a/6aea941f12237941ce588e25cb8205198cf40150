@@ -1,0 +1,23 @@
+
+j	php:S3776’"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(“¡ãê
+Qphp:S131Å"7Add a "case default" clause to this "switch" statement.(ù¶üúÿÿÿÿ
+R	php:S1155¿"7Use empty() to check whether the array is empty or not.(™Ï¥Œúÿÿÿÿ
+\	php:S11925"HDefine a constant instead of duplicating this literal "unified" 4 times.(÷‡øv
+L	php:S1155{"7Use empty() to check whether the array is empty or not.(’—¹í
+n	php:S3776&"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(­ê’îÿÿÿÿÿ
+hphp:S127e"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(ıÜ•Öıÿÿÿÿ
+2	php:S1116œ"Remove this empty statement.(Õ™Á®
+2	php:S1116¢"Remove this empty statement.(‹ÚòÒ
+2	php:S1116Ÿ"Remove this empty statement.(œÂ’
+c	php:S1301ã"MReplace this "switch" statement with "if" statements to increase readability.(çíÚë
+n	php:S3776["TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(‡Ôâ¥şÿÿÿÿ
+ophp:S101"[Rename class "Text_Diff_Engine_string" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(˜è‘
+cphp:S127ƒ"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(½ıŸ&
+Lphp:S131ã"7Add a "case default" clause to this "switch" statement.(çíÚë
+e	php:S1192&"KDefine a constant instead of duplicating this literal "autodetect" 3 times.(­ê’îÿÿÿÿÿ
+7	php:S1116¥"Remove this empty statement.(£Öõüÿÿÿÿ
+i	php:S1142&"OReduce the number of returns of this function 4, down to the maximum allowed 3.(­ê’îÿÿÿÿÿ
+cphp:S127v"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(Éˆ­
+hphp:S127y"ORefactor the code to avoid updating the loop counter "$i" within the loop body.( íç’øÿÿÿÿ
+cphp:S127m"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(ÜŞèŠ
+\	php:S11925"HDefine a constant instead of duplicating this literal "context" 5 times.(÷‡øv

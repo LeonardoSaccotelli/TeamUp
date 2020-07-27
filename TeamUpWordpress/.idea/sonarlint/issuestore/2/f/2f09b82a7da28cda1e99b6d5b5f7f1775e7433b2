@@ -1,0 +1,7 @@
+
+Lphp:S131©"7Add a "case default" clause to this "switch" statement.(±ì¿ƒ
+G	php:S11729"2Remove the unused function parameter "$mime_type".(ûÜ¥
+_	php:S1192"KDefine a constant instead of duplicating this literal "image/jpeg" 3 times.(“šø
+G	php:S1172*"-Remove the unused function parameter "$args".(“Í‡šüÿÿÿÿ
+gphp:S101"SRename class "WP_Image_Editor" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥ö
+€	php:S1448"kClass "WP_Image_Editor" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(¥ö

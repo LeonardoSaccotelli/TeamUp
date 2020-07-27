@@ -1,0 +1,9 @@
+
+x	php:S1192u"cDefine a constant instead of duplicating this literal "astra_sites_recent_import_log_file" 5 times.(ΪοΪΚ
+‰	php:S1448"tClass "Astra_Sites_Importer_Log" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(Π”νώ
+pphp:S101"\Rename class "Astra_Sites_Importer_Log" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Π”νώ
+H	php:S1172"-Remove the unused function parameter "$data".(Σ²€ύÿÿÿÿ
+@	Web:S5256ά"%Add "<th>" headers to this "<table>".(Ώ‰ÿÿÿÿÿ
+b	php:S1192`"MDefine a constant instead of duplicating this literal "astra-sites" 13 times.(Π•²¶
+NWeb:TableWithoutCaptionCheckά" Add a description to this table.(Ώ‰ÿÿÿÿÿ
+P	php:S1172"5Remove the unused function parameter "$demo_api_uri".(Σ²€ύÿÿÿÿ

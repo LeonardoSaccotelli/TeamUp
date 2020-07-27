@@ -1,0 +1,28 @@
+
+D	php:S1066U"/Merge this if statement with the enclosing one.(ÎÚ™Ş
+e	php:S1192¹"JDefine a constant instead of duplicating this literal "menu-name" 4 times.(Á»÷İùÿÿÿÿ
+m	php:S1192@"SDefine a constant instead of duplicating this literal "nav_menu_locations" 5 times.(Üê±üÿÿÿÿ
+b	php:S11924"HDefine a constant instead of duplicating this literal "action" 16 times.(‹¯ÙÖüÿÿÿÿ
+g	php:S1192e"RDefine a constant instead of duplicating this literal "menu_item_parent" 33 times.(êÜÉ
+]	php:S1192ü"GDefine a constant instead of duplicating this literal "delete" 3 times.(¼áÕş
+c	php:S1192Ò"MDefine a constant instead of duplicating this literal "use-location" 6 times.(“äÌ
+Kphp:S131<"7Add a "case default" clause to this "switch" statement.(´ŞŞÕ
+_	php:S1192¥"IDefine a constant instead of duplicating this literal "<ul><li>" 4 times.(¶×“ş
+a	php:S1192¦"KDefine a constant instead of duplicating this literal "</li></ul>" 4 times.(åÉÆ“
+4php:S125Û"Remove this commented out code.(ä‚‰Ö
+e	php:S1192y"KDefine a constant instead of duplicating this literal "menu_order" 9 times.(êıÍ¼şÿÿÿÿ
+•	php:S1192‹"zDefine a constant instead of duplicating this literal "<div id="message" class="error notice is-dismissible"><p>" 6 times.(Áìë¥ùÿÿÿÿ
+d	php:S1192A"JDefine a constant instead of duplicating this literal "menu-item" 9 times.(öÅ±‚ûÿÿÿÿ
+e	php:S1192‡"ODefine a constant instead of duplicating this literal "nav-menus.php" 10 times.(úğÄ•
+^	php:S1192¬"HDefine a constant instead of duplicating this literal "content" 4 times.(¾Ù®Ù
+a	php:S1192@"GDefine a constant instead of duplicating this literal "absint" 3 times.(Üê±üÿÿÿÿ
+v	php:S1192s"\Define a constant instead of duplicating this literal "_menu_item_menu_item_parent" 7 times.(¿ôø†üÿÿÿÿ
+e	php:S1192…"JDefine a constant instead of duplicating this literal "locations" 5 times.(Ú€¬¡üÿÿÿÿ
+b	php:S1192ø"LDefine a constant instead of duplicating this literal "</p></div>" 11 times.(‡Ô§Ç
+’	php:S1192ø"|Define a constant instead of duplicating this literal "<div id="message" class="updated notice is-dismissible"><p>" 4 times.(‡Ô§Ç
+i	php:S1192@"ODefine a constant instead of duplicating this literal "menu-locations" 7 times.(Üê±üÿÿÿÿ
+E	php:S1066"/Merge this if statement with the enclosing one.(ÎÚ™Ş
+NWeb:TableWithoutCaptionCheck¨" Add a description to this table.(…ñ¡­şÿÿÿÿ
+`	php:S1192"FDefine a constant instead of duplicating this literal "menus" 5 times.(Ñ¹¤¯ùÿÿÿÿ
+\	php:S1192¥"FDefine a constant instead of duplicating this literal "</li>" 7 times.(¶×“ş
+a	php:S1192«"FDefine a constant instead of duplicating this literal "title" 4 times.(Ú¢²ºüÿÿÿÿ

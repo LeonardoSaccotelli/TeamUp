@@ -1,0 +1,16 @@
+
+e	php:S1192-"KDefine a constant instead of duplicating this literal "elementor" 27 times.(”¾©æúÿÿÿÿ
+a	php:S1192Ú"FDefine a constant instead of duplicating this literal "class" 3 times.(šÈÙÎıÿÿÿÿ
+g	php:S1192ş"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 3 times.(É×á.
+]	php:S1192€"GDefine a constant instead of duplicating this literal "scheme" 5 times.(¡ŠËÆ
+a	php:S1192j"LDefine a constant instead of duplicating this literal "tab_content" 5 times.(¸•—
+e	php:S1192Ÿ"JDefine a constant instead of duplicating this literal "separator" 3 times.(¾†üÿÿÿÿÿ
+e	php:S1192»"JDefine a constant instead of duplicating this literal "selectors" 7 times.(Ú‘›æúÿÿÿÿ
+b	php:S1192Ÿ"GDefine a constant instead of duplicating this literal "before" 3 times.(¾†üÿÿÿÿÿ
+b	php:S1192c"HDefine a constant instead of duplicating this literal "default" 7 times.(İ—³¬şÿÿÿÿ
+cphp:S101"ORename class "Widget_Tabs" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(°ÄÀ¸
+a	php:S1192X"GDefine a constant instead of duplicating this literal "label" 16 times.(ÔüÁ…ıÿÿÿÿ
+œphp:S138T"‚This function "_register_controls" has 218 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+\	php:S1192‚"FDefine a constant instead of duplicating this literal "value" 3 times.(íê®÷
+d	php:S1192Û"IDefine a constant instead of duplicating this literal "data-tab" 3 times.(òó™—ÿÿÿÿÿ
+_	php:S1192_"JDefine a constant instead of duplicating this literal "tab_title" 6 times.(àáì¡

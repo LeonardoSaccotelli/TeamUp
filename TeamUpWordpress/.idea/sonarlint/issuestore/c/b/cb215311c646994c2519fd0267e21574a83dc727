@@ -1,0 +1,11 @@
+
+f	php:S1192X"LDefine a constant instead of duplicating this literal "astra-sites" 7 times.(Ó²ªØúÿÿÿÿ
+b	php:S1192;"HDefine a constant instead of duplicating this literal "id_base" 8 times.(çëÓ´úÿÿÿÿ
+rphp:S101"YRename class "Astra_Widget_Importer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¨žêµûÿÿÿÿ
+b	php:S1192j"HDefine a constant instead of duplicating this literal "widget_" 3 times.(Ï–É¥ýÿÿÿÿ
+G	php:S1481ä",Remove this unused "$result" local variable.(œº§åýÿÿÿÿ
+\	php:S1192Œ"FDefine a constant instead of duplicating this literal "title" 3 times.(À‚³«
+n	php:S3776P"TRefactor this function to reduce its Cognitive Complexity from 69 to the 15 allowed.(‘ÙÕÊýÿÿÿÿ
+]	php:S1192‹"HDefine a constant instead of duplicating this literal "widgets" 5 times.(á‘Å
+g	php:S1192²"QDefine a constant instead of duplicating this literal "sidebars_widgets" 3 times.(‚ÒÑÈ
+c	php:S1192Ì"MDefine a constant instead of duplicating this literal "_multiwidget" 5 times.(ìÃ•‹

@@ -1,0 +1,11 @@
+
+p	php:S1192"[Define a constant instead of duplicating this literal "group_invitation_host_name" 3 times.(çğœ
+b	php:S1192"MDefine a constant instead of duplicating this literal "display_name" 4 times.(çğœ
+e	php:S1192"KDefine a constant instead of duplicating this literal "group_name" 4 times.(œ’š¾øÿÿÿÿ
+C	php:S14812")Remove this unused "$key" local variable.(–€¤úÿÿÿÿ
+G	php:S1172J"3Remove the unused function parameter "$group_role".(„…z
+O	php:S1172J";Remove the unused function parameter "$invited_by_user_id".(„…z
+k	php:S1192"QDefine a constant instead of duplicating this literal "notification_uri" 4 times.(’“Âúÿÿÿÿ
+`	php:S1192"FDefine a constant instead of duplicating this literal "photo" 4 times.(´èÉÅşÿÿÿÿ
+j	php:S1192"UDefine a constant instead of duplicating this literal "UM_Notifications_API" 4 times.(ñ‘Ì¦
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ

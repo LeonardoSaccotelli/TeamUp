@@ -1,0 +1,49 @@
+
+Lphp:S131Õ"7Add a "case default" clause to this "switch" statement.(†²ü
+n	php:S1192("TDefine a constant instead of duplicating this literal "register_rest_route" 3 times.(—êÂ‘ÿÿÿÿÿ
+b	php:S1192ê"GDefine a constant instead of duplicating this literal "object" 4 times.(„±›÷şÿÿÿÿ
+j	php:S1192‚
+"UDefine a constant instead of duplicating this literal "additionalProperties" 8 times.(ÃÑéy
+a	php:S1192˜"KDefine a constant instead of duplicating this literal "rest_route" 4 times.(¹‘îˆ
+g	php:S1192Î
+"QDefine a constant instead of duplicating this literal "exclusiveMinimum" 6 times.(‰ÅÏ
+y	php:S1488¤"^Immediately return this expression instead of assigning it to the temporary variable "$value".(’úÖûıÿÿÿÿ
+Lphp:S131·
+"7Add a "case default" clause to this "switch" statement.(†²ü
+_	php:S1192Ì
+"IDefine a constant instead of duplicating this literal "minimum" 16 times.(İ³¯
+b	php:S1192¢
+"GDefine a constant instead of duplicating this literal "number" 3 times.(ÿ¹©Ãıÿÿÿÿ
+t	php:S1488Ä"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ïö´†
+c	php:S1192í"HDefine a constant instead of duplicating this literal "OPTIONS" 3 times.(¼›šøùÿÿÿÿ
+j	php:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(È©º•
+j	php:S1142ú"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ŒÅıûÿÿÿÿ
+E	php:S1066ı"/Merge this if statement with the enclosing one.(ÌÍÄõ
+e	php:S1142ø"OReduce the number of returns of this function 5, down to the maximum allowed 3.(á®Ë·
+b	php:S1192¶
+"GDefine a constant instead of duplicating this literal "format" 4 times.(ˆØæ‡üÿÿÿÿ
+i	php:S1192Õ	"TDefine a constant instead of duplicating this literal "rest_invalid_param" 19 times.(êüıw
+_	php:S1192Ì
+"IDefine a constant instead of duplicating this literal "maximum" 16 times.(İ³¯
+`	php:S1192ı	"KDefine a constant instead of duplicating this literal "properties" 4 times.(œ¡
+b	php:S1192±
+"GDefine a constant instead of duplicating this literal "string" 3 times.(Š˜¥„şÿÿÿÿ
+a	php:S1192ã	"FDefine a constant instead of duplicating this literal "items" 3 times.(ö´ğÅûÿÿÿÿ
+\	php:S1192Ø	"FDefine a constant instead of duplicating this literal "array" 3 times.(ÏÎ´×
+o	php:S1192Õ	"ZDefine a constant instead of duplicating this literal "%1$s is not of type %2$s." 8 times.(êüıw
+E	php:S1066œ
+"/Merge this if statement with the enclosing one.(’¸á™
+k	php:S1142É	"PReduce the number of returns of this function 27, down to the maximum allowed 3.(Õ©ğ—ùÿÿÿÿ
+O	php:S1135×"4Complete the task associated to this "TODO" comment.(åÌéˆøÿÿÿÿ
+j	php:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ëá¿õ
+o	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹€¬ıÿÿÿÿ
+l	php:S1192Ö
+"QDefine a constant instead of duplicating this literal "exclusiveMaximum" 6 times.(åéÜ©şÿÿÿÿ
+^	php:S1192¬
+"HDefine a constant instead of duplicating this literal "boolean" 3 times.(±ƒ¡Ç
+f	php:S1142‚"PReduce the number of returns of this function 15, down to the maximum allowed 3.(È©º•
+J	php:S1172Ş"/Remove the unused function parameter "$server".(‹€¬ıÿÿÿÿ
+p	php:S3776É	"URefactor this function to reduce its Cognitive Complexity from 126 to the 15 allowed.(Õ©ğ—ùÿÿÿÿ
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ğÖ—Ìøÿÿÿÿ
+c	php:S1192¢
+"HDefine a constant instead of duplicating this literal "integer" 5 times.(ÿ¹©Ãıÿÿÿÿ

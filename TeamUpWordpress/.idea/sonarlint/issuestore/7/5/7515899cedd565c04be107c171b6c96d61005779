@@ -1,0 +1,4 @@
+
+ophp:S101"[Rename class "WP_Feed_Cache_Transient" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(жуяв
+F	php:S11725"1Remove the unused function parameter "$location".(Ё€с«
+G	php:S11725"2Remove the unused function parameter "$extension".(Ё€с«

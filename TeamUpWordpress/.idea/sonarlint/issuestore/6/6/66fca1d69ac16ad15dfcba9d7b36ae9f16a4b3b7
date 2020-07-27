@@ -1,0 +1,13 @@
+
+g	php:S1192'"MDefine a constant instead of duplicating this literal "display_name" 4 times.(Ôğ„ıøÿÿÿÿ
+Jphp:S121™"0Add curly braces around the nested statement(s).(ÔÂ¶Üúÿÿÿÿ
+CWeb:BoldAndItalicTagsCheckp"Replace this <i> tag by <em>.(¨¹Ø”
+Dphp:S121`"0Add curly braces around the nested statement(s).(³›û¿
+`	php:S1192b"FDefine a constant instead of duplicating this literal "title" 4 times.(€‡×—øÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckœ"Replace this <i> tag by <em>.(ûÄáãıÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck›"Replace this <i> tag by <em>.(Šíàøÿÿÿÿ
+ª	php:S2681"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(ı¶€$
+HWeb:BoldAndItalicTagsCheckg"Replace this <i> tag by <em>.(§ÃÕ¹ûÿÿÿÿ
+HWeb:BoldAndItalicTagsCheckl"Replace this <i> tag by <em>.(§ÃÕ¹ûÿÿÿÿ
+HWeb:BoldAndItalicTagsCheckc"Replace this <i> tag by <em>.(§ÃÕ¹ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(£»¢ûÿÿÿÿ

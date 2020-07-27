@@ -1,0 +1,31 @@
+
+_	php:S1192ü"IDefine a constant instead of duplicating this literal "autoplay" 4 times.(â®ÔÜ
+a	php:S1192â"FDefine a constant instead of duplicating this literal "title" 9 times.(âñªÍøÿÿÿÿ
+d	php:S1192n"JDefine a constant instead of duplicating this literal "separator" 4 times.(şÄĞãøÿÿÿÿ
+b	php:S1192Ÿ"LDefine a constant instead of duplicating this literal "navigation" 12 times.(òî§
+^	php:S1192"HDefine a constant instead of duplicating this literal "outside" 3 times.(ö£¾û
+]	php:S1192{"HDefine a constant instead of duplicating this literal "Default" 4 times.(™™¤û
+c	php:S1192J"IDefine a constant instead of duplicating this literal "carousel" 8 times.(†°œşÿÿÿÿ
+f	php:S1192‹"PDefine a constant instead of duplicating this literal "slides_to_show!" 4 times.(ğŸ¤Ç
+\	php:S1192"FDefine a constant instead of duplicating this literal "range" 3 times.(÷¦ç£
+œphp:S138U"‚This function "_register_controls" has 540 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+rphp:S101"YRename class "Widget_Image_Carousel" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öÏ”ßıÿÿÿÿ
+]	php:S1192·"GDefine a constant instead of duplicating this literal "custom" 5 times.(«Á¨š
+]	php:S1192¦"GDefine a constant instead of duplicating this literal "arrows" 7 times.(ÎŸ¦«
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.( æƒàúÿÿÿÿ
+e	php:S1192¤"JDefine a constant instead of duplicating this literal "selectors" 8 times.(Ú‘›æúÿÿÿÿ
+]	php:S1192z"IDefine a constant instead of duplicating this literal "options" 18 times.(ò–»6
+c	php:S1192b"IDefine a constant instead of duplicating this literal "default" 23 times.(¨šÔŸşÿÿÿÿ
+`	php:S1192."KDefine a constant instead of duplicating this literal "elementor" 85 times.(–õÅÖ
+a	php:S1192Š"KDefine a constant instead of duplicating this literal "condition" 20 times.(Ä‹
+a	php:S1192Y"GDefine a constant instead of duplicating this literal "label" 37 times.(®ˆ‘Œÿÿÿÿÿ
+i	php:S1192}"TDefine a constant instead of duplicating this literal "frontend_available" 12 times.(‘İĞ€
+]	php:S1192"GDefine a constant instead of duplicating this literal "inside" 3 times.(ê›ÉÆ
+]	php:S1192"GDefine a constant instead of duplicating this literal "center" 3 times.(¼Í
+[	php:S1192Á"FDefine a constant instead of duplicating this literal "class" 4 times.(¡¢
+^	php:S1192İ"HDefine a constant instead of duplicating this literal "Caption" 3 times.(ªùø¤
+`	php:S1192c"KDefine a constant instead of duplicating this literal "show_label" 3 times.(·ô›†
+^	php:S1192¯"HDefine a constant instead of duplicating this literal "link_to" 5 times.(Èéş
+j	php:S1142´"OReduce the number of returns of this function 4, down to the maximum allowed 3.(æ†öÿÿÿÿÿ
+‰	php:S1192‚"nDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-image-carousel-caption" 3 times.(ÿ”ã—úÿÿÿÿ
+e	php:S1142˜"OReduce the number of returns of this function 4, down to the maximum allowed 3.(×¼Ñ§

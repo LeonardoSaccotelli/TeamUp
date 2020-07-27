@@ -1,0 +1,56 @@
+
+e	php:S1192£"JDefine a constant instead of duplicating this literal "separator" 7 times.(şÄĞãøÿÿÿÿ
+m	php:S1192­"RDefine a constant instead of duplicating this literal "{{WRAPPER}}:hover" 3 times.(‡®Ëöüÿÿÿÿ
+]	php:S1192–"GDefine a constant instead of duplicating this literal "range" 10 times.(÷¦ç£
+b	php:S11924"HDefine a constant instead of duplicating this literal "section" 4 times.(¦Çøÿÿÿÿ
+r	php:S4144A"XUpdate this method so that its implementation is not identical to "get_type" on line 51.(À÷÷üÿÿÿÿ
+a	php:S1192Ÿ"KDefine a constant instead of duplicating this literal "condition" 14 times.(Ä‹
+h	php:S1192ú"MDefine a constant instead of duplicating this literal "return_value" 6 times.(Â¤â±ıÿÿÿÿ
+d	php:S1192ü"NDefine a constant instead of duplicating this literal "hide_in_inner" 3 times.(ØÓÆç
+E	php:S1066ô
+"/Merge this if statement with the enclosing one.(†«¤Ã
+b	php:S1192ğ"LDefine a constant instead of duplicating this literal "render_type" 8 times.(Å±£ä
+]	php:S1192›"GDefine a constant instead of duplicating this literal "bottom" 6 times.(³î³ã
+b	php:S1192å"GDefine a constant instead of duplicating this literal "label" 65 times.(ˆë¶©øÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "boxed" 3 times.(Şë«‘
+f	php:S1192P"LDefine a constant instead of duplicating this literal "elementor" 116 times.(¼šÓ’øÿÿÿÿ
+i	php:S1192û"NDefine a constant instead of duplicating this literal "prefix_class" 13 times.(àÉš”øÿÿÿÿ
+~	php:S1192"cDefine a constant instead of duplicating this literal "{{WRAPPER}} > .elementor-container" 4 times.(¯ºòûÿÿÿÿ
+f	php:S1192œ"KDefine a constant instead of duplicating this literal "selectors" 24 times.(Ú‘›æúÿÿÿÿ
+v	php:S1192÷
+"[Define a constant instead of duplicating this literal "background-video-container" 3 times.(»Œ­ìûÿÿÿÿ
+php:S138á"ƒThis function "_register_controls" has 1000 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+f	php:S1192Á"KDefine a constant instead of duplicating this literal "min-height" 5 times.(¶…„›şÿÿÿÿ
+b	php:S1192Ë"LDefine a constant instead of duplicating this literal "{{WRAPPER}}" 6 times.(õË…À
+]	php:S1192»"GDefine a constant instead of duplicating this literal "Height" 3 times.(Òƒëà
+]	php:S1192›"GDefine a constant instead of duplicating this literal "Bottom" 3 times.(³î³ã
+^	php:S1192‰"IDefine a constant instead of duplicating this literal "options" 12 times.(ò–»6
+f	php:S1192Ş"KDefine a constant instead of duplicating this literal "size_units" 5 times.(Ï•ûÿÿÿÿ
+ˆ	php:S1192§"rDefine a constant instead of duplicating this literal "{{WRAPPER}}:hover > .elementor-background-overlay" 3 times.(Ì°ë£
+d	php:S1192™
+"IDefine a constant instead of duplicating this literal "label_on" 3 times.(Æå¸¾üÿÿÿÿ
+]	php:S1192–"GDefine a constant instead of duplicating this literal "middle" 4 times.(•À¦¢
+\	php:S1192ï"FDefine a constant instead of duplicating this literal "title" 6 times.(ŞâÅ†
+b	php:S1192å"GDefine a constant instead of duplicating this literal "before" 5 times.(¾†üÿÿÿÿÿ
+f	php:S1192û"KDefine a constant instead of duplicating this literal "elementor-" 7 times.(àÉš”øÿÿÿÿ
+J	php:S1135»"4Complete the task associated to this "TODO" comment.(Üİ½
+^	php:S1192—"HDefine a constant instead of duplicating this literal "classic" 5 times.(ıÁË¶
+‡	php:S1192à"lDefine a constant instead of duplicating this literal "{{WRAPPER}} > .elementor-background-overlay" 4 times.(Ğ¼Éšûÿÿÿÿ
+gphp:S101"SRename class "Element_Section" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀùºÈ
+]	php:S1192"GDefine a constant instead of duplicating this literal "Normal" 5 times.(‹Ôá¸
+o	php:S3776î
+"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦Í’íûÿÿÿÿ
+o	php:S1192´"TDefine a constant instead of duplicating this literal "Transition Duration" 3 times.(¨„áÎÿÿÿÿÿ
+d	php:S1192ù"IDefine a constant instead of duplicating this literal "default" 36 times.(äÜµéùÿÿÿÿ
+b	php:S1192¹"GDefine a constant instead of duplicating this literal "height" 3 times.(´³òøÿÿÿÿ
+a	php:S1192÷
+"FDefine a constant instead of duplicating this literal "class" 3 times.(»Œ­ìûÿÿÿÿ
+i	php:S1192ÿ"SDefine a constant instead of duplicating this literal "frontend_available" 6 times.(‘İĞ€
+^	php:S1192®"HDefine a constant instead of duplicating this literal "Default" 6 times.(£ËÌ‹
+e	php:S1192š
+"JDefine a constant instead of duplicating this literal "label_off" 3 times.(ğıñöÿÿÿÿÿ
+\	php:S1192¥"FDefine a constant instead of duplicating this literal "Hover" 3 times.(“Ä¶
+_	php:S1192—"IDefine a constant instead of duplicating this literal "gradient" 5 times.(ıÁË¶
+d	php:S1192­"IDefine a constant instead of duplicating this literal "selector" 7 times.(‡®Ëöüÿÿÿÿ
+]	php:S1192”"GDefine a constant instead of duplicating this literal "preset" 8 times.(°¡«ı
+h	php:S1192“"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 4 times.(šŒ¤¹

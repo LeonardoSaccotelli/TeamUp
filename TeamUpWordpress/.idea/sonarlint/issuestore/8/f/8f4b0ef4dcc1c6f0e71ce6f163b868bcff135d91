@@ -1,0 +1,10 @@
+
+a	php:S1192`"GDefine a constant instead of duplicating this literal "label" 15 times.(ÿÀ˜Ğúÿÿÿÿ
+a	php:S1192¾"FDefine a constant instead of duplicating this literal "false" 3 times.(¶ÉÎıÿÿÿÿ
+\	php:S1192x"GDefine a constant instead of duplicating this literal "visual" 3 times.(®ôÿª
+c	php:S1192p"IDefine a constant instead of duplicating this literal "default" 11 times.(ªÜØ£ÿÿÿÿÿ
+d	php:S1192›"IDefine a constant instead of duplicating this literal "label_on" 8 times.(Î¸µúÿÿÿÿ
+œphp:S138\"‚This function "_register_controls" has 152 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+cphp:S101"PRename class "Widget_Audio" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¾ë³C
+e	php:S1192š"JDefine a constant instead of duplicating this literal "label_off" 8 times.(¹ı¯âøÿÿÿÿ
+e	php:S11925"KDefine a constant instead of duplicating this literal "elementor" 34 times.(¹Ä€şÿÿÿÿ

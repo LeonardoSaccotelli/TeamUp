@@ -1,0 +1,12 @@
+
+E	php:S1172Û"/Remove the unused function parameter "$parser".(ğ¡ÀĞ
+hphp:S1016"TRename class "SimplePie_Parser" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åä§ì
+\	php:S1192Ä"FDefine a constant instead of duplicating this literal "title" 5 times.(€‡ŒÓ
+c	php:S1117ş"MRename "$namespace" which has the same name as the field declared at line 62.(òÿÓ
+E	php:S1172Ï"/Remove the unused function parameter "$parser".(¥Ñ©ª
+B	php:S1172Û",Remove the unused function parameter "$tag".(ğ¡ÀĞ
+i	php:S3776N"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(ƒÓ¯Ä
+Qphp:S131­"7Add a "case default" clause to this "switch" statement.(Şçİøÿÿÿÿ
+d	php:S1142N"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ƒÓ¯Ä
+J	php:S1172Œ"/Remove the unused function parameter "$parser".(û–©Óùÿÿÿÿ
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(û–©Óùÿÿÿÿ

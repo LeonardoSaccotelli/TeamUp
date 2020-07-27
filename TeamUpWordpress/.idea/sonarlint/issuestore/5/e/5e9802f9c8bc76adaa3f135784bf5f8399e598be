@@ -1,0 +1,5 @@
+
+hphp:S101"TRename class "Online_Shortcode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÚÝâ¨
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+t	php:S1488."_Immediately return this expression instead of assigning it to the temporary variable "$output".(óƒ¹ÿ
+\	php:S1192'"GDefine a constant instead of duplicating this literal "online" 4 times.(¿„ÿŒ

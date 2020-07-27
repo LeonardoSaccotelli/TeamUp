@@ -1,0 +1,4 @@
+
+b	php:S1192="MDefine a constant instead of duplicating this literal "random_bytes" 5 times.(‰Œï’
+[php:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(Î¢›‘
+4php:S125˜"Remove this commented out code.(ƒí­þ

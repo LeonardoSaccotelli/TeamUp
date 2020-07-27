@@ -1,0 +1,24 @@
+
+\	php:S1192§"FDefine a constant instead of duplicating this literal "title" 5 times.(Šô×
+]	php:S1192"HDefine a constant instead of duplicating this literal "button" 10 times.(À¹¶È
+ 	php:S1192Ø"‰Define a constant instead of duplicating this literal "{{WRAPPER}} .elementor-button:hover, {{WRAPPER}} .elementor-button:focus" 3 times.(‹™ç©
+_	php:S1192™"IDefine a constant instead of duplicating this literal "selector" 4 times.(¡ÿšØ
+\	php:S1192»"FDefine a constant instead of duplicating this literal "class" 8 times.(Ç‘àÕ
+J	php:S1135Œ"4Complete the task associated to this "TODO" comment.(ç†à¶
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "dynamic" 3 times.(Ï­ıñ
+\	php:S1192y"HDefine a constant instead of duplicating this literal "options" 4 times.(ò–»6
+a	php:S1192Ñ"KDefine a constant instead of duplicating this literal "icon_align" 5 times.(ˆÉ«€
+d	php:S1192È"NDefine a constant instead of duplicating this literal "selected_icon" 5 times.(™° ‡
+b	php:S1192…"GDefine a constant instead of duplicating this literal "before" 3 times.(¾†üÿÿÿÿÿ
+i	php:S1192û"NDefine a constant instead of duplicating this literal "button_css_id" 3 times.(’›ÕÀûÿÿÿÿ
+b	php:S1192x"HDefine a constant instead of duplicating this literal "default" 9 times.(äÜµéùÿÿÿÿ
+e	php:S1192…"JDefine a constant instead of duplicating this literal "separator" 3 times.(¾†üÿÿÿÿÿ
+\	php:S1192-"GDefine a constant instead of duplicating this literal "Button" 3 times.(¦”Ä
+a	php:S1192o"GDefine a constant instead of duplicating this literal "label" 22 times.(Ğ†ØÁùÿÿÿÿ
+œphp:S138k"‚This function "_register_controls" has 292 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+`	php:S1192-"KDefine a constant instead of duplicating this literal "elementor" 44 times.(¦”Ä
+e	php:S1192ê"JDefine a constant instead of duplicating this literal "selectors" 8 times.(Ú‘›æúÿÿÿÿ
+t	php:S1192™"^Define a constant instead of duplicating this literal "{{WRAPPER}} .elementor-button" 8 times.(¡ÿšØ
+ephp:S101"QRename class "Widget_Button" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•ÜÛÙ
+k	php:S1192ø"PDefine a constant instead of duplicating this literal "hover_animation" 3 times.(×À³×úÿÿÿÿ
+b	php:S1192Š"GDefine a constant instead of duplicating this literal "active" 3 times.(Ğÿ‰’şÿÿÿÿ

@@ -1,0 +1,35 @@
+
+n	php:S1192"XDefine a constant instead of duplicating this literal "astra-site-widgets-data" 3 times.(£™î÷
+T	php:S1854Ä"9Remove this useless assignment to local variable '$data'.(¡®¡Ñüÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "post_id" 4 times.(ÿªŒĞøÿÿÿÿ
+o	php:S1192é"TDefine a constant instead of duplicating this literal "wp_inactive_widgets" 3 times.(é¡¯Òûÿÿÿÿ
+d	php:S1192¹"IDefine a constant instead of duplicating this literal "settings" 4 times.(Ğ•Ü²ÿÿÿÿÿ
+‡	php:S1192¢"lDefine a constant instead of duplicating this literal "You are not allowed to perform this action" 12 times.(ÍüÛùÿÿÿÿ
+j	php:S1192¢"TDefine a constant instead of duplicating this literal "astra-site-wxr-path" 3 times.(ş‰ôô
+f	php:S1192¥"QDefine a constant instead of duplicating this literal "astra-custom-404" 3 times.(ÆİÂM
+E	php:S1066ê"/Merge this if statement with the enclosing one.(Êˆ
+J	php:S1066„"/Merge this if statement with the enclosing one.(çêúªùÿÿÿÿ
+a	php:S1192¡"KDefine a constant instead of duplicating this literal "customize" 12 times.(¯¸ò
+q	php:S1192Ÿ"[Define a constant instead of duplicating this literal "astra-site-customizer-data" 3 times.(ÕŠßÌ
+f	php:S1192¦"QDefine a constant instead of duplicating this literal "required-plugins" 3 times.(íĞg
+m	php:S1192 "XDefine a constant instead of duplicating this literal "astra-site-options-data" 3 times.(½øú,
+n	php:S1192¡"XDefine a constant instead of duplicating this literal "astra-post-data-mapping" 3 times.(•‰„ó
+^	php:S1192®"HDefine a constant instead of duplicating this literal "success" 3 times.(ŒèíÌ
+e	php:S1192ª"ODefine a constant instead of duplicating this literal "astra-site-url" 3 times.(±©…º
+j	php:S1192¨"ODefine a constant instead of duplicating this literal "license-status" 3 times.(Æ‘äÔùÿÿÿÿ
+F	php:S1481ä"0Remove this unused "$sidebar_id" local variable.(ƒ£ Â
+qphp:S101"XRename class "Astra_Sites_Importer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(à˜ïËÿÿÿÿÿ
+t	php:S1192¤"YDefine a constant instead of duplicating this literal "astra-enabled-extensions" 3 times.(›¹Ÿ¥üÿÿÿÿ
+T	php:S1854Í"9Remove this useless assignment to local variable '$data'.(íèµ£ûÿÿÿÿ
+B	php:S1481Û",Remove this unused "$status" local variable.(Ö­÷•
+o	php:S3776›"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(ş£°¾ûÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "WP_CLI" 26 times.(•ŠÆ¸úÿÿÿÿ
+Š	php:S1448"pClass "Astra_Sites_Importer" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(à˜ïËÿÿÿÿÿ
+J	php:S1066¯"/Merge this if statement with the enclosing one.(çêúªùÿÿÿÿ
+i	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(´õİ:
+j	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ê‡ì
+h	php:S1192Ÿ"MDefine a constant instead of duplicating this literal "_ajax_nonce" 12 times.(¹Ç¨Ñúÿÿÿÿ
+R	php:S1854’"<Remove this useless assignment to local variable '$message'.(‚öÆŸ
+s	php:S1192£"XDefine a constant instead of duplicating this literal "astra-site-wpforms-path" 3 times.(…úğŠşÿÿÿÿ
+h	php:S1192Ÿ"MDefine a constant instead of duplicating this literal "astra-sites" 30 times.(¹Ç¨Ñúÿÿÿÿ
+w	php:S1192§"\Define a constant instead of duplicating this literal "astra-site-taxonomy-mapping" 3 times.(€²Á½ÿÿÿÿÿ

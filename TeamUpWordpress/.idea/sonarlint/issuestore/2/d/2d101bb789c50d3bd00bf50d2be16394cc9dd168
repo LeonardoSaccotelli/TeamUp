@@ -1,0 +1,27 @@
+
+c	php:S1192±"HDefine a constant instead of duplicating this literal "members" 3 times.(í¦ùøÿÿÿÿ
+n	php:S3776$"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(‘‹Èàıÿÿÿÿ
+[	php:S1192U"FDefine a constant instead of duplicating this literal "value" 9 times.(¯×¤
+]	php:S1192)"HDefine a constant instead of duplicating this literal "orderby" 5 times.(ÌÉòÁ
+j	php:S1192•"ODefine a constant instead of duplicating this literal "user_tag_field" 7 times.(É†âõùÿÿÿÿ
+i	php:S1192 "SDefine a constant instead of duplicating this literal "get_term_adjust_id" 4 times.(ˆñ¤â
+b	php:S1192&"HDefine a constant instead of duplicating this literal "term_id" 3 times.(£û˜úÿÿÿÿ
+R	php:S1172´"7Remove the unused function parameter "$directory_data".(É¢¿äıÿÿÿÿ
+[	php:S1940L"FUse the opposite operator '!=' instead and remove complement operator.(š¶‰ß
+Z	php:S1192*"FDefine a constant instead of duplicating this literal "order" 4 times.(“ş²S
+]	php:S1192V"HDefine a constant instead of duplicating this literal "compare" 9 times.(øãßİ
+u	php:S1488„"_Immediately return this expression instead of assigning it to the temporary variable "$output".(óƒ¹ÿ
+_	php:S1192 "IDefine a constant instead of duplicating this literal "get_term" 4 times.(ˆñ¤â
+kphp:S101"WRename class "User_Tags_Shortcode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ù¾îà
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ıõ¼÷şÿÿÿÿ
+K	php:S1172¦"0Remove the unused function parameter "$post_id".(¿§¥Æüÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+b	php:S1192‘"LDefine a constant instead of duplicating this literal "um_user_tag" 8 times.(ÄÂŸ‘
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ıõ¼÷şÿÿÿÿ
+g	php:S11927"MDefine a constant instead of duplicating this literal "um-user-tags" 4 times.(Àï•¸ÿÿÿÿÿ
+d	php:S1192•"IDefine a constant instead of duplicating this literal "user_tag" 4 times.(É†âõùÿÿÿÿ
+I	php:S1172¦".Remove the unused function parameter "$class".(¿§¥Æüÿÿÿÿ
+`	php:S1192ã"JDefine a constant instead of duplicating this literal "tag_field" 5 times.(êêìÃ
+`	php:S1192'"KDefine a constant instead of duplicating this literal "user_field" 3 times.(óÏ‰Ş
+[	php:S1192)"FDefine a constant instead of duplicating this literal "count" 3 times.(ÌÉòÁ
+\	php:S1192("GDefine a constant instead of duplicating this literal "number" 3 times.(“ñ‚Ô

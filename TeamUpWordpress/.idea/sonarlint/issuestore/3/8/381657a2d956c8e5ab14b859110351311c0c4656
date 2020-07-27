@@ -1,0 +1,8 @@
+
+b	php:S1192~"MDefine a constant instead of duplicating this literal "border-color" 4 times.(¶ª›–
+e	php:S1192"QDefine a constant instead of duplicating this literal "background-color" 6 times.(õóÙv
+[	php:S1192s"FDefine a constant instead of duplicating this literal "color" 9 times.(Œ¸¬É
+n	php:S37767"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(¾Õî…þÿÿÿÿ
+I	php:S3801"4Refactor this function to use "return" consistently.(Õ‡øÂ
+b	php:S1192:"HDefine a constant instead of duplicating this literal "content" 4 times.(–¢¦Îûÿÿÿÿ
+8php:S125e"Remove this commented out code.(Ç²¶àøÿÿÿÿ

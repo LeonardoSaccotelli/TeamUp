@@ -1,0 +1,12 @@
+
+c	php:S1192Ş"MDefine a constant instead of duplicating this literal "show_in_rest" 3 times.(ÏÊÅ¦
+Lphp:S131Ñ"7Add a "case default" clause to this "switch" statement.(›”ş¯
+b	php:S1192"GDefine a constant instead of duplicating this literal "object" 3 times.(æ¼¤…ùÿÿÿÿ
+b	php:S11926"HDefine a constant instead of duplicating this literal "schema" 12 times.(ê‚™›øÿÿÿÿ
+g	php:S1192ñ"LDefine a constant instead of duplicating this literal "description" 3 times.(¶æ¹şÿÿÿÿ
+xphp:S101"_Rename class "WP_REST_Settings_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ù›™Õıÿÿÿÿ
+a	php:S1192Ÿ"KDefine a constant instead of duplicating this literal "properties" 5 times.(£¥©Î
+b	php:S1192g"HDefine a constant instead of duplicating this literal "default" 4 times.(ÍğÛƒşÿÿÿÿ
+o	php:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Úµ§ùÿÿÿÿ
+c	php:S1301Ñ"MReplace this "switch" statement with "if" statements to increase readability.(›”ş¯
+f	php:S1192g"LDefine a constant instead of duplicating this literal "option_name" 5 times.(ÍğÛƒşÿÿÿÿ

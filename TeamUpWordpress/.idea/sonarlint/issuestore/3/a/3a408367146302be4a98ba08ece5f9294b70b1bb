@@ -1,0 +1,4 @@
+
+lphp:S101"XRename class "File_Upload_Upgrader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´Ö“
+j	php:S11928"UDefine a constant instead of duplicating this literal "Please select a file" 3 times.(ƒå¤¬
+[	php:S1192C"FDefine a constant instead of duplicating this literal "error" 4 times.(àæı

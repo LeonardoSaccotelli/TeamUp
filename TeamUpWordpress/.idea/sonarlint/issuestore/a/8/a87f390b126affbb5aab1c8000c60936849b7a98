@@ -1,0 +1,11 @@
+
+f	php:S1142†"PReduce the number of returns of this function 10, down to the maximum allowed 3.(ã×ıÕ
+j	php:S1142õ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(°ˆÓ…şÿÿÿÿ
+J	php:S1135¤"4Complete the task associated to this "TODO" comment.(õãÕ
+E	php:S1066¾"/Merge this if statement with the enclosing one.(ãôÍª
+]	php:S1192Õ"HDefine a constant instead of duplicating this literal "headers" 5 times.(È¿›?
+c	php:S1192§"HDefine a constant instead of duplicating this literal "http://" 3 times.(Æúèüúÿÿÿÿ
+_	php:S1192ü"IDefine a constant instead of duplicating this literal "response" 6 times.(¼ÔıØ
+b	php:S1192§"GDefine a constant instead of duplicating this literal "scheme" 3 times.(ö¬§éüÿÿÿÿ
+j	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ã×ıÕ
+g	php:S1192/"SDefine a constant instead of duplicating this literal "reject_unsafe_urls" 4 times.(á˜8

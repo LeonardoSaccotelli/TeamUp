@@ -1,0 +1,76 @@
+
+e	php:S1192¾"JDefine a constant instead of duplicating this literal "_um_row_1" 3 times.(âªùÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck¥"Replace this <i> tag by <em>.(“ïÕ
+Ephp:S121ò"0Add curly braces around the nested statement(s).(­±²
+DWeb:BoldAndItalicTagsCheck÷"Replace this <i> tag by <em>.(’®ĞŠ
+Jphp:S121„"0Add curly braces around the nested statement(s).(£˜„õûÿÿÿÿ
+j	php:S1192›"ODefine a constant instead of duplicating this literal "manage_options" 4 times.(“·ˆøÿÿÿÿ
+u	php:S1192"`Define a constant instead of duplicating this literal "um_admin_pre_save_field_to_form" 3 times.(¨ë œ
+[	php:S1192š"FDefine a constant instead of duplicating this literal "title" 5 times.(—Ì©
+Ephp:S121Œ"0Add curly braces around the nested statement(s).(¼«­¨
+IWeb:BoldAndItalicTagsCheck‰"Replace this <i> tag by <em>.(°Ëòøÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÂ"Replace this <i> tag by <em>.(Ï¯Œ¦
+DWeb:BoldAndItalicTagsCheckı"Replace this <i> tag by <em>.(¥±©
+9php:S125Î"Remove this commented out code.(ñÜİöùÿÿÿÿ
+j	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‘¯Õà
+]	php:S1192Ø"GDefine a constant instead of duplicating this literal "in_row" 4 times.(ô«Â°
+DWeb:BoldAndItalicTagsCheck¨"Replace this <i> tag by <em>.(ªû­¤
+DWeb:BoldAndItalicTagsCheck‡"Replace this <i> tag by <em>.(—›Œ˜
+DWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(’®ĞŠ
+n	php:S1192¡"SDefine a constant instead of duplicating this literal "conditional_value1" 4 times.(ì„º¦ÿÿÿÿÿ
+a	php:S1192ğ"KDefine a constant instead of duplicating this literal "in_sub_row" 4 times.(î›
+Ephp:S121ˆ"0Add curly braces around the nested statement(s).(ì’£²
+h	php:S1192~"NDefine a constant instead of duplicating this literal "custom_fields" 4 times.(«…÷Ôüÿÿÿÿ
+t	php:S1192œ"^Define a constant instead of duplicating this literal "Please login as administrator" 3 times.(Æ™Óï
+D	php:S1066K"/Merge this if statement with the enclosing one.(„İŞù
+DWeb:BoldAndItalicTagsCheck™"Replace this <i> tag by <em>.(ù®ú
+l	php:S1192Õ"QDefine a constant instead of duplicating this literal "ultimate-member" 26 times.(ñàÊÃşÿÿÿÿ
+j	php:S1192İ"TDefine a constant instead of duplicating this literal "_conditional_action" 3 times.(’Â„
+DWeb:BoldAndItalicTagsCheck×"Replace this <i> tag by <em>.(•Ó…ó
+IWeb:BoldAndItalicTagsCheck™"Replace this <i> tag by <em>.(åºüÿÿÿÿÿ
+	php:S1192!"eDefine a constant instead of duplicating this literal "um_admin_field_update_error_handling" 3 times.(Ê¼¡øÿÿÿÿ
+i	php:S1192à"SDefine a constant instead of duplicating this literal "_conditional_value" 3 times.(Óç¾û
+n	php:S1192Ş"SDefine a constant instead of duplicating this literal "_conditional_field" 3 times.(‡Ÿü·ûÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckü"Replace this <i> tag by <em>.(åºüÿÿÿÿÿ
+i	php:S3776-"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(À’ªÊ
+h	php:S1192œ"RDefine a constant instead of duplicating this literal "conditional_value" 4 times.(¶ó¾İ
+d	php:S1192ˆ"IDefine a constant instead of duplicating this literal "position" 4 times.(½¨êÛıÿÿÿÿ
+s	php:S1192 "^Define a constant instead of duplicating this literal "um_admin_pre_save_fields_hook" 3 times.(–êş
+E	php:S1066ã"/Merge this if statement with the enclosing one.(ÑßË¸
+o	php:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 97 to the 15 allowed.(÷µ˜Êÿÿÿÿÿ
+Pphp:S131A"7Add a "case default" clause to this "switch" statement.(¾‘ò»úÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckŸ"Replace this <i> tag by <em>.(ß¿¨Úşÿÿÿÿ
+a	php:S1192–"FDefine a constant instead of duplicating this literal "group" 3 times.(­œŠ®øÿÿÿÿ
+Dphp:S121î"0Add curly braces around the nested statement(s).(„·÷
+_	php:S1192“"IDefine a constant instead of duplicating this literal "in_group" 4 times.(¤¡ÈÆ
+DWeb:BoldAndItalicTagsCheckÎ"Replace this <i> tag by <em>.(ÿå²Ä
+4php:S125¬"Remove this commented out code.(¢²Šï
+9php:S125¥"Remove this commented out code.(¾¾‰œùÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck—"Replace this <i> tag by <em>.(À…©à
+Ephp:S121Æ"0Add curly braces around the nested statement(s).(°µœ
+[	php:S1192E"FDefine a constant instead of duplicating this literal "error" 6 times.(ê®œ÷
+IWeb:BoldAndItalicTagsCheckÏ"Replace this <i> tag by <em>.(°Ëòøÿÿÿÿ
+k	php:S3776÷"URefactor this function to reduce its Cognitive Complexity from 123 to the 15 allowed.(”¶ªÓ
+IWeb:BoldAndItalicTagsCheckÕ"Replace this <i> tag by <em>.(ñàÊÃşÿÿÿÿ
+^	php:S1192•"HDefine a constant instead of duplicating this literal "metakey" 3 times.(‘±«Â
+`	php:S1192“"JDefine a constant instead of duplicating this literal "in_column" 3 times.(¤¡ÈÆ
+Jphp:S121ş"0Add curly braces around the nested statement(s).(ĞË§…üÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+`	php:S1192š"KDefine a constant instead of duplicating this literal "conditions" 9 times.(•“3
+Jphp:S121Ê"0Add curly braces around the nested statement(s).(ƒ§Â„øÿÿÿÿ
+q	php:S1192ß"VDefine a constant instead of duplicating this literal "_conditional_operator" 3 times.(‡èåÃûÿÿÿÿ
+c	php:S1192¬"HDefine a constant instead of duplicating this literal "content" 3 times.(ŒÔ¨Óùÿÿÿÿ
+d	php:S1192Á"IDefine a constant instead of duplicating this literal "sub_rows" 3 times.(¬»çÇıÿÿÿÿ
+o	php:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(äÔµ­ùÿÿÿÿ
+n	php:S1192«"SDefine a constant instead of duplicating this literal "conditional_value3" 4 times.(—©¥ôşÿÿÿÿ
+i	php:S1192°"SDefine a constant instead of duplicating this literal "conditional_value4" 4 times.(’Âçê
+Ephp:S121Î"0Add curly braces around the nested statement(s).(ëñÎĞ
+DWeb:BoldAndItalicTagsCheckÑ"Replace this <i> tag by <em>.(æíÚ°
+DWeb:BoldAndItalicTagsCheck¡"Replace this <i> tag by <em>.(”‚á÷
+DWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(›ŠÆš
+n	php:S1192¦"SDefine a constant instead of duplicating this literal "conditional_value2" 4 times.(ğµôøÿÿÿÿ
+Ephp:S121À"0Add curly braces around the nested statement(s).(­ä¸©
+D	php:S1125×")Remove the literal "false" boolean value.(Øæ”Æùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckâ"Replace this <i> tag by <em>.(ø‰”Ëøÿÿÿÿ
+jphp:S101"QRename class "Admin_Builder" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ˆÕÇ³øÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÍ"Replace this <i> tag by <em>.(—›Œ˜

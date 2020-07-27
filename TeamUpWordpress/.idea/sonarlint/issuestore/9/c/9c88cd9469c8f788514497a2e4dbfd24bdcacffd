@@ -1,0 +1,16 @@
+
+~	php:S1488Ò"cImmediately return this expression instead of assigning it to the temporary variable "$doc_config".(•³öàüÿÿÿÿ
+\	php:S1117•"GRename "$cpt" which has the same name as the field declared at line 75.(îÛ-
+J	php:S1066ñ"/Merge this if statement with the enclosing one.(Èıì„ıÿÿÿÿ
+`	php:S1192â"KDefine a constant instead of duplicating this literal "post_title" 4 times.(ÿŠ®\
+nphp:S101"URename class "Documents_Manager" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¨¨‡÷ûÿÿÿÿ
+r	php:S1192V"]Define a constant instead of duplicating this literal "elementor/documents/register" 3 times.(Ç´¬õ
+[php:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(¥šÄÅ
+‡	php:S1448"mClass "Documents_Manager" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(¨¨‡÷ûÿÿÿÿ
+b	php:S1192ê"GDefine a constant instead of duplicating this literal "status" 4 times.(Äıœµùÿÿÿÿ
+j	php:S1142—"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ŒØ´­ıÿÿÿÿ
+d	php:S1117”"IRename "$types" which has the same name as the field declared at line 37.(±ñ¸øÿÿÿÿ
+z	php:S1488œ"dImmediately return this expression instead of assigning it to the temporary variable "$return_data".(ëĞæ˜
+`php:S112à"FDefine and throw a dedicated exception instead of using a generic one.(‰Éêôûÿÿÿÿ
+d	php:S1192ø"IDefine a constant instead of duplicating this literal "settings" 4 times.(¸µƒõıÿÿÿÿ
+`php:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(‰Éêôûÿÿÿÿ

@@ -1,0 +1,31 @@
+
+e	php:S1192N"KDefine a constant instead of duplicating this literal "size_units" 9 times.(ã×Îûıÿÿÿÿ
+a	php:S1192ª"KDefine a constant instead of duplicating this literal "condition" 13 times.(Ä‹
+c	php:S1192v"IDefine a constant instead of duplicating this literal "default" 14 times.(äÜµéùÿÿÿÿ
+c	php:S1192…"MDefine a constant instead of duplicating this literal "prefix_class" 7 times.(â‹â¹
+`	php:S1192:"KDefine a constant instead of duplicating this literal "elementor" 60 times.(±ŸÚå
+]	php:S1192¤"HDefine a constant instead of duplicating this literal "options" 6 times.(ò–»6
+d	php:S1192j"JDefine a constant instead of duplicating this literal "separator" 3 times.(¾†üÿÿÿÿÿ
+_	php:S1192×"IDefine a constant instead of duplicating this literal "selector" 6 times.(ìã€À
+\	php:S1192ñ"FDefine a constant instead of duplicating this literal "range" 7 times.(÷¦ç£
+i	php:S1192š"SDefine a constant instead of duplicating this literal "frontend_available" 3 times.(‘İĞ€
+a	php:S1192E"LDefine a constant instead of duplicating this literal "render_type" 6 times.(Å±£ä
+œphp:S1386"‚This function "_register_controls" has 647 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+e	php:S1192O"KDefine a constant instead of duplicating this literal "selectors" 14 times.(Ú‘›æúÿÿÿÿ
+b	php:S1192y"HDefine a constant instead of duplicating this literal "classes" 3 times.(¶½‡–ÿÿÿÿÿ
+f	php:S1192×"KDefine a constant instead of duplicating this literal "_position!" 7 times.(ÛÜÓœøÿÿÿÿ
+f	php:S1192ç"KDefine a constant instead of duplicating this literal "elementor-" 4 times.(àÉš”øÿÿÿÿ
+~	php:S1192P"jDefine a constant instead of duplicating this literal "{{WRAPPER}} > .elementor-widget-container" 7 times.(»N
+a	php:S1192j"GDefine a constant instead of duplicating this literal "before" 3 times.(¾†üÿÿÿÿÿ
+a	php:S1192õ"FDefine a constant instead of duplicating this literal "start" 4 times.(èïÆşÿÿÿÿ
+b	php:S1192¦"GDefine a constant instead of duplicating this literal "Normal" 3 times.(‰‘¥úÿÿÿÿ
+_	php:S1192Ô"IDefine a constant instead of duplicating this literal "label_on" 3 times.(†½øñ
+[	php:S1192w"FDefine a constant instead of duplicating this literal "title" 9 times.(åèòç
+a	php:S1192h"LDefine a constant instead of duplicating this literal "{{WRAPPER}}" 6 times.(ùÈ¶ã
+\	php:S1192:"GDefine a constant instead of duplicating this literal "label" 36 times.(±ŸÚå
+‰	php:S1192è"nDefine a constant instead of duplicating this literal "{{WRAPPER}}:hover .elementor-widget-container" 3 times.(ßÚšÜÿÿÿÿÿ
+jphp:S101"QRename class "Widget_Common" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(â¾™—ıÿÿÿÿ
+b	php:S1192Ö"MDefine a constant instead of duplicating this literal "return_value" 3 times.(‘Ÿô<
+`	php:S1192Õ"JDefine a constant instead of duplicating this literal "label_off" 3 times.(§À¿Ş
+b	php:S1192‹"GDefine a constant instead of duplicating this literal "Offset" 4 times.(Øô™åÿÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "initial" 4 times.(³¥‘³şÿÿÿÿ

@@ -1,0 +1,10 @@
+
+j	php:S1142¥"OReduce the number of returns of this function 6, down to the maximum allowed 3.(äúİ¥şÿÿÿÿ
+fphp:S101"RRename class "WP_Http_Cookie" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©™ƒ¬
+o	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(äúİ¥şÿÿÿÿ
+N	php:S1135"4Complete the task associated to this "TODO" comment.(¸ş¬çşÿÿÿÿ
+n	php:S3776^"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ñÈ½âùÿÿÿÿ
+c	php:S1117µ"HRename "$path" which has the same name as the field declared at line 53.(éÙ³Ğıÿÿÿÿ
+e	php:S1117·"JRename "$domain" which has the same name as the field declared at line 61.(óƒ­Èşÿÿÿÿ
+Z	php:S3358±"DExtract this nested ternary operation into an independent statement.(ˆâÙİ
+^	php:S1192‚"HDefine a constant instead of duplicating this literal "expires" 6 times.(¬ÈŠ

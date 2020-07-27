@@ -1,0 +1,17 @@
+
+`	php:S11927"FDefine a constant instead of duplicating this literal "login" 4 times.(Í¼•£øÿÿÿÿ
+c	php:S1192‰"NDefine a constant instead of duplicating this literal "um_user_login" 3 times.(Çè–Y
+G	php:S1481"-Remove this unused "$form_id" local variable.(ŠÏğÄúÿÿÿÿ
+b	php:S1192"HDefine a constant instead of duplicating this literal "form_id" 3 times.(ŠÏğÄúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+n	php:S3776	"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(áÕ¥èøÿÿÿÿ
+h	php:S1192"NDefine a constant instead of duplicating this literal "user_password" 7 times.(°³Øåøÿÿÿÿ
+e	php:S1192"KDefine a constant instead of duplicating this literal "user_email" 7 times.(ßğİ»ıÿÿÿÿ
+c	php:S1192"IDefine a constant instead of duplicating this literal "username" 9 times.(Û¨³Îøÿÿÿÿ
+>	php:S1481"*Remove this unused "$mode" local variable.(Ë™ı
+H	php:S1481
+".Remove this unused "$is_email" local variable.(Û–Öãıÿÿÿÿ
+f	php:S1192"QDefine a constant instead of duplicating this literal "ultimate-member" 13 times.(—ç¾ª
+_	php:S1192"KDefine a constant instead of duplicating this literal "user_login" 6 times.(Ñ­“	
+Lphp:S131‚"7Add a "case default" clause to this "switch" statement.(âÛŸˆ
+f	php:S1192µ"KDefine a constant instead of duplicating this literal "rememberme" 4 times.(ˆ¡•şÿÿÿÿ

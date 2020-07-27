@@ -1,0 +1,36 @@
+
+e	php:S1192ê"JDefine a constant instead of duplicating this literal "quickedit" 3 times.(í•×êÿÿÿÿÿ
+a	php:S1192¢"KDefine a constant instead of duplicating this literal "delete_all" 3 times.(ÕÊçİ
+]	php:S1192ã"GDefine a constant instead of duplicating this literal "delete" 3 times.(áÖÇ®
+e	php:S1192Ó"JDefine a constant instead of duplicating this literal "Unapprove" 3 times.(­åŞ‡şÿÿÿÿ
+a	php:S1192r"GDefine a constant instead of duplicating this literal "offset" 4 times.(óŒ¾ øÿÿÿÿ
+IWeb:TableWithoutCaptionCheckú" Add a description to this table.(ÚË˜å
+b	php:S1192¬"GDefine a constant instead of duplicating this literal "</div>" 5 times.(˜ñÄøÿÿÿÿ
+php:S138É"‚This function "handle_row_actions" has 157 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ª¡’Òøÿÿÿÿ
+;	Web:S5256ú"%Add "<th>" headers to this "<table>".(ÚË˜å
+j	php:S3776×"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÎÙ›«
+b	php:S1192]"HDefine a constant instead of duplicating this literal "orderby" 3 times.(½ç¡Ãşÿÿÿÿ
+c	php:S1192Ö"HDefine a constant instead of duplicating this literal "Approve" 3 times.(ö¤á÷øÿÿÿÿ
+[	php:S1192^"FDefine a constant instead of duplicating this literal "order" 3 times.(‚ßµ®
+c	php:S1192Q"IDefine a constant instead of duplicating this literal "approved" 7 times.(¥¯±øÿÿÿÿ
+]	php:S11922"IDefine a constant instead of duplicating this literal "comments" 7 times.(œí†{
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ª¡’Òøÿÿÿÿ
+]	php:S1192["HDefine a constant instead of duplicating this literal "user_id" 6 times.(èä°Î
+]	php:S1192y"HDefine a constant instead of duplicating this literal "approve" 6 times.(şß¡ï
+d	php:S1192Y"JDefine a constant instead of duplicating this literal "post_type" 3 times.(ÇÑùóûÿÿÿÿ
+9php:S125±"Remove this commented out code.(£®»´şÿÿÿÿ
+b	php:S1192U"MDefine a constant instead of duplicating this literal "comment_type" 3 times.(Éû”à
+\	php:S1192d"GDefine a constant instead of duplicating this literal "number" 4 times.(„‡¼Æ
+a	php:S1192é"FDefine a constant instead of duplicating this literal "reply" 3 times.(ÃÕ°øÿÿÿÿ
+d	php:S1192P"ODefine a constant instead of duplicating this literal "comment_status" 4 times.(şØ›±
+b	php:S11923"HDefine a constant instead of duplicating this literal "comment" 8 times.(‹Ûëşÿÿÿÿ
+w	php:S1488ş"\Immediately return this expression instead of assigning it to the temporary variable "$out".(¢µˆşÿÿÿÿ
+e	php:S1192Ó"JDefine a constant instead of duplicating this literal "unapprove" 5 times.(­åŞ‡şÿÿÿÿ
+a	php:S1192Q"GDefine a constant instead of duplicating this literal "trash" 15 times.(¥¯±øÿÿÿÿ
+†	php:S1448"rClass "WP_Comments_List_Table" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(Â¯ÓI
+\	php:S11925"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+d	php:S1192Q"JDefine a constant instead of duplicating this literal "moderated" 7 times.(¥¯±øÿÿÿÿ
+^	php:S1192İ"HDefine a constant instead of duplicating this literal "untrash" 4 times.(ŞÀß
+]	php:S1192ß"GDefine a constant instead of duplicating this literal "unspam" 4 times.(õŸÆ€
+mphp:S101"ZRename class "WP_Comments_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Â¯ÓI
+n	php:S3776M"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÂŞû©úÿÿÿÿ

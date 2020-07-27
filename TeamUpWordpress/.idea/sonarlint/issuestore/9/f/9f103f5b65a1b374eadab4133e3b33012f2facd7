@@ -1,0 +1,25 @@
+
+h	php:S1301α"MReplace this "switch" statement with "if" statements to increase readability.(„™όύÿÿÿÿ
+h	php:S1117©"MRename "$timezone" which has the same name as the field declared at line 302.(¦Οψÿÿÿÿ
+_	php:S1117η"JRename "$month" which has the same name as the field declared at line 157.(Ό•²
+_	php:S1117"JRename "$month" which has the same name as the field declared at line 157.(Ό•²
+]	php:S1117"GRename "$day" which has the same name as the field declared at line 68.(χιμª
+c	php:S1192"MDefine a constant instead of duplicating this literal "([0-9]{1,2})" 3 times.(χιμª
+f	php:S1192…"KDefine a constant instead of duplicating this literal "([0-9]{2})" 4 times.(νέ¥ώÿÿÿÿ
+a	php:S1192¦"FDefine a constant instead of duplicating this literal "april" 3 times.(ρΡ΄ÿÿÿÿÿ
+]	php:S1117©"GRename "$day" which has the same name as the field declared at line 68.(χιμª
+i	php:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶°αN
+o	php:S3776Η"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰βωÿÿÿÿ
+e	php:S1117…"JRename "$month" which has the same name as the field declared at line 157.(νέ¥ώÿÿÿÿ
+1	php:S3626έ"Remove this redundant jump.(Ι©ƒ
+qphp:S1014"XRename class "SimplePie_Parse_Date" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ζ·ρϊÿÿÿÿ
+_	php:S1192΄"IDefine a constant instead of duplicating this literal "november" 4 times.(΄Εª
+]	php:S1117θ"GRename "$day" which has the same name as the field declared at line 68.(χιμª
+h	php:S1117"MRename "$timezone" which has the same name as the field declared at line 302.(Ύη•Τώÿÿÿÿ
+`	php:S1117Ό"JRename "$month" which has the same name as the field declared at line 157.(ÿ‘ƒ‚
+c	php:S1117¬"MRename "$timezone" which has the same name as the field declared at line 302.(οω†Ι
+z	php:S1488ψ"_Immediately return this expression instead of assigning it to the temporary variable "$output".(ιΖ™σύÿÿÿÿ
+b	php:S1117…"GRename "$day" which has the same name as the field declared at line 68.(νέ¥ώÿÿÿÿ
+d	php:S1192¶"IDefine a constant instead of duplicating this literal "december" 3 times.(νΘξΓÿÿÿÿÿ
+`	php:S1192°"JDefine a constant instead of duplicating this literal "september" 3 times.(±ª­ς
+Qphp:S131α"7Add a "case default" clause to this "switch" statement.(„™όύÿÿÿÿ

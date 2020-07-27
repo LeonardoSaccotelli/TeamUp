@@ -1,0 +1,8 @@
+
+i	php:S3776@"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(È£­¢
+e	php:S1192"PDefine a constant instead of duplicating this literal "ultimate-member" 9 times.(¤î‘í
+F	php:S1172"0Remove the unused function parameter "$user_id".(ë­øÅ
+Iphp:S121"0Add curly braces around the nested statement(s).(èÉ¹êûÿÿÿÿ
+[	php:S1192"FDefine a constant instead of duplicating this literal "label" 9 times.(¤î‘í
+8php:S125"Remove this commented out code.(çÎ›Òşÿÿÿÿ
+d	php:S1192"ODefine a constant instead of duplicating this literal "account_status" 6 times.(¶í¡ü

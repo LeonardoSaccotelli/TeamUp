@@ -1,0 +1,16 @@
+
+rphp:S101"^Rename class "WP_Customize_Media_Control" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æ¯úè
+[	php:S1192]"FDefine a constant instead of duplicating this literal "image" 3 times.(£Ã³
+]	php:S1192à"GDefine a constant instead of duplicating this literal "change" 4 times.(ò¢ÁØ
+j	php:S1142Ø"OReduce the number of returns of this function 4, down to the maximum allowed 3.( ˆ‰ùÿÿÿÿ
+b	php:S1192â"GDefine a constant instead of duplicating this literal "Remove" 4 times.(ş‰¤†øÿÿÿÿ
+b	php:S1192ß"GDefine a constant instead of duplicating this literal "select" 4 times.(ºÜõùÿÿÿÿ
+^	php:S1192Ú"HDefine a constant instead of duplicating this literal "default" 5 times.(õŞÛ¼
+c	php:S1117Ú"MRename "$mime_type" which has the same name as the field declared at line 32.(õŞÛ¼
+]	php:S1117]"HRename "$type" which has the same name as the field declared at line 24.(£Ã³
+^	php:S1192á"HDefine a constant instead of duplicating this literal "Default" 4 times.(²·÷Ù
+g	php:S1192ã"LDefine a constant instead of duplicating this literal "placeholder" 4 times.(•ÁÅıÿÿÿÿ
+c	php:S1192å"MDefine a constant instead of duplicating this literal "frame_button" 4 times.(ŞÇ÷”
+b	php:S1192â"GDefine a constant instead of duplicating this literal "remove" 4 times.(ş‰¤†øÿÿÿÿ
+b	php:S1192ä"LDefine a constant instead of duplicating this literal "frame_title" 4 times.(Ñ×íâ
+I	Web:S4084¯"3Add subtitles and description files for this video.(åå›õ

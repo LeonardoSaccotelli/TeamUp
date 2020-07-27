@@ -1,0 +1,31 @@
+
+m	php:S1192•"RDefine a constant instead of duplicating this literal "clear_destination" 4 times.(Îòùÿÿÿÿ
+I	php:S1135î"4Complete the task associated to this "TODO" comment.(ÚŠ©
+q	php:S1192Õ"VDefine a constant instead of duplicating this literal "upgrader_post_install" 6 times.(Ñ»àîûÿÿÿÿ
+i	php:S1192–"NDefine a constant instead of duplicating this literal "clear_working" 4 times.(»‚ÈÎÿÿÿÿÿ
+a	php:S1192”"LDefine a constant instead of duplicating this literal "destination" 4 times.(ÂÖÉN
+e	php:S1117"JRename "$result" which has the same name as the field declared at line 30.(ÕëÀ÷ùÿÿÿÿ
+d	php:S1142Í"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¦åÓ
+`	php:S1192."KDefine a constant instead of duplicating this literal "up_to_date" 3 times.(¤Öšƒ
+d	php:S1142`"OReduce the number of returns of this function 4, down to the maximum allowed 3.(è’·í
+u	php:S1192Ø"ZDefine a constant instead of duplicating this literal "upgrader_process_complete" 5 times.(Ÿ©”úÿÿÿÿ
+fphp:S101"RRename class "Theme_Upgrader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷îÙå
+k	php:S1192Ş"UDefine a constant instead of duplicating this literal "incompatible_archive" 3 times.(›‹óë
+h	php:S1192Í"SDefine a constant instead of duplicating this literal "clear_update_cache" 8 times.(ß…ø(
+E	php:S1066ï"/Merge this if statement with the enclosing one.(ñ¨í¶
+]	php:S1192ã"GDefine a constant instead of duplicating this literal "action" 3 times.(©¨œğ
+q	php:S1192Ø"VDefine a constant instead of duplicating this literal "wp_clean_themes_cache" 4 times.(Ÿ©”úÿÿÿÿ
+k	php:S1192›"UDefine a constant instead of duplicating this literal "upgrader_pre_install" 4 times.(¼õô¿
+t	php:S1192"_Define a constant instead of duplicating this literal "install_theme_complete_actions" 4 times.(æèıü
+]	php:S1192â"GDefine a constant instead of duplicating this literal "theme" 11 times.(¼ò„¶
+c	php:S1192“"HDefine a constant instead of duplicating this literal "package" 6 times.(ÌæİÀøÿÿÿÿ
+e	php:S1192›"ODefine a constant instead of duplicating this literal "current_before" 4 times.(¼õô¿
+f	php:S1192á"KDefine a constant instead of duplicating this literal "hook_extra" 3 times.(Ó›üÍùÿÿÿÿ
+d	php:S1192œ"NDefine a constant instead of duplicating this literal "current_after" 4 times.(â²Ş¤
+j	php:S1142á"OReduce the number of returns of this function 4, down to the maximum allowed 3.(üÉÿ†şÿÿÿÿ
+v	php:S1192"[Define a constant instead of duplicating this literal "upgrader_clear_destination" 4 times.(ŸÇşÒøÿÿÿÿ
+^	php:S1192t"IDefine a constant instead of duplicating this literal "Template" 5 times.(ÀÁ¬
+j	php:S11926"PDefine a constant instead of duplicating this literal "process_success" 4 times.(İÿÎ”şÿÿÿÿ
+l	php:S1192Ä"QDefine a constant instead of duplicating this literal "destination_name" 4 times.(ƒª‹²şÿÿÿÿ
+9php:S125Š"Remove this commented out code.(Ö²Ãæùÿÿÿÿ
+l	php:S1192"QDefine a constant instead of duplicating this literal "delete_old_theme" 4 times.(ŸÇşÒøÿÿÿÿ

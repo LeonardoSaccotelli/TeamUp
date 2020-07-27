@@ -1,0 +1,20 @@
+
+E	php:S1066"/Merge this if statement with the enclosing one.(êê×‘
+c	php:S1192Š"MDefine a constant instead of duplicating this literal "display_name" 6 times.(½Å´µ
+I	php:S1066g"/Merge this if statement with the enclosing one.(»•¾–üÿÿÿÿ
+B	php:S1481ƒ"'Remove this unused "$k" local variable.(˜ôÊ™ıÿÿÿÿ
+D	php:S1172y"/Remove the unused function parameter "$status".(ÖšŞ
+c	php:S1192"IDefine a constant instead of duplicating this literal "follower" 5 times.(”¼¾ÿşÿÿÿÿ
+ƒ	php:S1192"iDefine a constant instead of duplicating this literal "Only people I follow can view my profile" 3 times.(¬Ç•Ôûÿÿÿÿ
+D	php:S1066a"/Merge this if statement with the enclosing one.(šÇÛˆ
+d	php:S1192"JDefine a constant instead of duplicating this literal "Followers" 4 times.(”¼¾ÿşÿÿÿÿ
+?	php:S1125µ")Remove the literal "false" boolean value.(Åäè¿
+?	php:S1125—")Remove the literal "false" boolean value.(Åäè¿
+h	php:S1192"NDefine a constant instead of duplicating this literal "um-followers" 12 times.(¬Ç•Ôûÿÿÿÿ
+z	php:S1488"`Immediately return this expression instead of assigning it to the temporary variable "$options".(Ö‚¯‹şÿÿÿÿ
+e	php:S1142Ï"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ßş´´
+E	php:S1066ú"/Merge this if statement with the enclosing one.(‚Õì¯
+v	php:S1488ê"`Immediately return this expression instead of assigning it to the temporary variable "$classes".(ßù³¿
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+c	php:S1192"IDefine a constant instead of duplicating this literal "followed" 5 times.(¬Ç•Ôûÿÿÿÿ
+i	php:S3776y"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÖšŞ

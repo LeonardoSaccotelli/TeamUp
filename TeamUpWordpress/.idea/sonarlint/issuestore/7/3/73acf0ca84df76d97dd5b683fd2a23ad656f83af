@@ -1,0 +1,46 @@
+
+i	php:S1192ƒ"SDefine a constant instead of duplicating this literal "include_unapproved" 3 times.(ÖòÕ
+]	php:S1192„"GDefine a constant instead of duplicating this literal "fields" 6 times.(æßÙÚ
+^	php:S1192û"HDefine a constant instead of duplicating this literal "comment" 8 times.(ï¶Å
+”php:S138÷"This function "get_comment_ids" has 303 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(äÙÅ•
+b	php:S1192"GDefine a constant instead of duplicating this literal "parent" 4 times.(«°–¡ûÿÿÿÿ
+j	php:S1192“"TDefine a constant instead of duplicating this literal "post_author__not_in" 4 times.(³Ìíë
+B	php:S1481š"'Remove this unused "$k" local variable.(§´Ã×øÿÿÿÿ
+k	php:S1192‡"PDefine a constant instead of duplicating this literal "comment__not_in" 4 times.(”ìÚ¥ùÿÿÿÿ
+j	php:S1142æ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(·İ¯Øşÿÿÿÿ
+h	php:S1192¨"MDefine a constant instead of duplicating this literal "hierarchical" 5 times.(»í•Ÿÿÿÿÿÿ
+f	php:S1192"KDefine a constant instead of duplicating this literal "parent__in" 6 times.(Ã¯¢Ãıÿÿÿÿ
+k	php:S3776÷"URefactor this function to reduce its Cognitive Complexity from 143 to the 15 allowed.(äÙÅ•
+b	php:S1192Š"GDefine a constant instead of duplicating this literal "offset" 3 times.(»Ù“úÿÿÿÿ
+b	php:S1192˜"MDefine a constant instead of duplicating this literal "/^\s*AND\s*/" 3 times.(ÕĞÿI
+f	php:S1192€"KDefine a constant instead of duplicating this literal "author_url" 4 times.(¯ˆöûıÿÿÿÿ
+o	php:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(·İ¯Øşÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "karma" 4 times.(´ÈÂ‹
+h	php:S1192ÿ"MDefine a constant instead of duplicating this literal "author_email" 4 times.(ğöäÁúÿÿÿÿ
+c	php:S11926"IDefine a constant instead of duplicating this literal "orderby" 12 times.(Øğ‘Ëøÿÿÿÿ
+^	php:S1192¡"HDefine a constant instead of duplicating this literal "user_id" 8 times.(´†ØÔ
+\	php:S1192£"FDefine a constant instead of duplicating this literal "count" 5 times.(ê’‚â
+hphp:S101"TRename class "WP_Comment_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ç’„¡
+a	php:S11927"GDefine a constant instead of duplicating this literal "limits" 6 times.(ÁŸÜ¤ùÿÿÿÿ
+u	php:S1192ª"ZDefine a constant instead of duplicating this literal "update_comment_meta_cache" 3 times.(íáºïüÿÿÿÿ
+a	php:S1192û"KDefine a constant instead of duplicating this literal "comment_ID" 4 times.(ï¶Å
+l	php:S1117ô"VRename "$meta_query_clauses" which has the same name as the field declared at line 41.(€‹¡ó
+g	php:S1117ä"LRename "$comments" which has the same name as the field declared at line 98.(Ñ­“±üÿÿÿÿ
+o	php:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ô£¢§ıÿÿÿÿ
+_	php:S1192–"IDefine a constant instead of duplicating this literal "post__in" 4 times.(”Ò§º
+d	php:S1192¤"IDefine a constant instead of duplicating this literal "meta_key" 4 times.(ñ¶ Íüÿÿÿÿ
+f	php:S1192"KDefine a constant instead of duplicating this literal "author__in" 4 times.(‘û¹Òùÿÿÿÿ
+h	php:S1192—"MDefine a constant instead of duplicating this literal "post__not_in" 4 times.(”Ã¬Öùÿÿÿÿ
+d	php:S1192‹"NDefine a constant instead of duplicating this literal "no_found_rows" 4 times.(—øÀ
+a	php:S1192§"KDefine a constant instead of duplicating this literal "date_query" 5 times.(ÅÖ÷
+]	php:S1192¢"GDefine a constant instead of duplicating this literal "search" 4 times.(µÌ”½
+k	php:S1192’"PDefine a constant instead of duplicating this literal "post_author__in" 4 times.(Ñë›ıÿÿÿÿ
+]	php:S1192‰"GDefine a constant instead of duplicating this literal "number" 6 times.(¸â¡Ö
+e	php:S1192‘"ODefine a constant instead of duplicating this literal "parent__not_in" 5 times.(˜èÈ–
+e	php:S1192‚"ODefine a constant instead of duplicating this literal "author__not_in" 4 times.(ñÅ§æ
+b	php:S1192†"LDefine a constant instead of duplicating this literal "comment__in" 8 times.(ÌòÃÀ
+a	php:S11922"GDefine a constant instead of duplicating this literal "select" 3 times.(ÓÂÅøÿÿÿÿ
+a	php:S1192¥"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(”Û¼é
+c	php:S1192•"HDefine a constant instead of duplicating this literal "post_id" 3 times.(Ö—ïÄøÿÿÿÿ
+a	php:S11924"GDefine a constant instead of duplicating this literal "where" 31 times.(Õ‹ÎÇıÿÿÿÿ
+]	php:S11925"HDefine a constant instead of duplicating this literal "groupby" 6 times.(Ÿô¨ì

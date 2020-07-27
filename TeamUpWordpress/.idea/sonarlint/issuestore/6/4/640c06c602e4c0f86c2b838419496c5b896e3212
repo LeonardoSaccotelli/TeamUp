@@ -1,0 +1,31 @@
+
+]	php:S1192ï"GDefine a constant instead of duplicating this literal "string" 3 times.(ú¸ûè
+a	php:S1192¿"FDefine a constant instead of duplicating this literal "array" 4 times.(ˆ¨Á±şÿÿÿÿ
+f	php:S1192x"QDefine a constant instead of duplicating this literal "prepare_callback" 3 times.(Âæ¨ö
+]	php:S1192="HDefine a constant instead of duplicating this literal "schema" 19 times.(•Æ·ñ
+	php:S1192³"sDefine a constant instead of duplicating this literal "Could not update the meta value of %s in database." 3 times.(Ïˆíşÿÿÿÿ
+e	php:S1142Ø"OReduce the number of returns of this function 4, down to the maximum allowed 3.(’Ó¦ê
+D	php:S1172•".Remove the unused function parameter "$param".(£¢œ‚
+c	php:S1192›"MDefine a constant instead of duplicating this literal "show_in_rest" 3 times.(ÏÊÅ¦
+g	php:S1192¯"LDefine a constant instead of duplicating this literal "description" 4 times.(¶æ¹şÿÿÿÿ
+^	php:S1192ï"HDefine a constant instead of duplicating this literal "boolean" 4 times.(ú¸ûè
+t	php:S1192è"YDefine a constant instead of duplicating this literal "rest_meta_database_error" 4 times.(·§í‚şÿÿÿÿ
+e	php:S1142Å"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Ã›ı¶
+jphp:S101"WRename class "WP_REST_Meta_Fields" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­‡²
+]	php:S1192U"HDefine a constant instead of duplicating this literal "default" 6 times.(—œŠœ
+a	php:S1192Æ"FDefine a constant instead of duplicating this literal "items" 4 times.(ˆ«şÒşÿÿÿÿ
+b	php:S1192¿"GDefine a constant instead of duplicating this literal "object" 4 times.(ˆ¨Á±şÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ëÉÅ‰
+^	php:S1192ï"HDefine a constant instead of duplicating this literal "integer" 4 times.(ú¸ûè
+F	php:S1172•"0Remove the unused function parameter "$request".(£¢œ‚
+c	php:S1301«"MReplace this "switch" statement with "if" statements to increase readability.(›”ş¯
+j	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(‰ïÎ¯
+e	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(–Â
+]	php:S1192ï"GDefine a constant instead of duplicating this literal "number" 4 times.(ú¸ûè
+K	php:S1172ù"0Remove the unused function parameter "$request".(ë¹ôóûÿÿÿÿ
+Lphp:S131«"7Add a "case default" clause to this "switch" statement.(›”ş¯
+^	php:S1192 "HDefine a constant instead of duplicating this literal "status" 10 times.(’²
+a	php:S1192Ş"KDefine a constant instead of duplicating this literal "properties" 4 times.(£¥©Î
+“	php:S1192Ş"xDefine a constant instead of duplicating this literal "Sorry, you are not allowed to edit the %s custom field." 3 times.(¸úüÿÿÿÿ
+\	php:S1192S"GDefine a constant instead of duplicating this literal "single" 8 times.(êôß¶
+e	php:S1142ˆ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‰ïÎ¯

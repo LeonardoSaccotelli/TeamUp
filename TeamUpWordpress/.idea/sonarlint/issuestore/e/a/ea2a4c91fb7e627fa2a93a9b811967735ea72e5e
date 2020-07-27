@@ -1,0 +1,18 @@
+
+`	php:S1192¤"JDefine a constant instead of duplicating this literal "condition" 8 times.(τίκέ
+^	php:S1192e"IDefine a constant instead of duplicating this literal "position" 3 times.(Νΰ΅φ
+^	php:S1192"HDefine a constant instead of duplicating this literal "section" 3 times.(π­επ
+\	php:S1192’"FDefine a constant instead of duplicating this literal "label" 3 times.(Θ¬δ
+ophp:S101"VRename class "Group_Control_Base" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(›πÒ¶ώÿÿÿÿ
+j	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(σÒ©
+]	php:S1192m"HDefine a constant instead of duplicating this literal "popover" 5 times.(¥ΧΜ
+a	php:S1192¤"KDefine a constant instead of duplicating this literal "conditions" 8 times.(τίκέ
+e	php:S1192Χ"JDefine a constant instead of duplicating this literal "selectors" 6 times.(«Γ±Òόÿÿÿÿ
+^	php:S1117"HRename "$args" which has the same name as the field declared at line 27.(–”ή
+	php:S4144λ"dUpdate this method so that its implementation is not identical to "get_default_options" on line 220.(‚¥Ϋ€ωÿÿÿÿ
+b	php:S1192Ϋ"LDefine a constant instead of duplicating this literal "device_args" 9 times.(§ªςρ
+d	php:S1192_"JDefine a constant instead of duplicating this literal "separator" 3 times.(±Σ‡Πÿÿÿÿÿ
+j	php:S1192Η"ODefine a constant instead of duplicating this literal "fields_options" 7 times.(›΅σΨωÿÿÿÿ
+c	php:S1192ΐ"MDefine a constant instead of duplicating this literal "starter_name" 3 times.(’―ίΎ
+^	php:S1117ϋ"HRename "$args" which has the same name as the field declared at line 27.(–”ή
+^	php:S1117θ"HRename "$args" which has the same name as the field declared at line 27.(–”ή

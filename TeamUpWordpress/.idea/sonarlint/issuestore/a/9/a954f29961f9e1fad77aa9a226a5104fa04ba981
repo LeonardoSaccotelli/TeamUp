@@ -1,0 +1,19 @@
+
+e	php:S1192u"PDefine a constant instead of duplicating this literal "gallery_columns" 3 times.(Ù²™Ù
+c	php:S1192y"IDefine a constant instead of duplicating this literal "default" 12 times.(‹ÃøÕúÿÿÿÿ
+a	php:S1192l"GDefine a constant instead of duplicating this literal "custom" 3 times.(‡¬Áüüÿÿÿÿ
+b	php:S1192z"HDefine a constant instead of duplicating this literal "options" 7 times.(Á½„ıÿÿÿÿ
+`	php:S1192—"JDefine a constant instead of duplicating this literal "condition" 5 times.(Ä‹
+b	php:S1192"MDefine a constant instead of duplicating this literal "gallery_link" 4 times.(´ˆİİ
+€	php:S1192"kDefine a constant instead of duplicating this literal "{{WRAPPER}} .gallery-item .gallery-caption" 4 times.(âØøx
+a	php:S1192X"GDefine a constant instead of duplicating this literal "label" 15 times.(÷Ãêàÿÿÿÿÿ
+^	php:S1192“"HDefine a constant instead of duplicating this literal "Default" 3 times.(£ËÌ‹
+`	php:S1192-"KDefine a constant instead of duplicating this literal "elementor" 32 times.(õŞ•õ
+n	php:S1192†"XDefine a constant instead of duplicating this literal "gallery_display_caption" 4 times.(É”Æ
+e	php:S1192Ü"JDefine a constant instead of duplicating this literal "selectors" 5 times.(Ú‘›æúÿÿÿÿ
+\	php:S1192œ"FDefine a constant instead of duplicating this literal "title" 4 times.(Šô×
+c	php:S1192"MDefine a constant instead of duplicating this literal "gallery_rand" 3 times.(Ûø¨í
+`	php:S1192]"KDefine a constant instead of duplicating this literal "wp_gallery" 3 times.(­Î˜
+œphp:S138T"‚This function "_register_controls" has 233 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+e	php:S1192å"JDefine a constant instead of duplicating this literal "shortcode" 6 times.(‘ïÁıÿÿÿÿ
+lphp:S101"XRename class "Widget_Image_Gallery" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õô”Å

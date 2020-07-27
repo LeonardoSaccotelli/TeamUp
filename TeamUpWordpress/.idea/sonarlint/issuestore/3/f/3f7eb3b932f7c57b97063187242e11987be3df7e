@@ -1,0 +1,26 @@
+
+n	php:S3776x"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÖÿÅ÷ûÿÿÿÿ
+4php:S125ü"Remove this commented out code.(ĞÛß´
+4php:S125‡"Remove this commented out code.(¡üùÓ
+9php:S125€"Remove this commented out code.(§µ‰ÿÿÿÿÿ
+9php:S125Š"Remove this commented out code.(â³¸±úÿÿÿÿ
+4php:S125…"Remove this commented out code.(…‰áª
+9php:S125¤"Remove this commented out code.( ¦‡”øÿÿÿÿ
+9php:S125û"Remove this commented out code.(‰Ë¥®úÿÿÿÿ
+9php:S125ø"Remove this commented out code.(µó³úıÿÿÿÿ
+9php:S125"Remove this commented out code.(•¹‚øÿÿÿÿ
+9php:S125ˆ"Remove this commented out code.(Ğ’Ì‚üÿÿÿÿ
+3php:S125æ"Remove this commented out code.(«Åé
+4php:S125›"Remove this commented out code.(÷˜©Â
+9php:S125ı"Remove this commented out code.(Öæç¨úÿÿÿÿ
+ƒphp:S101
+"jRename class "ParagonIE_Sodium_Core32_Poly1305_State" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹Å•—üÿÿÿÿ
+4php:S125„"Remove this commented out code.(ãçŠŠ
+=	php:S1481á"'Remove this unused "$b" local variable.(ÒÚ‘¤
+4php:S125‰"Remove this commented out code.(Å–¸ø
+3php:S125ƒ"Remove this commented out code.(Ï™Åz
+8php:S125;"Remove this commented out code.(¼ÅÇ·ùÿÿÿÿ
+9php:S125ù"Remove this commented out code.(¶ï’÷ûÿÿÿÿ
+4php:S125€"Remove this commented out code.(‘í¸æ
+4php:S125ÿ"Remove this commented out code.(Óªâè
+0	php:S3626"Remove this redundant jump.(ûÁİ…

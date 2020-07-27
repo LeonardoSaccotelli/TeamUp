@@ -1,0 +1,39 @@
+
+c	php:S1117…"HRename "$pos" which has the same name as the field declared at line 428.(õ£ŸÎúÿÿÿÿ
+c	php:S1117™"HRename "$pos" which has the same name as the field declared at line 428.(õ£ŸÎúÿÿÿÿ
+c	php:S1117"HRename "$pos" which has the same name as the field declared at line 428.(õ£ŸÎúÿÿÿÿ
+g	php:S1192_"MDefine a constant instead of duplicating this literal "avdataoffset" 5 times.(ß†·®üÿÿÿÿ
+I	php:S1481Ö".Remove this unused "$timezone" local variable.(ÅÌäçùÿÿÿÿ
+f	php:S1192"KDefine a constant instead of duplicating this literal "videoCodec" 5 times.(Ê§àÂúÿÿÿÿ
+S	php:S1481ª"8Remove this unused "$lengthSizeMinusOne" local variable.(§ÀŠèüÿÿÿÿ
+M	php:S1481°"2Remove this unused "$highestIndex" local variable.(ñŞ¸™üÿÿÿÿ
+[	php:S1192e"GDefine a constant instead of duplicating this literal "header" 9 times.(Ôƒ„x
+g	php:S1192’"LDefine a constant instead of duplicating this literal "audioFormat" 3 times.(îøüÿÿÿÿÿ
+gphp:S101M"NRename class "getid3_flv" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(…ÁŒ¸ùÿÿÿÿ
+i	php:S1192·"NDefine a constant instead of duplicating this literal "resolution_x" 14 times.(»õñöıÿÿÿÿ
+9php:S125Å"Remove this commented out code.(š‡ªüÿÿÿÿ
+ophp:S115O"[Rename this constant "magic" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(©¬üø
+U	php:S1481§":Remove this unused "$configurationVersion" local variable.(‘œÅøÿÿÿÿ
+a	php:S1192½"FDefine a constant instead of duplicating this literal "codec" 4 times.(ÔŸ™êıÿÿÿÿ
+M	php:S1481a"3Remove this unused "$FLVdataLength" local variable.(óİùºÿÿÿÿÿ
+4php:S125°"Remove this commented out code.(©ë‡
+^	php:S1192—"HDefine a constant instead of duplicating this literal "bitrate" 4 times.(”³¾«
+E	php:S1481’"/Remove this unused "$level_idc" local variable.(ßä²ö
+d	php:S1192¸"NDefine a constant instead of duplicating this literal "resolution_y" 13 times.(¬şìÓ
+4php:S125›"Remove this commented out code.(îæí
+c	php:S1117û"HRename "$pos" which has the same name as the field declared at line 428.(õ£ŸÎúÿÿÿÿ
+g	php:S1192™"LDefine a constant instead of duplicating this literal "onMetaData" 11 times.(ùéÿÿÿÿÿÿ
+V	php:S1481©";Remove this unused "$profile_compatibility" local variable.(ÔÈ÷¹ÿÿÿÿÿ
+c	php:S1117£"HRename "$pos" which has the same name as the field declared at line 428.(õ£ŸÎúÿÿÿÿ
+d	php:S1192ª"IDefine a constant instead of duplicating this literal "duration" 3 times.(¼ß¹ıÿÿÿÿ
+g	php:S1192·"QDefine a constant instead of duplicating this literal "playtime_seconds" 5 times.(‡êóµ
+U	php:S1481¨":Remove this unused "$AVCProfileIndication" local variable.(ŸÏë¬ıÿÿÿÿ
+\	php:S1192}"GDefine a constant instead of duplicating this literal "video" 39 times.(€ßÍõ
+i	php:S3776\"TRefactor this function to reduce its Cognitive Complexity from 84 to the 15 allowed.(¾‡óÁ
+R	php:S1481‚"7Remove this unused "$PreviousTagLength" local variable.(û¶òæùÿÿÿÿ
+d	php:S1192a"JDefine a constant instead of duplicating this literal "avdataend" 4 times.(óİùºÿÿÿÿÿ
+c	php:S1117ñ"HRename "$pos" which has the same name as the field declared at line 428.(õ£ŸÎúÿÿÿÿ
+\	php:S1192}"GDefine a constant instead of duplicating this literal "audio" 19 times.(€ßÍõ
+J	php:S1481ì"/Remove this unused "$className" local variable.(¹İ¯Äÿÿÿÿÿ
+^	php:S1192e"JDefine a constant instead of duplicating this literal "signature" 3 times.(Ôƒ„x
+‹php:S138\"wThis function "Analyze" has 200 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¾‡óÁ

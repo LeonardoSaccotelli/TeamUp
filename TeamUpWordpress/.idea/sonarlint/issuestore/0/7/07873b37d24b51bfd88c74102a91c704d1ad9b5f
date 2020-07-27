@@ -1,0 +1,7 @@
+
+j	php:S3776è"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ðÎ‰ß
+`	php:S1192é"JDefine a constant instead of duplicating this literal "monthnum" 11 times.(â‚µÒ
+e	php:S1142è"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ðÎ‰ß
+o	php:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(±á ¤øÿÿÿÿ
+j	php:S1142Ô"OReduce the number of returns of this function 7, down to the maximum allowed 3.(±á ¤øÿÿÿÿ
+^	php:S1192ý"HDefine a constant instead of duplicating this literal "://www." 5 times.(½Ééš

@@ -1,0 +1,19 @@
+
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+s	php:S1488¨"]Immediately return this expression instead of assigning it to the temporary variable "$meta".(ÑšŸÙ
+	php:S1186 "lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¨ÿ—¦
+J	php:S1066‚"/Merge this if statement with the enclosing one.(ÖÆì‚şÿÿÿÿ
+s	php:S1488¶"]Immediately return this expression instead of assigning it to the temporary variable "$meta".(èÛúÅ
+j	php:S1192ã"ODefine a constant instead of duplicating this literal "account_status" 4 times.(ˆÂÊàùÿÿÿÿ
+]	php:S1192Ò"GDefine a constant instead of duplicating this literal "fields" 3 times.(Ÿä§‹
+f	php:S1192ã"KDefine a constant instead of duplicating this literal "meta_query" 3 times.(ˆÂÊàùÿÿÿÿ
+e	php:S1142“"OReduce the number of returns of this function 4, down to the maximum allowed 3.(’áï‘
+]	php:S1192Ò"GDefine a constant instead of duplicating this literal "number" 3 times.(Ÿä§‹
+c	php:S1192ã"HDefine a constant instead of duplicating this literal "compare" 3 times.(ˆÂÊàùÿÿÿÿ
+Jphp:S121á"0Add curly braces around the nested statement(s).(ŒˆòÆüÿÿÿÿ
+a	php:S1192"LDefine a constant instead of duplicating this literal "post_status" 6 times.(ÉˆJ
+h	php:S1871ù"MThis branch's code block is the same as the block for the branch on line 374.(Ñı­ìùÿÿÿÿ
+9php:S125˜"Remove this commented out code.(ÿÆÚûÿÿÿÿ
+Jphp:S121œ"0Add curly braces around the nested statement(s).(‡²êÃüÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "post_type" 4 times.(Ó„ Ì
+w	php:S1488¼"aImmediately return this expression instead of assigning it to the temporary variable "$comments".(ù¬Î«

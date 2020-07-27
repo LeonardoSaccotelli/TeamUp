@@ -1,0 +1,30 @@
+
+œphp:S138S"‚This function "_register_controls" has 263 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+u	php:S2761˜"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(ŠãŸÆ
+\	php:S1192è"FDefine a constant instead of duplicating this literal "value" 3 times.(µ«ÃÉ
+f	php:S1192Œ"PDefine a constant instead of duplicating this literal "testimonial_job" 7 times.(Ùºº
+n	php:S1192\"TDefine a constant instead of duplicating this literal "testimonial_content" 6 times.(³ÔÇüÿÿÿÿ
+\	php:S1192½"FDefine a constant instead of duplicating this literal "title" 3 times.(Šô×
+q	php:S1192¤"[Define a constant instead of duplicating this literal "testimonial_image_position" 3 times.(êÏŸ†
+a	php:S1192a"GDefine a constant instead of duplicating this literal "active" 5 times.(Ğÿ‰’şÿÿÿÿ
+¢	php:S1192•"ŒDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-testimonial-wrapper .elementor-testimonial-image img" 3 times.(‰Î›
+_	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 26 times.(°á„
+a	php:S1192ä"KDefine a constant instead of duplicating this literal "Text Color" 3 times.(êÀ²Ã
+d	php:S1192{"JDefine a constant instead of duplicating this literal "separator" 3 times.(şÄĞãøÿÿÿÿ
+ophp:S101"VRename class "Widget_Testimonial" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ûˆ”åúÿÿÿÿ
+c	php:S1192d"IDefine a constant instead of duplicating this literal "default" 11 times.(ÈşÚÁüÿÿÿÿ
+]	php:S1192`"HDefine a constant instead of duplicating this literal "dynamic" 5 times.(Ï­ıñ
+a	php:S1192W"GDefine a constant instead of duplicating this literal "label" 18 times.(İÛß·ıÿÿÿÿ
+l	php:S1192i"RDefine a constant instead of duplicating this literal "testimonial_image" 5 times.(Û‡Íãøÿÿÿÿ
+u	php:S2761–"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(‚ÕİŸ
+l	php:S1192€"QDefine a constant instead of duplicating this literal "testimonial_name" 7 times.(Ù´Æ°øÿÿÿÿ
+c	php:S1192…"HDefine a constant instead of duplicating this literal "wrapper" 3 times.(šğ¦ªüÿÿÿÿ
+o	php:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.( æƒàúÿÿÿÿ
+z	php:S2761—"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(ßú›ğÿÿÿÿÿ
+m	php:S1192ì"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 3 times.(“Â©œúÿÿÿÿ
+a	php:S1192…"FDefine a constant instead of duplicating this literal "class" 8 times.(šğ¦ªüÿÿÿÿ
+q	php:S1192¶"VDefine a constant instead of duplicating this literal "testimonial_alignment" 3 times.(¿ÅÊÿÿÿÿÿ
+z	php:S2761•"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(ó’¯úÿÿÿÿ
+e	php:S1192ë"JDefine a constant instead of duplicating this literal "selectors" 5 times.(Ú‘›æúÿÿÿÿ
+]	php:S1192æ"GDefine a constant instead of duplicating this literal "scheme" 6 times.(¡ŠËÆ
+d	php:S1192ö"IDefine a constant instead of duplicating this literal "selector" 4 times.(¨”¦Âûÿÿÿÿ

@@ -1,0 +1,31 @@
+
+b	php:S1192c"HDefine a constant instead of duplicating this literal "library" 6 times.(¼êÚ³úÿÿÿÿ
+d	php:S1192c"JDefine a constant instead of duplicating this literal "fa-brands" 5 times.(¼êÚ³úÿÿÿÿ
+g	php:S1192*"MDefine a constant instead of duplicating this literal "Social Icons" 3 times.(ë…ş­ûÿÿÿÿ
+c	php:S1192a"IDefine a constant instead of duplicating this literal "default" 16 times.(ªÜØ£ÿÿÿÿÿ
+pphp:S101"WRename class "Widget_Social_Icons" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÚÚ…Ãıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckâ"Replace this <i> tag by <em>.(ˆÚª´
+b	php:S1192¾"GDefine a constant instead of duplicating this literal "custom" 8 times.(²š×Éüÿÿÿÿ
+g	php:S1192Ú"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 3 times.(²ì
+\	php:S1192”"FDefine a constant instead of duplicating this literal "title" 3 times.(Šô×
+i	php:S1192Æ"NDefine a constant instead of duplicating this literal "Primary Color" 3 times.(öŒäÄıÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÂ"Replace this <i> tag by <em>.(»åñ‘
+a	php:S1192U"GDefine a constant instead of duplicating this literal "label" 23 times.(ııáŠşÿÿÿÿ
+[	php:S1192b"FDefine a constant instead of duplicating this literal "value" 6 times.(°üíÆ
+k	php:S1192·"PDefine a constant instead of duplicating this literal "item_icon_color" 3 times.(ã½çÂùÿÿÿÿ
+k	php:S1192ğ"PDefine a constant instead of duplicating this literal "hover_animation" 3 times.(×À³×úÿÿÿÿ
+f	php:S1192»"KDefine a constant instead of duplicating this literal "icon_color" 5 times.(şÏ«ôøÿÿÿÿ
+~	php:S1192Ğ"cDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-social-icon" 4 times.(ƒ•Éàüÿÿÿÿ
+`	php:S1192È"JDefine a constant instead of duplicating this literal "condition" 7 times.(Ä‹
+l	php:S1192Û"QDefine a constant instead of duplicating this literal "fill: {{VALUE}};" 3 times.(ÚÖé©úÿÿÿÿ
+œphp:S138Q"‚This function "_register_controls" has 396 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+o	php:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.( æƒàúÿÿÿÿ
+\	php:S1192é"FDefine a constant instead of duplicating this literal "range" 3 times.(÷¦ç£
+f	php:S1192Ë"KDefine a constant instead of duplicating this literal "selectors" 12 times.(Ú‘›æúÿÿÿÿ
+a	php:S1192F"GDefine a constant instead of duplicating this literal "social" 8 times.(Œì›¥ûÿÿÿÿ
+g	php:S1192\"MDefine a constant instead of duplicating this literal "social_icon" 10 times.(†’”ûÿÿÿÿ
+]	php:S1192¼"HDefine a constant instead of duplicating this literal "options" 4 times.(ò–»6
+s	php:S1192Ì"]Define a constant instead of duplicating this literal "background-color: {{VALUE}};" 3 times.(’ô°È
+e	php:S1192Ô"PDefine a constant instead of duplicating this literal "Secondary Color" 3 times.(­Î«[
+O	php:S1135¥"4Complete the task associated to this "TODO" comment.(üƒÔğıÿÿÿÿ
+e	php:S1192*"KDefine a constant instead of duplicating this literal "elementor" 36 times.(ë…ş­ûÿÿÿÿ

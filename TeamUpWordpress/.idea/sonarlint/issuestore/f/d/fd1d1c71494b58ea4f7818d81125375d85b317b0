@@ -1,0 +1,14 @@
+
+v	php:S14882"\Immediately return this expression instead of assigning it to the temporary variable "$key".(šıó¾üÿÿÿÿ
+e	php:S1192d"PDefine a constant instead of duplicating this literal "ultimate-member" 9 times.(Ÿªø™
+=	php:S1481½"'Remove this unused "$k" local variable.(ï¬»ê
+o	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ò¦°äşÿÿÿÿ
+f	php:S1192À"PDefine a constant instead of duplicating this literal "default_privacy" 3 times.(³„
+IWeb:BoldAndItalicTagsCheck»"Replace this <i> tag by <em>.(¬µï¨ùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+z	php:S1488c"`Immediately return this expression instead of assigning it to the temporary variable "$privacy".(¶óùÿÿÿÿ
+o	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÍìÔŠùÿÿÿÿ
+]	php:S1192ù"GDefine a constant instead of duplicating this literal "hidden" 4 times.(Úâ•»
+Ephp:S121"0Add curly braces around the nested statement(s).(ªÈÇÑ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ô¯óñ
+c	php:S1192Ã"MDefine a constant instead of duplicating this literal "profile_tab_" 3 times.(œøô“

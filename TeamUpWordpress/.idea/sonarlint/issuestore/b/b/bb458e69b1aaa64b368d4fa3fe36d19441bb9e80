@@ -1,0 +1,41 @@
+
+IWeb:BoldAndItalicTagsCheck’
+"Replace this <i> tag by <em>.(ÿ¸•‘ÿÿÿÿÿ
+h	php:S1192ó"MDefine a constant instead of duplicating this literal "hierarchical" 4 times.(»í•Ÿÿÿÿÿÿ
+j	php:S1192¿"ODefine a constant instead of duplicating this literal "Access denied." 3 times.(®ö…Êúÿÿÿÿ
+f	php:S1192¨	"PDefine a constant instead of duplicating this literal "admin_tab_group" 3 times.(úêşÆ
+4php:S125"Remove this commented out code.(Ò†Ó­
+]	php:S1192ë"GDefine a constant instead of duplicating this literal "public" 3 times.(Ğ…ë–
+iphp:S101"PRename class "Source_Local" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îªÔéúÿÿÿÿ
+‚	php:S1488ñ"gImmediately return this expression instead of assigning it to the temporary variable "$export_support".(×éÎÛıÿÿÿÿ
+\	php:S1192ô"FDefine a constant instead of duplicating this literal "title" 8 times.(µêä’
+j	php:S1142á	"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Í°€Ëıÿÿÿÿ
+l	php:S1192#"WDefine a constant instead of duplicating this literal "elementor_library_type" 4 times.(ÎÒ¶±
+j	php:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ë‡æ
+c	php:S1192î"HDefine a constant instead of duplicating this literal "show_ui" 3 times.(ªáÒ×øÿÿÿÿ
+i	php:S1192Ä"NDefine a constant instead of duplicating this literal "page_settings" 7 times.(üíèÿÿÿÿÿ
+}	php:S1488Ø"gImmediately return this expression instead of assigning it to the temporary variable "$template_label".(ØÒùâ
+g	php:S1192Â"LDefine a constant instead of duplicating this literal "template_id" 5 times.(ÊçüÖıÿÿÿÿ
+q	php:S1488Ú"]Immediately return this expression instead of assigning it to the temporary variable "$data".(Ôµq
+NWeb:FieldsetWithoutLegendCheck¸"$Add a <legend> tag to this fieldset.(ù£Ö>
+c	php:S1192ì"HDefine a constant instead of duplicating this literal "rewrite" 3 times.(„Ó•Õÿÿÿÿÿ
+E	php:S1066”"/Merge this if statement with the enclosing one.(½ùÏŸ
+a	php:S1192Š"KDefine a constant instead of duplicating this literal "admin_menu" 3 times.(¼ºûè
+a	php:S1192Á"KDefine a constant instead of duplicating this literal "file_error" 3 times.(–£ğ›
+J	php:S1135ú	"4Complete the task associated to this "TODO" comment.(–¬³
+f	php:S1192¬"KDefine a constant instead of duplicating this literal "tabs_group" 4 times.(Ó‰üªøÿÿÿÿ
+d	php:S1192Ú"IDefine a constant instead of duplicating this literal "content" 15 times.(ïéæúÿÿÿÿ
+J	php:S1135ğ"4Complete the task associated to this "TODO" comment.(¢Ğş
+e	php:S1142Ê
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¸Æí±
+I	php:S1135œ"4Complete the task associated to this "TODO" comment.(¬¡›v
+h	php:S1192Ú"RDefine a constant instead of duplicating this literal "Template Library" 17 times.(¯òúŞ
+	php:S1488Ã"fImmediately return this expression instead of assigning it to the temporary variable "$posts_columns".(„â‘ìüÿÿÿÿ
+e	php:S1192˜"JDefine a constant instead of duplicating this literal "post_type" 3 times.(¢«§¡øÿÿÿÿ
+f	php:S1192¿"KDefine a constant instead of duplicating this literal "save_error" 3 times.(®ö…Êúÿÿÿÿ
+m	php:S1192ğ"RDefine a constant instead of duplicating this literal "show_in_nav_menus" 3 times.(ŒşÈªùÿÿÿÿ
+h	php:S1117"RRename "$template_types" which has the same name as the field declared at line 72.(ÆÄ×·
+f	php:S1192È"KDefine a constant instead of duplicating this literal "elementor" 40 times.(­Ø©üÿÿÿÿ
+_	php:S1192à"IDefine a constant instead of duplicating this literal "settings" 8 times.(Â×Åå
+‚	php:S1448"hClass "Source_Local" has 48 methods, which is greater than 20 authorized. Split it into smaller classes.(îªÔéúÿÿÿÿ
+e	php:S1142¿"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ë‡æ

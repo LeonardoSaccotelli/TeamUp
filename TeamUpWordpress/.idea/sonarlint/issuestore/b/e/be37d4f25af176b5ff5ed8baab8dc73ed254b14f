@@ -1,0 +1,96 @@
+
+j	php:S3776«"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(„áƒ´
+J	php:S3801«"4Refactor this function to use "return" consistently.(„áƒ´
+^	php:S1192ó"HDefine a constant instead of duplicating this literal "exclude" 8 times.(äüÁ¾
+e	php:S1142±	"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¨ä¯
+d	php:S1192Ï"IDefine a constant instead of duplicating this literal "include" 10 times.(ïç’Šıÿÿÿÿ
+k	php:S1192"PDefine a constant instead of duplicating this literal "post-thumbnails" 3 times.(ºåÕäùÿÿÿÿ
+O	php:S1135Õ"4Complete the task associated to this "TODO" comment.(²œ¶Ùùÿÿÿÿ
+`	php:S1192ˆ"JDefine a constant instead of duplicating this literal "landscape" 5 times.(áçë
+o	php:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Øªöáøÿÿÿÿ
+t	php:S1192Í"YDefine a constant instead of duplicating this literal "wp_print_media_templates" 3 times.(Á©ğâûÿÿÿÿ
+a	php:S1192å"FDefine a constant instead of duplicating this literal "html5" 3 times.(ä¿˜ÿÿÿÿÿ
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÖûÜşÿÿÿÿ
+a	php:S1192€"LDefine a constant instead of duplicating this literal "post_status" 6 times.(¥ã²T
+—php:S138Ä"This function "gallery_shortcode" has 164 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ù¯Î
+h	php:S1192¨"MDefine a constant instead of duplicating this literal "mediaelement" 9 times.(–çô‘ùÿÿÿÿ
+`	php:S1192I"KDefine a constant instead of duplicating this literal "thumbnail" 23 times.(¦ü¥ê
+g	php:S1192"LDefine a constant instead of duplicating this literal "attachment" 12 times.(£·â©úÿÿÿÿ
+`	php:S1192¦"JDefine a constant instead of duplicating this literal "mime_type" 4 times.(íğ½Ú
+h	php:S1192¼"MDefine a constant instead of duplicating this literal "tracknumbers" 3 times.(õºŒùÿÿÿÿ
+b	php:S1192"LDefine a constant instead of duplicating this literal "post_parent" 6 times.(ÄÎ°®
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÖûÜşÿÿÿÿ
+o	php:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ª¢Š‡úÿÿÿÿ
+d	php:S1142Ñ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Å½ã%
+a	php:S1192¿"KDefine a constant instead of duplicating this literal "caption_id" 8 times.(½Â²ª
+]	php:S1192k"HDefine a constant instead of duplicating this literal "height" 64 times.(ë¼ª¬
+b	php:S1192´"GDefine a constant instead of duplicating this literal "audio" 10 times.(‚»³ñùÿÿÿÿ
+b	php:S1192à"GDefine a constant instead of duplicating this literal "sizes" 36 times.(‚Ï‘¡øÿÿÿÿ
+\	php:S1192ˆ"GDefine a constant instead of duplicating this literal "update" 3 times.(÷¤Óm
+e	php:S1142«"OReduce the number of returns of this function 5, down to the maximum allowed 3.(„áƒ´
+j	php:S1142‡"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ø¡Íİşÿÿÿÿ
+j	php:S3776¾ "TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ì¾÷
+e	php:S1192"JDefine a constant instead of duplicating this literal "post_type" 7 times.(£·â©úÿÿÿÿ
+e	php:S1142“"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ê´ÿÎ
+\	php:S1192ñ	"FDefine a constant instead of duplicating this literal "https" 3 times.(ëµã¢
+~	php:S1192®"cDefine a constant instead of duplicating this literal "wp_get_attachment_image_attributes" 3 times.(ØÁÔõøÿÿÿÿ
+o	php:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ø¡Íİşÿÿÿÿ
+j	php:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 82 to the 15 allowed.(¹ÜÊã
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "poster" 4 times.(Æ¸µµùÿÿÿÿ
+a	php:S1192‚"FDefine a constant instead of duplicating this literal "names" 4 times.(ª¢Š‡úÿÿÿÿ
+H	php:S1172í"-Remove the unused function parameter "$attr".(±çÌÍøÿÿÿÿ
+j	php:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(ù¯Î
+]	php:S1192½"GDefine a constant instead of duplicating this literal "images" 4 times.(¾æŒ«
+c	php:S1192ğ"HDefine a constant instead of duplicating this literal "preload" 8 times.(—©óäûÿÿÿÿ
+]	php:S1192Ç"GDefine a constant instead of duplicating this literal "video" 11 times.(„ÔŠ¯
+[	php:S1192I"FDefine a constant instead of duplicating this literal "thumb" 5 times.(¦ü¥ê
+g	php:S1192“"LDefine a constant instead of duplicating this literal "attachment:" 3 times.(‹‚Œƒûÿÿÿÿ
+d	php:S1192ë"NDefine a constant instead of duplicating this literal "menu_order ID" 3 times.(»õ·†
+d	php:S1192Ì"IDefine a constant instead of duplicating this literal "orderby" 17 times.(õÇËïúÿÿÿÿ
+b	php:S1192â!"GDefine a constant instead of duplicating this literal "scheme" 5 times.(‚Èò¨ÿÿÿÿÿ
+_	php:S1192»"JDefine a constant instead of duplicating this literal "tracklist" 3 times.(×Ú…Q
+b	php:S1192è"LDefine a constant instead of duplicating this literal "orientation" 4 times.(Œ¼©ä
+v	php:S1488Ğ"`Immediately return this expression instead of assigning it to the temporary variable "$matched".(Ğõƒñ
+ php:S138"…This function "wp_playlist_shortcode" has 156 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÖûÜşÿÿÿÿ
+›php:S138İ"€This function "wp_enqueue_media" has 244 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(µÒ¾üÿÿÿÿ
+@	php:S1481‹"+Remove this unused "$_size" local variable.(ï³‘X
+e	php:S1142À"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ã£¢Ó
+\	php:S1192="GDefine a constant instead of duplicating this literal "medium" 8 times.(Ã€Äğ
+_	php:S1192ÿ"IDefine a constant instead of duplicating this literal "caption" 14 times.(ìã¬
+j	php:S3776±	"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(¨ä¯
+l	php:S1192ş"VDefine a constant instead of duplicating this literal "img_caption_shortcode" 3 times.(Î—‡ü
+o	php:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(µÒ¾üÿÿÿÿ
+]	php:S1192‡"GDefine a constant instead of duplicating this literal "nonces" 4 times.(¸õƒŒ
+i	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(Å½ã%
+]	php:S1192C"HDefine a constant instead of duplicating this literal "display" 3 times.(¬Ôóø
+a	php:S1192ş"FDefine a constant instead of duplicating this literal "align" 4 times.(Á·µıÿÿÿÿ
+¢php:S138İ"ŒThis function "wp_prepare_attachment_for_js" has 183 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¹ÜÊã
+e	php:S1142Ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ù¯Î
+l	php:S1192©"QDefine a constant instead of duplicating this literal "length_formatted" 4 times.(Şûçıÿÿÿÿ
+j	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ê´ÿÎ
+b	php:S1192ê"GDefine a constant instead of duplicating this literal "order" 13 times.(ô˜‘Úıÿÿÿÿ
+b	php:S1192Š"GDefine a constant instead of duplicating this literal "class" 14 times.(üĞ·üÿÿÿÿ
+[	php:S1192\"FDefine a constant instead of duplicating this literal "large" 3 times.( Ñ‘
+H	php:S1172ú"-Remove the unused function parameter "$attr".(Ÿœºøÿÿÿÿ
+o	php:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¤Ç³ùÿÿÿÿ
+a	php:S1192º
+"FDefine a constant instead of duplicating this literal "value" 3 times.(Çœ¼îøÿÿÿÿ
+]	php:S1192‚"GDefine a constant instead of duplicating this literal "image" 10 times.(øô·«
+\	php:S1192Ñ"FDefine a constant instead of duplicating this literal "style" 7 times.(±ß
+\	php:S1192j"GDefine a constant instead of duplicating this literal "width" 83 times.(²™Ş÷
+c	php:S1192ë	"HDefine a constant instead of duplicating this literal "baseurl" 3 times.(ÿå××ıÿÿÿÿ
+d	php:S1192ï"IDefine a constant instead of duplicating this literal "autoplay" 8 times.(Ôœ‡¦ùÿÿÿÿ
+z	php:S1488¤"_Immediately return this expression instead of assigning it to the temporary variable "$output".(û•ß¥ùÿÿÿÿ
+i	php:S3776="TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ã€Äğ
+o	php:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(•œàúÿÿÿÿ
+b	php:S1192ó"LDefine a constant instead of duplicating this literal "Cancel Edit" 3 times.(¥±“Ó
+I	php:S3801Ñ"4Refactor this function to use "return" consistently.(Å½ã%
+]	php:S1192€"HDefine a constant instead of duplicating this literal "inherit" 5 times.(¥ã²T
+e	php:S1192‚"ODefine a constant instead of duplicating this literal "post_mime_type" 6 times.(øô·«
+f	php:S1192â"PDefine a constant instead of duplicating this literal "wp-mediaelement" 5 times.(æ²ñ
+j	php:S1142ù"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Øªöáøÿÿÿÿ
+_	php:S1192ˆ"IDefine a constant instead of duplicating this literal "portrait" 5 times.(áçë
+˜php:S138«"‚This function "wp_video_shortcode" has 154 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(„áƒ´
+^	php:S1192 "HDefine a constant instead of duplicating this literal "gallery" 7 times.(ú¢áŸ
+^	php:S1192¾"HDefine a constant instead of duplicating this literal "artists" 3 times.(ÂŒ©Í
+J	php:S3801İ"4Refactor this function to use "return" consistently.(¹ÜÊã

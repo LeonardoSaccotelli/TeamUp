@@ -1,0 +1,51 @@
+
+j	php:S1142e"PReduce the number of returns of this function 10, down to the maximum allowed 3.(²Û€Æıÿÿÿÿ
+E	php:S1066×"/Merge this if statement with the enclosing one.(Œ—€›
+_	php:S1192·"IDefine a constant instead of duplicating this literal "basename" 3 times.(ëÛµ
+_	php:S1192ğ"JDefine a constant instead of duplicating this literal "file_info" 5 times.(Í×
+\	php:S1192É"GDefine a constant instead of duplicating this literal "set_id" 3 times.(„Ëú:
+D	php:S1172š	"/Remove the unused function parameter "$source".(­Ñ“^
+E	php:S1066Õ"/Merge this if statement with the enclosing one.(¤Ù†×
+j	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(™ŸÀˆ
+f	php:S1192"KDefine a constant instead of duplicating this literal "image/jpeg" 5 times.(¥ã…›ÿÿÿÿÿ
+E	php:S1172š	"0Remove the unused function parameter "$user_id".(­Ñ“^
+f	php:S1192"QDefine a constant instead of duplicating this literal "ultimate-member" 13 times.(Ñ…—
+d	php:S1192Ê"IDefine a constant instead of duplicating this literal "set_mode" 3 times.(ÉÌ­ÿÿÿÿÿ
+Ephp:S121Æ"0Add curly braces around the nested statement(s).(Í‹Àš
+o	php:S3776¹	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Í«Ø¨úÿÿÿÿ
+c	php:S1192;"NDefine a constant instead of duplicating this literal "um-icon-image" 3 times.(´¡ù°
+1	php:S3626Ê	"Remove this redundant jump.(ÉŠ©ƒ
+„	php:S1192œ"iDefine a constant instead of duplicating this literal "You have no permission to edit this user" 3 times.(“ó‘ıÿÿÿÿ
+r	php:S1488Š"\Immediately return this expression instead of assigning it to the temporary variable "$url".(µ¥ƒÈ
+i	php:S1192<"ODefine a constant instead of duplicating this literal "um-icon-images" 3 times.(ä“íéşÿÿÿÿ
+b	php:S1192Z"HDefine a constant instead of duplicating this literal "um_form" 3 times.(Ç˜¹’øÿÿÿÿ
+b	php:S11923"HDefine a constant instead of duplicating this literal "#51BA6A" 3 times.(Ù·…Ôşÿÿÿÿ
+o	php:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ø‚Áêÿÿÿÿÿ
+p	php:S1192."VDefine a constant instead of duplicating this literal "um-faicon-file-text-o" 5 times.(ÌÙ­‡ûÿÿÿÿ
+c	php:S1192Z"IDefine a constant instead of duplicating this literal "um_field" 3 times.(Ç˜¹’øÿÿÿÿ
+E	php:S1066¨"/Merge this if statement with the enclosing one.(¤Ù†×
+A	php:S1172š	",Remove the unused function parameter "$key".(­Ñ“^
+J	php:S1066¡"/Merge this if statement with the enclosing one.(öøÕ’üÿÿÿÿ
+b	php:S1192Í"GDefine a constant instead of duplicating this literal "error" 14 times.(Ó–¬¨ÿÿÿÿÿ
+E	php:S1066"/Merge this if statement with the enclosing one.(Ïû„ø
+`	php:S1192¸"JDefine a constant instead of duplicating this literal "extension" 3 times.(èö€«
+l	php:S1192U"RDefine a constant instead of duplicating this literal "um-download-nonce" 3 times.(»ŒÜıÿÿÿÿ
+r	php:S1488ó"\Immediately return this expression instead of assigning it to the temporary variable "$url".(µ¥ƒÈ
+d	php:S1192Ì"NDefine a constant instead of duplicating this literal "invalid_image" 3 times.(ŞÿÅ‹
+Qphp:S131ğ"7Add a "case default" clause to this "switch" statement.(ÿ×Æÿÿÿÿÿ
+`	php:S1192”"JDefine a constant instead of duplicating this literal "image/gif" 6 times.(ëÉèÏ
+[	php:S1192-"FDefine a constant instead of duplicating this literal "color" 9 times.(’–½’
+@	php:S1481è"*Remove this unused "$attr" local variable.(Øî«æ
+3php:S125³"Remove this commented out code.(ÙÏí
+d	php:S1192¡"IDefine a constant instead of duplicating this literal "filename" 3 times.(öøÕ’üÿÿÿÿ
+e	php:S1192˜"JDefine a constant instead of duplicating this literal "image/png" 6 times.(˜Ä¡Öüÿÿÿÿ
+v	php:S1448"aClass "Files" has 35 methods, which is greater than 20 authorized. Split it into smaller classes.(ñ‘ø
+b	php:S1192Z"HDefine a constant instead of duplicating this literal "um_user" 3 times.(Ç˜¹’øÿÿÿÿ
+^	php:S1192"HDefine a constant instead of duplicating this literal "user_id" 7 times.(¤“â
+q	php:S11923"WDefine a constant instead of duplicating this literal "um-faicon-file-excel-o" 3 times.(Ù·…Ôşÿÿÿÿ
+d	php:S1192·"NDefine a constant instead of duplicating this literal "original_name" 6 times.(ëÛµ
+_	php:S1192"IDefine a constant instead of duplicating this literal "register" 3 times.(¤“â
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+b	php:S11920"HDefine a constant instead of duplicating this literal "#2C95D5" 3 times.(ÈÜÛ¦ûÿÿÿÿ
+E	php:S1481ñ"*Remove this unused "$info" local variable.(¡Äïşşÿÿÿÿ
+@	php:S1481è"*Remove this unused "$type" local variable.(Øî«æ

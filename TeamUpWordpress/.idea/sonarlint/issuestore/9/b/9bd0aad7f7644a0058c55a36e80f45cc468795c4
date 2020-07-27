@@ -1,0 +1,13 @@
+
+L	php:S1481«"1Remove this unused "$description" local variable.(ò’Ü¾ùÿÿÿÿ
+D	php:S1172à".Remove the unused function parameter "$title".(û¼Ö¨
+L	php:S1481Ó"1Remove this unused "$plugin_name" local variable.(¸§Žªøÿÿÿÿ
+g	php:S1192f"MDefine a constant instead of duplicating this literal "astra-agency" 3 times.(¦¡ÿ°þÿÿÿÿ
+Ž	php:S1192["tDefine a constant instead of duplicating this literal "Astra_Ext_White_Label_Markup::get_whitelabel_string" 5 times.(‹ÑñŠøÿÿÿÿ
+tphp:S101"[Rename class "Astra_Sites_White_Label" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ê¿ÌÌüÿÿÿÿ
+a	php:S1192d"LDefine a constant instead of duplicating this literal "astra-sites" 9 times.(ç¶ëˆ
+f	php:S1192e"LDefine a constant instead of duplicating this literal "description" 3 times.(ò’Ü¾ùÿÿÿÿ
+O	php:S1172¡"4Remove the unused function parameter "$plugin_data".(ñØà“ýÿÿÿÿ
+F	php:S1172Ð"1Remove the unused function parameter "$settings".(ð¸ž?
+B	php:S1068$"-Remove this unused "$branding" private field.(é³Ò¾
+G	php:S1068/"-Remove this unused "$settings" private field.(ÂÆÜªþÿÿÿÿ

@@ -1,0 +1,13 @@
+
+a	php:S1192-"GDefine a constant instead of duplicating this literal "search" 8 times.(¶Ğ¨ãøÿÿÿÿ
+j	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(íİÙ
+]	php:S1192C"HDefine a constant instead of duplicating this literal "orderby" 6 times.(™Ü 
+`	php:S1192G"FDefine a constant instead of duplicating this literal "order" 6 times.(ƒ¿İõşÿÿÿÿ
+[	php:S11929"FDefine a constant instead of duplicating this literal "super" 4 times.(öÏ€˜
+b	php:S1192‘"LDefine a constant instead of duplicating this literal "REQUEST_URI" 3 times.(™š¦í
+d	php:S1192Å"IDefine a constant instead of duplicating this literal "username" 3 times.(µ—Õêûÿÿÿÿ
+e	php:S1192‰"JDefine a constant instead of duplicating this literal "<a href="" 4 times.(‹°œÆşÿÿÿÿ
+[	php:S11922"FDefine a constant instead of duplicating this literal "users" 3 times.(Éµ‰û
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÂŞû©úÿÿÿÿ
+sphp:S101"ZRename class "WP_MS_Users_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„õ¯‡şÿÿÿÿ
+[	php:S1192Ç"FDefine a constant instead of duplicating this literal "email" 3 times.(Ê¹ô

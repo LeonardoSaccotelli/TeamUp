@@ -1,0 +1,14 @@
+
+ˆ	php:S1448$"nClass "WP_Filesystem_SSH2" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(ËÃÓ¶ıÿÿÿÿ
+^	php:S1192q"IDefine a constant instead of duplicating this literal "password" 5 times.(½›ß™
+j	php:S1142å"OReduce the number of returns of this function 4, down to the maximum allowed 3.(•Àíİøÿÿÿÿ
+ophp:S101$"VRename class "WP_Filesystem_SSH2" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ËÃÓ¶ıÿÿÿÿ
+i	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(æ™ŞA
+f	php:S1192b"LDefine a constant instead of duplicating this literal "private_key" 4 times.(ÙåöËıÿÿÿÿ
+g	php:S1192õ"LDefine a constant instead of duplicating this literal "lastmodunix" 3 times.(î°–…ÿÿÿÿÿ
+c	php:S1192["IDefine a constant instead of duplicating this literal "hostname" 7 times.(Èò¯‰şÿÿÿÿ
+e	php:S1142‚"OReduce the number of returns of this function 5, down to the maximum allowed 3.(š–‡³
+b	php:S1192f"HDefine a constant instead of duplicating this literal "hostkey" 3 times.(ÑñÑÁúÿÿÿÿ
+^	php:S1192i"IDefine a constant instead of duplicating this literal "username" 8 times.(—©ê
+j	php:S1142Û"OReduce the number of returns of this function 4, down to the maximum allowed 3.(øˆ¬Öøÿÿÿÿ
+e	php:S1192b"KDefine a constant instead of duplicating this literal "public_key" 4 times.(ÙåöËıÿÿÿÿ

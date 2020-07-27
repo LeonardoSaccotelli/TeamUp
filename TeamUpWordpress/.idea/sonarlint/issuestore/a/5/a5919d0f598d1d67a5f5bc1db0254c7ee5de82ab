@@ -1,0 +1,44 @@
+
+e	php:S1142€"OReduce the number of returns of this function 4, down to the maximum allowed 3.(²î³Å
+o	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çâ¾Äøÿÿÿÿ
+ˆ	php:S1192"ìDefine a constant instead of duplicating this literal "/configuration/system.webServer/rewrite/rules/rule[starts-with(@name,\'wordpress\')] | /configuration/system.webServer/rewrite/rules/rule[starts-with(@name,\'WordPress\')]" 3 times.(üü’Üøÿÿÿÿ
+`	php:S1192•"JDefine a constant instead of duplicating this literal "edit_post" 3 times.( Ãš±
+J	php:S3801ù"4Refactor this function to use "return" consistently.(ÖöÙÉ
+J	php:S1066Ï"/Merge this if statement with the enclosing one.( ¦®¨ùÿÿÿÿ
+I	php:S1172†".Remove the unused function parameter "$value".(¬Ûµâúÿÿÿÿ
+M	php:S1172¢
+"2Remove the unused function parameter "$old_value".(¶Š€İÿÿÿÿÿ
+p	php:S1192¸"UDefine a constant instead of duplicating this literal "wp-refresh-post-lock" 3 times.(´›üúùÿÿÿÿ
+q	php:S1192‹"VDefine a constant instead of duplicating this literal "wp-check-locked-posts" 4 times.(‘ãê›øÿÿÿÿ
+i	php:S1192±"NDefine a constant instead of duplicating this literal "is_acceptable" 3 times.(ƒÈË´ıÿÿÿÿ
+M	php:S1172†"2Remove the unused function parameter "$old_value".(¬Ûµâúÿÿÿÿ
+M	php:S1172·"2Remove the unused function parameter "$screen_id".(Çâ¾Äøÿÿÿÿ
+e	php:S1142‘"OReduce the number of returns of this function 4, down to the maximum allowed 3.(²†İè
+H	php:S1172ˆ"2Remove the unused function parameter "$screen_id".(ƒàûÑ
+M	php:S1172ì"2Remove the unused function parameter "$screen_id".(Úô¥¶ûÿÿÿÿ
+E	php:S1066‹"/Merge this if statement with the enclosing one.(º¶øÜ
+`	php:S1126‚"EReplace this "if-then-else" statement by a single "return" statement.(ù±üşÿÿÿÿ
+n%Web:ItemTagNotWithinContainerTagCheckÙ"<Surround this <li> item tag by a <ul> or <ol> container one.(­æ‰ë
+s%Web:ItemTagNotWithinContainerTagCheck“"<Surround this <li> item tag by a <ul> or <ol> container one.(¦øïÜúÿÿÿÿ
+b	php:S1192ø"LDefine a constant instead of duplicating this literal "DOMDocument" 3 times.(Üî¶
+j	php:S1142¶"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ôóœÁÿÿÿÿÿ
+j	php:S3776€"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(²î³Å
+c	php:S1192¼	"HDefine a constant instead of duplicating this literal "success" 3 times.(—¬¢¡ıÿÿÿÿ
+o	php:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µÓÙÿÿÿÿÿ
+@	Web:S5256¾"%Add "<th>" headers to this "<table>".(§ÔòÙúÿÿÿÿ
+n%Web:ItemTagNotWithinContainerTagCheck€"<Surround this <li> item tag by a <ul> or <ol> container one.(­æ‰ë
+s%Web:ItemTagNotWithinContainerTagCheckë"<Surround this <li> item tag by a <ul> or <ol> container one.(ãĞıüÿÿÿÿ
+j	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ƒàûÑ
+a	php:S1192"FDefine a constant instead of duplicating this literal "fresh" 6 times.(¹ÊŸöÿÿÿÿÿ
+g	php:S1192·	"LDefine a constant instead of duplicating this literal "wp_autosave" 5 times.(“Ñ©³ÿÿÿÿÿ
+h	php:S1192‚"RDefine a constant instead of duplicating this literal "wp_screen_options" 4 times.(‘é²î
+c	php:S1192½	"HDefine a constant instead of duplicating this literal "message" 3 times.(ŞœË“øÿÿÿÿ
+o	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÉÂãÍüÿÿÿÿ
+j	php:S1142ô"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ùê­§ùÿÿÿÿ
+J	php:S3801"4Refactor this function to use "return" consistently.(‹Ò‹
+o	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ôóœÁÿÿÿÿÿ
+n	php:S3776m"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(£ÁÇˆşÿÿÿÿ
+i	php:S1142m"OReduce the number of returns of this function 6, down to the maximum allowed 3.(£ÁÇˆşÿÿÿÿ
+NWeb:TableWithoutCaptionCheck¾" Add a description to this table.(§ÔòÙúÿÿÿÿ
+m	php:S1192í"WDefine a constant instead of duplicating this literal "wp-refresh-post-nonces" 4 times.(Šÿ¿Â
+e	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹Ò‹

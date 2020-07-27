@@ -1,0 +1,15 @@
+
+a	php:S1192\"LDefine a constant instead of duplicating this literal "description" 9 times.(Ô®ÉÃ
+›php:S138R"This function "get_controls_list" has 160 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ë‹‰şÿÿÿÿ
+f	php:S1192l"LDefine a constant instead of duplicating this literal "placeholder" 3 times.(èğ¾–ùÿÿÿÿ
+`	php:S1192C"FDefine a constant instead of duplicating this literal "title" 4 times.(»Òß³ıÿÿÿÿ
+e	php:S1192C"KDefine a constant instead of duplicating this literal "elementor" 37 times.(»Òß³ıÿÿÿÿ
+c	php:S1192W"IDefine a constant instead of duplicating this literal "controls" 3 times.(ÍşÜ÷øÿÿÿÿ
+d	php:S1192d"JDefine a constant instead of duplicating this literal "selectors" 8 times.(Ú‘›æúÿÿÿÿ
+o	php:S1192Å"TDefine a constant instead of duplicating this literal ".elementor-lightbox" 6 times.(àó„†ùÿÿÿÿ
+b	php:S1192["HDefine a constant instead of duplicating this literal "default" 8 times.(Í¡ÚÈúÿÿÿÿ
+\	php:S1192¨"FDefine a constant instead of duplicating this literal "Title" 3 times.(‡ÅÈ¾
+f	php:S1192]"LDefine a constant instead of duplicating this literal "label_block" 3 times.(à–ÂÆúÿÿÿÿ
+h	php:S1192x"SDefine a constant instead of duplicating this literal "frontend_available" 8 times.(‘İĞ€
+g	php:S1192¯"LDefine a constant instead of duplicating this literal "Description" 3 times.(ì•Ïÿÿÿÿÿ
+\	php:S1192V"GDefine a constant instead of duplicating this literal "label" 22 times.(»×·”

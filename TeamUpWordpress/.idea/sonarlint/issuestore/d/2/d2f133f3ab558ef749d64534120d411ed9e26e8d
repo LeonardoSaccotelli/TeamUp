@@ -1,0 +1,17 @@
+
+d	php:S1192"ODefine a constant instead of duplicating this literal "pre_user_query" 3 times.(úŸ‰‹
+E	php:S1066ø"/Merge this if statement with the enclosing one.(™Ü 
+e	php:S1192´"JDefine a constant instead of duplicating this literal "<a href="" 3 times.(ÿÍ±ùÿÿÿÿ
+v	php:S1488è"`Immediately return this expression instead of assigning it to the temporary variable "$actions".(«œû
+Ephp:S121Ï"0Add curly braces around the nested statement(s).(âÈ³Ï
+h	php:S1192´"MDefine a constant instead of duplicating this literal ")</span></a>" 3 times.(ÿÍ±ùÿÿÿÿ
+a	php:S1192¦"FDefine a constant instead of duplicating this literal "label" 7 times.(š¹Ÿ´ıÿÿÿÿ
+r	php:S1192´"WDefine a constant instead of duplicating this literal " <span class="count">(" 3 times.(ÿÍ±ùÿÿÿÿ
+9php:S125²"Remove this commented out code.(Æ…“ÿÿÿÿÿ
+cphp:S101"ORename class "Admin_Users" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒÏø‚
+`	php:S1192÷"JDefine a constant instead of duplicating this literal "users.php" 7 times.(Ì×é¨
+f	php:S1192f"QDefine a constant instead of duplicating this literal "ultimate-member" 20 times.(°ğÂ
+c	php:S1192€"HDefine a constant instead of duplicating this literal "status" 10 times.(ô˜©øÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Lphp:S836»"2Review the data-flow - use of uninitialized value.(ŠÇü€ıÿÿÿÿ
+4php:S125º"Remove this commented out code.(‹ìŒá

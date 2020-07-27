@@ -1,0 +1,14 @@
+
+php:S101	"hRename class "ParagonIE_Sodium_Core_Base64_UrlSafe" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Â•§†ûÿÿÿÿ
+4php:S125Ï"Remove this commented out code.(ú‚™ã
+9php:S125Ø"Remove this commented out code.(—¨Ùİúÿÿÿÿ
+i	php:S3776f"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ğËù¢
+9php:S125ò"Remove this commented out code.(öúÚäûÿÿÿÿ
+D	php:S1066p"/Merge this if statement with the enclosing one.(Ş«ù±
+4php:S125Ì"Remove this commented out code.(ê½Ş®
+9php:S125é"Remove this commented out code.(¼¾´şÿÿÿÿÿ
+3php:S125ï"Remove this commented out code.(ùâÌi
+r	php:S1488Ù"\Immediately return this expression instead of assigning it to the temporary variable "$ret".(ùù¿µ
+9php:S125Õ"Remove this commented out code.(â™£²üÿÿÿÿ
+4php:S125Ò"Remove this commented out code.(üË¹Ê
+9php:S125ì"Remove this commented out code.(¢òå¤üÿÿÿÿ

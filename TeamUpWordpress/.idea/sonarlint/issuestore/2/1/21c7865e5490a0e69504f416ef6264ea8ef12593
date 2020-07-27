@@ -1,0 +1,10 @@
+
+n	php:S3776:"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¿•¹½ùÿÿÿÿ
+TWeb:FieldsetWithoutLegendCheckõ"$Add a <legend> tag to this fieldset.(ËÀì˜ûÿÿÿÿ
+a	php:S1192A"GDefine a constant instead of duplicating this literal "action" 4 times.(Ë¸Ïàüÿÿÿÿ
+lphp:S101"XRename class "Walker_Nav_Menu_Edit" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñ¹è
+m%Web:ItemTagNotWithinContainerTagCheckv"<Surround this <li> item tag by a <ul> or <ol> container one.(øçŠÉ
+‘php:S138:"xThis function "start_el" has 167 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¿•¹½ùÿÿÿÿ
+i	php:S1192†"NDefine a constant instead of duplicating this literal "nav-menus.php" 5 times.(û½ÿŸûÿÿÿÿ
+d	php:S1192C"ODefine a constant instead of duplicating this literal "edit-menu-item" 7 times.(“çöè
+_	php:S1192D"JDefine a constant instead of duplicating this literal "menu-item" 4 times.(¦Şë£

@@ -1,0 +1,23 @@
+
+i	php:S1142y"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ö¿óÃşÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(÷”Ï
+Dphp:S121b"0Add curly braces around the nested statement(s).(‹îÊª
+u	php:S1488¡"_Immediately return this expression instead of assigning it to the temporary variable "$output".(¤¹ †
+Jphp:S121ú"0Add curly braces around the nested statement(s).(˜®¿…øÿÿÿÿ
+Ephp:S121…"0Add curly braces around the nested statement(s).(õ€ñ³
+`	php:S1117Â"JRename "$itoa64" which has the same name as the field declared at line 37.(¸±Ú
+j	php:S1142á"OReduce the number of returns of this function 5, down to the maximum allowed 3.(×ëİ–ûÿÿÿÿ
+Iphp:S121|"0Add curly braces around the nested statement(s).(Í¢ Éøÿÿÿÿ
+Ephp:S121ò"0Add curly braces around the nested statement(s).(±í•‘
+Jphp:S121í"0Add curly braces around the nested statement(s).(È²¸¬ûÿÿÿÿ
+‰	php:S1603="oReplace this function name "PasswordHash", since a "__construct" method has already been defined in this class.(‰ìúªûÿÿÿÿ
+Jphp:S121ÿ"0Add curly braces around the nested statement(s).(¶…¤êøÿÿÿÿ
+Ephp:S121ö"0Add curly braces around the nested statement(s).(Ä™úÄ
+Dphp:S121_"0Add curly braces around the nested statement(s).(œù¨ï
+z	php:S1488³"_Immediately return this expression instead of assigning it to the temporary variable "$output".(µ»È¡ÿÿÿÿÿ
+Dphp:S1211"0Add curly braces around the nested statement(s).(æÖáá
+Jphp:S121‹"0Add curly braces around the nested statement(s).(†úŸƒùÿÿÿÿ
+y	php:S1488t"_Immediately return this expression instead of assigning it to the temporary variable "$output".(›—ÚÏşÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(³®ÍÔ
+Dphp:S121d"0Add curly braces around the nested statement(s).(œù¨ï
+Dphp:S121g"0Add curly braces around the nested statement(s).(‹îÊª

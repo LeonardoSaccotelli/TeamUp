@@ -1,0 +1,12 @@
+
+f	php:S1192"PDefine a constant instead of duplicating this literal "Use %s instead." 4 times.(÷âÚÆ
+c	php:S1117í"HRename "$caps" which has the same name as the field declared at line 61.(‚¾ò½ÿÿÿÿÿ
+dphp:S101&"KRename class "WP_User" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸ªÇæÿÿÿÿÿ
+b	php:S1192Œ"LDefine a constant instead of duplicating this literal "WP_User->id" 4 times.(‡¹ê¥
+c	php:S1117ç"HRename "$caps" which has the same name as the field declared at line 61.(İøûÛüÿÿÿÿ
+a	php:S1192€"KDefine a constant instead of duplicating this literal "user_level" 4 times.(Ğ‡êù
+e	php:S1142ç"OReduce the number of returns of this function 4, down to the maximum allowed 3.(®ã‡¸
+t	php:S1192‘"YDefine a constant instead of duplicating this literal "<code>WP_User->ID</code>" 4 times.(â„ôºùÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "2.1.0" 4 times.(£«Ş”
+}	php:S1448&"cClass "WP_User" has 28 methods, which is greater than 20 authorized. Split it into smaller classes.(¸ªÇæÿÿÿÿÿ
+e	php:S1142»"OReduce the number of returns of this function 7, down to the maximum allowed 3.(÷óĞ

@@ -1,0 +1,7 @@
+
+k	php:S1192¢"PDefine a constant instead of duplicating this literal "is_multi_author" 4 times.(Ôãñßıÿÿÿÿ
+a	php:S1192¨"KDefine a constant instead of duplicating this literal "feed_image" 6 times.(èáıŠ
+s	php:S1488ó"]Immediately return this expression instead of assigning it to the temporary variable "$link".(ÜÜ’ó
+`	php:S1192"FDefine a constant instead of duplicating this literal "2.1.0" 3 times.(Ì­Õşÿÿÿÿ
+o	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÛÀñ÷üÿÿÿÿ
+\	php:S1192«"FDefine a constant instead of duplicating this literal "style" 3 times.(¥‰Óÿ

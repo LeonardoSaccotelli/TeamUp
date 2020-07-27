@@ -1,0 +1,7 @@
+
+‰	php:S16031"uReplace this function name "Text_Diff_Renderer", since a "__construct" method has already been defined in this class.(¥×Žp
+iphp:S101"VRename class "Text_Diff_Renderer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷–Ô
+n	php:S3776M"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(›§Áâÿÿÿÿÿ
+Kphp:S131œ"7Add a "case default" clause to this "switch" statement.(šÄÇ[
+N	php:S1135n"4Complete the task associated to this "TODO" comment.(ûˆ¼ ÿÿÿÿÿ
+Y	php:S3358Ì"DExtract this nested ternary operation into an independent statement.(Ð®§m

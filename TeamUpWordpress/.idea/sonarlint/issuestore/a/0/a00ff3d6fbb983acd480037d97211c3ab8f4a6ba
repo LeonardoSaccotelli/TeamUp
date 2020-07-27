@@ -1,0 +1,5 @@
+
+n	php:S3776A"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Û×ÿýøÿÿÿÿ
+hphp:S101"TRename class "WP_Ajax_Response" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯ªªÿ
+b	php:S1192I"MDefine a constant instead of duplicating this literal "supplemental" 3 times.(¸ç‹Õ
+a	php:S1192D"GDefine a constant instead of duplicating this literal "action" 3 times.(«’¿²ûÿÿÿÿ

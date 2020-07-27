@@ -1,0 +1,25 @@
+
+6	php:S1110î"!Remove these useless parentheses.(¤ª¥3
+b	php:S1192Ç"LDefine a constant instead of duplicating this literal "native_name" 5 times.(šÜ
+j	php:S1142¤"OReduce the number of returns of this function 6, down to the maximum allowed 3.(âªÙöşÿÿÿÿ
+j	php:S1142¹
+"OReduce the number of returns of this function 5, down to the maximum allowed 3.(‡¾õçúÿÿÿÿ
+h	php:S1192¤"MDefine a constant instead of duplicating this literal "translations" 4 times.(µÈÿÿÿÿÿ
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÎÖÕ
+j	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(•¹ƒ°
+d	php:S1192®"IDefine a constant instead of duplicating this literal "default" 25 times.(ë¾£ïúÿÿÿÿ
+_	php:S1192¥"IDefine a constant instead of duplicating this literal "selected" 7 times.(ü®Üæ
+]	php:S1192"GDefine a constant instead of duplicating this literal "domain" 4 times.(£ş½Ø
+\	php:S1192)"GDefine a constant instead of duplicating this literal "locale" 4 times.(‡ŠÏ«
+o	php:S3776¹
+"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‡¾õçúÿÿÿÿ
+J	php:S3801œ"4Refactor this function to use "return" consistently.(•¹ƒ°
+e	php:S1142ó"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ä ç˜
+\	php:S11921"GDefine a constant instead of duplicating this literal "WPLANG" 5 times.(ĞÚŒ”
+e	php:S1192«"JDefine a constant instead of duplicating this literal "/plugins/" 3 times.(ëÁÜºüÿÿÿÿ
+o	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(âªÙöşÿÿÿÿ
+^	php:S1192‹"IDefine a constant instead of duplicating this literal "singular" 4 times.(°…
+c	php:S1192"HDefine a constant instead of duplicating this literal "context" 4 times.(ùëşÜüÿÿÿÿ
+>	php:S1125ƒ"(Remove the literal "true" boolean value.(½‹Çï
+d	php:S1192Æ"IDefine a constant instead of duplicating this literal "language" 7 times.(Ûôİıÿÿÿÿ
+]	php:S1192Œ"GDefine a constant instead of duplicating this literal "plural" 4 times.(£—£ç

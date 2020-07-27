@@ -1,0 +1,111 @@
+
+D	php:S1481·")Remove this unused "$key" local variable.(å´…¥şÿÿÿÿ
+†	php:S1448"lClass "Member_Directory" has 42 methods, which is greater than 20 authorized. Split it into smaller classes.(«ô–Ìıÿÿÿÿ
+_	php:S1192å	"IDefine a constant instead of duplicating this literal "relation" 9 times.(œ»é·
+g	php:S1192®"LDefine a constant instead of duplicating this literal "total_users" 3 times.(ù¶õÌùÿÿÿÿ
+d	php:S1192÷"IDefine a constant instead of duplicating this literal "BETWEEN" 10 times.(õ®¥Êøÿÿÿÿ
+E	php:S1066¾"/Merge this if statement with the enclosing one.(¨º
+s	php:S1192Ó"]Define a constant instead of duplicating this literal "parent_dropdown_relationship" 6 times.(çÅ°Ô
+u	php:S1488"_Immediately return this expression instead of assigning it to the temporary variable "$filter".(®½ğ
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "filter_" 6 times.(‰Ğ¬
+”php:S138“"This function "default_filters" has 173 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(©éœç
+a	php:S1192ÿ"KDefine a constant instead of duplicating this literal "gmt_offset" 9 times.(Œ¿†œ
+p	php:S3776«"URefactor this function to reduce its Cognitive Complexity from 149 to the 15 allowed.(§ĞŸˆùÿÿÿÿ
+d	php:S1192©"IDefine a constant instead of duplicating this literal "min_meta" 4 times.(¹¤ßÛÿÿÿÿÿ
+j	php:S1117Ö"ORename "$avatar_size" which has the same name as the field declared at line 81.(¹ä¿–şÿÿÿÿ
+c	php:S1192™"HDefine a constant instead of duplicating this literal "metakey" 8 times.(‰û°“ùÿÿÿÿ
+•php:S138«"{This function "show_filter" has 232 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(§ĞŸˆùÿÿÿÿ
+j	php:S1192Å
+"ODefine a constant instead of duplicating this literal "pre_user_query" 3 times.(½Ÿ£±şÿÿÿÿ
+D	php:S1481·")Remove this unused "$key" local variable.(å´…¥şÿÿÿÿ
+`	php:S1192í	"KDefine a constant instead of duplicating this literal "NOT EXISTS" 3 times.(‘ª`
+Œphp:S138õ"wThis function "filters" has 196 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(·¸Ğá
+j	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(©éœç
+d	php:S1192Æ"IDefine a constant instead of duplicating this literal "checkbox" 3 times.(¨Ïõèùÿÿÿÿ
+U	php:S1172¸":Remove the unused function parameter "$primary_id_column".(“›–Ùüÿÿÿÿ
+d	php:S1192‘"IDefine a constant instead of duplicating this literal "compare" 36 times.(æ†²¼şÿÿÿÿ
+a	php:S1192Õ"FDefine a constant instead of duplicating this literal "roles" 3 times.(£à…çúÿÿÿÿ
+Q	php:S1172¸"6Remove the unused function parameter "$primary_table".(“›–Ùüÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+_	php:S3358Ô"DExtract this nested ternary operation into an independent statement.(ĞĞµÏûÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "value" 29 times.(ØõÂ¾úÿÿÿÿ
+9php:S125¶"Remove this commented out code.(–šãŸùÿÿÿÿ
+mphp:S101"TRename class "Member_Directory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«ô–Ìıÿÿÿÿ
+d	php:S1192©"IDefine a constant instead of duplicating this literal "max_meta" 4 times.(¹¤ßÛÿÿÿÿÿ
+a	php:S1192§"KDefine a constant instead of duplicating this literal "last_login" 8 times.(£¿¨¯
+b	php:S1192¥"LDefine a constant instead of duplicating this literal "avail_roles" 3 times.(ØáÍ«
+\	php:S1192Ñ	"FDefine a constant instead of duplicating this literal "order" 7 times.(šĞ¬Ã
+Qphp:S131ì"7Add a "case default" clause to this "switch" statement.(ë–îÁùÿÿÿÿ
+h	php:S1301ã"MReplace this "switch" statement with "if" statements to increase readability.(¾ğİŠûÿÿÿÿ
+j	php:S1192Ë"ODefine a constant instead of duplicating this literal "_um_last_login" 6 times.(ğ²Ò³ıÿÿÿÿ
+z	php:S1488±"_Immediately return this expression instead of assigning it to the temporary variable "$string".(ÿ¹µÌüÿÿÿÿ
+t	php:S1192"YDefine a constant instead of duplicating this literal "um_member_directory_data" 4 times.(£Ï¢œşÿÿÿÿ
+a	php:S1192Ş"KDefine a constant instead of duplicating this literal "datepicker" 7 times.(ì¢“Ô
+=	php:S1481÷"'Remove this unused "$k" local variable.(ï¬»ê
+f	php:S1192ø"KDefine a constant instead of duplicating this literal "inclusive" 12 times.(†‹È¶ÿÿÿÿÿ
+o	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ùıòìÿÿÿÿÿ
+\	php:S1192Ã"FDefine a constant instead of duplicating this literal "where" 3 times.(’œÑ‰
+c	php:S1192Æ"HDefine a constant instead of duplicating this literal "number" 12 times.(¨Ïõèùÿÿÿÿ
+H	php:S1481"-Remove this unused "$actions" local variable.(Èôè³úÿÿÿÿ
+`	php:S1192¡"JDefine a constant instead of duplicating this literal "role__in" 33 times.(†’ˆ
+`	php:S1192:"KDefine a constant instead of duplicating this literal "user_login" 3 times.(¼ëÊ
+b	php:S1192"GDefine a constant instead of duplicating this literal "search" 7 times.(ÖËËøÿÿÿÿ
+j	php:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(·¸Ğá
+d	php:S1192¸"NDefine a constant instead of duplicating this literal "header_single" 4 times.(·âäÑ
+K	php:S1172¸"0Remove the unused function parameter "$queries".(“›–Ùüÿÿÿÿ
+9php:S125»"Remove this commented out code.(á£­Éıÿÿÿÿ
+f	php:S1192£"KDefine a constant instead of duplicating this literal "first_name" 5 times.(²Å¦„ÿÿÿÿÿ
+7	php:S1116½"Remove this empty statement.(ôŸìúÿÿÿÿ
+h	php:S1301é"MReplace this "switch" statement with "if" statements to increase readability.(îğß‘øÿÿÿÿ
+g	php:S1192İ"LDefine a constant instead of duplicating this literal "Y-m-d H:s:i" 8 times.(ˆÕ¦æùÿÿÿÿ
+f	php:S1192º"KDefine a constant instead of duplicating this literal "birth_date" 8 times.(ìĞÛ°üÿÿÿÿ
+m	php:S1192Š"RDefine a constant instead of duplicating this literal "can_edit_everyone" 3 times.(ë‡Ãšşÿÿÿÿ
+h	php:S1192ò
+"MDefine a constant instead of duplicating this literal "directory_id" 4 times.(©úôüÿÿÿÿÿ
+k	php:S1192¼"PDefine a constant instead of duplicating this literal "user_registered" 7 times.(â µèşÿÿÿÿ
+e	php:S1192Å	"JDefine a constant instead of duplicating this literal "max_users" 9 times.(›àÚ‡ûÿÿÿÿ
+k	php:S3776Ê"URefactor this function to reduce its Cognitive Complexity from 100 to the 15 allowed.(Ş²‚Â
+g	php:S1192"LDefine a constant instead of duplicating this literal "meta_query" 31 times.(Ç£«ëûÿÿÿÿ
+b	php:S1192™"GDefine a constant instead of duplicating this literal "title" 15 times.(ïÁš²üÿÿÿÿ
+^	php:S1192ñ	"HDefine a constant instead of duplicating this literal "orderby" 8 times.(ßß–î
+b	php:S1192<"MDefine a constant instead of duplicating this literal "display_name" 7 times.(ß€÷Ú
+f	php:S1192é"KDefine a constant instead of duplicating this literal "date_query" 8 times.(œÑµçüÿÿÿÿ
+u	php:S1192Ğ"_Define a constant instead of duplicating this literal "custom_dropdown_options_source" 3 times.(¢®‰É
+h	php:S1301Ï"MReplace this "switch" statement with "if" statements to increase readability.(¾ğİŠûÿÿÿÿ
+j	php:S1142«"OReduce the number of returns of this function 6, down to the maximum allowed 3.(§ĞŸˆùÿÿÿÿ
+j	php:S3776Ï	"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ËıîÙ
+d	php:S1192¿"IDefine a constant instead of duplicating this literal "options" 25 times.(œä¤ıüÿÿÿÿ
+a	php:S1192Ş"KDefine a constant instead of duplicating this literal "timepicker" 5 times.(ì¢“Ô
+b	php:S1192Æ"GDefine a constant instead of duplicating this literal "rating" 3 times.(¨Ïõèùÿÿÿÿ
+t	php:S1488o"`Immediately return this expression instead of assigning it to the temporary variable "$default".(†Ès
+H	php:S1172¸"-Remove the unused function parameter "$type".(“›–Ùüÿÿÿÿ
+o	php:S1192Á	"YDefine a constant instead of duplicating this literal "profiles_per_page_mobile" 4 times.(®‹¤Ğ
+i	php:S1192Õ"NDefine a constant instead of duplicating this literal "reveal_fields" 5 times.(û…Şàûÿÿÿÿ
+_	php:S1192¢"IDefine a constant instead of duplicating this literal "nickname" 4 times.(Éú¯
+f	php:S1192õ"KDefine a constant instead of duplicating this literal "other_data" 3 times.(¡¸»„ûÿÿÿÿ
+e	php:S1192ü	"JDefine a constant instead of duplicating this literal "full_name" 3 times.(µøÈ¤úÿÿÿÿ
+a	php:S1192…"FDefine a constant instead of duplicating this literal "Y/m/d" 6 times.(áæÒúıÿÿÿÿ
+l	php:S1192™"QDefine a constant instead of duplicating this literal "ultimate-member" 47 times.(ïÁš²üÿÿÿÿ
+e	php:S1192¾"ODefine a constant instead of duplicating this literal "tagline_fields" 5 times.(¨º
+b	php:S1192Á"LDefine a constant instead of duplicating this literal "role_select" 4 times.(àÑ€’
+j	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(ƒŞ‡
+o	php:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(êÒş¸şÿÿÿÿ
+a	php:S1192Æ"FDefine a constant instead of duplicating this literal "radio" 3 times.(¨Ïõèùÿÿÿÿ
+b	php:S1192ı"GDefine a constant instead of duplicating this literal "label" 18 times.(ö×¥Öúÿÿÿÿ
+g	php:S1192Æ"LDefine a constant instead of duplicating this literal "multiselect" 3 times.(¨Ïõèùÿÿÿÿ
+b	php:S1192Ú"GDefine a constant instead of duplicating this literal "slider" 6 times.(Ûôúìıÿÿÿÿ
+h	php:S1301›"MReplace this "switch" statement with "if" statements to increase readability.(¾ğİŠûÿÿÿÿ
+4php:S125¸"Remove this commented out code.(äõ•œ
+7	php:S1116½"Remove this empty statement.(ôŸìúÿÿÿÿ
+^	php:S1192û"HDefine a constant instead of duplicating this literal "form_id" 5 times.(Ñ¼Û
+j	php:S1192³"ODefine a constant instead of duplicating this literal "search_filters" 4 times.(Ú†Èıúÿÿÿÿ
+e	php:S1192¤"JDefine a constant instead of duplicating this literal "last_name" 5 times.(¶ËºÛùÿÿÿÿ
+o	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(“›–Ùüÿÿÿÿ
+v	php:S3923Ï"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¾ğİŠûÿÿÿÿ
+t	php:S1192ò
+"YDefine a constant instead of duplicating this literal "um_member_directory_seed" 5 times.(©úôüÿÿÿÿÿ
+^	php:S1192â"HDefine a constant instead of duplicating this literal "select" 14 times.(ÆÎËÇ
+]	php:S1192·"GDefine a constant instead of duplicating this literal "header" 4 times.(Â®ˆ¯
+b	php:S1192è	"GDefine a constant instead of duplicating this literal "EXISTS" 6 times.(ğÂôúúÿÿÿÿ
+x	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$hash".(‰„è€øÿÿÿÿ
+[	php:S1192Æ	"FDefine a constant instead of duplicating this literal "paged" 5 times.(á“›c

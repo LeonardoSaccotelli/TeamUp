@@ -1,0 +1,189 @@
+
+]	php:S1192ô,"GDefine a constant instead of duplicating this literal "search" 5 times.(ãŠøŸ
+J	php:S1135‹"4Complete the task associated to this "TODO" comment.(´ß¿–
+l	php:S1192Å*"VDefine a constant instead of duplicating this literal "background_position_x" 3 times.(¥‹¥ç
+f	php:S1142²"PReduce the number of returns of this function 13, down to the maximum allowed 3.(‰¢Áï
+w	php:S1192š"\Define a constant instead of duplicating this literal "customize_messenger_channel" 4 times.(Ê¼½ùÿÿÿÿ
+^	php:S1192º*"HDefine a constant instead of duplicating this literal "choices" 3 times.(ãâı÷
+f	php:S1192ä'"PDefine a constant instead of duplicating this literal "theme_supports" 20 times.(·Ïıë
+g	php:S1192ú'"LDefine a constant instead of duplicating this literal "postMessage" 7 times.(±‚¨ßÿÿÿÿÿ
+u	php:S1488ñ$"_Immediately return this expression instead of assigning it to the temporary variable "$nonces".(€åş¨
+b	php:S1117Ğ"LRename "$settings" which has the same name as the field declared at line 78.(§Ï
+j	php:S1142–"OReduce the number of returns of this function 4, down to the maximum allowed 3.(È¸øëüÿÿÿÿ
+a	php:S1192–"FDefine a constant instead of duplicating this literal "nonce" 9 times.(ªØãûÿÿÿÿ
+a	php:S1192ó	"KDefine a constant instead of duplicating this literal "post_name" 18 times.(ú²Œ¢
+e	php:S1192à'"ODefine a constant instead of duplicating this literal "custom-header" 16 times.(Øÿ—»
+k	php:S1192î)"PDefine a constant instead of duplicating this literal "active_callback" 3 times.(Öş‘Çúÿÿÿÿ
+a	php:S1192ÿ&"LDefine a constant instead of duplicating this literal "description" 7 times.(Î”é]
+b	php:S1192ä'"LDefine a constant instead of duplicating this literal "custom-logo" 3 times.(·Ïıë
+j	php:S3776§."TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(˜‚©¿
+c	php:S1192¼"MDefine a constant instead of duplicating this literal "header_image" 7 times.(©İİ½
+k	php:S1192ã"PDefine a constant instead of duplicating this literal "unauthenticated" 3 times.(Õ–ç×úÿÿÿÿ
+_	php:S1192¾'"IDefine a constant instead of duplicating this literal "blogname" 3 times.(Â×£Ì
+i	php:S1192¹+"NDefine a constant instead of duplicating this literal "show_on_front" 3 times.(ÛÔƒÒûÿÿÿÿ
+e	php:S1142Ï"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¸ÿ—‹
+l	php:S1192¼)"VDefine a constant instead of duplicating this literal "external_header_video" 3 times.(âŒö
+d	php:S1192Ñ"IDefine a constant instead of duplicating this literal "message" 12 times.(†œøÿÿÿÿ
+a	php:S1192Æ"FDefine a constant instead of duplicating this literal "width" 7 times.(Ş²¨İûÿÿÿÿ
+d	php:S1192f"JDefine a constant instead of duplicating this literal "nav_menus" 4 times.(ã¼¹Çúÿÿÿÿ
+`	php:S1192ˆ"JDefine a constant instead of duplicating this literal "branching" 3 times.(ıÜæ—
+d	php:S1192÷"IDefine a constant instead of duplicating this literal "settings" 7 times.(µèàûÿÿÿÿ
+g	php:S1192ì"LDefine a constant instead of duplicating this literal "auto-draft" 14 times.(‡üÒ¡úÿÿÿÿ
+a	php:S1192õ"KDefine a constant instead of duplicating this literal "admin_init" 3 times.(™±Ì‹
+h	php:S1117‰""MRename "$controls" which has the same name as the field declared at line 118.(Óó‹İÿÿÿÿÿ
+b	php:S1192ë	"GDefine a constant instead of duplicating this literal "value" 13 times.(İ°„ıÿÿÿÿ
+e	php:S1117Í""JRename "$panels" which has the same name as the field declared at line 94.(ƒÛììøÿÿÿÿ
+F	php:S1172À"0Remove the unused function parameter "$postarr".(¤Ú•
+e	php:S1192ã"JDefine a constant instead of duplicating this literal "theme_mod" 4 times.(¬Ÿ¼•úÿÿÿÿ
+e	php:S1192ï"ODefine a constant instead of duplicating this literal "posts_per_page" 7 times.(»®½¼
+\	php:S1192ç"FDefine a constant instead of duplicating this literal "4.7.0" 8 times.(ˆ¬Ê
+m	php:S1192Í"RDefine a constant instead of duplicating this literal "exclude_changeset" 5 times.(Œ„…•üÿÿÿÿ
+a	php:S1192¹	"FDefine a constant instead of duplicating this literal "posts" 3 times.(„ù»·şÿÿÿÿ
+l	php:S1192È"QDefine a constant instead of duplicating this literal "background_image" 9 times.(êşëÿÿÿÿÿ
+o	php:S3776å,"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Í­œøÿÿÿÿ
+d	php:S1192ì"NDefine a constant instead of duplicating this literal "invalid_nonce" 4 times.(ãŸ¿ª
+h	php:S1192İ
+"MDefine a constant instead of duplicating this literal "post_content" 5 times.(ëÉÄëıÿÿÿÿ
+lphp:S101"XRename class "WP_Customize_Manager" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ı¹…
+O	php:S1135Ê"4Complete the task associated to this "TODO" comment.(Ä„éÿÿÿÿÿ
+a	php:S1192Ã$"FDefine a constant instead of duplicating this literal "panel" 3 times.(½ Óüùÿÿÿÿ
+b	php:S1192å"GDefine a constant instead of duplicating this literal "locked" 3 times.(©¸–ùÿÿÿÿ
+g	php:S1192Ü	"QDefine a constant instead of duplicating this literal "starter_content" 12 times.(Ÿ²£™
+Q	php:S1172ô"6Remove the unused function parameter "$current_theme".(Ìòœ‹úÿÿÿÿ
+a	php:S1192¤"KDefine a constant instead of duplicating this literal "stylesheet" 9 times.(öÀ„û
+†	php:S1448"qClass "WP_Customize_Manager" has 117 methods, which is greater than 20 authorized. Split it into smaller classes.(ı¹…
+œphp:S138õ&"This function "register_controls" has 609 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ù€£Ûüÿÿÿÿ
+c	php:S1192ˆ"HDefine a constant instead of duplicating this literal "symbol" 20 times.(±Ò¿åıÿÿÿÿ
+j	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(şßÌ
+h	php:S1192ˆ"RDefine a constant instead of duplicating this literal "messenger_channel" 4 times.(ıÜæ—
+b	php:S1192¨("GDefine a constant instead of duplicating this literal "select" 3 times.(êşƒØşÿÿÿÿ
+h	php:S1192)"RDefine a constant instead of duplicating this literal "<code>.mp4</code>" 4 times.(àõõï
+a	php:S1192è"KDefine a constant instead of duplicating this literal "setting_id" 3 times.(¾Ğ…£
+e	php:S1192""JDefine a constant instead of duplicating this literal "priority" 18 times.(¸«Ì³ûÿÿÿÿ
+_	php:S1192Ø&"IDefine a constant instead of duplicating this literal "default" 20 times.(ÑŠÒ
+k	php:S1117¹#"PRename "$preview_url" which has the same name as the field declared at line 150.(¢ÂÀùÿÿÿÿ
+d	php:S1192£"IDefine a constant instead of duplicating this literal "template" 4 times.(¶İ´õûÿÿÿÿ
+h	php:S1192ı*"RDefine a constant instead of duplicating this literal "background_repeat" 3 times.(ÚŒğ“
+e	php:S1192æ*"PDefine a constant instead of duplicating this literal "background_size" 3 times.(Ÿ°‘
+o	php:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¹°™¬ùÿÿÿÿ
+¢php:S138Ÿ	"ŒThis function "import_theme_starter_content" has 346 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‰ĞÆ…
+n	php:S1192‚"SDefine a constant instead of duplicating this literal "customize_register" 5 times.(ı±¯Ñüÿÿÿÿ
+d	php:S1192¶'"NDefine a constant instead of duplicating this literal "title_tagline" 7 times.(áà‚÷
+]	php:S1192ˆ"GDefine a constant instead of duplicating this literal "theme" 12 times.(ıÜæ—
+c	php:S1117¨""MRename "$sections" which has the same name as the field declared at line 110.(ù›Ù
+h	php:S1192£"MDefine a constant instead of duplicating this literal "get_template" 4 times.(¶İ´õûÿÿÿÿ
+i	php:S1192ı"NDefine a constant instead of duplicating this literal "customize.php" 5 times.(¬¯©ıÿÿÿÿ
+a	php:S1192“("LDefine a constant instead of duplicating this literal "custom_logo" 4 times.(ç¾ˆ~
+]	php:S1192ª%"GDefine a constant instead of duplicating this literal "label" 24 times.(¦Ö¬
+]	php:S1192"GDefine a constant instead of duplicating this literal "future" 7 times.(ÉÀ§
+]	php:S1192¾*"GDefine a constant instead of duplicating this literal "repeat" 4 times.(«¤òê
+a	php:S1192÷	"KDefine a constant instead of duplicating this literal "post_title" 8 times.(›İÓØ
+o	php:S3776õ&"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ù€£Ûüÿÿÿÿ
+d	php:S1192ì"IDefine a constant instead of duplicating this literal "publish" 12 times.(‡üÒ¡úÿÿÿÿ
+n	php:S1192–"SDefine a constant instead of duplicating this literal "preview-customize_" 3 times.(ªØãûÿÿÿÿ
+s	php:S1192ë	"XDefine a constant instead of duplicating this literal "nav_menus_created_posts" 4 times.(İ°„ıÿÿÿÿ
+i	php:S1192¸"NDefine a constant instead of duplicating this literal "invalid_value" 7 times.(Ô° Ôıÿÿÿÿ
+k	php:S1192”"PDefine a constant instead of duplicating this literal "customize_theme" 4 times.(¼Ì»Íşÿÿÿÿ
+`	php:S1192É"JDefine a constant instead of duplicating this literal "date_gmt" 10 times.(ËÙùŒ
+`	php:S1192ˆ"JDefine a constant instead of duplicating this literal "autosaved" 5 times.(ıÜæ—
+l	php:S1192Î*"VDefine a constant instead of duplicating this literal "background_position_y" 3 times.(ÉÛ±’
+e	php:S1192ˆ"ODefine a constant instead of duplicating this literal "changeset_uuid" 6 times.(ıÜæ—
+l	php:S1192ñ"QDefine a constant instead of duplicating this literal "changeset_status" 7 times.(½ôñûÿÿÿÿ
+g	php:S1192-"QDefine a constant instead of duplicating this literal "customized_theme" 4 times.(ˆ²õ÷
+]	php:S1192Ö"GDefine a constant instead of duplicating this literal "title" 20 times.(ÙÂô“
+{	php:S1488ê#"eImmediately return this expression instead of assigning it to the temporary variable "$allowed_urls".(¤ªÅœ
+s	php:S1192š*"]Define a constant instead of duplicating this literal "_sanitize_background_setting" 8 times.(¬ ‘±
+s	php:S1192×"]Define a constant instead of duplicating this literal "customize_stashed_theme_mods" 3 times.(â¤‘Ÿ
+b	php:S1192à'"LDefine a constant instead of duplicating this literal "header-text" 3 times.(Øÿ—»
+b	php:S1117É"LRename "$settings" which has the same name as the field declared at line 78.(§Ï
+a	php:S1192ì"FDefine a constant instead of duplicating this literal "trash" 8 times.(‡üÒ¡úÿÿÿÿ
+]	php:S1192Á'"GDefine a constant instead of duplicating this literal "option" 6 times.(ñõ“
+_	php:S1192ğ'"IDefine a constant instead of duplicating this literal "checkbox" 4 times.(¡Øú¤
+j	php:S1192Î"UDefine a constant instead of duplicating this literal "customize_changeset" 22 times.(×¨Å(
+j	php:S3776å"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÎÎ½
+™php:S138²"ƒThis function "save_changeset_post" has 246 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‰¢Áï
+h	php:S1117»	"MRename "$nav_menus" which has the same name as the field declared at line 62.(ä‹Ù§úÿÿÿÿ
+j	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(«ß—
+r	php:S1192‡"WDefine a constant instead of duplicating this literal "/^{{(?P<symbol>.+)}}$/" 4 times.(¨¯¾ÿÿÿÿÿ
+9php:S125â"Remove this commented out code.(ıÊ²õùÿÿÿÿ
+b	php:S1192ü&"GDefine a constant instead of duplicating this literal "themes" 5 times.(‹é­“øÿÿÿÿ
+I	php:S1135¥%"4Complete the task associated to this "TODO" comment.(ÿ“¹N
+‚	php:S1488#"lImmediately return this expression instead of assigning it to the temporary variable "$document_title_tmpl".(Øóœ
+€	php:S1488Ê#"eImmediately return this expression instead of assigning it to the temporary variable "$cross_domain".(åÃ³Àøÿÿÿÿ
+k	php:S1192ç"VDefine a constant instead of duplicating this literal "locked_allow_override" 3 times.(­Åø
+i	php:S1117Ä"NRename "$autosaved" which has the same name as the field declared at line 182.(å÷şÜıÿÿÿÿ
+g	php:S1192ç"LDefine a constant instead of duplicating this literal "not_preview" 5 times.( ×šÕşÿÿÿÿ
+f	php:S1192é"KDefine a constant instead of duplicating this literal "customized" 6 times.(æ¶µ£ıÿÿÿÿ
+c	php:S1192è"HDefine a constant instead of duplicating this literal "wp_head" 3 times.(ìØâ‰üÿÿÿÿ
+j	php:S1117š$"ORename "$return_url" which has the same name as the field declared at line 158.(ˆİîÂûÿÿÿÿ
+p	php:S1192Ğ!"UDefine a constant instead of duplicating this literal "(opens in a new tab)" 3 times.(ô‘£ıÿÿÿÿ
+j	php:S1142ß"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Çò’ôúÿÿÿÿ
+j	php:S3776²"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(‰¢Áï
+~	php:S1192ˆ"hDefine a constant instead of duplicating this literal "customize_controls_print_footer_scripts" 5 times.(ÍÈ¡¢
+E	php:S1066Œ/"/Merge this if statement with the enclosing one.(Éè­»
+g	php:S1192Ç"LDefine a constant instead of duplicating this literal "post_parent" 3 times.(ñ™Ú¾ıÿÿÿÿ
+h	php:S1192¬*"RDefine a constant instead of duplicating this literal "background_preset" 3 times.(°ÄÿÇ
+^	php:S1192º"HDefine a constant instead of duplicating this literal "user_id" 9 times.(š‹ûğ
+`	php:S1192'"JDefine a constant instead of duplicating this literal "installed" 4 times.(›¬²ü
+d	php:S1192Ë"IDefine a constant instead of duplicating this literal "autosave" 4 times.(ßş×¼ûÿÿÿÿ
+g	php:S1192â'"LDefine a constant instead of duplicating this literal "header_text" 3 times.(èß…ıÿÿÿÿ
+b	php:S1117Í%"LRename "$settings" which has the same name as the field declared at line 78.(§Ï
+d	php:S1192Û"NDefine a constant instead of duplicating this literal "post_date_gmt" 3 times.(¥ü¶é
+d	php:S1192¹"NDefine a constant instead of duplicating this literal "switch_themes" 8 times.(µéáæ
+a	php:S1192Š"KDefine a constant instead of duplicating this literal "_edit_lock" 5 times.(ÌÜÈÜ
+d	php:S1192Ã$"IDefine a constant instead of duplicating this literal "section" 20 times.(½ Óüùÿÿÿÿ
+g	php:S1192Î"RDefine a constant instead of duplicating this literal "exclude_post_data" 4 times.(›àæ
+j	php:S3776û$"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(‹ÒÔ·
+P	php:S1172Ò.":Remove the unused function parameter "$selective_refresh".(ÔÔ›Ş
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(¼ÂçÔ
+o	php:S3776á"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(Âáçñûÿÿÿÿ
+h	php:S1192²)"MDefine a constant instead of duplicating this literal "header_video" 3 times.(äêôÂıÿÿÿÿ
+e	php:S1192Ï'"PDefine a constant instead of duplicating this literal "blogdescription" 3 times.(¿­)
+g	php:S1192½"RDefine a constant instead of duplicating this literal "header_image_data" 3 times.(ß—Şa
+o	php:S3776‡""TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜É¸Îúÿÿÿÿ
+j	php:S1192“"ODefine a constant instead of duplicating this literal "install_themes" 5 times.(¥íÅıÿÿÿÿ
+h	php:S1192µ"RDefine a constant instead of duplicating this literal "after_setup_theme" 4 times.(˜ø¯
+j	php:S1192Â'"ODefine a constant instead of duplicating this literal "manage_options" 6 times.(‹Ôıèüÿÿÿÿ
+]	php:S1192Û"GDefine a constant instead of duplicating this literal "active" 3 times.(ƒ©şå
+^	php:S1192Ç"HDefine a constant instead of duplicating this literal "status" 21 times.(ä‡Û³
+e	php:S1142§."OReduce the number of returns of this function 8, down to the maximum allowed 3.(˜‚©¿
+e	php:S1192ú'"JDefine a constant instead of duplicating this literal "transport" 4 times.(±‚¨ßÿÿÿÿÿ
+k	php:S1192""PDefine a constant instead of duplicating this literal "instance_number" 6 times.(‰ú²Ÿùÿÿÿÿ
+php:S138û$"‡This function "customize_pane_settings" has 173 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‹ÒÔ·
+j	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ší€ª
+i	php:S1192“"SDefine a constant instead of duplicating this literal "validate_existence" 3 times.(…Ë°¢
+p	php:S1192í"ZDefine a constant instead of duplicating this literal "exclude_restore_dismissed" 6 times.(·±ÁÔ
+]	php:S1192Á("GDefine a constant instead of duplicating this literal "colors" 3 times.(é¦¨œ
+b	php:S1192ó	"LDefine a constant instead of duplicating this literal "attachment:" 3 times.(ú²Œ¢
+b	php:S1192ƒ'"LDefine a constant instead of duplicating this literal "capability" 11 times.(ŒĞ´–
+e	php:S1192¤"ODefine a constant instead of duplicating this literal "get_stylesheet" 4 times.(öÀ„û
+`	php:S1192š,"KDefine a constant instead of duplicating this literal "custom_css" 3 times.(ÿôë
+b	php:S1192Å"GDefine a constant instead of duplicating this literal "height" 7 times.(ıÑßŸüÿÿÿÿ
+h	php:S1192¯+"RDefine a constant instead of duplicating this literal "static_front_page" 4 times.(á²ó€
+k	php:S1192˜"PDefine a constant instead of duplicating this literal "save-customize_" 3 times.(ÿšœ°øÿÿÿÿ
+k	php:S3776Ÿ	"URefactor this function to reduce its Cognitive Complexity from 216 to the 15 allowed.(‰ĞÆ…
+i	php:S1192ğ("SDefine a constant instead of duplicating this literal "custom-background" 19 times.(…ù½
+r	php:S1192Ç
+"WDefine a constant instead of duplicating this literal "_starter_content_theme" 3 times.(ÛÜÄÿÿÿÿÿ
+M	php:S1155Ï	"7Use empty() to check whether the array is empty or not.(‘ü —
+d	php:S1192û%"IDefine a constant instead of duplicating this literal "sections" 3 times.(à¢Ê×ıÿÿÿÿ
+b	php:S1192®"GDefine a constant instead of duplicating this literal "action" 4 times.(¹«ùÿÿÿÿ
+q	php:S1192+"VDefine a constant instead of duplicating this literal "background_attachment" 3 times.(ñÕßùÿÿÿÿ
+b	php:S1192f"HDefine a constant instead of duplicating this literal "widgets" 4 times.(ã¼¹Çúÿÿÿÿ
+\	php:S1192…)"FDefine a constant instead of duplicating this literal "video" 7 times.(ËÇ½•
+h	php:S1192ì"MDefine a constant instead of duplicating this literal "post_status" 12 times.(‡üÒ¡úÿÿÿÿ
+l	php:S1192É("QDefine a constant instead of duplicating this literal "header_textcolor" 3 times.(øÜÊ˜şÿÿÿÿ
+{	php:S1488ë&"`Immediately return this expression instead of assigning it to the temporary variable "$devices".(’Ú«üıÿÿÿÿ
+`	php:S1192Ü"JDefine a constant instead of duplicating this literal "post_date" 3 times.(ÛÆÊÆ
+j	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(íÀá’
+o	php:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(¤Ğ½Ïıÿÿÿÿ
+e	php:S1192ı"JDefine a constant instead of duplicating this literal "customize" 8 times.(¬¯©ıÿÿÿÿ
+n	php:S1192‡"SDefine a constant instead of duplicating this literal "setting_validities" 5 times.(ï×¾Øşÿÿÿÿ
+o	php:S1192’"TDefine a constant instead of duplicating this literal "validate_capability" 3 times.(Šúæİüÿÿÿÿ
+b	php:S1117È	"LRename "$settings" which has the same name as the field declared at line 78.(¢¾ßÓ
+`	php:S1192Ó"JDefine a constant instead of duplicating this literal "object_id" 5 times.(¡ÇÛ—
+i	php:S1192æ'"SDefine a constant instead of duplicating this literal "sanitize_callback" 13 times.(§Ó®
+e	php:S1192å"ODefine a constant instead of duplicating this literal "activeSections" 3 times.(’Úâ´
+a	php:S1192Ô"KDefine a constant instead of duplicating this literal "post_type" 17 times.(ªâ‚ï
+\	php:S1192€,"FDefine a constant instead of duplicating this literal "</li>" 3 times.(âîã¨
+\	php:S1192’"FDefine a constant instead of duplicating this literal "mysql" 3 times.(Öù“ğ

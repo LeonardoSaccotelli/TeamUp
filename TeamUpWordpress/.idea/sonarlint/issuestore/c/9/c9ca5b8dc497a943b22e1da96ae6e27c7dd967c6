@@ -1,0 +1,16 @@
+
+	php:S4144ÿ"yUpdate this method so that its implementation is not identical to "um_theme_woocommerce_wrapper_content_end" on line 188.(‰ÔÂŸ
+_	Web:S5255Ø"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(™Øş›ùÿÿÿÿ
+E	php:S1066É"/Merge this if statement with the enclosing one.(Å²¤
+_	Web:S5255à"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(™Øş›ùÿÿÿÿ
+>	php:S1125É"(Remove the literal "true" boolean value.(Å²¤
+d	php:S1192×"IDefine a constant instead of duplicating this literal "um-theme" 6 times.(×²Åùÿÿÿÿ
+n	php:S1192)"TDefine a constant instead of duplicating this literal "woocommerce_sidebar" 3 times.(÷¥÷¤ıÿÿÿÿ
+`	php:S1192}"LDefine a constant instead of duplicating this literal "woocommerce" 5 times.(–¢Çu
+}	php:S1192q"cDefine a constant instead of duplicating this literal "um_theme_bootstrap_class_close_div" 4 times.(•Û­ şÿÿÿÿ
+{	php:S11922"aDefine a constant instead of duplicating this literal "woocommerce_after_shop_loop_item" 4 times.(“©‹³ıÿÿÿÿ
+h	php:S1871Ş"MThis branch's code block is the same as the block for the branch on line 214.(£ÙëÀûÿÿÿÿ
+v	php:S1192"aDefine a constant instead of duplicating this literal "um_theme_woo_remove_wc_generator" 3 times.(ÉéÉ
+y	php:S1192p"dDefine a constant instead of duplicating this literal "um_theme_bootstrap_class_column_six" 3 times.(‹Íë
+2	php:S2010Ö"Replace "or" with "||".(‹®•ìüÿÿÿÿ
+2	php:S2010Ö"Replace "or" with "||".(‹®•ìüÿÿÿÿ

@@ -1,0 +1,118 @@
+
+Ephp:S121Ø"0Add curly braces around the nested statement(s).(û…Ä¡
+Ephp:S121È"0Add curly braces around the nested statement(s).(Ù®”…
+o	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¾°ö­üÿÿÿÿ
+v	php:S3923»"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÛÖäÒùÿÿÿÿ
+Jphp:S121›"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+E	php:S1066Ş"/Merge this if statement with the enclosing one.(¤Ù†×
+Jphp:S121…"0Add curly braces around the nested statement(s).(ÓÖ‡‘ıÿÿÿÿ
+\	php:S1192 "FDefine a constant instead of duplicating this literal "title" 7 times.(š‚çœ
+r	php:S1488™"\Immediately return this expression instead of assigning it to the temporary variable "$url".(ÕûÏ
+j	php:S1142¯
+"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Í¿“ùÿÿÿÿ
+Ephp:S121Ë"0Add curly braces around the nested statement(s).(û…Ä¡
+?	php:S1481£	"*Remove this unused "$type" local variable.(Î†¤
+p	php:S3776·"URefactor this function to reduce its Cognitive Complexity from 345 to the 15 allowed.(ùÁÀçÿÿÿÿÿ
+Dphp:S121İ
+"0Add curly braces around the nested statement(s).(›Ó•
+d	php:S1192ô"IDefine a constant instead of duplicating this literal "https://" 6 times.(­â¤Ãşÿÿÿÿ
+Jphp:S121¶
+"0Add curly braces around the nested statement(s).(ƒÜ­‰ûÿÿÿÿ
+x	php:S1488c"^Immediately return this expression instead of assigning it to the temporary variable "$value".(ıÃ®ğüÿÿÿÿ
+o	php:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "$s".(Ü¬ÛÆ
+o	php:S3776”"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(É¬ÔÓıÿÿÿÿ
+f	php:S1192ï"KDefine a constant instead of duplicating this literal "timestamp" 11 times.(ï²†„ùÿÿÿÿ
+j	php:S1142ö"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ùº«¥üÿÿÿÿ
+j	php:S1142«"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÄØØˆÿÿÿÿÿ
+`	php:S1192í"JDefine a constant instead of duplicating this literal "not empty" 4 times.(‚çÙç
+q	php:S1488("\Immediately return this expression instead of assigning it to the temporary variable "$uri".(Â°ò¼
+Ephp:S121Õ"0Add curly braces around the nested statement(s).(û…Ä¡
+Ephp:S121Æ
+"0Add curly braces around the nested statement(s).(‚ºÙÒ
+f	php:S1192˜"KDefine a constant instead of duplicating this literal "user_login" 6 times.(¢°Æüÿÿÿÿ
+Jphp:S121Â"0Add curly braces around the nested statement(s).(Ò™½Îşÿÿÿÿ
+Qphp:S131Æ"7Add a "case default" clause to this "switch" statement.(¼íîèÿÿÿÿÿ
+_	php:S1192€"IDefine a constant instead of duplicating this literal "contains" 4 times.(˜¼¯Á
+h	php:S1192”"MDefine a constant instead of duplicating this literal "display_name" 8 times.(–éûşÿÿÿÿ
+d	php:S1192˜"IDefine a constant instead of duplicating this literal "form_id" 10 times.(Ú’íÍıÿÿÿÿ
+Ephp:S121¤	"0Add curly braces around the nested statement(s).(ø¾â¦
+<	php:S1481Ã"'Remove this unused "$k" local variable.(Ä”¢W
+o	php:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 92 to the 15 allowed.(ö™àúÿÿÿÿ
+a	php:S1192Á"FDefine a constant instead of duplicating this literal "roles" 5 times.(Ş‹†ôûÿÿÿÿ
+>	php:S1481š")Remove this unused "$key" local variable.(Ìå¨
+j	php:S1142ı"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‚·Ö„ûÿÿÿÿ
+Ephp:S121Ó"0Add curly braces around the nested statement(s).(¬šÇ“
+k	php:S3776"URefactor this function to reduce its Cognitive Complexity from 171 to the 15 allowed.(ùöÎ©
+b	php:S1192•"LDefine a constant instead of duplicating this literal "first_name" 17 times.(‡é¿æ
+Ephp:S121â"0Add curly braces around the nested statement(s).(û…Ä¡
+Ephp:S121¡	"0Add curly braces around the nested statement(s).(ÈŠä²
+Qphp:S131ı"7Add a "case default" clause to this "switch" statement.(¼íîèÿÿÿÿÿ
+Jphp:S121×"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+f	php:S1192–"KDefine a constant instead of duplicating this literal "last_name" 14 times.(‡Öéçıÿÿÿÿ
+k	php:S1192ğ"PDefine a constant instead of duplicating this literal "ultimate-member" 9 times.(°¦üÌûÿÿÿÿ
+{	php:S1488“"eImmediately return this expression instead of assigning it to the temporary variable "$emails_array".(Ïäá±
+Jphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+i	php:S1192ä"NDefine a constant instead of duplicating this literal "original_name" 4 times.(­„›‘ıÿÿÿÿ
+o	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(íôÑµşÿÿÿÿ
+a	php:S1192è"FDefine a constant instead of duplicating this literal "empty" 4 times.(äŞ»Ñøÿÿÿÿ
+Jphp:S121Ú"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+e	php:S1142Ô
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ˆ÷€²
+d	php:S1192²"IDefine a constant instead of duplicating this literal "sub_rows" 3 times.(¬»çÇıÿÿÿÿ
+e	php:S1192ù"JDefine a constant instead of duplicating this literal "less than" 4 times.(¡ÊË¹ùÿÿÿÿ
+Jphp:S121¹
+"0Add curly braces around the nested statement(s).(Ä¿¯üÿÿÿÿ
+k	php:S1142¦"PReduce the number of returns of this function 16, down to the maximum allowed 3.(ö™àúÿÿÿÿ
+Ephp:S121Œ"0Add curly braces around the nested statement(s).(û…Ä¡
+r	php:S1488è"\Immediately return this expression instead of assigning it to the temporary variable "$url".(ı‹ŠĞ
+E	php:S1066Ç"/Merge this if statement with the enclosing one.(¤Ù†×
+Iphp:S121"0Add curly braces around the nested statement(s).(üúìÎùÿÿÿÿ
+Ephp:S121™"0Add curly braces around the nested statement(s).(û…Ä¡
+J	php:S1066Ü"/Merge this if statement with the enclosing one.(û®°ıÿÿÿÿ
+Jphp:S121Õ
+"0Add curly braces around the nested statement(s).(ë¤çÿÿÿÿÿ
+c	php:S1192Ù"HDefine a constant instead of duplicating this literal "ucfirst" 3 times.(§–Àùÿÿÿÿ
+Jphp:S121×
+"0Add curly braces around the nested statement(s).(Ì»¾›üÿÿÿÿ
+h	php:S1192ò"MDefine a constant instead of duplicating this literal "greater than" 4 times.(ïø…—üÿÿÿÿ
+Qphp:S131Ó"7Add a "case default" clause to this "switch" statement.(¼íîèÿÿÿÿÿ
+Jphp:S121„"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+o	php:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(©é×õùÿÿÿÿ
+c	php:S1192à"HDefine a constant instead of duplicating this literal "/sites/" 4 times.(Å¤‰’ûÿÿÿÿ
+y	php:S1488Â"^Immediately return this expression instead of assigning it to the temporary variable "$value".(£Ÿ™çÿÿÿÿÿ
+x	php:S1488ğ"]Immediately return this expression instead of assigning it to the temporary variable "$name".(·û¼¨üÿÿÿÿ
+`	php:S1192©"JDefine a constant instead of duplicating this literal "submitted" 3 times.(Ëöêá
+Ephp:S121‚"0Add curly braces around the nested statement(s).(û…Ä¡
+s	php:S1488Ø"^Immediately return this expression instead of assigning it to the temporary variable "$value".(›¶Ãt
+Jphp:S121ä"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121‘"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+f	php:S1192"KDefine a constant instead of duplicating this literal "profiletab" 3 times.(Ëèº…üÿÿÿÿ
+`	php:S1192ƒ"JDefine a constant instead of duplicating this literal "not_hide" 12 times.(ˆê±—
+?	php:S1481£	"*Remove this unused "$attr" local variable.(Î†¤
+t	php:S1192Ø"^Define a constant instead of duplicating this literal "force_display_name_capitlized" 3 times.(ä°
+e	php:S1192Ô"JDefine a constant instead of duplicating this literal "equals to" 4 times.(Ìàå°şÿÿÿÿ
+e	php:S1192Ì"JDefine a constant instead of duplicating this literal "not_show" 10 times.(‹İÌûıÿÿÿÿ
+o	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(‘°Òçûÿÿÿÿ
+[	php:S1192"FDefine a constant instead of duplicating this literal "class" 6 times.(ç™ş%
+`	php:S1192ö"JDefine a constant instead of duplicating this literal "full_name" 4 times.(¦›É„
+Jphp:S121©"0Add curly braces around the nested statement(s).(ğ€ï€ûÿÿÿÿ
+t	php:S1488ı"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ïøõ²
+Qphp:S131Š"7Add a "case default" clause to this "switch" statement.(¼íîèÿÿÿÿÿ
+`	php:S1192Ş"KDefine a constant instead of duplicating this literal "not equals" 4 times.(ò¶Ì}
+y	php:S1488á"^Immediately return this expression instead of assigning it to the temporary variable "$value".(£Ÿ™çÿÿÿÿÿ
+Jphp:S121»"0Add curly braces around the nested statement(s).(ÓùÀÀûÿÿÿÿ
+Jphp:S121Í"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+c	php:S1192ö"HDefine a constant instead of duplicating this literal "(empty)" 3 times.(€Ğï–şÿÿÿÿ
+y	php:S1488Î"^Immediately return this expression instead of assigning it to the temporary variable "$value".(£Ÿ™çÿÿÿÿÿ
+t	php:S1488–"^Immediately return this expression instead of assigning it to the temporary variable "$array".(ÁĞÈ±
+Ephp:S121"0Add curly braces around the nested statement(s).(û…Ä¡
+_	php:S1192ª"IDefine a constant instead of duplicating this literal "nickname" 3 times.(ÜÆÑí
+^	php:S1192"HDefine a constant instead of duplicating this literal "default" 7 times.(˜ˆøÍ
+`	php:S1192€"JDefine a constant instead of duplicating this literal "um_action" 4 times.(ÎıÙ
+g	php:S1192±"LDefine a constant instead of duplicating this literal "cover_photo" 3 times.(¡š“Òÿÿÿÿÿ
+Jphp:S121Ô"0Add curly braces around the nested statement(s).(ò¸½ üÿÿÿÿ
+¦php:S138·"‹This function "um_field_conditions_are_met" has 224 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ùÁÀçÿÿÿÿÿ
+`	php:S1192™"KDefine a constant instead of duplicating this literal "user_email" 5 times.(èé“
+o	php:S3776«"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÄØØˆÿÿÿÿÿ
+~	php:S1488Ú"cImmediately return this expression instead of assigning it to the temporary variable "$cover_html".(½êÂñÿÿÿÿÿ
+‘php:S138¦"wThis function "um_user" has 186 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ö™àúÿÿÿÿ

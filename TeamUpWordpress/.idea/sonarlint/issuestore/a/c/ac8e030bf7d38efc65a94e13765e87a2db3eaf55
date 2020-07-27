@@ -1,0 +1,22 @@
+
+Qphp:S131‹"7Add a "case default" clause to this "switch" statement.(¾‘ò»úÿÿÿÿ
+o	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(‰Í¢øÿÿÿÿ
+b	php:S1192e"HDefine a constant instead of duplicating this literal "form_id" 7 times.(¢Ëñıÿÿÿÿÿ
+d	php:S1192k"ODefine a constant instead of duplicating this literal "child_callback" 3 times.(£˜–¯
+4php:S125—"Remove this commented out code.(Ğ‹şæ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+s	php:S1488À"]Immediately return this expression instead of assigning it to the temporary variable "$mode".(ı—á
+O	php:S1135«"4Complete the task associated to this "TODO" comment.(—ìƒ½şÿÿÿÿ
+z	php:S1192¤"_Define a constant instead of duplicating this literal "custom_dropdown_options_source" 3 times.(„ÿ¼Úùÿÿÿÿ
+`	php:S1192v"KDefine a constant instead of duplicating this literal "child_name" 6 times.(§ºÒš
+Iphp:S121="0Add curly braces around the nested statement(s).(™’åÎşÿÿÿÿ
+[	php:S1192m"FDefine a constant instead of duplicating this literal "items" 5 times.(©½ã³
+n	php:S3776^"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(‹“ªÓùÿÿÿÿ
+F	php:S1172‰"0Remove the unused function parameter "$post_id".(’­÷
+Ephp:S121Î"0Add curly braces around the nested statement(s).(ßÒğì
+E	php:S1066Ô"/Merge this if statement with the enclosing one.(Ş”Îã
+c	php:S1192ù"NDefine a constant instead of duplicating this literal "custom_fields" 3 times.(éÿûx
+[	php:S1192m"FDefine a constant instead of duplicating this literal "field" 3 times.(©½ã³
+p	php:S3923@"[Remove this conditional structure or edit its code blocks so that they're not all the same.(£°ÿÆ
+f	php:S1192°"PDefine a constant instead of duplicating this literal "ultimate-member" 3 times.(¸´Š
+b	php:S1301@"MReplace this "switch" statement with "if" statements to increase readability.(£°ÿÆ

@@ -1,0 +1,25 @@
+
+]	php:S1192‡"HDefine a constant instead of duplicating this literal "wp-logo" 3 times.(®¢c
+h	php:S1192 "MDefine a constant instead of duplicating this literal "user-actions" 4 times.(¶Ììïùÿÿÿÿ
+i	php:S1192ô"NDefine a constant instead of duplicating this literal "network-admin" 7 times.(½ñûÿÿÿÿ
+g	php:S1192¤"QDefine a constant instead of duplicating this literal "wp-logo-external" 5 times.(Ú¾ò
+e	php:S1192“"JDefine a constant instead of duplicating this literal "Dashboard" 3 times.(«Õ­âúÿÿÿÿ
+¥php:S138Ğ"ŠThis function "wp_admin_bar_my_sites_menu" has 168 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(îôè­ıÿÿÿÿ
+j	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(±É
+^	php:S1192À"HDefine a constant instead of duplicating this literal "widgets" 3 times.(•¦ˆ
+_	php:S1192"IDefine a constant instead of duplicating this literal "tabindex" 3 times.(…ÊªÔ
+i	php:S1192¿"NDefine a constant instead of duplicating this literal "my-sites-list" 3 times.(ª¿“õûÿÿÿÿ
+j	php:S1192Ú"ODefine a constant instead of duplicating this literal "manage_network" 4 times.(ß×¤©şÿÿÿÿ
+^	php:S1192ˆ"HDefine a constant instead of duplicating this literal "</span>" 8 times.(‹»ºµ
+e	php:S1142¥	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ï˜üÛ
+e	php:S1192ğ"JDefine a constant instead of duplicating this literal "site-name" 5 times.(ö¸Æøÿÿÿÿ
+a	php:S1192€"FDefine a constant instead of duplicating this literal "class" 8 times.(¨»‹Œüÿÿÿÿ
+a	php:S1192­"KDefine a constant instead of duplicating this literal "appearance" 6 times.(£×“é
+j	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(•¡ë¡
+_	php:S1192ã"IDefine a constant instead of duplicating this literal "my-sites" 3 times.(ê…¯Ô
+c	php:S1192™"HDefine a constant instead of duplicating this literal "parent" 38 times.(†ï¼áûÿÿÿÿ
+d	php:S1192ü"NDefine a constant instead of duplicating this literal "top-secondary" 4 times.(£¥áŞ
+o	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(îôè­ıÿÿÿÿ
+]	php:S1192ˆ"GDefine a constant instead of duplicating this literal "title" 53 times.(‹»ºµ
+f	php:S1192Å"KDefine a constant instead of duplicating this literal "attachment" 3 times.(Ãò¤üÿÿÿÿ
+}	php:S1488È	"gImmediately return this expression instead of assigning it to the temporary variable "$show_admin_bar".(ëÍŸ

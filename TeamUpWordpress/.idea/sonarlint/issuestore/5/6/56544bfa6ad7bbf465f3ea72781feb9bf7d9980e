@@ -1,0 +1,213 @@
+
+j	php:S3776â"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÜöÔ
+1	php:S3626æ"Remove this redundant jump.(ûÁİ…
+=php:S108#")Either remove or fill this block of code.(¦ŠÇF
+8php:S125L"Remove this commented out code.(·Çì”üÿÿÿÿ
+3php:S125„#"Remove this commented out code.(ÅïØ{
+4php:S125à("Remove this commented out code.(ƒÙÛ
+Jphp:S121™"0Add curly braces around the nested statement(s).(Ç×ÿ ûÿÿÿÿ
+Jphp:S121Ö"0Add curly braces around the nested statement(s).(»æíüüÿÿÿÿ
+|	php:S1488¾'"aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(İ€Ñıÿÿÿÿ
+`	php:S1192¯"JDefine a constant instead of duplicating this literal "optional" 70 times.(¹–ø
+Jphp:S121Á""0Add curly braces around the nested statement(s).(şë¯ıÿÿÿÿ
+e	php:S1142Å"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¡ş
+o	php:S3776º "TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(å’ˆæøÿÿÿÿ
+j	php:S3776«#"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¼ÙÆÿ
+Ephp:S121µ"0Add curly braces around the nested statement(s).(îüø£
+\	php:S1192Œ"FDefine a constant instead of duplicating this literal "extra" 7 times.(”Ì™æ
+j	php:S3776µ'"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÀšâÎ
+S	php:S1854²"8Remove this useless assignment to local variable '$key'.(Ù£¸ùşÿÿÿÿ
+9php:S125º$"Remove this commented out code.( ğÓÄüÿÿÿÿ
+]	php:S1192ş"HDefine a constant instead of duplicating this literal "version" 3 times.(èÊ–R
+4php:S125š"Remove this commented out code.(ƒÙÛ
+J	php:S1066–'"/Merge this if statement with the enclosing one.(¯çƒ øÿÿÿÿ
+a	php:S1940ï"FUse the opposite operator '!=' instead and remove complement operator.(Ä£Á»üÿÿÿÿ
+w	php:S1488É'"aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(éï×Ô
+›php:S138–"€This function "privParseOptions" has 225 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(øÏü·ıÿÿÿÿ
+\	php:S1192ü"FDefine a constant instead of duplicating this literal "' is " 3 times.(Ù’ê
+j	php:S1142“"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ÎÆÉûÿÿÿÿ
+d	php:S1192ö"IDefine a constant instead of duplicating this literal "entries" 10 times.(›Ù­Şşÿÿÿÿ
+S	php:S1854²"8Remove this useless assignment to local variable '$key'.(Ù£¸ùşÿÿÿÿ
+”php:S138¢"This function "privExtractFile" has 184 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÅôÉ¬
+Jphp:S121Ã""0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+4php:S125å"Remove this commented out code.(Éò¥€
+Jphp:S121+"0Add curly braces around the nested statement(s).(ÔÔôêıÿÿÿÿ
+h	php:S1192ù"MDefine a constant instead of duplicating this literal "virtual_file" 6 times.(âæ‘úÿÿÿÿ
+j	php:S3776À"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(‡¡
+y	php:S1192•"cDefine a constant instead of duplicating this literal "Wrong parameter value for option '" 3 times.(‘ê€Î
+e	php:S1871À"JThis case's code block is the same as the block for the case on line 1573.(’åøûûÿÿÿÿ
+Jphp:S121¯$"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+k	php:S3776Î"URefactor this function to reduce its Cognitive Complexity from 135 to the 15 allowed.(îß«ˆ
+9php:S125¶"Remove this commented out code.(©Œ££úÿÿÿÿ
+>php:S108»")Either remove or fill this block of code.(á¢–¬
+c	php:S1192€"HDefine a constant instead of duplicating this literal "aborted" 6 times.(“³Á¢ûÿÿÿÿ
+[	php:S1940î "FUse the opposite operator '!=' instead and remove complement operator.(¹É
+Ephp:S121Ú"0Add curly braces around the nested statement(s).(÷™ûõ
+9php:S125ë"Remove this commented out code.(½“Ø®üÿÿÿÿ
+i	php:S3776í*"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(öıÿ
+4php:S125“"Remove this commented out code.(Í¯ú
+a	php:S1192î!"FDefine a constant instead of duplicating this literal "mdate" 9 times.(ôÄ×şÿÿÿÿ
+9php:S125¯"Remove this commented out code.(˜Óà§ûÿÿÿÿ
+Jphp:S121½"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+d	php:S1192ˆ"NDefine a constant instead of duplicating this literal "new_full_name" 6 times.(®ûÃØ
+c	php:S1192"HDefine a constant instead of duplicating this literal "pclzip-" 5 times.(ì¦×÷ùÿÿÿÿ
+p	php:S3776–"URefactor this function to reduce its Cognitive Complexity from 102 to the 15 allowed.(øÏü·ıÿÿÿÿ
+3php:S125?"Remove this commented out code.(¦¹„¶
+]	php:S1192Æ"HDefine a constant instead of duplicating this literal "skipped" 7 times.(ùòğU
+9php:S125¶"Remove this commented out code.(Õ±’æşÿÿÿÿ
+>php:S108Œ#")Either remove or fill this block of code.(ß®Ñƒ
+e	php:S1142â"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ÜöÔ
+e	php:S1142«#"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¼ÙÆÿ
+e	php:S1142µ'"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ÀšâÎ
+e	php:S1142ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(÷Î®è
+9php:S125ª"Remove this commented out code.(¥ü›³ûÿÿÿÿ
+4php:S125ş)"Remove this commented out code.(äÔ€ÿ
+[	php:S1940ş"FUse the opposite operator '!=' instead and remove complement operator.(¹É
+ophp:S127ü"URefactor the code to avoid updating the loop counter "$v_count" within the loop body.(ûú²ÿÿÿÿÿ
+`	php:S1192’"JDefine a constant instead of duplicating this literal "external" 14 times.(´º®ô
+>php:S108«")Either remove or fill this block of code.(á¢–¬
+S	php:S1854‡"8Remove this useless assignment to local variable '$key'.(Ù£¸ùşÿÿÿÿ
+j	php:S1142ÿ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¬ùÒõüÿÿÿÿ
+o	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÎÆÉûÿÿÿÿ
+o	php:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(Ãğ°úøÿÿÿÿ
+F	php:S1172á
+"0Remove the unused function parameter "$p_level".(ĞßÑË
+x	php:S1192ç"bDefine a constant instead of duplicating this literal ". String expected for attribute '" 4 times.(£Ì“•
+Ephp:S121Ø#"0Add curly braces around the nested statement(s).(¶‘Äğ
+o	php:S3776œ*"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(Éğ•ûÿÿÿÿ
+k	php:S3776¢"URefactor this function to reduce its Cognitive Complexity from 121 to the 15 allowed.(ÅôÉ¬
+¬	php:S2681ß"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(‰‹³Ä
+l	php:S1192"QDefine a constant instead of duplicating this literal "stored_filename" 37 times.(°²Ê»ûÿÿÿÿ
+M	php:S1172ÿ"2Remove the unused function parameter "$p_options".(¬ùÒõüÿÿÿÿ
+€	php:S1192°"eDefine a constant instead of duplicating this literal "Missing parameter value for option '" 9 times.(üº°£üÿÿÿÿ
+Cphp:S108’#")Either remove or fill this block of code.(øˆäÍıÿÿÿÿ
+Jphp:S121»"0Add curly braces around the nested statement(s).(úÍç¢ùÿÿÿÿ
+d	php:S1871–%"NThis branch's code block is the same as the block for the branch on line 4754.(ôµÖ‡
+m	php:S1192ÿ"RDefine a constant instead of duplicating this literal "version_extracted" 6 times.(¢‰«ûÿÿÿÿ
+>php:S108ı")Either remove or fill this block of code.(á¢–¬
+ƒ	php:S4144ô)"hUpdate this method so that its implementation is not identical to "privDisableMagicQuotes" on line 5325.(¡¥‹ïûÿÿÿÿ
+c	php:S1192š$"MDefine a constant instead of duplicating this literal "comment_size" 3 times.(¬¹şİ
+g	php:S1192±"LDefine a constant instead of duplicating this literal "comment_len" 7 times.(¢òˆûÿÿÿÿ
+X	php:S1854×"=Remove this useless assignment to local variable '$v_result'.(ãİ—Ûÿÿÿÿÿ
+p	php:S1192ã"ZDefine a constant instead of duplicating this literal "Unable to open archive \'" 3 times.(ñÅÙœ
+vphp:S127Ó"\Refactor the code to avoid updating the loop counter "$v_nb_extracted" within the loop body.(¿ÒÑéúÿÿÿÿ
+c	php:S1192„"MDefine a constant instead of duplicating this literal "filename_len" 8 times.(Ñ”ú’
+f	php:S1142È$"PReduce the number of returns of this function 14, down to the maximum allowed 3.(’¯Æ²
+3php:S125)"Remove this commented out code.(©Ô·»
+f	php:S1142¢"PReduce the number of returns of this function 13, down to the maximum allowed 3.(ÅôÉ¬
+o	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(¾„Â†ıÿÿÿÿ
+9php:S125Œ"Remove this commented out code.(©Œ££úÿÿÿÿ
+Dphp:S121Ç""0Add curly braces around the nested statement(s).(—ğå
+9php:S125‡"Remove this commented out code.(­ëäÿÿÿÿÿ
+I	php:S1481‰".Remove this unused "$v_result" local variable.(İ€Ñıÿÿÿÿ
+j	php:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÑŞ¿Ê
+]	php:S1192 "GDefine a constant instead of duplicating this literal "mtime" 29 times.(øÖŞª
+j	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(èùù€
+Jphp:S121Ï""0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+j	php:S3776á"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(¨êç„
+ophp:S127å"URefactor the code to avoid updating the loop counter "$v_count" within the loop body.(ûú²ÿÿÿÿÿ
+j	php:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Éò
+>php:S108—")Either remove or fill this block of code.(“Á”ú
+j	php:S1142î("OReduce the number of returns of this function 4, down to the maximum allowed 3.(µÿ³ªùÿÿÿÿ
+4php:S125¥%"Remove this commented out code.(„€Ê
+4php:S125Å"Remove this commented out code.(„€Ê
+?	php:S1125¹,")Remove the literal "false" boolean value.(‚Û–Ğ
+Cphp:S108”#")Either remove or fill this block of code.(û¤şŞùÿÿÿÿ
+J	php:S1066ï"/Merge this if statement with the enclosing one.(Ä£Á»üÿÿÿÿ
+Ephp:S121+"0Add curly braces around the nested statement(s).(õ‘Âì
+d	php:S1192Ó"IDefine a constant instead of duplicating this literal "filtered" 3 times.(¬ˆ‚äıÿÿÿÿ
+Jphp:S121É""0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+>php:S108Ò")Either remove or fill this block of code.(á¢–¬
+_	php:S1192…"JDefine a constant instead of duplicating this literal "mandatory" 4 times.(³úôf
+4php:S125†""Remove this commented out code.(»ÖµÑ
+D	php:S1066ş"/Merge this if statement with the enclosing one.(¹É
+w	php:S1192¥"aDefine a constant instead of duplicating this literal "Unable to open temporary file \'" 7 times.(˜Ÿ‚õ
+a	php:S1192"FDefine a constant instead of duplicating this literal "index" 6 times.(Óöú¼úÿÿÿÿ
+o	php:S3776º+"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(î½¯€ÿÿÿÿÿ
+k	php:S1142–"PReduce the number of returns of this function 25, down to the maximum allowed 3.(øÏü·ıÿÿÿÿ
+9php:S125×#"Remove this commented out code.(”ùÆ–ûÿÿÿÿ
+>php:S108¿")Either remove or fill this block of code.(ÚÆòº
+N	php:S1481ë"8Remove this unused "$p_remove_path_size" local variable.(éúà±
+9php:S125ƒ"Remove this commented out code.(ÇÈù­şÿÿÿÿ
+e	php:S1142Ğ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Õøé¼
+^	php:S1192Ø"HDefine a constant instead of duplicating this literal "status" 45 times.(†ƒ¿¦
+e	php:S1142ò"OReduce the number of returns of this function 4, down to the maximum allowed 3.(æëí½
+e	php:S1142İ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ÑŞ¿Ê
+4php:S125ô"Remove this commented out code.(‘®ü­
+9php:S125Î"Remove this commented out code.(½“Ø®üÿÿÿÿ
+H	php:S1172ñ"2Remove the unused function parameter "$p_options".(Œóõ
+j	php:S3776È$"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(’¯Æ²
+e	php:S1142ş&"OReduce the number of returns of this function 4, down to the maximum allowed 3.(±„šª
+4php:S125Ø&"Remove this commented out code.(ƒÙÛ
+^	php:S1192­"HDefine a constant instead of duplicating this literal "offset" 13 times.(¢¿‘Ã
+u	php:S1488°"_Immediately return this expression instead of assigning it to the temporary variable "$p_list".(ƒêÆ¼
+d	php:S1192Ä"IDefine a constant instead of duplicating this literal "Option '" 4 times.(Ò›İÔúÿÿÿÿ
+S	php:S1854‡"8Remove this useless assignment to local variable '$key'.(Ù£¸ùşÿÿÿÿ
+Jphp:S121»"0Add curly braces around the nested statement(s).(­äıùÿÿÿÿ
+9php:S125¹"Remove this commented out code.(ƒ„Íªÿÿÿÿÿ
+>php:S108–#")Either remove or fill this block of code.(À¬ö™
+b	php:S1192"MDefine a constant instead of duplicating this literal "compression" 18 times.(öï
+S	php:S1854ó"=Remove this useless assignment to local variable '$v_result'.(ò¯ÏŞ
+|	php:S1488¤,"aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(—Ç«ïşÿÿÿÿ
+|	php:S1488ö)"aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(İ€Ñıÿÿÿÿ
+9php:S125Š"Remove this commented out code.(è®îŞşÿÿÿÿ
+E	php:S1066 $"/Merge this if statement with the enclosing one.(ÇÏë
+–php:S138È$"€This function "privDeleteByRule" has 165 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(’¯Æ²
+E	php:S1066‹"/Merge this if statement with the enclosing one.(´†è
+y	php:S1192Î"cDefine a constant instead of duplicating this literal "Invalid number / type of arguments" 4 times.(¹ùøğ
+9php:S125–"Remove this commented out code.(©Œ££úÿÿÿÿ
+Jphp:S121Ü"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+3php:S125í#"Remove this commented out code.(¸ßâ7
+f	php:S1192ƒ"QDefine a constant instead of duplicating this literal "compressed_size" 26 times.(ÍËı_
+d	php:S1192ç"NDefine a constant instead of duplicating this literal "Invalid type " 5 times.(£Ì“•
+qphp:S127ÿ"\Refactor the code to avoid updating the loop counter "$v_nb_extracted" within the loop body.(Ëçâ‚
+j	php:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(«ßÉ
+|	php:S1488÷("aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(İ€Ñıÿÿÿÿ
+b	php:S1192ù"LDefine a constant instead of duplicating this literal "write_error" 3 times.(Øı±Ğ
+vphp:S127æ"\Refactor the code to avoid updating the loop counter "$v_nb_extracted" within the loop body.(íáşôøÿÿÿÿ
+j	php:S1192ú"ODefine a constant instead of duplicating this literal "new_short_name" 4 times.(Ñ®‡ÿÿÿÿÿ
+Ephp:S121Í""0Add curly braces around the nested statement(s).(¸Ëİ­
+|	php:S1488Ï)"aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(İ€Ñıÿÿÿÿ
+p	php:S1192ó"UDefine a constant instead of duplicating this literal "Invalid archive size" 5 times.(‰ü©ıÿÿÿÿ
+9php:S125É"Remove this commented out code.(©Œ££úÿÿÿÿ
+c	php:S1192¤"HDefine a constant instead of duplicating this literal "content" 8 times.(‘Ò˜Çùÿÿÿÿ
+	php:S1603é"iReplace this function name "PclZip", since a "__construct" method has already been defined in this class.(±éÉú
+m	php:S1192ã"WDefine a constant instead of duplicating this literal "\' in binary read mode" 5 times.(ñÅÙœ
+vphp:S127Ô%"\Refactor the code to avoid updating the loop counter "$v_nb_extracted" within the loop body.(¿ÒÑéúÿÿÿÿ
+I	php:S1481÷"3Remove this unused "$v_list_detail" local variable.(ÌĞûš
+d	php:S1871ƒ,"NThis branch's code block is the same as the block for the branch on line 5632.(ĞßéË
+J	php:S1066¶"/Merge this if statement with the enclosing one.(½î¥äûÿÿÿÿ
+`	php:S1192ë"JDefine a constant instead of duplicating this literal "filename" 70 times.(ÑØ‹–
+f	php:S1142Î"PReduce the number of returns of this function 15, down to the maximum allowed 3.(îß«ˆ
+P	php:S1854À#":Remove this useless assignment to local variable '$v_pos'.(èìªñ
+Cphp:S108#")Either remove or fill this block of code.(ıÜğòşÿÿÿÿ
+b	php:S1192ë"GDefine a constant instead of duplicating this literal "folder" 6 times.(ˆİ®İşÿÿÿÿ
+9php:S125ô""Remove this commented out code.(Üà›ûÿÿÿÿ
+w	php:S1488ş"aImmediately return this expression instead of assigning it to the temporary variable "$v_result".(ª²ò‘
+>php:S108ş")Either remove or fill this block of code.(á¢–¬
+I	php:S1481ë".Remove this unused "$v_result" local variable.(‹¼Šÿÿÿÿÿ
+—php:S138Î"This function "privExtractByRule" has 201 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(îß«ˆ
+j	php:S1142Ê"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¾„Â†ıÿÿÿÿ
+qphp:S127š"\Refactor the code to avoid updating the loop counter "$v_nb_extracted" within the loop body.(ØÚñ
+E	php:S1066˜'"/Merge this if statement with the enclosing one.(ŒÀ¡²
+I	php:S1481Ë$"3Remove this unused "$v_list_detail" local variable.(ÌĞûš
+I	php:S1481Ô"3Remove this unused "$v_list_detail" local variable.(ÌĞûš
+S	php:S1854™"=Remove this useless assignment to local variable '$v_result'.(áÒœí
+Jphp:S121Ø"0Add curly braces around the nested statement(s).(ÚÆòıÿÿÿÿ
+H	php:S1172Ó"2Remove the unused function parameter "$v_options".(«ßÉ
+e	php:S1142ñ"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Œóõ
+f	php:S1192…"KDefine a constant instead of duplicating this literal "extra_len" 11 times.(äüËãÿÿÿÿÿ
+a	php:S1192"FDefine a constant instead of duplicating this literal "start" 8 times.(Œ‹š±úÿÿÿÿ
+F	php:S1481ÿ"0Remove this unused "$v_add_path" local variable.(é‚€â
+e	php:S1142ô"OReduce the number of returns of this function 8, down to the maximum allowed 3.(Éò
+f	php:S1142Ó"PReduce the number of returns of this function 12, down to the maximum allowed 3.(«ßÉ
+a	php:S1192ü"KDefine a constant instead of duplicating this literal "Filename '" 4 times.(Ù’ê
+4php:S125×)"Remove this commented out code.(äÔ€ÿ
+d	php:S1192Ö"IDefine a constant instead of duplicating this literal "comment" 19 times.(Ò¶—üıÿÿÿÿ
+e	php:S1142À"OReduce the number of returns of this function 5, down to the maximum allowed 3.(‡¡
+C	php:S1125´"(Remove the literal "true" boolean value.(í™”Èÿÿÿÿÿ
+4php:S125ä"Remove this commented out code.(­ÿß­
+x	php:S1448¾"bClass "PclZip" has 51 methods, which is greater than 20 authorized. Split it into smaller classes.(ªøßš
+Dphp:S121Í"0Add curly braces around the nested statement(s).(Í÷U
+n	php:S1192¥"XDefine a constant instead of duplicating this literal "\' in binary write mode" 5 times.(˜Ÿ‚õ
+Ephp:S121¸"0Add curly braces around the nested statement(s).(âĞ‘²

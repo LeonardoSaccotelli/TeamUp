@@ -1,0 +1,31 @@
+
+9php:S125ñ"Remove this commented out code.(Î…şùÿÿÿÿ
+\	php:S1192_"GDefine a constant instead of duplicating this literal "sha512" 5 times.(¿¢¶Ü
+9php:S125ß"Remove this commented out code.(¶­ß¯üÿÿÿÿ
+3php:S125é"Remove this commented out code.(µÿ‚"
+zphp:S101
+"aRename class "ParagonIE_Sodium_Core_Ed25519" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÖÜÍ¾úÿÿÿÿ
+9php:S125Ü"Remove this commented out code.(¤×óıÿÿÿÿ
+9php:S125Œ"Remove this commented out code.(‚À®ÿÿÿÿÿ
+8php:S125|"Remove this commented out code.(·Œ‹Ûùÿÿÿÿ
+8php:S125z"Remove this commented out code.(öà¯şÿÿÿÿ
+3php:S125Ö"Remove this commented out code.(¸Ô„5
+9php:S125†"Remove this commented out code.(ÊÌ‚­şÿÿÿÿ
+4php:S125û"Remove this commented out code.(•¡‘½
+p	php:S14882"[Immediately return this expression instead of assigning it to the temporary variable "$sk".(ÒŒå„
+9php:S125ó"Remove this commented out code.(°ƒ™øùÿÿÿÿ
+9php:S125Ş"Remove this commented out code.(²¬©Ìşÿÿÿÿ
+4php:S125„"Remove this commented out code.(ì™’é
+8php:S125{"Remove this commented out code.(›¡üÉûÿÿÿÿ
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+4php:S125×"Remove this commented out code.(íŞ¨Ô
+9php:S125ò"Remove this commented out code.(²¬©Ìşÿÿÿÿ
+9php:S125Ø"Remove this commented out code.(ÀÄ«×øÿÿÿÿ
+4php:S125ê"Remove this commented out code.(ïêŒÈ
+9php:S125…"Remove this commented out code.(ñšÂ‘ÿÿÿÿÿ
+4php:S125İ"Remove this commented out code.(ÙÚ°¾
+9php:S125å"Remove this commented out code.(Šàü³üÿÿÿÿ
+4php:S125è"Remove this commented out code.(âüŒç
+4php:S125ú"Remove this commented out code.(ÎòÁÒ
+9php:S125Ó"Remove this commented out code.(ß²ìåûÿÿÿÿ
+9php:S125ğ"Remove this commented out code.(¤×óıÿÿÿÿ

@@ -1,0 +1,8 @@
+
+r	php:S1192("]Define a constant instead of duplicating this literal "{review_content}<br /><br />" 3 times.(ÇŞ“Ç
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+jphp:S101"QRename class "Reviews_Setup" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å³õåÿÿÿÿÿ
+u	php:S1192)"[Define a constant instead of duplicating this literal "{reviews_link}<br /><br />" 3 times.(ú¾‚şÿÿÿÿ
+b	php:S1192e"MDefine a constant instead of duplicating this literal "_reviews_avg" 3 times.(Ôã²ñ
+©	php:S1192*"Define a constant instead of duplicating this literal "This is an automated notification from {site_name}. You do not need to reply." 3 times.(–²Ö¸şÿÿÿÿ
+}	php:S1192'"hDefine a constant instead of duplicating this literal "Here is the review content:<br /><br />" 3 times.(çø÷‰

@@ -1,0 +1,174 @@
+
+K	php:S1481«"0Remove this unused "$image_info" local variable.(…˜Öûÿÿÿÿ
+i	php:S3776¤	"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(„„ó
+
+i	php:S1871Ñ"NThis branch's code block is the same as the block for the branch on line 1103.(÷³§ûøÿÿÿÿ
+g	php:S1117É"LRename "$set_mode" which has the same name as the field declared at line 21.(Ò†‰Ûøÿÿÿÿ
+c	php:S1192®"HDefine a constant instead of duplicating this literal "account" 9 times.(¸É–¦ûÿÿÿÿ
+g	php:S1192±"QDefine a constant instead of duplicating this literal "ultimate-member" 41 times.(èíÊ»
+e	php:S1117È"JRename "$set_id" which has the same name as the field declared at line 27.(”«¦üúÿÿÿÿ
+c	php:S1192”"HDefine a constant instead of duplicating this literal "options" 7 times.(ÿÆÚıÿÿÿÿ
+]	php:S1192Ø"GDefine a constant instead of duplicating this literal "<div " 28 times.(‰µŞÃ
+|	php:S1448"bClass "Fields" has 47 methods, which is greater than 20 authorized. Split it into smaller classes.(çµùşÿÿÿÿ
+T	php:S1854ı"9Remove this useless assignment to local variable '$past'.(â°Øøÿÿÿÿ
+E	php:S1066ª"/Merge this if statement with the enclosing one.(ß™¿ú
+]	php:S1192“"GDefine a constant instead of duplicating this literal "in_row" 6 times.(ê«Ä¹
+i	php:S1192é"SDefine a constant instead of duplicating this literal "" data-validate="" 12 times.(Ü®ş
+f	php:S1192ã"KDefine a constant instead of duplicating this literal "conditions" 5 times.(©Û½Òúÿÿÿÿ
+O	php:S1135Ì"4Complete the task associated to this "TODO" comment.(å‹°ûÿÿÿÿ
+_	php:S1192¬"IDefine a constant instead of duplicating this literal "password" 7 times.(†¾¢
+d	php:S1192ß"IDefine a constant instead of duplicating this literal "<input  " 5 times.(¡¢Óôıÿÿÿÿ
+b	php:S1192é"GDefine a constant instead of duplicating this literal "label" 35 times.(„æ¢Äıÿÿÿÿ
+g	php:S1192é"QDefine a constant instead of duplicating this literal "" placeholder="" 11 times.(Ü®ş
+g	php:S1192¼"QDefine a constant instead of duplicating this literal "upload_help_text" 4 times.(ö¡İõ
+p	php:S3776×"URefactor this function to reduce its Cognitive Complexity from 481 to the 15 allowed.(”šüùüÿÿÿÿ
+k	php:S3776œ!"URefactor this function to reduce its Cognitive Complexity from 143 to the 15 allowed.(‚·„³
+C	php:S1125½"(Remove the literal "true" boolean value.(¬È×Ïıÿÿÿÿ
+j	php:S3776Õ"URefactor this function to reduce its Cognitive Complexity from 146 to the 15 allowed.(‰ş¸n
+b	php:S1192«"GDefine a constant instead of duplicating this literal "Upload" 4 times.(»Ñ§öøÿÿÿÿ
+d	php:S1192­"IDefine a constant instead of duplicating this literal "sub_rows" 7 times.(å´š˜ùÿÿÿÿ
+_	php:S1192Ë"IDefine a constant instead of duplicating this literal "um_roles" 3 times.(±¡Í
+c	php:S1192ß"HDefine a constant instead of duplicating this literal "metakey" 5 times.(â¿šóùÿÿÿÿ
+d	php:S1192é"NDefine a constant instead of duplicating this literal "" data-key="" 17 times.(Ü®ş
+o	php:S3776å"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Şøá®şÿÿÿÿ
+d	php:S1192ê"NDefine a constant instead of duplicating this literal ""></i></div>" 13 times.(èÖ¸÷
+^	php:S1192€"HDefine a constant instead of duplicating this literal "classes" 9 times.(™ĞÌˆ
+`	php:S1192•"JDefine a constant instead of duplicating this literal "in_column" 5 times.(üã§‰
+z	php:S1488ş"_Immediately return this expression instead of assigning it to the temporary variable "$output".(áù³úÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Lphp:S131 "7Add a "case default" clause to this "switch" statement.(‘ä…
+\	php:S1192Â"GDefine a constant instead of duplicating this literal "rating" 3 times.(ÚúÇ
+]	php:S1192¶"GDefine a constant instead of duplicating this literal "custom" 3 times.(š¤Õ¿
+^	php:S1192é"HDefine a constant instead of duplicating this literal "" id="" 14 times.(Ü®ş
+j	php:S1192°"ODefine a constant instead of duplicating this literal "max_size_error" 4 times.(™¯—úÿÿÿÿ
+z	php:S1488³#"_Immediately return this expression instead of assigning it to the temporary variable "$output".(—ãïÌùÿÿÿÿ
+y	php:S1192³"cDefine a constant instead of duplicating this literal "</div><div class="um-clear"></div>" 4 times.(Í¬à±
+f	php:S1192ü"KDefine a constant instead of duplicating this literal "modal_size" 4 times.(ŸÊ·ïıÿÿÿÿ
+h	php:S1192“"MDefine a constant instead of duplicating this literal "" data-cond-" 3 times.(äáÿãÿÿÿÿÿ
+\	php:S1192á"FDefine a constant instead of duplicating this literal "range" 3 times.(ä½Ç
+a	php:S1192½"FDefine a constant instead of duplicating this literal "group" 6 times.(õ¿«½üÿÿÿÿ
+w	php:S1192„"\Define a constant instead of duplicating this literal "<input type="hidden" name="" 3 times.(ÛÌœôşÿÿÿÿ
+Lphp:S131Ø#"7Add a "case default" clause to this "switch" statement.(˜øß“
+z	php:S1488Á"_Immediately return this expression instead of assigning it to the temporary variable "$output".(ÅÑ¼èûÿÿÿÿ
+y	php:S1192°	"^Define a constant instead of duplicating this literal "parent_dropdown_relationship" 11 times.(Ö†ÇÂùÿÿÿÿ
+>	php:S1125í"(Remove the literal "true" boolean value.(Ãü½Ä
+J	php:S1066¶"/Merge this if statement with the enclosing one.(˜©¡Ñùÿÿÿÿ
+^	php:S1192õ"IDefine a constant instead of duplicating this literal "date_min" 4 times.(á¬ÄY
+d	php:S1192Ş"IDefine a constant instead of duplicating this literal "selected" 3 times.(ÿø˜²ûÿÿÿÿ
+d	php:S1192ö"IDefine a constant instead of duplicating this literal "date_max" 4 times.(İ£šúÿÿÿÿ
+\	php:S1192â"FDefine a constant instead of duplicating this literal "years" 7 times.(…½
+d	php:S1192¢"NDefine a constant instead of duplicating this literal "allowed_types" 8 times.(ğ¥Ìó
+Q	php:S1854’";Remove this useless assignment to local variable '$future'.(ÄŒÒŠ
+„	php:S1488Æ"nImmediately return this expression instead of assigning it to the temporary variable "$arr_restricted_fields".(€Ø½¦
+f	php:S1192­"PDefine a constant instead of duplicating this literal "extension_error" 4 times.(§§ªæ
+a	php:S1192ß"FDefine a constant instead of duplicating this literal "icons" 4 times.(Àøš€şÿÿÿÿ
+`	php:S1192]"FDefine a constant instead of duplicating this literal "title" 7 times.(ª´©ˆşÿÿÿÿ
+a	php:S1192ü"FDefine a constant instead of duplicating this literal "Y-n-d" 4 times.(ÿŠ¯øÿÿÿÿ
+_	php:S1192é"IDefine a constant instead of duplicating this literal "" type="" 9 times.(Ü®ş
+o	php:S3776Ö""TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(†İúşÿÿÿÿ
+_	php:S1192¹"IDefine a constant instead of duplicating this literal "max_size" 4 times.(ËÖìÜ
+v	php:S1488…"`Immediately return this expression instead of assigning it to the temporary variable "$classes".(„åâ©
+E	php:S1066à"/Merge this if statement with the enclosing one.(µ×æ
+c	php:S1192Ò"HDefine a constant instead of duplicating this literal "divider" 3 times.(¡óÍÓıÿÿÿÿ
+g	php:S1192"LDefine a constant instead of duplicating this literal "conditional" 3 times.(å›¼Âøÿÿÿÿ
+_	php:S1192¦"IDefine a constant instead of duplicating this literal "disabled" 4 times.(ôÅ‚Ä
+k	php:S1192é"UDefine a constant instead of duplicating this literal "" />
+
+						</div>" 6 times.(Ü®ş
+K	php:S1481"0Remove this unused "$field_icon" local variable.(Ê†¥Ïşÿÿÿÿ
+¿	php:S1192ş"£Define a constant instead of duplicating this literal "<div class="um-field-error"><span class="um-field-arrow"><i class="um-faicon-caret-up"></i></span>" 3 times.(áù³úÿÿÿÿ
+{	php:S1192¦	"`Define a constant instead of duplicating this literal "custom_dropdown_options_source" 19 times.(Àµ¸âùÿÿÿÿ
+\	php:S1192ş"FDefine a constant instead of duplicating this literal "Y,n,d" 6 times.(÷êçñ
+b	php:S1192ı"GDefine a constant instead of duplicating this literal " years" 4 times.(â°Øøÿÿÿÿ
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 95 to the 15 allowed.(´«æ·üÿÿÿÿ
+x	php:S1192Ş"]Define a constant instead of duplicating this literal "<div class="um-field-area">" 15 times.(„ìŒÕøÿÿÿÿ
+g	php:S1192ª"LDefine a constant instead of duplicating this literal "button_text" 8 times.(Œ‘¨şÿÿÿÿ
+]	php:S1192¼"GDefine a constant instead of duplicating this literal "number" 6 times.(¨é´Ğ
+e	php:S1142”"OReduce the number of returns of this function 9, down to the maximum allowed 3.(úˆŠÿ
+b	php:S1192w"HDefine a constant instead of duplicating this literal "</div>" 66 times.(˜ñÄøÿÿÿÿ
+j	php:S3776”"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(úˆŠÿ
+c	php:S1192½"HDefine a constant instead of duplicating this literal "profile" 3 times.(¬È×Ïıÿÿÿÿ
+E	php:S1066á"/Merge this if statement with the enclosing one.(Åó¼ƒ
+z	php:S1488›"_Immediately return this expression instead of assigning it to the temporary variable "$output".(¼ãÓ…şÿÿÿÿ
+t	php:S1488˜"^Immediately return this expression instead of assigning it to the temporary variable "$array".(ş™¨ı
+C	php:S1125é"(Remove the literal "true" boolean value.(„æ¢Äıÿÿÿÿ
+9php:S125Í"Remove this commented out code.(ûëŸııÿÿÿÿ
+À	php:S1192›"¤Define a constant instead of duplicating this literal "<div class="um-field-notice"><span class="um-field-arrow"><i class="um-faicon-caret-up"></i></span>" 3 times.(¼ãÓ…şÿÿÿÿ
+j	php:S3776î"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(¸µ—ë
+Q	php:S1854†";Remove this useless assignment to local variable '$future'.(´íÅ¯
+b	php:S1192ç"GDefine a constant instead of duplicating this literal "field" 15 times.(›íúÏûÿÿÿÿ
+e	php:S1192Ü"ODefine a constant instead of duplicating this literal "<input class="" 4 times.(æş¯×
+d	php:S1192À"NDefine a constant instead of duplicating this literal ""></i></span>" 3 times.(ùŸºû
+^	php:S1192ç"HDefine a constant instead of duplicating this literal "years_x" 4 times.(‰šï
+j	php:S1142Ë"OReduce the number of returns of this function 8, down to the maximum allowed 3.(®Øøşùÿÿÿÿ
+`	php:S1192Š"JDefine a constant instead of duplicating this literal "min_width" 6 times.(¦ÀŒ‘
+g	php:S1192§"LDefine a constant instead of duplicating this literal "upload_text" 4 times.(ŞÃ»Øúÿÿÿÿ
+>	php:S1125²"(Remove the literal "true" boolean value.(«İ™Æ
+k	php:S1142Œ"PReduce the number of returns of this function 14, down to the maximum allowed 3.(´«æ·üÿÿÿÿ
+`	php:S1192\"FDefine a constant instead of duplicating this literal "color" 3 times.(Ç¨âËøÿÿÿÿ
+j	php:S1192§"ODefine a constant instead of duplicating this literal "custom_fields" 10 times.(«…÷Ôüÿÿÿÿ
+_	php:S1192à"IDefine a constant instead of duplicating this literal "editable" 6 times.(µ×æ
+e	php:S1192³"ODefine a constant instead of duplicating this literal "min_size_error" 4 times.(çªºÒ
+m	php:S1192ê"RDefine a constant instead of duplicating this literal "disabled_weekdays" 5 times.(ÑÜŞ‡üÿÿÿÿ
+C	php:S1125Ï"(Remove the literal "true" boolean value.(È¦’½ùÿÿÿÿ
+x	php:S1488¾$"bImmediately return this expression instead of assigning it to the temporary variable "$html_atts".(àåøŞ
+”php:S138×"zThis function "edit_field" has 874 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(”šüùüÿÿÿÿ
+HWeb:BoldAndItalicTagsCheck]"Replace this <i> tag by <em>.(ª´©ˆşÿÿÿÿ
+^	php:S1192Ê"HDefine a constant instead of duplicating this literal "spacing" 5 times.(·¶ù…
+E	php:S1066ë	"/Merge this if statement with the enclosing one.(ûÓÚÌ
+f	php:S1192”"KDefine a constant instead of duplicating this literal "in_sub_row" 6 times.(¬ß–ßûÿÿÿÿ
+a	php:S1192Ö"FDefine a constant instead of duplicating this literal "roles" 3 times.(Ş˜„ôùÿÿÿÿ
+e	php:S1192ß"JDefine a constant instead of duplicating this literal "  class="" 3 times.(¡¢Óôıÿÿÿÿ
+J	php:S1066—"/Merge this if statement with the enclosing one.(Ã›±–øÿÿÿÿ
+a	php:S1192Ì"KDefine a constant instead of duplicating this literal "allowclear" 4 times.(Ú ‘‰
+O	php:S1854"9Remove this useless assignment to local variable '$past'.(çßåë
+d	php:S1192‡"IDefine a constant instead of duplicating this literal "default" 29 times.(¤¦‰ùÿÿÿÿ
+?	php:S1125Ö")Remove the literal "false" boolean value.(ï…¦Ò
+d	php:S1192—"IDefine a constant instead of duplicating this literal "position" 7 times.(œäÏÓúÿÿÿÿ
+^	php:S1192¼"HDefine a constant instead of duplicating this literal "</span>" 4 times.(‹ÙüÖ
+“php:S138ô
+"yThis function "get_field" has 309 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Œ¢œıÿÿÿÿ
+_	php:S1192Û"IDefine a constant instead of duplicating this literal "required" 3 times.(¸Œ˜
+e	php:S1142î"OReduce the number of returns of this function 8, down to the maximum allowed 3.(¸µ—ë
+e	php:S1192ñ"JDefine a constant instead of duplicating this literal "_um_row_1" 4 times.(âªùÿÿÿÿ
+b	php:S1192¦	"GDefine a constant instead of duplicating this literal "select" 6 times.(Àµ¸âùÿÿÿÿ
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "format" 6 times.(µÔ¶£ıÿÿÿÿ
+C	php:S1125ç"(Remove the literal "true" boolean value.(ìá±Âüÿÿÿÿ
+T	php:S1481æ"9Remove this unused "$enable_options_pair" local variable.(›õÌÖÿÿÿÿÿ
+\	php:S1192§"FDefine a constant instead of duplicating this literal "input" 6 times.(ş¬¤…
+Ephp:S121Ñ"0Add curly braces around the nested statement(s).(ÓÍÉÈ
+`	php:S1192›"JDefine a constant instead of duplicating this literal "um_fields" 5 times.(Àù¶
+>	php:S1125³")Remove the literal "false" boolean value.(Şà›L
+Lphp:S131¦"7Add a "case default" clause to this "switch" statement.(÷‘Ï¾
+_	php:S1192±"IDefine a constant instead of duplicating this literal "</label>" 3 times.(èíÊ»
+a	php:S1192"KDefine a constant instead of duplicating this literal "min_height" 6 times.(…İ¦
+^	php:S1192é"HDefine a constant instead of duplicating this literal "<input " 3 times.(Ü®ş
+s	php:S1192Å"]Define a constant instead of duplicating this literal "<div class="um-clear"></div>" 4 times.(ÖÍµÔ
+J	php:S1066ß"/Merge this if statement with the enclosing one.(ÉÖô”ùÿÿÿÿ
+e	php:S1192"JDefine a constant instead of duplicating this literal "" class="" 3 times.(‘¾çşÿÿÿÿ
+a	php:S1192?"GDefine a constant instead of duplicating this literal "active" 3 times.(£¨“‡üÿÿÿÿ
+g	php:S1192¦	"LDefine a constant instead of duplicating this literal "multiselect" 6 times.(Àµ¸âùÿÿÿÿ
+Lphp:S131Ğ"7Add a "case default" clause to this "switch" statement.(÷‘Ï¾
+f	php:S1192„"KDefine a constant instead of duplicating this literal "" value="" 14 times.(ÛÌœôşÿÿÿÿ
+`	php:S1192é"JDefine a constant instead of duplicating this literal "" name="" 10 times.(Ü®ş
+o	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(®Øøşùÿÿÿÿ
+R	php:S1481"7Remove this unused "$field_icon_output" local variable.(¡×Ó¯üÿÿÿÿ
+}	php:S1192â"gDefine a constant instead of duplicating this literal "<div class="um-field-icon"><i class="" 12 times.(Àş´Ø
+`	php:S1192–"JDefine a constant instead of duplicating this literal "in_group" 10 times.(µÕı
+_	php:S1192ó"JDefine a constant instead of duplicating this literal "crop_data" 4 times.(ë¨^
+\	php:S1192à"FDefine a constant instead of duplicating this literal "style" 3 times.(…µ¦Â
+j	php:S1142×"OReduce the number of returns of this function 9, down to the maximum allowed 3.(”šüùüÿÿÿÿ
+p	php:S3776ô
+"URefactor this function to reduce its Cognitive Complexity from 145 to the 15 allowed.(Œ¢œıÿÿÿÿ
+b	php:S1192¼"GDefine a constant instead of duplicating this literal "height" 4 times.(îıÒùùÿÿÿÿ
+^	php:S1192ğ"HDefine a constant instead of duplicating this literal "form_id" 5 times.(‚£Ì½
+HWeb:BoldAndItalicTagsCheckA"Replace this <i> tag by <em>.(¨Øõ¡øÿÿÿÿ
+d	php:S1142¤	"OReduce the number of returns of this function 5, down to the maximum allowed 3.(„„ó
+
+J	php:S1066¶"/Merge this if statement with the enclosing one.(Ë’½›úÿÿÿÿ
+E	php:S1066Î"/Merge this if statement with the enclosing one.(˜ï›Ò
+f	php:S1192¶"PDefine a constant instead of duplicating this literal "max_files_error" 4 times.(Ü±³¸
+d	php:S1192—"IDefine a constant instead of duplicating this literal "register" 8 times.(Óà§‡ùÿÿÿÿ
+y	php:S1488´
+"^Immediately return this expression instead of assigning it to the temporary variable "$label".(Ñ™®úÿÿÿÿ
+d	php:S1192º"IDefine a constant instead of duplicating this literal "textarea" 3 times.(ÚÀØÏùÿÿÿÿ

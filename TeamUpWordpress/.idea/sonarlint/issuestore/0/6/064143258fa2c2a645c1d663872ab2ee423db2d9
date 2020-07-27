@@ -1,0 +1,10 @@
+
+d	php:S1192X"ODefine a constant instead of duplicating this literal "manage_options" 5 times.(›œíƒ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(¤˜ïÂûÿÿÿÿ
+j	php:S1192"PDefine a constant instead of duplicating this literal "ultimate-member" 7 times.(¶½ûÿÿÿÿÿ
+8php:S125"Remove this commented out code.(–í•Ôúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(èÉ¹êûÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "um_action" 3 times.(÷¹òõ
+i	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¤˜ïÂûÿÿÿÿ
+Š	php:S1192Y"pDefine a constant instead of duplicating this literal "You do not have permission to make this action." 5 times.(Š¨Å©ùÿÿÿÿ
+I	php:S1066"/Merge this if statement with the enclosing one.(‹ÿ³ùÿÿÿÿ

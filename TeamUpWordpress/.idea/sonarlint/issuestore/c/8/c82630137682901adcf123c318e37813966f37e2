@@ -1,0 +1,19 @@
+
+J	php:S1172Ğ"/Remove the unused function parameter "$handle".(¿ß´ûÿÿÿÿ
+]	php:S1192M"IDefine a constant instead of duplicating this literal "headers" 14 times.(ıÜú-
+a	php:S1192H"GDefine a constant instead of duplicating this literal "method" 3 times.(ÇÂ–Òıÿÿÿÿ
+e	php:S1192T"KDefine a constant instead of duplicating this literal "User-Agent" 3 times.(ø­Š‘şÿÿÿÿ
+]	php:S1192O"HDefine a constant instead of duplicating this literal "cookies" 4 times.(›Œ¦
+‹php:S138F"wThis function "request" has 187 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(«ƒ“è
+`	php:S1192U"KDefine a constant instead of duplicating this literal "user-agent" 6 times.(›ê¤á
+c	php:S1192L"IDefine a constant instead of duplicating this literal "blocking" 3 times.(•²Œõÿÿÿÿÿ
+o	php:S1192¾"TDefine a constant instead of duplicating this literal "http_request_failed" 7 times.(®÷ø—ùÿÿÿÿ
+d	php:S1192ú"IDefine a constant instead of duplicating this literal "response" 3 times.(ÈÍ¬úÿÿÿÿ
+d	php:S1192¸"IDefine a constant instead of duplicating this literal "filename" 5 times.(à‚ÅÈøÿÿÿÿ
+m	php:S1117…"WRename "$bytes_written_total" which has the same name as the field declared at line 59.(è•ş¶
+e	php:S1142F"PReduce the number of returns of this function 10, down to the maximum allowed 3.(«ƒ“è
+i	php:S3776F"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(«ƒ“è
+dphp:S101"PRename class "WP_Http_Curl" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²…ìû
+f	php:S1117Í"KRename "$headers" which has the same name as the field declared at line 27.(¦‹©±üÿÿÿÿ
+]	php:S1192¶"GDefine a constant instead of duplicating this literal "stream" 3 times.(„¥
+J	php:S1172â"/Remove the unused function parameter "$handle".(ª¤¾¦üÿÿÿÿ

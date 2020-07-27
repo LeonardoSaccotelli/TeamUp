@@ -1,0 +1,16 @@
+
+a	php:S1192ø"FDefine a constant instead of duplicating this literal "&#91;" 3 times.(½²Ùêúÿÿÿÿ
+e	php:S1142Œ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¥Ü…Ü
+j	php:S1142±"OReduce the number of returns of this function 4, down to the maximum allowed 3.(”ê—êüÿÿÿÿ
+{	php:S1488ç"`Immediately return this expression instead of assigning it to the temporary variable "$content".(ÊæÚÚøÿÿÿÿ
+e	php:S1142Ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¯ıŠÉ
+{	php:S1488Ó"`Immediately return this expression instead of assigning it to the temporary variable "$content".(æ»òÿÿÿÿÿ
+j	php:S1142å"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¸„ûıÿÿÿÿ
+a	php:S1192ù"FDefine a constant instead of duplicating this literal "&#93;" 3 times.(Ô˜öûÿÿÿÿ
+v	php:S1488‹"`Immediately return this expression instead of assigning it to the temporary variable "$content".(¾¢ˆ
+j	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ôéÄ
+j	php:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(…áÙÚ
+h	php:S1871š"MThis branch's code block is the same as the block for the branch on line 152.(Ñúê¹øÿÿÿÿ
+v	php:S1488İ"`Immediately return this expression instead of assigning it to the temporary variable "$content".(¾¢ˆ
+g	php:S1192Ú"QDefine a constant instead of duplicating this literal "do_shortcode_tag" 5 times.(é‘Î¿
+J	php:S1066"/Merge this if statement with the enclosing one.(§î¬¡ÿÿÿÿÿ

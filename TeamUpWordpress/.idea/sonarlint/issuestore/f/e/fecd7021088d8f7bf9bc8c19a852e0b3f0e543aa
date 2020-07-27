@@ -1,0 +1,154 @@
+
+4php:S125Î"Remove this commented out code.(Ğ©“ß
+9php:S125®
+"Remove this commented out code.(ßš™Şıÿÿÿÿ
+˜	php:S1448"~Class "ParagonIE_Sodium_Core32_Curve25519" has 42 methods, which is greater than 20 authorized. Split it into smaller classes.(Ç¬Ä¢ıÿÿÿÿ
+php:S138Ô"vThis function "fe_sq2" has 151 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(óØ§ˆüÿÿÿÿ
+j	php:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(íº„Ù
+php:S138»"vThis function "fe_mul" has 219 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ó™İøÿÿÿÿ
+9php:S125Ú"Remove this commented out code.(±©…îşÿÿÿÿ
+9php:S125è	"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+4php:S125ä"Remove this commented out code.(—áŞ¢
+9php:S125ø"Remove this commented out code.(³Â÷ùÿÿÿÿ
+4php:S125‹"Remove this commented out code.(´Â¦‡
+9php:S125¶
+"Remove this commented out code.(øšûÿÿÿÿ
+4php:S125î	"Remove this commented out code.(ñ”§Ñ
+9php:S125¤
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125˜
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+4php:S125"Remove this commented out code.(—áŞ¢
+4php:S125Š
+"Remove this commented out code.(¯ÿÄ
+4php:S125˜"Remove this commented out code.(üüï½
+9php:S125©
+"Remove this commented out code.(µ¡Âöıÿÿÿÿ
+4php:S125’
+"Remove this commented out code.(ñ”§Ñ
+4php:S125ó"Remove this commented out code.(—áŞ¢
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+9php:S125À"Remove this commented out code.(¤êä–ùÿÿÿÿ
+4php:S125"Remove this commented out code.(¢ÄÂ‰
+9php:S125Ç"Remove this commented out code.(Š“ÚÂúÿÿÿÿ
+4php:S125÷"Remove this commented out code.(—áŞ¢
+4php:S125Ï"Remove this commented out code.(¶ùºÓ
+9php:S125Ñ"Remove this commented out code.(¨¾¥©øÿÿÿÿ
+3php:S125ó	"Remove this commented out code.(öù¾g
+4php:S125¢
+"Remove this commented out code.(ëşğı
+4php:S125í"Remove this commented out code.(† æá
+4php:S125Õ	"Remove this commented out code.(Ê­÷ê
+9php:S125‹"Remove this commented out code.(…©Õ¦ÿÿÿÿÿ
+9php:S125 "Remove this commented out code.(ğ«·öıÿÿÿÿ
+9php:S125ğ"Remove this commented out code.(Èªƒ“ÿÿÿÿÿ
+4php:S125Ò"Remove this commented out code.(ÑíÁî
+9php:S125·
+"Remove this commented out code.(øšûÿÿÿÿ
+4php:S125ƒ"Remove this commented out code.(—áŞ¢
+4php:S125ò"Remove this commented out code.(ûÛËú
+9php:S125ù	"Remove this commented out code.(ˆ²Êşşÿÿÿÿ
+4php:S125„"Remove this commented out code.(‡²ÛÒ
+4php:S125‹"Remove this commented out code.(Ò½´
+4php:S125æ"Remove this commented out code.(ÜøŞ
+3php:S125×	"Remove this commented out code.(öù¾g
+4php:S125Ü"Remove this commented out code.(”€±ó
+9php:S125ï"Remove this commented out code.(Õ¯¹µùÿÿÿÿ
+9php:S125Û"Remove this commented out code.(Ø ÃÚúÿÿÿÿ
+php:S101"fRename class "ParagonIE_Sodium_Core32_Curve25519" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ç¬Ä¢ıÿÿÿÿ
+9php:S125õ"Remove this commented out code.(³Â÷ùÿÿÿÿ
+4php:S125Ü	"Remove this commented out code.(ñ”§Ñ
+9php:S125Ø	"Remove this commented out code.(¹ŞÑÍúÿÿÿÿ
+3php:S125‹
+"Remove this commented out code.(öù¾g
+9php:S125ï"Remove this commented out code.(Èªƒ“ÿÿÿÿÿ
+4php:S125µ
+"Remove this commented out code.(Ù˜şä
+9php:S125Ù	"Remove this commented out code.(æ¦·úÿÿÿÿ
+3php:S125ç	"Remove this commented out code.(öù¾g
+4php:S125È"Remove this commented out code.(ÉÑÜâ
+4php:S125ÿ	"Remove this commented out code.(š•µ­
+j	php:S3776û"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶„¡®
+php:S138à"yThis function "sc_reduce" has 298 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÛšÛ©
+9php:S125Ğ"Remove this commented out code.(ôñ’œøÿÿÿÿ
+9php:S125ì"Remove this commented out code.(Õ¯Åâøÿÿÿÿ
+3php:S125"Remove this commented out code.(æö)
+4php:S125ò	"Remove this commented out code.(¯ÿÄ
+9php:S125š"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+3php:S125æ	"Remove this commented out code.(—¯ùb
+9php:S125é"Remove this commented out code.(Ã³áóûÿÿÿÿ
+9php:S125Á"Remove this commented out code.(Ê×­ìøÿÿÿÿ
+4php:S125ù"Remove this commented out code.(´äóô
+9php:S125‰"Remove this commented out code.(øœî°úÿÿÿÿ
+9php:S125ã"Remove this commented out code.(‰‡Œ…ıÿÿÿÿ
+4php:S125
+"Remove this commented out code.(‚¤·š
+9php:S125…
+"Remove this commented out code.(µ¡Âöıÿÿÿÿ
+9php:S125ğ"Remove this commented out code.(ü¢»üıÿÿÿÿ
+4php:S125†"Remove this commented out code.(¾ıòş
+u	php:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "$h".(÷†ä·ÿÿÿÿÿ
+9php:S125–
+"Remove this commented out code.(ßš™Şıÿÿÿÿ
+9php:S125İ"Remove this commented out code.(ëˆˆÎûÿÿÿÿ
+3php:S125Ş"Remove this commented out code.(Õˆ¢:
+4php:S125Ö	"Remove this commented out code.(ñ”§Ñ
+4php:S125˜"Remove this commented out code.(¤ú©Í
+“php:S138ë"yThis function "sc_muladd" has 436 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ì¹³şÿÿÿÿ
+4php:S125î"Remove this commented out code.(—áŞ¢
+4php:S125î"Remove this commented out code.(—áŞ¢
+u	php:S4144ä"_Update this method so that its implementation is not identical to "ge_p3_tobytes" on line 1786.(ÄôØ„
+4php:S125ù"Remove this commented out code.(İÀÜ
+3php:S125€"Remove this commented out code.(ó¹ç=
+4php:S125£
+"Remove this commented out code.(š•µ­
+4php:S125Í"Remove this commented out code.(Ò¨×²
+4php:S125ÿ"Remove this commented out code.(½—®
+9php:S125Œ"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125è"Remove this commented out code.(ë‹Âƒúÿÿÿÿ
+4php:S125Û	"Remove this commented out code.(Ù˜şä
+4php:S125"Remove this commented out code.(È„¦Î
+E	php:S1066”"/Merge this if statement with the enclosing one.(—ØŠ
+3php:S125†
+"Remove this commented out code.(öù¾g
+3php:S125÷"Remove this commented out code.(Èíğp
+4php:S125‘
+"Remove this commented out code.(Ù˜şä
+4php:S125ç"Remove this commented out code.(ëĞÚñ
+4php:S125â"Remove this commented out code.(®Ù«©
+9php:S125Ú	"Remove this commented out code.(øšûÿÿÿÿ
+9php:S125ô	"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125Œ
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+4php:S125Ü"Remove this commented out code.(Ó¨—Â
+9php:S125ä"Remove this commented out code.(„–†´şÿÿÿÿ
+9php:S125ß"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125™"Remove this commented out code.(…æ‡ıÿÿÿÿ
+9php:S125€
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+4php:S125ˆ"Remove this commented out code.(¾ıòş
+4php:S125í	"Remove this commented out code.(Ù˜şä
+4php:S125í"Remove this commented out code.(–İ—·
+9php:S125†"Remove this commented out code.(´¡†êûÿÿÿÿ
+3php:S125ª
+"Remove this commented out code.(öù¾g
+9php:S125
+"Remove this commented out code.(ˆ²Êşşÿÿÿÿ
+9php:S125õ"Remove this commented out code.(Üşö¹üÿÿÿÿ
+9php:S125Ú"Remove this commented out code.(Š“ÚÂúÿÿÿÿ
+3php:S125¯
+"Remove this commented out code.(öù¾g
+9php:S125¸
+"Remove this commented out code.(ù•Í¿úÿÿÿÿ
+4php:S125ú	"Remove this commented out code.(‚¤·š
+9php:S125°
+"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ
+9php:S125"Remove this commented out code.(äÍ¥œıÿÿÿÿ
+4php:S125Ş"Remove this commented out code.(÷¾é”
+4php:S125ş	"Remove this commented out code.(öÓ
+9php:S125ü"Remove this commented out code.(ºÅõêÿÿÿÿÿ
+9php:S125ã"Remove this commented out code.(¤Û¶…üÿÿÿÿ
+4php:S125Ó"Remove this commented out code.(‡Çßğ
+3php:S125—
+"Remove this commented out code.(öù¾g
+9php:S125Š"Remove this commented out code.(Ş¶¡ ùÿÿÿÿ

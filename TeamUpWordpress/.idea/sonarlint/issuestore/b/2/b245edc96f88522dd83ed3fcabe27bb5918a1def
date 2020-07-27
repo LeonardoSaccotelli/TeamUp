@@ -1,0 +1,27 @@
+
+_	php:S1192•"IDefine a constant instead of duplicating this literal "content" 10 times.(ˆÑ¶Ò
+Š	Web:S5148ü"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(¸¢Èùÿÿÿÿ
+Š	Web:S5148ù"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(àáØ€øÿÿÿÿ
+Š	Web:S5148‹"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(óÈüÑıÿÿÿÿ
+~	php:S1448"iClass "Admin_Notices" has 21 methods, which is greater than 20 authorized. Split it into smaller classes.(Å¢Õµ
+b	php:S1192"LDefine a constant instead of duplicating this literal "err_content" 6 times.(ÄûÊÄ
+8php:S1255"Remove this commented out code.(ùğÍ«ùÿÿÿÿ
+d	php:S1192¸"NDefine a constant instead of duplicating this literal "um_adm_action" 3 times.(àâÕÿ
+_	php:S1192Ä"IDefine a constant instead of duplicating this literal "updated" 12 times.(ÇçÙ„
+Lphp:S131ú"7Add a "case default" clause to this "switch" statement.(ÃÈ§™
+1	php:S3626Ñ"Remove this redundant jump.(ûÁİ…
+l	php:S1192Ÿ"QDefine a constant instead of duplicating this literal "ultimate-member" 41 times.(±¸÷şøÿÿÿÿ
+Jphp:S121–"0Add curly braces around the nested statement(s).(ÖÓŒ°ùÿÿÿÿ
+g	php:S1192Æ"LDefine a constant instead of duplicating this literal "dismissible" 4 times.(¾ŸÿÚûÿÿÿÿ
+_	php:S1192"IDefine a constant instead of duplicating this literal "licenses" 3 times.(‚™Â½
+O	php:S3801»"4Refactor this function to use "return" consistently.(³†ûÿÿÿÿ
+a	php:S1192"FDefine a constant instead of duplicating this literal "error" 6 times.(„º”‘üÿÿÿÿ
+c	php:S1192c"IDefine a constant instead of duplicating this literal "priority" 5 times.(ö´ÌÂùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+o	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(’Ğúÿÿÿÿÿ
+ephp:S101"QRename class "Admin_Notices" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Å¢Õµ
+Š	Web:S5148‚"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(óÈüÑıÿÿÿÿ
+_	php:S1192Ë"IDefine a constant instead of duplicating this literal "message" 18 times.(øÔ’å
+]	php:S1192Ä"GDefine a constant instead of duplicating this literal "class" 18 times.(ÇçÙ„
+n	php:S1192”"XDefine a constant instead of duplicating this literal "um_hidden_admin_notices" 3 times.(ì›
+8php:S125/"Remove this commented out code.(²ûŒºıÿÿÿÿ

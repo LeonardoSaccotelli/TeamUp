@@ -1,0 +1,26 @@
+
+b	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(¢ø†ğ
+k	php:S1192ã"PDefine a constant instead of duplicating this literal "admin_bar_menu" 14 times.(Š‘ÈÑùÿÿÿÿ
+^	php:S1192:"JDefine a constant instead of duplicating this literal "admin-bar" 4 times.(óÉÃw
+O	php:S3801Í"4Refactor this function to use "return" consistently.(²¸ëÿÿÿÿÿ
+‚	php:S1448"hClass "WP_Admin_Bar" has 21 methods, which is greater than 20 authorized. Split it into smaller classes.(ß†Àêÿÿÿÿÿ
+j	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(‚®«
+J	php:S3801í"4Refactor this function to use "return" consistently.(¡¨á»
+d	php:S1192Š"IDefine a constant instead of duplicating this literal "tabindex" 3 times.(å×…æÿÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "parent" 8 times.(ñÑßÜÿÿÿÿÿ
+o	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(³Üã£ıÿÿÿÿ
+F	php:S1172Ú"+Remove the unused function parameter "$id".(¶öŒ•şÿÿÿÿ
+I	php:S3801Ş"4Refactor this function to use "return" consistently.(ë·’u
+\	php:S1192Ï"FDefine a constant instead of duplicating this literal "class" 8 times.(Ìµô
+^	php:S1192¥"HDefine a constant instead of duplicating this literal "onclick" 3 times.(ÿşÏï
+`	php:S1192"FDefine a constant instead of duplicating this literal "3.3.0" 3 times.(´Ù„¸øÿÿÿÿ
+J	php:S3801¥"4Refactor this function to use "return" consistently.(‚®«
+d	php:S1192Ü"NDefine a constant instead of duplicating this literal "wp-admin-bar-" 3 times.(ºòïù
+d	php:S1117ß"IRename "$nodes" which has the same name as the field declared at line 16.(€¢õèüÿÿÿÿ
+e	php:S1192ÿ"JDefine a constant instead of duplicating this literal "container" 3 times.(Õíææúÿÿÿÿ
+iphp:S101"PRename class "WP_Admin_Bar" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ß†Àêÿÿÿÿÿ
+b	php:S1192à"GDefine a constant instead of duplicating this literal "</div>" 3 times.(˜ñÄøÿÿÿÿ
+\	php:S1192–"FDefine a constant instead of duplicating this literal "group" 9 times.(–Îæ¡
+Kphp:S131"7Add a "case default" clause to this "switch" statement.(¢ø†ğ
+k	php:S1192µ"PDefine a constant instead of duplicating this literal "HTTP_USER_AGENT" 3 times.(ƒÃ‹Õøÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "title" 7 times.(¨‚øÈ

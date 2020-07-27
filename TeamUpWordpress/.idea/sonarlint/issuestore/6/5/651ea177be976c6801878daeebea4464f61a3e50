@@ -1,0 +1,11 @@
+
+j	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(¬ö´±
+1	php:S3626¯"Remove this redundant jump.(ÉŠ©ƒ
+1	php:S3626ó"Remove this redundant jump.(ÉŠ©ƒ
+1	php:S3626†"Remove this redundant jump.(ÉŠ©ƒ
+;	php:S1110E"!Remove these useless parentheses.(ˆ‰¹·øÿÿÿÿ
+;	php:S1110N"!Remove these useless parentheses.(”Ò·àûÿÿÿÿ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(‘ÔÛƒúÿÿÿÿ
+9php:S125¤"Remove this commented out code.(•îå½üÿÿÿÿ
+ophp:S101"[Rename class "Text_Diff_Engine_native" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ø‰¹ý
+o	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ää‚€øÿÿÿÿ

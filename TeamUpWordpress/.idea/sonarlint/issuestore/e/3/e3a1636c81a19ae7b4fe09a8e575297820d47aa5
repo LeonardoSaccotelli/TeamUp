@@ -1,0 +1,15 @@
+
+Qphp:S131®"7Add a "case default" clause to this "switch" statement.(Žá«÷øÿÿÿÿ
+gphp:S101"NRename class "WP_Network" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÛìÍ“ùÿÿÿÿ
+j	php:S1142Ú"OReduce the number of returns of this function 5, down to the maximum allowed 3.(·Í¡Ìýÿÿÿÿ
+]	php:S1192ˆ"GDefine a constant instead of duplicating this literal "number" 3 times.(‰âÅ‚
+J	php:S1066Ì"/Merge this if statement with the enclosing one.(ÏðÅÆøÿÿÿÿ
+o	php:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(·Í¡Ìýÿÿÿÿ
+j	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(òâ¯ƒ
+Qphp:S131—"7Add a "case default" clause to this "switch" statement.(Žá«÷øÿÿÿÿ
+^	php:S1192š"HDefine a constant instead of duplicating this literal "blog_id" 3 times.(¥ƒÔÌ
+O	php:S1135«"4Complete the task associated to this "TODO" comment.(¢²¢’úÿÿÿÿ
+^	php:S1192œ"HDefine a constant instead of duplicating this literal "site_id" 3 times.(éîæ¸
+c	php:S1192ƒ"MDefine a constant instead of duplicating this literal "site-options" 4 times.(¡ñ ê
+j	php:S1142–"OReduce the number of returns of this function 4, down to the maximum allowed 3.(–žÇ†ÿÿÿÿÿ
+e	php:S1142Ë"OReduce the number of returns of this function 5, down to the maximum allowed 3.(òâ¯ƒ

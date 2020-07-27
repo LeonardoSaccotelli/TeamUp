@@ -1,0 +1,9 @@
+
+c	php:S1192"NDefine a constant instead of duplicating this literal "notifications" 5 times.(ÜÁ¿†
+t	php:S1488f"_Immediately return this expression instead of assigning it to the temporary variable "$output".(úÜê»
+I	php:S1066["/Merge this if statement with the enclosing one.(±¯°Æýÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+D	php:S1066R"/Merge this if statement with the enclosing one.(ò•¬ß
+o	php:S1192%"UDefine a constant instead of duplicating this literal "_enable_new_reviews" 10 times.(¬“Žíøÿÿÿÿ
+lphp:S101"SRename class "Reviews_Account" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬Ëú¤þÿÿÿÿ
+u	php:S1192*"[Define a constant instead of duplicating this literal "_enable_new_reviews_reply" 10 times.(ÄˆŠÔùÿÿÿÿ

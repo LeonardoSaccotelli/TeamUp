@@ -1,0 +1,22 @@
+
+I	php:S1066v"/Merge this if statement with the enclosing one.(ıˆ¿¢ıÿÿÿÿ
+f	php:S11928"LDefine a constant instead of duplicating this literal "widgetType" 13 times.(×·®¯ûÿÿÿÿ
+j	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(—Æûø
+r	php:S1192#"XDefine a constant instead of duplicating this literal "SELECT `post_id` FROM `" 5 times.(úğšÿÿÿÿÿ
+D	php:S1066|"/Merge this if statement with the enclosing one.(šı‚
+]	php:S1192F"IDefine a constant instead of duplicating this literal "elements" 3 times.(—ó†
+j	php:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(óšö—
+	php:S1192İ"uDefine a constant instead of duplicating this literal "SELECT `ID`, `post_title`, `post_parent`
+					FROM `" 3 times.(Û­ñ•üÿÿÿÿ
+a	php:S1192Ù"KDefine a constant instead of duplicating this literal "video_type" 3 times.(ÇÚ‹€
+4php:S125×"Remove this commented out code.(à’åõ
+a	php:S1192ì"KDefine a constant instead of duplicating this literal "post_title" 3 times.(ä ‡œ
+4php:S125Ü"Remove this commented out code.(ƒÏ•ş
+`	php:S11928"FDefine a constant instead of duplicating this literal "image" 3 times.(×·®¯ûÿÿÿÿ
+J	php:S1066»"/Merge this if statement with the enclosing one.(¦Š¹Âüÿÿÿÿ
+p	php:S1192Ş"UDefine a constant instead of duplicating this literal "` p
+					LEFT JOIN `" 3 times.(­’†şÿÿÿÿ
+i	php:S3776W"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(«¬ı
+j	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(­ÿõü
+d	php:S1192<"JDefine a constant instead of duplicating this literal "settings" 24 times.(¬÷­˜üÿÿÿÿ
+4php:S125ß"Remove this commented out code.(€‹¸

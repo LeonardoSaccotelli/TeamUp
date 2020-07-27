@@ -1,0 +1,39 @@
+
+]	php:S1192ç"GDefine a constant instead of duplicating this literal "height" 5 times.(ò³°ñ
+9php:S125Ù"Remove this commented out code.(¼É´óıÿÿÿÿ
+o	php:S1192Ù"TDefine a constant instead of duplicating this literal "pre_comment_content" 4 times.(«¡ÚÎüÿÿÿÿ
+j	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(’İÏè
+}	php:S1488ã"gImmediately return this expression instead of assigning it to the temporary variable "$uri_attributes".(œ˜¥ê
+l	php:S1192¸"QDefine a constant instead of duplicating this literal "background-image" 3 times.(¤ßÄ»úÿÿÿÿ
+k	php:S1192É"UDefine a constant instead of duplicating this literal "wp_kses_allowed_html" 7 times.(Ã¼ÁØ
+a	php:S1192õ"FDefine a constant instead of duplicating this literal "title" 5 times.(Á®×ğúÿÿÿÿ
+u	php:S1488ß"_Immediately return this expression instead of assigning it to the temporary variable "$string".(éó›…
+_	php:S1192W"JDefine a constant instead of duplicating this literal "xml:lang" 15 times.(‰‘ª¨
+\	php:S1192D"GDefine a constant instead of duplicating this literal "target" 3 times.(ğòÖò
+Qphp:S131á	"7Add a "case default" clause to this "switch" statement.(¾‘ò»úÿÿÿÿ
+[	php:S1192v"FDefine a constant instead of duplicating this literal "value" 8 times.(˜”Ûò
+j	php:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Øğœ³
+e	php:S1192Õ"ODefine a constant instead of duplicating this literal "wp_filter_kses" 4 times.(’İˆ„
+c	php:S1192²"HDefine a constant instead of duplicating this literal "bgcolor" 4 times.(ÁĞ€Ïşÿÿÿÿ
+j	php:S1142‚	"OReduce the number of returns of this function 5, down to the maximum allowed 3.(âÚéçøÿÿÿÿ
+e	php:S1142ç
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ïÿˆ­
+]	php:S1192š	"GDefine a constant instead of duplicating this literal "data-*" 3 times.(À­ë
+[	php:S1192T"GDefine a constant instead of duplicating this literal "align" 34 times.(Ó‹„'
+b	php:S1192‡"GDefine a constant instead of duplicating this literal "width" 10 times.(²–¡Íùÿÿÿÿ
+z	php:S1488Ì"_Immediately return this expression instead of assigning it to the temporary variable "$string".(ÿ›íùÿÿÿÿ
+™php:S138˜"ƒThis function "safecss_filter_attr" has 177 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(’İÏè
+e	php:S1142½"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Äëıå
+b	php:S1192†"GDefine a constant instead of duplicating this literal "valign" 8 times.(øÄø¾úÿÿÿÿ
+\	php:S1192é"FDefine a constant instead of duplicating this literal "vless" 6 times.(¼ª”Ô
+o	php:S1192Ù"TDefine a constant instead of duplicating this literal "wp_filter_post_kses" 8 times.(«¡ÚÎüÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ÓÌ¶à
+b	php:S1192æ"GDefine a constant instead of duplicating this literal "border" 3 times.(÷ä”âüÿÿÿÿ
+Qphp:S131Õ"7Add a "case default" clause to this "switch" statement.(Áõ½Òüÿÿÿÿ
+o	php:S3776‚	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(âÚéçøÿÿÿÿ
+\	php:S1192é"FDefine a constant instead of duplicating this literal "whole" 7 times.(¼ª”Ô
+c	php:S1192ƒ"HDefine a constant instead of duplicating this literal "charoff" 8 times.(Ì…òÆıÿÿÿÿ
+j	php:S3776Ö	"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(­ïÖâ
+d	php:S1192’"IDefine a constant instead of duplicating this literal "datetime" 3 times.(‹şøÍúÿÿÿÿ
+f	php:S1192È"KDefine a constant instead of duplicating this literal "background" 4 times.(ˆê”üÿÿÿÿ
+`	php:S1192ß"KDefine a constant instead of duplicating this literal "slash_zero" 5 times.(’Ì›Q

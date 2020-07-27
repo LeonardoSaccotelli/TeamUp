@@ -1,0 +1,20 @@
+
+]	php:S1192{"HDefine a constant instead of duplicating this literal "version" 5 times.(Á–ëÊ
+c	php:S1192º"HDefine a constant instead of duplicating this literal " active" 3 times.(ÓŞøÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ï¿‰€ıÿÿÿÿ
+B	php:S1172ä",Remove the unused function parameter "$msg".(¾§³õ
+a	php:S1192©"FDefine a constant instead of duplicating this literal "title" 3 times.(Á®×ğúÿÿÿÿ
+g	php:S1192’"LDefine a constant instead of duplicating this literal "new_version" 6 times.(‘Õù‚ÿÿÿÿÿ
+‘	php:S1192Ö"{Define a constant instead of duplicating this literal "class="thickbox open-plugin-details-modal" aria-label="%s"" 7 times.(•Á¾
+k	php:S1192š"UDefine a constant instead of duplicating this literal "{{ data.successes }}" 4 times.(»„Ïƒ
+O	php:S3801™"4Refactor this function to use "return" consistently.(¢’¬ÿÿÿÿÿ
+d	php:S1192¾"NDefine a constant instead of duplicating this literal "update_themes" 5 times.(ÃÁ©
+c	php:S1192ç"HDefine a constant instead of duplicating this literal "display" 4 times.(øóÑ ùÿÿÿÿ
+f	php:S11922"LDefine a constant instead of duplicating this literal "update_core" 8 times.(£Óïÿÿÿÿÿ
+`	php:S1192›"JDefine a constant instead of duplicating this literal "checksums" 3 times.(ìà•ç
+e	php:S1192ù"ODefine a constant instead of duplicating this literal "update_plugins" 5 times.(šÖÖ¨
+e	php:S1142ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¾§³õ
+k	php:S1192,"VDefine a constant instead of duplicating this literal "dismissed_update_core" 5 times.(Êİ¶…
+k	php:S1192"PDefine a constant instead of duplicating this literal "update-core.php" 6 times.(™ñ®˜şÿÿÿÿ
+u	php:S1192Ø"_Define a constant instead of duplicating this literal "View %1$s version %2$s details" 7 times.( •Û£
+c	php:S1192„"HDefine a constant instead of duplicating this literal "upgrade" 3 times.(äÔñ‚úÿÿÿÿ

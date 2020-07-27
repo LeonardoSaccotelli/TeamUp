@@ -1,0 +1,17 @@
+
+]	php:S1192u"HDefine a constant instead of duplicating this literal "choices" 3 times.(¨å¸
+h	php:S1301—"MReplace this "switch" statement with "if" statements to increase readability.(Æâïêÿÿÿÿÿ
+e	php:S1192p"KDefine a constant instead of duplicating this literal "categories" 3 times.(æäÂ¯úÿÿÿÿ
+c	php:S1192R"IDefine a constant instead of duplicating this literal "meta_key" 6 times.(Ú‰æßıÿÿÿÿ
+\	php:S1192q"GDefine a constant instead of duplicating this literal "select" 3 times.(Éå—Ä
+c	php:S1192V"IDefine a constant instead of duplicating this literal "required" 6 times.(ÑÈÔáıÿÿÿÿ
+n	php:S1192U"TDefine a constant instead of duplicating this literal "um-form-field valid" 5 times.(—œôüÿÿÿÿ
+d	php:S1192P"JDefine a constant instead of duplicating this literal "um-groups" 6 times.(÷Ò…şÿÿÿÿ
+l	php:S1192["RDefine a constant instead of duplicating this literal "um-groups-content" 3 times.(¾â‹Íÿÿÿÿÿ
+hphp:S101"ORename class "Groups_Form" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äõç´şÿÿÿÿ
+`	php:S1192U"FDefine a constant instead of duplicating this literal "class" 6 times.(—œôüÿÿÿÿ
+Qphp:S131—"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+q	php:S1192"WDefine a constant instead of duplicating this literal "um_groups_form_process" 6 times.(î—‹ƒşÿÿÿÿ
+D	php:S1481Ã")Remove this unused "$key" local variable.(şöúøÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+`	php:S1192P"FDefine a constant instead of duplicating this literal "label" 6 times.(÷Ò…şÿÿÿÿ

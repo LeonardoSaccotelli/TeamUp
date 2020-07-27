@@ -1,0 +1,5 @@
+
+_	php:S1192="KDefine a constant instead of duplicating this literal "hashed_key" 3 times.(…³´D
+e	php:S1192>"KDefine a constant instead of duplicating this literal "created_at" 5 times.(‘©”§úÿÿÿÿ
+yphp:S101"`Rename class "WP_Recovery_Mode_Key_Service" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•ïˆüÿÿÿÿ
+i	php:S1142\"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ï”ï³øÿÿÿÿ

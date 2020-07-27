@@ -1,0 +1,8 @@
+
+pphp:S101"WRename class "Theme_Upgrader_Skin" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·Ήσªύÿÿÿÿ
+e	php:S11928"KDefine a constant instead of duplicating this literal "themes.php" 3 times.(λέ‰ϊÿÿÿÿ
+§	php:S1192H"‘Define a constant instead of duplicating this literal "<span aria-hidden="true">%s</span><span class="screen-reader-text">%s</span></a>" 3 times.(Λΐο›
+`	php:S1192"FDefine a constant instead of duplicating this literal "theme" 4 times.(­ªνΎύÿÿÿÿ
+c	php:S11924"IDefine a constant instead of duplicating this literal "activate" 3 times.(‡ΗΉωÿÿÿÿ
+i	php:S3776("TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(΅—‡λ
+b	php:S1192F"HDefine a constant instead of duplicating this literal "preview" 3 times.(γΝ²ϋÿÿÿÿ

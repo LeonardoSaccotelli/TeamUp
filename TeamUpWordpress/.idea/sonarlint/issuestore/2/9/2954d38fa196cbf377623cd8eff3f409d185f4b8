@@ -1,0 +1,150 @@
+
+Œphp:S138'"xThis function "Analyze" has 1041 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¾‡óÁ
+hphp:S101"ORename class "getid3_riff" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©¾½ûÿÿÿÿ
+d	php:S1192Ì"IDefine a constant instead of duplicating this literal "streams" 14 times.(“Â¦Ãúÿÿÿÿ
+g	php:S1134º"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ã°âœşÿÿÿÿ
+^	php:S1192Í"HDefine a constant instead of duplicating this literal "encoder" 3 times.(Àñ˜½
+i	php:S1192İ"NDefine a constant instead of duplicating this literal "total_samples" 3 times.(¾ëà©şÿÿÿÿ
+b	php:S1134¼"LTake the required action to fix the issue indicated by this "FIXME" comment.(³Ó­ì
+3php:S125g"Remove this commented out code.(‡‡‰²
+e	php:S1192¸"JDefine a constant instead of duplicating this literal "channels" 18 times.(í›•óüÿÿÿÿ
+Qphp:S131Ù	"7Add a "case default" clause to this "switch" statement.(ïÃåÿÿÿÿÿ
+]	php:S1192Ú"GDefine a constant instead of duplicating this literal "artist" 9 times.(¯õâÛ
+h	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(Ø·ş§üÿÿÿÿ
+i	php:S1192Ÿ"SDefine a constant instead of duplicating this literal "dwMicroSecPerFrame" 7 times.(×ÁÂî
+e	php:S1192Ø"JDefine a constant instead of duplicating this literal "lossless" 26 times.(©ÁÊ×ûÿÿÿÿ
+a	php:S1192´	"FDefine a constant instead of duplicating this literal "width" 4 times.(–ØŒ€ÿÿÿÿÿ
+_	php:S1192›	"IDefine a constant instead of duplicating this literal "warning" 12 times.(Ò ì‡
+3php:S125E"Remove this commented out code.(ïúî
+`	php:S1192Ÿ"JDefine a constant instead of duplicating this literal ", found "" 9 times.(£•‘¥
+9php:S125´"Remove this commented out code.(çíƒ‹ùÿÿÿÿ
+f	php:S1192G"LDefine a constant instead of duplicating this literal "header_size" 5 times.(›áóÈøÿÿÿÿ
+\	php:S1192z"HDefine a constant instead of duplicating this literal "offset" 32 times.(Ì†Áw
+a	php:S1192µ"KDefine a constant instead of duplicating this literal "fileformat" 8 times.(¬“ëó
+a	php:S1192—	"FDefine a constant instead of duplicating this literal "error" 9 times.(èÄÆÌÿÿÿÿÿ
+]	php:S1192Å"GDefine a constant instead of duplicating this literal "flags" 14 times.(¹øéì
+`	php:S1192£"JDefine a constant instead of duplicating this literal "copyright" 3 times.(¬Â™Ù
+c	php:S1192Ô"MDefine a constant instead of duplicating this literal "sCompression" 3 times.(øÈŒº
+e	php:S11923"KDefine a constant instead of duplicating this literal "dataformat" 8 times.(££àÓùÿÿÿÿ
+9php:S125‚"Remove this commented out code.(¼è÷ïøÿÿÿÿ
+d	php:S1142'"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¾‡óÁ
+h	php:S1192Ô"MDefine a constant instead of duplicating this literal "total_frames" 3 times.(ƒºÍıÿÿÿÿ
+4php:S125’"Remove this commented out code.(ÿ‚¹ı
+g	php:S1134½"LTake the required action to fix the issue indicated by this "FIXME" comment.(ñ€ğ¨üÿÿÿÿ
+l	php:S1192¶"QDefine a constant instead of duplicating this literal "timecode_seconds" 5 times.(¨ÁÄ‰ùÿÿÿÿ
+]	php:S1192Ê"HDefine a constant instead of duplicating this literal "wavpack" 8 times.(‡åJ
+b	php:S1192¶	"GDefine a constant instead of duplicating this literal "height" 4 times.(œ›Õ…şÿÿÿÿ
+9php:S125ÿ"Remove this commented out code.(·¼æÖşÿÿÿÿ
+4php:S125ü"Remove this commented out code.(Ë¦ÑŠ
+T	php:S1481‹"9Remove this unused "$AudioChunkStreamNum" local variable.(¹·íúÿÿÿÿ
+k	php:S1192 "PDefine a constant instead of duplicating this literal "nAvgBytesPerSec" 4 times.(Û´›Ãûÿÿÿÿ
+P	php:S1481…";Remove this unused "$SNDM_thisTagDataFlags" local variable.(· ùF
+g	php:S1192Å"LDefine a constant instead of duplicating this literal "wformattag" 10 times.(¹è¿üüÿÿÿÿ
+f	php:S1192ì"KDefine a constant instead of duplicating this literal "flags_raw" 21 times.(è­ÿÿÿÿÿÿ
+Lphp:S131×"7Add a "case default" clause to this "switch" statement.(Åü—Õ
+h	php:S1301Ğ
+"MReplace this "switch" statement with "if" statements to increase readability.(ŒÛºäûÿÿÿÿ
+e	php:S1192ç"JDefine a constant instead of duplicating this literal "rating_id" 5 times.(İğ£´şÿÿÿÿ
+c	php:S1301×"MReplace this "switch" statement with "if" statements to increase readability.(Åü—Õ
+c	php:S1192­"HDefine a constant instead of duplicating this literal "dwWidth" 3 times.(š³ßÛúÿÿÿÿ
+8php:S125N"Remove this commented out code.(«—Ÿ‡ùÿÿÿÿ
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "title" 14 times.(ºÇƒ¬ÿÿÿÿÿ
+f	php:S1192Ø"KDefine a constant instead of duplicating this literal "frame_rate" 4 times.(ªŒ£Èúÿÿÿÿ
+c	php:S11928"NDefine a constant instead of duplicating this literal "avdataoffset" 46 times.(öŸ³Â
+^	php:S1192"HDefine a constant instead of duplicating this literal "signbit" 4 times.(ğ™Ê 
+4php:S125…"Remove this commented out code.(ñû˜
+^	php:S1192Ä"HDefine a constant instead of duplicating this literal "fourcc" 13 times.(áÓŒº
+4php:S125¦"Remove this commented out code.(å‹Ø®
+[php:S112°"FDefine and throw a dedicated exception instead of using a generic one.(™¬„û
+d	php:S1192Z"JDefine a constant instead of duplicating this literal "filesize" 32 times.(ÖŸ£õøÿÿÿÿ
+g	php:S1134»"LTake the required action to fix the issue indicated by this "FIXME" comment.(‰Ñäêøÿÿÿÿ
+g	php:S1134¾"LTake the required action to fix the issue indicated by this "FIXME" comment.(è¨ş½ıÿÿÿÿ
+l	php:S1192ß"QDefine a constant instead of duplicating this literal "bits_per_sample" 16 times.(äœ¶ÿÿÿÿÿ
+c	php:S1192ğ"MDefine a constant instead of duplicating this literal "sample_rate" 23 times.(‚¼ö—
+4php:S125¬"Remove this commented out code.(¸´º‰
+m	php:S1192Ä"RDefine a constant instead of duplicating this literal "sound_information" 5 times.(á”¥ÿÿÿÿÿ
+4php:S125"Remove this commented out code.(Ë¦ÑŠ
+a	php:S1192‚"KDefine a constant instead of duplicating this literal "adjustment" 6 times.(™œïŒ
+N	php:S1481©
+"3Remove this unused "$channelnumber" local variable.(ñ‚ëùüÿÿÿÿ
+N	php:S1135"4Complete the task associated to this "TODO" comment.(ö¿Æ¿şÿÿÿÿ
+n	php:S1192Î"SDefine a constant instead of duplicating this literal "anciliary_data_def" 4 times.(ñÛ™Ìüÿÿÿÿ
+`	php:S1192é"JDefine a constant instead of duplicating this literal "mime_type" 7 times.(ºÚÓ
+E	php:S1481¥"/Remove this unused "$commentid" local variable.(ŞÏÜš
+Gphp:S836³"2Review the data-flow - use of uninitialized value.(Â«èÁ
+d	php:S1192±"NDefine a constant instead of duplicating this literal "timecode_rate" 3 times.(è°æŠ
+d	php:S1192›"IDefine a constant instead of duplicating this literal "comment" 10 times.(°ƒÑÏûÿÿÿÿ
+m	php:S1192–"RDefine a constant instead of duplicating this literal "compression_flags" 4 times.(µøÚ½ûÿÿÿÿ
+g	php:S1192Å"LDefine a constant instead of duplicating this literal " (short by " 3 times.(»¨üÂÿÿÿÿÿ
+h	php:S1192•"MDefine a constant instead of duplicating this literal "comments_raw" 6 times.(Â€—îúÿÿÿÿ
+“php:S138å"yThis function "ParseRIFF" has 299 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(É¡êßüÿÿÿÿ
+I	php:S1066q"/Merge this if statement with the enclosing one.(¬÷âÕúÿÿÿÿ
+b	php:S1134¸"LTake the required action to fix the issue indicated by this "FIXME" comment.(­úšê
+A	php:S1481³"+Remove this unused "$dummy" local variable.(Â«èÁ
+f	php:S1192µ"KDefine a constant instead of duplicating this literal "fccHandler" 4 times.(ºèÏşÿÿÿÿ
+c	php:S1192¨"HDefine a constant instead of duplicating this literal "dwFlags" 3 times.(²¨›‘ıÿÿÿÿ
+h	php:S1192Í"MDefine a constant instead of duplicating this literal "resolution_x" 6 times.(ç¤µÆúÿÿÿÿ
+E	php:S1066Ü"/Merge this if statement with the enclosing one.(íÕ¾
+_	php:S1192²"IDefine a constant instead of duplicating this literal "dwLength" 4 times.(’Ö¯
+c	php:S1192•"HDefine a constant instead of duplicating this literal "parsed" 64 times.(‘‹û¿úÿÿÿÿ
+9php:S125¢"Remove this commented out code.(İæß¶ûÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "genre" 3 times.(¢òİÃ
+I	php:S1135"4Complete the task associated to this "TODO" comment.(İæÆ˜
+d	php:S1192©"NDefine a constant instead of duplicating this literal "dwTotalFrames" 5 times.(ñ¡Ğš
+J	php:S1066Ù"/Merge this if statement with the enclosing one.(®øğÄøÿÿÿÿ
+d	php:S1192æ"IDefine a constant instead of duplicating this literal "genre_id" 5 times.(Ó¾äøÿÿÿÿ
+a	php:S1192ä"KDefine a constant instead of duplicating this literal "codec_name" 5 times.(ÕÖä·
+d	php:S1192·"NDefine a constant instead of duplicating this literal "bitrate_mode" 21 times.(É¿Ì€
+9php:S125ª"Remove this commented out code.(‘áĞßşÿÿÿÿ
+\	php:S11921"GDefine a constant instead of duplicating this literal "audio" 52 times.(Ïïåú
+4php:S125Ö	"Remove this commented out code.(¸´º‰
+4php:S125"Remove this commented out code.(ìˆÁ¡
+f	php:S1192€"KDefine a constant instead of duplicating this literal "originator" 8 times.(ôËúÿÿÿÿ
+c	php:S1192Ø"HDefine a constant instead of duplicating this literal "version" 7 times.(„«æÔıÿÿÿÿ
+9php:S125œ"Remove this commented out code.(ğ®Ä¶ÿÿÿÿÿ
+h	php:S1192Ñ"MDefine a constant instead of duplicating this literal "resolution_y" 6 times.(»îìÂøÿÿÿÿ
+\	php:S1192«"GDefine a constant instead of duplicating this literal "SPEED" 11 times.(´ÄË<
+4php:S125ö
+"Remove this commented out code.(§ªÂú
+\	php:S1192€"GDefine a constant instead of duplicating this literal "chunks" 3 times.(óI
+a	php:S1192™"KDefine a constant instead of duplicating this literal "m_wQuality" 3 times.(­Ğ¡ò
+h	php:S1192Ô"RDefine a constant instead of duplicating this literal "playtime_seconds" 22 times.(‚Şï
+3php:S125Ø"Remove this commented out code.(ôê‘+
+D	php:S1066©"/Merge this if statement with the enclosing one.(ãÅºc
+`php:S112"FDefine and throw a dedicated exception instead of using a generic one.(•—¹Óıÿÿÿÿ
+b	php:S1192Ï"GDefine a constant instead of duplicating this literal "codec" 25 times.(„Ÿ¤üÿÿÿÿ
+a	php:S1192’"KDefine a constant instead of duplicating this literal "filelength" 4 times.(ÉãÊ
+b	php:S1134¹"LTake the required action to fix the issue indicated by this "FIXME" comment.(ù”Š¤
+_	php:S1192ı"IDefine a constant instead of duplicating this literal "litewave" 4 times.(–ıŒº
+9php:S125ø
+"Remove this commented out code.(Íù½œşÿÿÿÿ
+3php:S125·"Remove this commented out code.(ôê‘+
+a	php:S1192ô"FDefine a constant instead of duplicating this literal "album" 6 times.(ØæÏÙüÿÿÿÿ
+j	php:S1192Ï
+"ODefine a constant instead of duplicating this literal "wBitsPerSample" 5 times.(öèÖğùÿÿÿÿ
+o	php:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¤í™ğùÿÿÿÿ
+[php:S112§"FDefine and throw a dedicated exception instead of using a generic one.(¯É ì
+9php:S125Ş"Remove this commented out code.(¹ùá·üÿÿÿÿ
+q	php:S1192³"VDefine a constant instead of duplicating this literal "TIMESTAMP_SAMPLE_RATE" 4 times.(í©„ƒÿÿÿÿÿ
+4php:S125¿"Remove this commented out code.(±¢Åò
+[	php:S11922"GDefine a constant instead of duplicating this literal "video" 15 times.(ØéäV
+9php:S125‡"Remove this commented out code.(¼è÷ïøÿÿÿÿ
+j	php:S3776'"URefactor this function to reduce its Cognitive Complexity from 523 to the 15 allowed.(¾‡óÁ
+[php:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(¼Ïœ
+c	php:S1192Å"HDefine a constant instead of duplicating this literal " bytes)" 4 times.(»¨üÂÿÿÿÿÿ
+g	php:S1192Å"LDefine a constant instead of duplicating this literal "wFormatTag" 10 times.(¹è¿üüÿÿÿÿ
+p	php:S3776å"URefactor this function to reduce its Cognitive Complexity from 224 to the 15 allowed.(É¡êßüÿÿÿÿ
+`	php:S1192’"JDefine a constant instead of duplicating this literal "comments" 21 times.(—ª§€
+d	php:S1192Æ"IDefine a constant instead of duplicating this literal "bitrate" 53 times.(¶–¨şÿÿÿÿ
+w	php:S1192Å"\Define a constant instead of duplicating this literal " bytes of data, only found " 4 times.(»¨üÂÿÿÿÿÿ
+e	php:S11929"KDefine a constant instead of duplicating this literal "avdataend" 49 times.(É€ë“üÿÿÿÿ
+[php:S112´"FDefine and throw a dedicated exception instead of using a generic one.(´ÖŠ
+j	php:S1192‹"ODefine a constant instead of duplicating this literal " (file offset " 3 times.(Ÿ»¬Üúÿÿÿÿ
+`php:S112«"FDefine and throw a dedicated exception instead of using a generic one.(Úì’ªùÿÿÿÿ
+d	php:S1192®"IDefine a constant instead of duplicating this literal "dwHeight" 3 times.(à”ªóøÿÿÿÿ
+4php:S125ğ"Remove this commented out code.(ü±ÛÈ
+4php:S125ó"Remove this commented out code.(€ÎÈò
+]	php:S1192©"GDefine a constant instead of duplicating this literal "author" 5 times.(…ö˜¾
+a	php:S1192ô"FDefine a constant instead of duplicating this literal "track" 5 times.(ØæÏÙüÿÿÿÿ
+€	php:S1192Å"eDefine a constant instead of duplicating this literal "Probably truncated file - expecting " 3 times.(»¨üÂÿÿÿÿÿ
+9php:S125Ü"Remove this commented out code.(ñ€¢´ÿÿÿÿÿ

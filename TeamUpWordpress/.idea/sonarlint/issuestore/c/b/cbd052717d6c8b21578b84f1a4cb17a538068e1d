@@ -1,0 +1,11 @@
+
+`	php:S1192 "JDefine a constant instead of duplicating this literal "condition" 3 times.(Ä‹
+_	php:S1192j"JDefine a constant instead of duplicating this literal "elementor" 8 times.(™Ï¤º
+e	php:S1192Ÿ"PDefine a constant instead of duplicating this literal "content_classes" 3 times.(ˆóÌ
+‚	php:S1488"gImmediately return this expression instead of assigning it to the temporary variable "$page_templates".(†¸¡ƒıÿÿÿÿ
+c	php:S1192V"NDefine a constant instead of duplicating this literal "Page Template" 3 times.(«ËÏç
+c	php:S1301Ò"MReplace this "switch" statement with "if" statements to increase readability.(Ì½ı
+j	php:S1192Ÿ"UDefine a constant instead of duplicating this literal "elementor-descriptor" 3 times.(ˆóÌ
+^	php:S1192ƒ"HDefine a constant instead of duplicating this literal "default" 4 times.(£ËÌ‹
+Lphp:S131Ò"7Add a "case default" clause to this "switch" statement.(Ì½ı
+e	php:S1192"JDefine a constant instead of duplicating this literal "separator" 3 times.(şÄĞãøÿÿÿÿ

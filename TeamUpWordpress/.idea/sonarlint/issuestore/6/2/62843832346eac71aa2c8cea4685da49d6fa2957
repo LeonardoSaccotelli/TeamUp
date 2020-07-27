@@ -1,0 +1,14 @@
+
+4php:S125Ó"Remove this commented out code.(üË¹Ê
+w	php:S1488Ú"\Immediately return this expression instead of assigning it to the temporary variable "$ret".(©®Ó­şÿÿÿÿ
+4php:S125Í"Remove this commented out code.(ê½Ş®
+9php:S125Ö"Remove this commented out code.(Îé¦‹ıÿÿÿÿ
+9php:S125í"Remove this commented out code.(¢òå¤üÿÿÿÿ
+9php:S125ê"Remove this commented out code.(¼¾´şÿÿÿÿÿ
+4php:S125ó"Remove this commented out code.(íæ 
+4php:S125ğ"Remove this commented out code.(¢Óêº
+4php:S125Ğ"Remove this commented out code.(ú‚™ã
+4php:S125Ù"Remove this commented out code.(Œ£­ƒ
+‚php:S101	"iRename class "ParagonIE_Sodium_Core_Base64_Original" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ãÖë…øÿÿÿÿ
+D	php:S1066p"/Merge this if statement with the enclosing one.(Ş«ù±
+i	php:S3776f"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ğËù¢

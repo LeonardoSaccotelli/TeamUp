@@ -1,0 +1,19 @@
+
+g	php:S1192:"MDefine a constant instead of duplicating this literal "description" 21 times.(ê¡àøøÿÿÿÿ
+c	php:S1192Ä"HDefine a constant instead of duplicating this literal "boolean" 8 times.(¦Õ¬üşÿÿÿÿ
+c	php:S11929"IDefine a constant instead of duplicating this literal "taxonomy" 4 times.(½¥šæÿÿÿÿÿ
+\	php:S1192d"GDefine a constant instead of duplicating this literal "status" 3 times.(ååÄ
+]	php:S1192V"HDefine a constant instead of duplicating this literal "objects" 4 times.(‹éì·
+c	php:S1192ò"MDefine a constant instead of duplicating this literal "hierarchical" 3 times.(×ıõ
+_	php:S1192ö"JDefine a constant instead of duplicating this literal "rest_base" 3 times.(½‚”'
+uphp:S101"aRename class "WP_REST_Taxonomies_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²ÏØÒ
+`	php:S1192º"JDefine a constant instead of duplicating this literal "readonly" 10 times.(åúÆÖ
+h	php:S1192Ş"MDefine a constant instead of duplicating this literal "capabilities" 3 times.(®Ï×ıÿÿÿÿ
+f	php:S1192ú"KDefine a constant instead of duplicating this literal "visibility" 3 times.(¨¾Ú¾şÿÿÿÿ
+]	php:S1192æ"GDefine a constant instead of duplicating this literal "labels" 3 times.(¡ïÍÔ
+\	php:S1192Ñ"FDefine a constant instead of duplicating this literal "embed" 3 times.(ø®Éœ
+c	php:S1192C"IDefine a constant instead of duplicating this literal "context" 17 times.(²ÒÄüÿÿÿÿ
+b	php:S1192´"GDefine a constant instead of duplicating this literal "object" 4 times.(¢Úêúÿÿÿÿ
+a	php:S1192;"GDefine a constant instead of duplicating this literal "string" 7 times.(Şåáßúÿÿÿÿ
+a	php:S1192ê"FDefine a constant instead of duplicating this literal "types" 3 times.(çÕ·úÿÿÿÿ
+f	php:S1192î"KDefine a constant instead of duplicating this literal "show_cloud" 3 times.(˜· Öûÿÿÿÿ

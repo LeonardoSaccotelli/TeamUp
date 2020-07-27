@@ -1,0 +1,24 @@
+
+_	php:S1192g"JDefine a constant instead of duplicating this literal "post_type" 7 times.(«Ò¨ş
+c	php:S1192g"NDefine a constant instead of duplicating this literal "attachment_id" 9 times.(«Ò¨ş
+j	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ù‹
+J	php:S1066ü"/Merge this if statement with the enclosing one.(Ü›½Ãûÿÿÿÿ
+a	php:S1192Å"FDefine a constant instead of duplicating this literal "cpage" 5 times.(£¼¤óÿÿÿÿÿ
+^	php:S1192g"IDefine a constant instead of duplicating this literal "page_id" 11 times.(«Ò¨ş
+N	php:S3801*"4Refactor this function to use "return" consistently.(ú–ù½ûÿÿÿÿ
+b	php:S1192¼"GDefine a constant instead of duplicating this literal "paged" 10 times.(–ÂŠüÿÿÿÿ
+^	php:S1192g"IDefine a constant instead of duplicating this literal "pagename" 4 times.(«Ò¨ş
+f	php:S1192C"LDefine a constant instead of duplicating this literal "REQUEST_URI" 3 times.(ÑÉ›´ûÿÿÿÿ
+e	php:S1192‹"JDefine a constant instead of duplicating this literal "monthnum" 14 times.(ŒÍ¦—úÿÿÿÿ
+e	php:S1142´"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ù‹
+b	php:S1192é"GDefine a constant instead of duplicating this literal "author" 4 times.(ÏÏ¶›şÿÿÿÿ
+]	php:S1192†"GDefine a constant instead of duplicating this literal "scheme" 3 times.(úüï 
+I	php:S10664"/Merge this if statement with the enclosing one.(ãé¢ïùÿÿÿÿ
+o	php:S3776*"URefactor this function to reduce its Cognitive Complexity from 365 to the 15 allowed.(ú–ù½ûÿÿÿÿ
+1	php:S3626ì"Remove this redundant jump.(ûÁİ…
+œphp:S138*"‚This function "redirect_canonical" has 454 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ú–ù½ûÿÿÿÿ
+Lphp:S131Ë"7Add a "case default" clause to this "switch" statement.(Şº¶Ë
+d	php:S1192ì"IDefine a constant instead of duplicating this literal "relative" 8 times.(á¾Éÿıÿÿÿÿ
+i	php:S1142*"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ú–ù½ûÿÿÿÿ
+9php:S125ë"Remove this commented out code.(¬Ù‘…üÿÿÿÿ
+\	php:S1192R"GDefine a constant instead of duplicating this literal "query" 82 times.(–€İı

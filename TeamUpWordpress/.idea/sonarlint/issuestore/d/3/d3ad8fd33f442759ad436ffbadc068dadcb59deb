@@ -1,0 +1,17 @@
+
+i	php:S1192Š"SDefine a constant instead of duplicating this literal "um_user_tags_admin" 3 times.(œ ûÙ
+{	php:S1488J"aImmediately return this expression instead of assigning it to the temporary variable "$defaults".(³¸•²úÿÿÿÿ
+l	php:S1192i"WDefine a constant instead of duplicating this literal "um_user_tags_shortcode" 3 times.(¨ÌÎş
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+J	php:S1066º"/Merge this if statement with the enclosing one.(Úùüöûÿÿÿÿ
+b	php:S1192U"MDefine a constant instead of duplicating this literal "um_user_tag" 14 times.(Éü‹Ş
+h	php:S1192^"SDefine a constant instead of duplicating this literal "um_user_tags_setup" 3 times.(î×Ö¤
+c	php:S1192ş"HDefine a constant instead of duplicating this literal "default" 5 times.(ñ†Øéûÿÿÿÿ
+j	php:S1142¨"OReduce the number of returns of this function 4, down to the maximum allowed 3.(§¥û‡üÿÿÿÿ
+q	php:S1192•"[Define a constant instead of duplicating this literal "um_user_tags_admin_upgrade" 3 times.(Í±Œ
+x	php:S1192t"^Define a constant instead of duplicating this literal "um_user_tags_member_directory" 3 times.(¸–¬¡ùÿÿÿÿ
+s	php:S1192 "XDefine a constant instead of duplicating this literal "um_user_tags_taxonomies" 3 times.(Æ¢ãõùÿÿÿÿ
+j	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ø€Õô
+iphp:S101"PRename class "UM_User_Tags" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»×ßûÿÿÿÿ
+o	php:S1192"UDefine a constant instead of duplicating this literal "um_user_tags_enqueue" 3 times.(æ¸ş†ùÿÿÿÿ
+c	php:S1192ş"HDefine a constant instead of duplicating this literal "current" 6 times.(ñ†Øéûÿÿÿÿ

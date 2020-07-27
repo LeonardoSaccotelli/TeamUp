@@ -1,0 +1,9 @@
+
+8php:S125:"Remove this commented out code.(¼ÅÇ·ùÿÿÿÿ
+n	php:S3776q"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÖÿÅ÷ûÿÿÿÿ
+3php:S125Ì"Remove this commented out code.(«Åé
+|php:S101
+"hRename class "ParagonIE_Sodium_Core_Poly1305_State" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Øæ‰¨
+0	php:S3626"Remove this redundant jump.(ûÁÝ…
+9php:S125ü"Remove this commented out code.( ¦‡”øÿÿÿÿ
+4php:S125Ó"Remove this commented out code.(‘í¸æ

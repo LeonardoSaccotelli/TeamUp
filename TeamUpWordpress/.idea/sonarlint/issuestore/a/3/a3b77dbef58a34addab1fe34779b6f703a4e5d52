@@ -1,0 +1,33 @@
+
+h	php:S1192“	"MDefine a constant instead of duplicating this literal "show_in_rest" 4 times.(óë½ùÿÿÿÿ
+j	php:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(®Ş
+J	php:S1066Ò"/Merge this if statement with the enclosing one.(‹ ùÛüÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 8, down to the maximum allowed 3.(õşêå
+j	php:S1142´"OReduce the number of returns of this function 5, down to the maximum allowed 3.(’²Ğ²ÿÿÿÿÿ
+e	php:S1142ú"OReduce the number of returns of this function 5, down to the maximum allowed 3.(®Ş
+_	php:S1192°"IDefine a constant instead of duplicating this literal "umeta_id" 6 times.(ñî¨
+e	php:S1192	"ODefine a constant instead of duplicating this literal "object_subtype" 4 times.(‡±ßº
+i	php:S3776é"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(­ãÄW
+x	php:S1488á
+"]Immediately return this expression instead of assigning it to the temporary variable "$data".(£²¤İüÿÿÿÿ
+j	php:S1142Ë"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ã‘‚İüÿÿÿÿ
+`	php:S1192l"KDefine a constant instead of duplicating this literal "meta_value" 5 times.(Ë’ˆÍ
+d	php:S1142"OReduce the number of returns of this function 7, down to the maximum allowed 3.(£æ˜©
+m	php:S1192‘	"RDefine a constant instead of duplicating this literal "sanitize_callback" 9 times.(¥ªÊŞıÿÿÿÿ
+e	php:S1142Ò
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¢ÃäÚ
+Z	php:S1192v"FDefine a constant instead of duplicating this literal "_meta" 9 times.(à‚¹
+^	php:S1192k"IDefine a constant instead of duplicating this literal "meta_key" 4 times.(ß•° 
+j	php:S1192’	"ODefine a constant instead of duplicating this literal "auth_callback" 12 times.(¡ş–ÿÿÿÿÿ
+i	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(™Áıi
+Lphp:S131’"7Add a "case default" clause to this "switch" statement.(°˜ŒÁ
+o	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ã‘‚İüÿÿÿÿ
+^	php:S1192°"HDefine a constant instead of duplicating this literal "meta_id" 6 times.(ñî¨
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(õşêå
+j	php:S3776…	"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.( ÓçÃ
+d	php:S1142œ"OReduce the number of returns of this function 8, down to the maximum allowed 3.(™Áıi
+E	php:S1066¹	"/Merge this if statement with the enclosing one.(Í˜ºó
+e	php:S1142"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¦³‹·
+d	php:S1142é"OReduce the number of returns of this function 9, down to the maximum allowed 3.(­ãÄW
+c	php:S1192À"HDefine a constant instead of duplicating this literal "comment" 4 times.(´ÌÑ†ûÿÿÿÿ
+j	php:S1142Ş"OReduce the number of returns of this function 6, down to the maximum allowed 3.(„¦€õûÿÿÿÿ

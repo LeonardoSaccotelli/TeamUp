@@ -1,0 +1,53 @@
+
+@	php:S1481¹"*Remove this unused "$junk" local variable.(öùÌå
+Ephp:S121ã"0Add curly braces around the nested statement(s).(ÔÍØ
+Ephp:S121í"0Add curly braces around the nested statement(s).(¿§Ýº
+e	php:S1192ˆ"JDefine a constant instead of duplicating this literal "/^\.\r\n/" 3 times.(Å®¦Àúÿÿÿÿ
+b	php:S1192‘"LDefine a constant instead of duplicating this literal "POP3 pass: " 3 times.(ž÷¬é
+e	php:S1142Ñ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(È®ê‘
+w	php:S1488ð"aImmediately return this expression instead of assigning it to the temporary variable "$stripped".(Œ¥°¹
+C	php:S1481š"(Remove this unused "$ok" local variable.(ÍŒü›øÿÿÿÿ
+-	php:S2010¹"Replace "or" with "||".(‹æî„
+j	php:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(½÷×à
+Ephp:S121‡"0Add curly braces around the nested statement(s).(ÔÍØ
+d	php:S1142Q"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¹¸á
+Cphp:S121m"0Add curly braces around the nested statement(s).(Â¨Þ	
+f	php:S1192}"LDefine a constant instead of duplicating this literal "POP3 user: " 3 times.(œÆãëúÿÿÿÿ
+?	php:S1481¹")Remove this unused "$num" local variable.(öùÌå
+i	php:S1192Ì"NDefine a constant instead of duplicating this literal "POP3 delete: " 3 times.(€‡¯Úþÿÿÿÿ
+e	php:S1142¥"OReduce the number of returns of this function 7, down to the maximum allowed 3.(èÑ¼‡
+d	php:S1192\"ODefine a constant instead of duplicating this literal "POP3 connect: " 3 times.(þÛ–Ö
+t	php:S1192¬"YDefine a constant instead of duplicating this literal "No connection to server" 10 times.(ú½¸Èúÿÿÿÿ
+|	php:S1603G"gReplace this function name "POP3", since a "__construct" method has already been defined in this class.(‹ÖÝ”
+4php:S125†"Remove this commented out code.(Å­«î
+j	php:S1142Æ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(»Å€žúÿÿÿÿ
+u	php:S1488»"_Immediately return this expression instead of assigning it to the temporary variable "$retVal".(¦Õ¢ÿ
+\	php:S1192ž"FDefine a constant instead of duplicating this literal "count" 4 times.(É±Õ“
+u	php:S1488¯"_Immediately return this expression instead of assigning it to the temporary variable "$retVal".(¦Õ¢ÿ
+\	php:S1192¹"FDefine a constant instead of duplicating this literal "/\s+/" 5 times.(öùÌå
+s	php:S1488¹"]Immediately return this expression instead of assigning it to the temporary variable "$size".(öùÌå
+Jphp:S121æ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Iphp:S121>"0Add curly braces around the nested statement(s).(‡þºùÿÿÿÿ
+Iphp:S1218"0Add curly braces around the nested statement(s).(¨å¼Ãþÿÿÿÿ
+j	php:S1142Œ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ŽúÜ¿ûÿÿÿÿ
+Jphp:S121ä"0Add curly braces around the nested statement(s).(êÄó‡üÿÿÿÿ
+2	php:S2010ü"Replace "or" with "||".(°êÂûûÿÿÿÿ
+b	php:S11923"HDefine a constant instead of duplicating this literal "integer" 5 times.(§ÒŽƒþÿÿÿÿ
+e	php:S1142ƒ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(½÷×à
+i	php:S1142y"OReduce the number of returns of this function 4, down to the maximum allowed 3.(„Ëë°þÿÿÿÿ
+Dphp:S121X"0Add curly braces around the nested statement(s).(û·÷ž
+]	php:S1192d"HDefine a constant instead of duplicating this literal "Error " 11 times.(Óˆ×‹
+D	php:S1481š")Remove this unused "$num" local variable.(ÍŒü›øÿÿÿÿ
+2	php:S2010Ÿ"Replace "or" with "||".(Úâßùýÿÿÿÿ
+j	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µ§˜÷
+e	php:S1142„"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ö’ûš
+g	php:S1192¬"LDefine a constant instead of duplicating this literal "POP3 apop: " 5 times.(ú½¸Èúÿÿÿÿ
+I	php:S10668"/Merge this if statement with the enclosing one.(¨å¼Ãþÿÿÿÿ
+Iphp:S121L"0Add curly braces around the nested statement(s).(‡þºùÿÿÿÿ
+>	php:S1481Ú"(Remove this unused "$fp" local variable.(•ñÆÖ
+u	php:S1448"`Class "POP3" has 21 methods, which is greater than 20 authorized. Split it into smaller classes.(í¼¨¶
+u	php:S1488Å"_Immediately return this expression instead of assigning it to the temporary variable "$retVal".(¦Õ¢ÿ
+z	php:S1488š"_Immediately return this expression instead of assigning it to the temporary variable "$myUidl".(ÍŒü›øÿÿÿÿ
+f	php:S1192š"PDefine a constant instead of duplicating this literal "POP3 pop_list: " 4 times.(ÜÝÆÒ
+e	php:S1142“"OReduce the number of returns of this function 8, down to the maximum allowed 3.(µ§˜÷
+b	php:S1192‹"LDefine a constant instead of duplicating this literal "POP3 uidl: " 3 times.(±µŠì

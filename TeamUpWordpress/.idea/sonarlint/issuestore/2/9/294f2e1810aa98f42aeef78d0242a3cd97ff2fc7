@@ -1,0 +1,45 @@
+
+^	php:S1192ó"HDefine a constant instead of duplicating this literal "default" 6 times.(ô‹…
+C	php:S1172ı"-Remove the unused function parameter "$item".(¬‰ä
+m	php:S1192õ"RDefine a constant instead of duplicating this literal "validate_callback" 5 times.(íşïúÿÿÿÿ
+e	php:S1117"JRename "$schema" which has the same name as the field declared at line 39.(³É®”ÿÿÿÿÿ
+_	php:S1192¦"IDefine a constant instead of duplicating this literal "required" 3 times.(ñÏ¬á
+b	php:S1192…"GDefine a constant instead of duplicating this literal "schema" 3 times.(ûŒ‚êıÿÿÿÿ
+e	php:S1117Ç"JRename "$schema" which has the same name as the field declared at line 39.(³É®”ÿÿÿÿÿ
+e	php:S1117Û"JRename "$schema" which has the same name as the field declared at line 39.(³É®”ÿÿÿÿÿ
+e	php:S1117³"JRename "$schema" which has the same name as the field declared at line 39.(³É®”ÿÿÿÿÿ
+u	php:S1192õ"ZDefine a constant instead of duplicating this literal "rest_validate_request_arg" 5 times.(íşïúÿÿÿÿ
+F	php:S1172–"0Remove the unused function parameter "$request".(÷‹Éá
+e	php:S1117œ"JRename "$schema" which has the same name as the field declared at line 39.(³É®”ÿÿÿÿÿ
+j	php:S1192C"PDefine a constant instead of duplicating this literal "invalid-method" 12 times.(ìÅ®šÿÿÿÿÿ
+E	php:S1172A"0Remove the unused function parameter "$request".(ã¿õİ
+_	php:S1192¬"IDefine a constant instead of duplicating this literal "context" 10 times.(‘ùª
+b	php:S1192ß"LDefine a constant instead of duplicating this literal "arg_options" 5 times.(—âø¦
+h	php:S1192ô"RDefine a constant instead of duplicating this literal "sanitize_callback" 5 times.(§Ó®
+F	php:S1172ı"0Remove the unused function parameter "$request".(¬‰ä
+J	php:S1172R"0Remove the unused function parameter "$request".(‰î×Ïûÿÿÿÿ
+jphp:S101"VRename class "WP_REST_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.( Çî†
+K	php:S1172ë"0Remove the unused function parameter "$request".(ÏÎ¨äúÿÿÿÿ
+M	php:S1155ä"7Use empty() to check whether the array is empty or not.(Çà‚Ä
+j	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÛùÒó
+e	php:S1117©"JRename "$schema" which has the same name as the field declared at line 39.(³É®”ÿÿÿÿÿ
+E	php:S1172c"0Remove the unused function parameter "$request".(ÜÍåğ
+]	php:S1192F"HDefine a constant instead of duplicating this literal "status" 12 times.(Öİ•Ú
+J	php:S1135Ğ"4Complete the task associated to this "TODO" comment.(í³ñ÷
+F	php:S1172…"0Remove the unused function parameter "$request".(É“á‚
+K	php:S1172É"0Remove the unused function parameter "$request".(ˆÁçıøÿÿÿÿ
+€	php:S4144c"kUpdate this method so that its implementation is not identical to "get_items_permissions_check" on line 65.(ÜÍåğ
+b	php:S1192¬"LDefine a constant instead of duplicating this literal "properties" 18 times.(‘ùª
+˜	php:S1192E"~Define a constant instead of duplicating this literal "Method '%s' not implemented. Must be overridden in subclass." 12 times.(’†­šşÿÿÿÿ
+E	php:S1172t"0Remove the unused function parameter "$request".(«ç©á
+ƒ	php:S1448"nClass "WP_REST_Controller" has 27 methods, which is greater than 20 authorized. Split it into smaller classes.( Çî†
+F	php:S1172Ú"0Remove the unused function parameter "$request".(®Š»Ü
+a	php:S1192û"FDefine a constant instead of duplicating this literal "title" 4 times.(ÄÕØ©ùÿÿÿÿ
+j	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(‚¦¿Ÿ
+K	php:S1172§"0Remove the unused function parameter "$request".(Äó³ÿÿÿÿÿ
+j	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÈÀ·à
+…	php:S4144R"kUpdate this method so that its implementation is not identical to "get_items_permissions_check" on line 65.(‰î×Ïûÿÿÿÿ
+F	php:S1172¸"0Remove the unused function parameter "$request".(¼òôò
+€	php:S4144t"kUpdate this method so that its implementation is not identical to "get_items_permissions_check" on line 65.(«ç©á
+J	php:S1066¼"/Merge this if statement with the enclosing one.(½œ‹‘şÿÿÿÿ
+g	php:S1192ñ"LDefine a constant instead of duplicating this literal "description" 7 times.(•Ÿ´œúÿÿÿÿ

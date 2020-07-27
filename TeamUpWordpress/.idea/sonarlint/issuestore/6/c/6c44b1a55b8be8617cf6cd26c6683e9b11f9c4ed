@@ -1,0 +1,20 @@
+
+\	php:S1192)"GDefine a constant instead of duplicating this literal "roles" 27 times.(Ñ‚ô§
+f	php:S1192"LDefine a constant instead of duplicating this literal "description" 3 times.(»½ïûÿÿÿÿ
+b	php:S1192."MDefine a constant instead of duplicating this literal "before_title" 3 times.(ÈÜõ
+m	php:S1192^"YDefine a constant instead of duplicating this literal "Limit to community role:" 3 times.(Â„%
+h	php:S1192,"NDefine a constant instead of duplicating this literal "before_widget" 3 times.(Æ”¶´ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+b	php:S1192'"MDefine a constant instead of duplicating this literal "widget_title" 3 times.(çÍ‘
+f	php:S1192"LDefine a constant instead of duplicating this literal "um-reviews" 12 times.(ö»”İúÿÿÿÿ
+b	php:S11924"MDefine a constant instead of duplicating this literal "after_widget" 3 times.(³È³ó
+ophp:S101"[Rename class "um_reviews_lowest_rated" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ëó
+a	php:S1192T"GDefine a constant instead of duplicating this literal "Title:" 3 times.(ãı…âüÿÿÿÿ
+\	php:S1192'"GDefine a constant instead of duplicating this literal "title" 27 times.(çÍ‘
+_	php:S1192`"JDefine a constant instead of duplicating this literal "All roles" 3 times.(—ÛÂå
+k	php:S1192Y"QDefine a constant instead of duplicating this literal "Number of users:" 3 times.(®êåÜıÿÿÿÿ
+`	php:S1192("KDefine a constant instead of duplicating this literal "num_users" 27 times.(Í–´ó
+nphp:S101"YRename class "um_reviews_most_rated" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£¿¼ş
+^	php:S1192`"IDefine a constant instead of duplicating this literal "selected" 6 times.(—ÛÂå
+a	php:S1192."LDefine a constant instead of duplicating this literal "after_title" 3 times.(ÈÜõ
+rphp:S101ù"XRename class "um_reviews_top_rated" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æê¡Ûûÿÿÿÿ

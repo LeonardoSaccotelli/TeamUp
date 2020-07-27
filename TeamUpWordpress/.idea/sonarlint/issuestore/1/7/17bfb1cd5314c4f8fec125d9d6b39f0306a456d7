@@ -1,0 +1,7 @@
+
+]	php:S11928"HDefine a constant instead of duplicating this literal "sortby" 13 times.(Ì£ÇÙ
+gphp:S101"SRename class "WP_Widget_Pages" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ñ™½½
+`	php:S1192r"KDefine a constant instead of duplicating this literal "post_title" 3 times.(ÔÖÑØ
+`	php:S11928"KDefine a constant instead of duplicating this literal "menu_order" 5 times.(Ì£ÇÙ
+`	php:S1192+"FDefine a constant instead of duplicating this literal "title" 9 times.(­ÐÅ„ÿÿÿÿÿ
+^	php:S11929"IDefine a constant instead of duplicating this literal "exclude" 10 times.(íˆ€½

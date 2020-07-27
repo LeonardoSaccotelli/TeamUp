@@ -1,0 +1,12 @@
+
+\	php:S1192€"FDefine a constant instead of duplicating this literal "_skin" 5 times.(È·ÊŠ
+f	php:S1192ÿ"KDefine a constant instead of duplicating this literal "widgetType" 3 times.(¤İ¾¡ÿÿÿÿÿ
+Zphp:S112r"FDefine and throw a dedicated exception instead of using a generic one.(ø†ê°
+a	php:S1192™"FDefine a constant instead of duplicating this literal "class" 3 times.(¸Í”ıÿÿÿÿ
+\	php:S1192‚"FDefine a constant instead of duplicating this literal "label" 3 times.(€äÌÛ
+hphp:S101"ORename class "Widget_Base" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¨½¡œøÿÿÿÿ
+	php:S1448"gClass "Widget_Base" has 36 methods, which is greater than 20 authorized. Split it into smaller classes.(¨½¡œøÿÿÿÿ
+d	php:S1192™"IDefine a constant instead of duplicating this literal "_wrapper" 3 times.(¸Í”ıÿÿÿÿ
+c	php:S1192„"HDefine a constant instead of duplicating this literal "default" 3 times.(óğñÂşÿÿÿÿ
+`	php:S1192ó"JDefine a constant instead of duplicating this literal "elementor" 4 times.(í…•Š
+d	php:S1192œ"IDefine a constant instead of duplicating this literal "controls" 5 times.(–áÛ¹şÿÿÿÿ

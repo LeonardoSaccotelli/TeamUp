@@ -1,0 +1,185 @@
+
+c	php:S1192õ"NDefine a constant instead of duplicating this literal "modeextension" 5 times.(Ãòµ!
+q	php:S1192„"VDefine a constant instead of duplicating this literal "abrbitrate_minbitrate" 6 times.(¥Ğ½±úÿÿÿÿ
+f	php:S1192"KDefine a constant instead of duplicating this literal "RGAD_album" 6 times.(˜öŒÇüÿÿÿÿ
+[	php:S1192G"FDefine a constant instead of duplicating this literal "codec" 5 times.(ƒ”´³
+4php:S125ï"Remove this commented out code.(æºÏ±
+g	php:S1192„"LDefine a constant instead of duplicating this literal "vbr_method" 17 times.(¥Ğ½±úÿÿÿÿ
+f	php:S1142õ"PReduce the number of returns of this function 10, down to the maximum allowed 3.(ÌµàÅ
+a	php:S1192”"KDefine a constant instead of duplicating this literal "xing_flags" 8 times.(·õâÑ
+k	php:S1192Å"PDefine a constant instead of duplicating this literal "preset_used_id" 10 times.(ãçŸÿÿÿÿÿ
+j	php:S3776°"URefactor this function to reduce its Cognitive Complexity from 224 to the 15 allowed.(÷ó_
+n	php:S1192„"SDefine a constant instead of duplicating this literal "lowpass_frequency" 10 times.(¥Ğ½±úÿÿÿÿ
+e	php:S1192ñ	"JDefine a constant instead of duplicating this literal "frequency" 5 times.(‹¿àôøÿÿÿÿ
+b	php:S1192É"LDefine a constant instead of duplicating this literal "vbr_quality" 8 times.(üê¾Ö
+a	php:S1192Á"KDefine a constant instead of duplicating this literal "VBR_method" 5 times.(›¤ëñ
+k	php:S1192×"VDefine a constant instead of duplicating this literal "--alt-preset standard" 3 times.(¦üŒ3
+4php:S125 "Remove this commented out code.(™›ü‹
+I	php:S1066v"/Merge this if statement with the enclosing one.(‚€Öúÿÿÿÿ
+C	php:S2041¤"-Remove the parentheses from this "echo" call.(€Ó¾ª
+4php:S125"Remove this commented out code.(¡Õ±š
+4php:S125¿"Remove this commented out code.(… ‹Ã
+a	php:S1192Á"KDefine a constant instead of duplicating this literal "Fraunhofer" 3 times.(›¤ëñ
+3php:S125õ"Remove this commented out code.(óî¿c
+_	php:S1192Â"IDefine a constant instead of duplicating this literal "portable" 3 times.(ãÇ¬ë
+f	php:S1192Ù"PDefine a constant instead of duplicating this literal "VBR_entry_bytes" 3 times.(¥µ¶™
+4php:S125¦"Remove this commented out code.(ÔÍƒñ
+a	php:S1192á"FDefine a constant instead of duplicating this literal "album" 6 times.(×Ò˜áùÿÿÿÿ
+Qphp:S131º"7Add a "case default" clause to this "switch" statement.(©¯Âšÿÿÿÿÿ
+c	php:S1301Î"MReplace this "switch" statement with "if" statements to increase readability.(­şŞ™
+^	php:S1192Ş"HDefine a constant instead of duplicating this literal "warning" 4 times.(²¶«‚
+9php:S125³"Remove this commented out code.(×÷†€ûÿÿÿÿ
+Qphp:S131î"7Add a "case default" clause to this "switch" statement.(Û—£şÿÿÿÿ
+d	php:S1192é"NDefine a constant instead of duplicating this literal "--preset hifi" 3 times.(ëœÖ®
+H	php:S2041¨"-Remove the parentheses from this "echo" call.(³¤×äüÿÿÿÿ
+e	php:S1192ö"JDefine a constant instead of duplicating this literal "copyright" 3 times.(à§Æçıÿÿÿÿ
+b	php:S1192×"LDefine a constant instead of duplicating this literal "VBR_bitrate" 4 times.(şæ‹²
+_	php:S1192ñ"IDefine a constant instead of duplicating this literal "channels" 7 times.(¢Æ›Â
+h	php:S11927"NDefine a constant instead of duplicating this literal "headerlength" 10 times.(¹Ÿ…˜şÿÿÿÿ
+`	php:S1192"KDefine a constant instead of duplicating this literal "RGAD_track" 6 times.(ôò—`
+H	php:S2041°"-Remove the parentheses from this "echo" call.(¢í—±üÿÿÿÿ
+b	php:S1192 "LDefine a constant instead of duplicating this literal "bitrate_abr" 3 times.(¼œØ
+f	php:S1192á"PDefine a constant instead of duplicating this literal "--preset studio" 4 times.(ñ¨…í
+Kphp:S131”"7Add a "case default" clause to this "switch" statement.(«Â¿ 
+d	php:S1192ø"IDefine a constant instead of duplicating this literal "emphasis" 5 times.(¹ÕÑ©øÿÿÿÿ
+9php:S125º"Remove this commented out code.(¢‚úèøÿÿÿÿ
+`	php:S1854ı"ERemove this useless assignment to local variable '$synchstartoffset'.(Æˆ’‡øÿÿÿÿ
+4php:S125±"Remove this commented out code.(…ñû
+e	php:S1192j"KDefine a constant instead of duplicating this literal "avdataend" 30 times.(ùŸ±şøÿÿÿÿ
+^	php:S3358`"DExtract this nested ternary operation into an independent statement.(”‹Ã§ÿÿÿÿÿ
+a	php:S1192á"FDefine a constant instead of duplicating this literal "track" 6 times.(×Ò˜áùÿÿÿÿ
+d	php:S1192’"ODefine a constant instead of duplicating this literal "xing_flags_raw" 5 times.(Ñàû`
+4php:S125´"Remove this commented out code.(èì²…
+php:S138²"ƒThis function "GuessEncoderOptions" has 204 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÜŒÀ‘ûÿÿÿÿ
+_	php:S1192í"IDefine a constant instead of duplicating this literal "version" 22 times.(×ß©
+;	php:S11107"!Remove these useless parentheses.(¹Ÿ…˜şÿÿÿÿ
+H	php:S1481Î"2Remove this unused "$SideInfoData" local variable.(¢õÀ‰
+b	php:S1192¡"MDefine a constant instead of duplicating this literal "dual channel" 6 times.(ŒØ€
+h	php:S1192)"NDefine a constant instead of duplicating this literal "avdataoffset" 39 times.(Œ Ùÿÿÿÿÿ
+o	php:S3776	"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(²Äƒ°ùÿÿÿÿ
+p	php:S1192Ë
+"UDefine a constant instead of duplicating this literal "bitrate_distribution" 9 times.(µ–¸ùÿÿÿÿ
+i	php:S3776&"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(¾‡óÁ
+e	php:S1192ÿ"ODefine a constant instead of duplicating this literal "--preset phone" 3 times.(ËÎëµ
+]	php:S11923"HDefine a constant instead of duplicating this literal "audio" 172 times.(ãª·ş
+4php:S125Œ"Remove this commented out code.(ß·Òâ
+j	php:S1192í"ODefine a constant instead of duplicating this literal "--preset radio" 3 times.(‚Ãçİÿÿÿÿÿ
+u	php:S1192Õ"ZDefine a constant instead of duplicating this literal "--alt-preset fast extreme" 3 times.(¢¾¨Èúÿÿÿÿ
+h	php:S1192 "MDefine a constant instead of duplicating this literal "joint stereo" 7 times.(‚Õ£Şÿÿÿÿÿ
+4php:S125Æ"Remove this commented out code.(ß·Òâ
+9php:S125·"Remove this commented out code.(¿ö¡üÿÿÿÿ
+j	php:S3776à	"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(š›¤ğ
+J	php:S1066å"/Merge this if statement with the enclosing one.(ê§ß½ûÿÿÿÿ
+i	php:S1192è"SDefine a constant instead of duplicating this literal "source_sample_freq" 7 times.(´à¨¹
+b	php:S1192Á"LDefine a constant instead of duplicating this literal "VBR_quality" 3 times.(›¤ëñ
+j	php:S1192Ø"ODefine a constant instead of duplicating this literal "VBR_seek_scale" 3 times.(¨¶¥Äıÿÿÿÿ
+c	php:S1192š"HDefine a constant instead of duplicating this literal "gain_db" 4 times.(›Ëö²şÿÿÿÿ
+d	php:S1192–"IDefine a constant instead of duplicating this literal "sign_bit" 4 times.(ŠÊŠˆşÿÿÿÿ
+f	php:S1192¥"KDefine a constant instead of duplicating this literal "VBR_frames" 9 times.(×ëí“ùÿÿÿÿ
+S	php:S1481ü	"8Remove this unused "$previousvalidframe" local variable.(ß …»şÿÿÿÿ
+g	php:S1192„"LDefine a constant instead of duplicating this literal "stereo_mode" 7 times.(¥Ğ½±úÿÿÿÿ
+g	php:S1192ò"LDefine a constant instead of duplicating this literal "audio_bytes" 3 times.(öÈşøÿÿÿÿ
+d	php:S1142°"OReduce the number of returns of this function 7, down to the maximum allowed 3.(÷ó_
+e	php:S1142ù
+"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ƒ‹ ñ
+9php:S125Î"Remove this commented out code.(ª½é…ùÿÿÿÿ
+g	php:S1192"LDefine a constant instead of duplicating this literal "replay_gain" 6 times.(€¬ªÿÿÿÿÿ
+\	php:S1192H"GDefine a constant instead of duplicating this literal "LAME3." 3 times.(ƒÇó¹
+a	php:S1192ó"KDefine a constant instead of duplicating this literal "protection" 4 times.(Ú…ğÖ
+R	php:S1481ˆ"7Remove this unused "$this_scan_segment" local variable.(ôÑş‚ıÿÿÿÿ
+H	php:S2041˜"-Remove the parentheses from this "echo" call.(”­—Ôÿÿÿÿÿ
+\	php:S1192Ş"FDefine a constant instead of duplicating this literal "error" 4 times.(²¶«‚
+4php:S125ÿ"Remove this commented out code.(£¥Šş
+j	php:S1192‚"ODefine a constant instead of duplicating this literal "peak_amplitude" 9 times.(‚é¼úÿÿÿÿ
+4php:S125ò"Remove this commented out code.(ß·Òâ
+e	php:S1192Ü"JDefine a constant instead of duplicating this literal "--preset " 4 times.(…ªª›ùÿÿÿÿ
+c	php:S1192ô"HDefine a constant instead of duplicating this literal "private" 3 times.(Ë“ˆšùÿÿÿÿ
+4php:S125ì"Remove this commented out code.(ÛÇõ
+3php:S125ú"Remove this commented out code.(óî¿c
+b	php:S1192D"MDefine a constant instead of duplicating this literal "framelength" 18 times.(šÜßÃ
+9php:S125†"Remove this commented out code.(ì¦çıÿÿÿÿ
+q	php:S1192ú"[Define a constant instead of duplicating this literal "--preset phon+/lw/mw-eu/sw" 5 times.(‹£ÚÚ
+b	php:S1192Y"MDefine a constant instead of duplicating this literal "long_version" 5 times.(Èš«
+€	php:S1448"fClass "getid3_mp3" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(ÒóöÄÿÿÿÿÿ
+b	php:S1192å"LDefine a constant instead of duplicating this literal "--preset cd" 4 times.(Õüÿß
+j	php:S1192ñ"ODefine a constant instead of duplicating this literal "--preset voice" 3 times.(Öê••ÿÿÿÿÿ
+S	php:S1481ê	"=Remove this unused "$MPEGaudioEmphasisLookup" local variable.(¯„Ì
+N	php:S1481á"3Remove this unused "$bitrate_value" local variable.(˜íî¶üÿÿÿÿ
+J	php:S1066ì"/Merge this if statement with the enclosing one.(¯ı¿äıÿÿÿÿ
+4php:S125«"Remove this commented out code.(æÊ¡
+b	php:S1192á
+"LDefine a constant instead of duplicating this literal "frame_count" 4 times.(‰İõÒ
+h	php:S1192ğ"MDefine a constant instead of duplicating this literal "channelmode" 13 times.(—Â„Èøÿÿÿÿ
+4php:S125¡"Remove this commented out code.(á”Ï¸
+j	php:S1142Ü"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ÿ¸óúÿÿÿÿ
+b	php:S1192Ÿ"GDefine a constant instead of duplicating this literal "stereo" 7 times.(ïØßÿüÿÿÿÿ
+C	php:S2041¬"-Remove the parentheses from this "echo" call.(¿¼¬
+C	php:S2041"-Remove the parentheses from this "echo" call.(Ã™ë 
+b	php:S1192­"LDefine a constant instead of duplicating this literal "bitrate_min" 3 times.(¤¾®è
+o	php:S1192Ï"TDefine a constant instead of duplicating this literal "--alt-preset insane" 4 times.(İ™Æÿÿÿÿÿ
+V	php:S1481è	"@Remove this unused "$MPEGaudioChannelModeLookup" local variable.(Ù¥‹Ÿ
+o	php:S1192Ö"TDefine a constant instead of duplicating this literal "not_optimal_quality" 3 times.(ªµÛ—ÿÿÿÿÿ
+e	php:S1192ô"ODefine a constant instead of duplicating this literal "--preset mw-us" 6 times.(•ëñÎ
+e	php:S1192±"ODefine a constant instead of duplicating this literal "encoding_flags" 6 times.(ãô
+4php:S125Š"Remove this commented out code.(ÊÁŠ
+4php:S125Ã"Remove this commented out code.(æ§™â
+c	php:S1192Ü"MDefine a constant instead of duplicating this literal "sample_rate" 28 times.(ù¿øÜ
+_	php:S1192¢"IDefine a constant instead of duplicating this literal "bitrate" 65 times.(ÁìŞŒ
+^	php:S1192Û"HDefine a constant instead of duplicating this literal "--r3mix" 8 times.(Ÿß„´
+Lphp:S131‚"7Add a "case default" clause to this "switch" statement.(‰ÙñÎ
+o	php:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÿ¸óúÿÿÿÿ
+c	php:S1192Z"IDefine a constant instead of duplicating this literal "encoder" 11 times.(İò©Şÿÿÿÿÿ
+gphp:S101"NRename class "getid3_mp3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÒóöÄÿÿÿÿÿ
+c	php:S1192["NDefine a constant instead of duplicating this literal "short_version" 8 times.(Óí”Í
+9php:S125­"Remove this commented out code.(À–×Şøÿÿÿÿ
+Qphp:S131Æ"7Add a "case default" clause to this "switch" statement.(»­¨úÿÿÿÿ
+o	php:S3776²"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÜŒÀ‘ûÿÿÿÿ
+D	php:S1066,"/Merge this if statement with the enclosing one.(‡çÖú
+]	php:S1192Ã"GDefine a constant instead of duplicating this literal "medium" 3 times.(ß©Ê˜
+j	php:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÌµàÅ
+4php:S125Ê"Remove this commented out code.(ŞÎÂÚ
+J	php:S1066–"/Merge this if statement with the enclosing one.(‘ãæøûÿÿÿÿ
+šphp:S138ù
+"„This function "getOnlyMPEGaudioInfo" has 237 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ƒ‹ ñ
+4php:S125¸"Remove this commented out code.(¡Õ±š
+L	php:S1155Ö	"7Use empty() to check whether the array is empty or not.(Ã¤…-
+4php:S125³"Remove this commented out code.(Ù‹”ä
+a	php:S1192…"KDefine a constant instead of duplicating this literal "dataformat" 9 times.(»ÿ¥„
+p	php:S1192Ò"UDefine a constant instead of duplicating this literal "--alt-preset extreme" 4 times.(†ÿŸƒûÿÿÿÿ
+j	php:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ĞåÂ
+šphp:S138°"…This function "decodeMPEGaudioHeader" has 368 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(÷ó_
+d	php:S1192÷"IDefine a constant instead of duplicating this literal "original" 3 times.(øïôşøÿÿÿÿ
+9php:S125"Remove this commented out code.(ì¦çıÿÿÿÿ
+g	php:S1192•"LDefine a constant instead of duplicating this literal "originator" 10 times.(Åíıÿÿÿÿ
+e	php:S1192Õ"JDefine a constant instead of duplicating this literal "VBR_bytes" 8 times.(ŒÚı¼úÿÿÿÿ
+E	php:S1066Ğ"/Merge this if statement with the enclosing one.(Ó€ƒí
+]	php:S1192‚"GDefine a constant instead of duplicating this literal "layer" 28 times.(‰ÙñÎ
+v	php:S1192Ù"[Define a constant instead of duplicating this literal "--alt-preset fast standard" 3 times.(òÛíùÿÿÿÿ
+Kphp:S131m"7Add a "case default" clause to this "switch" statement.(·ÜÛ†
+g	php:S1192—"LDefine a constant instead of duplicating this literal "gain_adjust" 4 times.(æ¹Çïÿÿÿÿÿ
+a	php:S1192Ü"FDefine a constant instead of duplicating this literal "fast " 4 times.(…ªª›ùÿÿÿÿ
+h	php:S1192€"MDefine a constant instead of duplicating this literal " --resample " 3 times.(…š¥õüÿÿÿÿ
+9php:S125‚"Remove this commented out code.(Íæ¼‰ÿÿÿÿÿ
+Lphp:S131Î"7Add a "case default" clause to this "switch" statement.(­şŞ™
+d	php:S1192å"NDefine a constant instead of duplicating this literal "surround_info" 3 times.(÷š»
+i	php:S1192„"NDefine a constant instead of duplicating this literal "noise_shaping" 7 times.(¥Ğ½±úÿÿÿÿ
+H	php:S2041”"-Remove the parentheses from this "echo" call.(…“‹Àúÿÿÿÿ
+X	php:S1481é	"BRemove this unused "$MPEGaudioModeExtensionLookup" local variable.(•Ó•Ş
+^	php:S1192Å"HDefine a constant instead of duplicating this literal "extreme" 3 times.(‰÷Øõ
+[	php:S1940Ğ"EUse the opposite operator '>' instead and remove complement operator.(Ó€ƒí
+a	php:S11927"GDefine a constant instead of duplicating this literal "id3v2" 11 times.(¹Ÿ…˜şÿÿÿÿ
+b	php:S1301m"MReplace this "switch" statement with "if" statements to increase readability.(·ÜÛ†
+9php:S125ä"Remove this commented out code.(€£Êÿÿÿÿÿ
+c	php:S11923"NDefine a constant instead of duplicating this literal "bitrate_mode" 35 times.(ãª·ş
+d	php:S1192‡"IDefine a constant instead of duplicating this literal "padding" 10 times.(ƒ€ß’úÿÿÿÿ
+E	php:S1066¼"/Merge this if statement with the enclosing one.( ÷›·
+c	php:S1301‚"MReplace this "switch" statement with "if" statements to increase readability.(‰ÙñÎ
+9php:S125¨"Remove this commented out code.(Ù¯½­ÿÿÿÿÿ
+g	php:S1192Å"LDefine a constant instead of duplicating this literal "preset_used" 4 times.(ãçŸÿÿÿÿÿ
+k	php:S3776ù
+"URefactor this function to reduce its Cognitive Complexity from 269 to the 15 allowed.(ƒ‹ ñ
+d	php:S1192Ä"IDefine a constant instead of duplicating this literal "standard" 3 times.(õÿÚ¹ÿÿÿÿÿ
+k	php:S1192Î
+"UDefine a constant instead of duplicating this literal "version_distribution" 3 times.(Ãåá
+d	php:S1192„"IDefine a constant instead of duplicating this literal "ath_type" 5 times.(¥Ğ½±úÿÿÿÿ
+g	php:S1192ˆ"LDefine a constant instead of duplicating this literal "fileformat" 10 times.(Îüê¤ÿÿÿÿÿ

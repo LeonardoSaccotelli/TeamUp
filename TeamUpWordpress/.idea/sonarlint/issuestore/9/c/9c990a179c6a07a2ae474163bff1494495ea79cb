@@ -1,0 +1,10 @@
+
+jphp:S101"QRename class "Admin_Navmenu" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„ë™Ûÿÿÿÿÿ
+B	php:S1172;"-Remove the unused function parameter "$args".(¬Œ·Ô
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+k	php:S1192"QDefine a constant instead of duplicating this literal "ultimate-member" 15 times.(¼ä®…ÿÿÿÿÿ
+x	php:S1192K"^Define a constant instead of duplicating this literal "Ultimate Member Menu Settings" 3 times.(óñ­Ãøÿÿÿÿ
+C	php:S1172;".Remove the unused function parameter "$depth".(¬Œ·Ô
+@	php:S1172;"+Remove the unused function parameter "$id".(¬Œ·Ô
+M	php:S1172™"7Remove the unused function parameter "$menu_item_args".(û’¿‰
+F	php:S1172™"0Remove the unused function parameter "$menu_id".(û’¿‰

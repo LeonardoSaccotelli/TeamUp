@@ -1,0 +1,104 @@
+
+b	php:S1192¨
+"LDefine a constant instead of duplicating this literal "commentmeta" 5 times.(•Ùç
+o	php:S3776ï	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Œ¸¨ûÿÿÿÿ
+d	php:S1192„"IDefine a constant instead of duplicating this literal "category" 5 times.(ÂÓò³øÿÿÿÿ
+`	php:S1192Â"JDefine a constant instead of duplicating this literal "post_type" 9 times.(«ïºµ
+o	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(üÉÜüüÿÿÿÿ
+o	php:S3776ö
+"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ºŞû‚şÿÿÿÿ
+E	php:S1481Ú"/Remove this unused "$old_value" local variable.(øÉûù
+b	php:S1192Û"MDefine a constant instead of duplicating this literal "post_content" 5 times.(¬–©,
+d	php:S1192“"IDefine a constant instead of duplicating this literal "post_tag" 3 times.(ôÿàüÿÿÿÿ
+{	php:S1192¤"`Define a constant instead of duplicating this literal "_wxr_import_has_attachment_refs" 3 times.(í²ÈŒûÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "taxonomy" 22 times.(ªªõÌ
+l	php:S1192Á"QDefine a constant instead of duplicating this literal "_wxr_import_user" 3 times.(ÖÖûŸÿÿÿÿÿ
+b	php:S1192à"GDefine a constant instead of duplicating this literal "parent" 5 times.(¥ô²Šøÿÿÿÿ
+O	php:S3801Â"4Refactor this function to use "return" consistently.(üÉÜüüÿÿÿÿ
+E	php:S1481‚"*Remove this unused "$meta" local variable.(ş´ßÁüÿÿÿÿ
+h	php:S1301ô"MReplace this "switch" statement with "if" statements to increase readability.(Ëå€Şıÿÿÿÿ
+h	php:S1192À"RDefine a constant instead of duplicating this literal "import_file_error" 4 times.( ø‡×
+a	php:S1117§"KRename "$exists" which has the same name as the field declared at line 127.(À¹ì¤
+?	php:S1481‚")Remove this unused "$key" local variable.(’Ñğø
+Gphp:S836ó"2Review the data-flow - use of uninitialized value.(ŞßÌÛ
+9php:S125Ê"Remove this commented out code.(Ö÷…ßúÿÿÿÿ
+`	php:S1192¥"JDefine a constant instead of duplicating this literal "wp:author" 3 times.(Û¦¦ˆ
+b	php:S1192×"LDefine a constant instead of duplicating this literal "post_author" 9 times.(ØãŸ¾
+Q	php:S1854±";Remove this useless assignment to local variable '$status'.(Ãˆ¬†
+I	php:S1481ä".Remove this unused "$taxonomy" local variable.(”¡ëÑúÿÿÿÿ
+l	php:S1192™"VDefine a constant instead of duplicating this literal "_wxr_import_user_slug" 3 times.(™„¥Õ
+j	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÛÏìÙ
+Q	php:S1854Ÿ";Remove this useless assignment to local variable '$status'.(Ãˆ¬†
+r	php:S1117"WRename "$requires_remapping" which has the same name as the field declared at line 120.(Ö÷…ßúÿÿÿÿ
+c	php:S1301Õ	"MReplace this "switch" statement with "if" statements to increase readability.(îÓ´
+Lphp:S836ã"2Review the data-flow - use of uninitialized value.(©šàøÿÿÿÿ
+g	php:S1192â"LDefine a constant instead of duplicating this literal "description" 4 times.(å‰èÌúÿÿÿÿ
+q	php:S1192Ş"VDefine a constant instead of duplicating this literal "_wxr_import_menu_item" 4 times.(Ö“˜üÿÿÿÿ
+iphp:S101"PRename class "WXR_Importer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¾ÅÒÁÿÿÿÿÿ
+k	php:S1192Æ
+"PDefine a constant instead of duplicating this literal "comment_user_id" 3 times.(£êâèûÿÿÿÿ
+9php:S125Å"Remove this commented out code.(ã»”ùÿÿÿÿÿ
+O	php:S1135Ç"4Complete the task associated to this "TODO" comment.(Ò‚Åéüÿÿÿÿ
+j	php:S3776©"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Óú£ÿ
+E	php:S1481©"/Remove this unused "$parent_id" local variable.(Ä¥§
+j	php:S1142œ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ŸÒğûÿÿÿÿ
+^	php:S1192·"HDefine a constant instead of duplicating this literal "term_id" 9 times.(µ¸¸â
+e	php:S1142	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(­…‚§
+i	php:S1192‡"SDefine a constant instead of duplicating this literal "_wxr_import_parent" 6 times.(ï‘´ê
+i	php:S1192à"TDefine a constant instead of duplicating this literal "wordpress-importer" 36 times.(˜½Šu
+Ò	php:S1192†"»Define a constant instead of duplicating this literal "This WXR file (version %1$s) is newer than the importer (version %2$s) and may not be supported. Please consider updating." 3 times.(–Ğ‘Š
+u	php:S1192¿"ZDefine a constant instead of duplicating this literal "prefill_existing_comments" 3 times.(´Ì¢ÿüÿÿÿÿ
+B	php:S1481…",Remove this unused "$result" local variable.(ØÂà
+J	php:S1135ó"4Complete the task associated to this "TODO" comment.(Ö¢«¶
+a	php:S1192	"LDefine a constant instead of duplicating this literal "upload_date" 3 times.(³Š‹d
+e	php:S1192ç"JDefine a constant instead of duplicating this literal "post_date" 4 times.(ç©·„úÿÿÿÿ
+d	php:S1192Ç"IDefine a constant instead of duplicating this literal "comments" 3 times.(‡øÕƒüÿÿÿÿ
+Lphp:S131»"7Add a "case default" clause to this "switch" statement.(îÓ´
+e	php:S1192¶
+"ODefine a constant instead of duplicating this literal "comment_author" 4 times.(àƒ¸™
+e	php:S1192ş"ODefine a constant instead of duplicating this literal "wp:wxr_version" 3 times.(·½‡š
+I	php:S1135F"4Complete the task associated to this "TODO" comment.(æì…ø
+j	php:S1142¡"OReduce the number of returns of this function 7, down to the maximum allowed 3.(”¡µ¿üÿÿÿÿ
+r	php:S1117©"WRename "$requires_remapping" which has the same name as the field declared at line 120.(Ö÷…ßúÿÿÿÿ
+Lphp:S131±
+"7Add a "case default" clause to this "switch" statement.(îÓ´
+Qphp:S131ı"7Add a "case default" clause to this "switch" statement.(Ëå€Şıÿÿÿÿ
+Q	php:S1854";Remove this useless assignment to local variable '$status'.(Ãˆ¬†
+m	php:S1192¾"WDefine a constant instead of duplicating this literal "prefill_existing_posts" 3 times.(‡´È¤
+Qphp:S131ç"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+Lphp:S131Õ	"7Add a "case default" clause to this "switch" statement.(îÓ´
+J	php:S1135“"4Complete the task associated to this "TODO" comment.(òé…¨
+p	php:S1192Ó"UDefine a constant instead of duplicating this literal "_menu_item_object_id" 3 times.(Â¯€úÿÿÿÿ
+b	php:S1192û"LDefine a constant instead of duplicating this literal "post_status" 3 times.(¯òòâ
+a	php:S1192³
+"KDefine a constant instead of duplicating this literal "comment_id" 7 times.(ì×Úš
+f	php:S1117ó"KRename "$exists" which has the same name as the field declared at line 127.(ª¼É«üÿÿÿÿ
+J	php:S1135¦"4Complete the task associated to this "TODO" comment.(Ö¢«¶
+–php:S138Â"|This function "process_post" has 174 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(üÉÜüüÿÿÿÿ
+j	php:S1192˜"ODefine a constant instead of duplicating this literal "attachment_url" 3 times.(šñùşÿÿÿÿ
+c	php:S1192½"HDefine a constant instead of duplicating this literal "user_id" 3 times.(Ç‰ ­ıÿÿÿÿ
+Qphp:S131ô"7Add a "case default" clause to this "switch" statement.(Ëå€Şıÿÿÿÿ
+r	php:S1192À"WDefine a constant instead of duplicating this literal "prefill_existing_terms" 3 times.(óÿ³ÿÿÿÿÿ
+c	php:S1192Ê
+"MDefine a constant instead of duplicating this literal "comment_date" 4 times.(Ê³Şÿ
+_	php:S1192°"IDefine a constant instead of duplicating this literal "comment" 17 times.(«÷ØÀ
+a	php:S1192¶"KDefine a constant instead of duplicating this literal "user_slug" 11 times.(Û±°¸
+]	php:S1192ˆ"GDefine a constant instead of duplicating this literal "value" 11 times.(¾õ—¬
+j	php:S1142Â"OReduce the number of returns of this function 6, down to the maximum allowed 3.(üÉÜüüÿÿÿÿ
+g	php:S1192ˆ"LDefine a constant instead of duplicating this literal "post_parent" 7 times.(‡Ä¹Ïúÿÿÿÿ
+Lphp:S131É"7Add a "case default" clause to this "switch" statement.(îÓ´
+h	php:S1301ç"MReplace this "switch" statement with "if" statements to increase readability.(Æâïêÿÿÿÿÿ
+o	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ËÌ¶ùÿÿÿÿ
+‚	php:S1448"hClass "WXR_Importer" has 45 methods, which is greater than 20 authorized. Split it into smaller classes.(¾ÅÒÁÿÿÿÿÿ
+a	php:S1192Ï"KDefine a constant instead of duplicating this literal "post_title" 8 times.(¼³¾
+a	php:S1117İ"KRename "$exists" which has the same name as the field declared at line 127.(§„é°
+j	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(İ¯ª
+e	php:S1142à"OReduce the number of returns of this function 4, down to the maximum allowed 3.(æ–±›
+J	php:S1481Ò"/Remove this unused "$author_id" local variable.(ßâÌµÿÿÿÿÿ
+J	php:S1135Ç"4Complete the task associated to this "TODO" comment.(Îíå
+j	php:S1192Ş
+"ODefine a constant instead of duplicating this literal "comment_parent" 6 times.(æ…¡Àøÿÿÿÿ
+i	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(©Œ¬F
+c	php:S1192ã"HDefine a constant instead of duplicating this literal "post_id" 4 times.(óòÛ¾üÿÿÿÿ
+r	php:S1117Ø"WRename "$requires_remapping" which has the same name as the field declared at line 120.(Ö÷…ßúÿÿÿÿ
+f	php:S1192½"KDefine a constant instead of duplicating this literal "user_login" 5 times.(¦°üğøÿÿÿÿ

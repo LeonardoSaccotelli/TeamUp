@@ -1,0 +1,12 @@
+
+a	php:S1192Ş"FDefine a constant instead of duplicating this literal "value" 4 times.(Ùàƒİşÿÿÿÿ
+q	php:S1192Ò"VDefine a constant instead of duplicating this literal "admin_enqueue_scripts" 3 times.(ÄÍåÿøÿÿÿÿ
+J	php:S1066Ö"/Merge this if statement with the enclosing one.(›‚¸‰üÿÿÿÿ
+I	php:S1135A"4Complete the task associated to this "TODO" comment.(ˆŒÀ·
+ƒ	php:S1192¾"hDefine a constant instead of duplicating this literal "elementor/editor/before_enqueue_scripts" 3 times.(´¿Ç¾úÿÿÿÿ
+i	php:S1192Ï"TDefine a constant instead of duplicating this literal "Grunion_Editor_View" 3 times.(ƒ¬Y
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(‘æÕùÿÿÿÿ
+l	php:S1192¿"QDefine a constant instead of duplicating this literal "wc_print_notices" 3 times.(í½‘Ùúÿÿÿÿ
+8php:S125B"Remove this commented out code.(¥¥Áøıÿÿÿÿ
+f	php:S1192O"QDefine a constant instead of duplicating this literal "wp_fastest_cache" 3 times.(“³ùˆ
+t	php:S1192,"_Define a constant instead of duplicating this literal "document_post_deprecated_hooks" 4 times.(Ìäœœ

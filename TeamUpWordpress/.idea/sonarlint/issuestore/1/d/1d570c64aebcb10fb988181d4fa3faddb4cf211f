@@ -1,0 +1,8 @@
+
+HWeb:BoldAndItalicTagsCheckT"Replace this <i> tag by <em>.(â‰àõúÿÿÿÿ
+jphp:S101"QRename class "Control_Icons" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Û°ƒ…ùÿÿÿÿ
+`	php:S11920"FDefine a constant instead of duplicating this literal "value" 5 times.(îâ€‘ıÿÿÿÿ
+b	php:S1192Y"MDefine a constant instead of duplicating this literal "Icon Library" 4 times.(íóïƒ
+_	php:S1192Z"KDefine a constant instead of duplicating this literal "Upload SVG" 4 times.(Èëú
+]	php:S11921"HDefine a constant instead of duplicating this literal "library" 4 times.(›İèŠ
+e	php:S1192S"KDefine a constant instead of duplicating this literal "elementor" 12 times.(ğÖÿƒüÿÿÿÿ

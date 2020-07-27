@@ -1,0 +1,79 @@
+
+C	php:S1481Â"(Remove this unused "$id" local variable.(šªµûúÿÿÿÿ
+t	php:S1488î"^Immediately return this expression instead of assigning it to the temporary variable "$tests".(¤—­
+b	php:S1192ï"LDefine a constant instead of duplicating this literal "ssl_support" 3 times.(Ñ¢Šğ
+C	php:S2041à"-Remove the parentheses from this "echo" call.(¸ïÃÀ
+P	php:S1481ê":Remove this unused "$plugins_have_updates" local variable.(í²”Æ
+c	php:S1192î"HDefine a constant instead of duplicating this literal "MariaDB" 3 times.(¬ÿ­öüÿÿÿÿ
+`	php:S1192Ö"JDefine a constant instead of duplicating this literal "required" 24 times.(”öğ¿
+f	php:S1192O"LDefine a constant instead of duplicating this literal "site_status" 6 times.(ŞúÕşÿÿÿÿ
+m	php:S1192¢"RDefine a constant instead of duplicating this literal "rest_availability" 3 times.(¯Ã¦”üÿÿÿÿ
+a	php:S1192Ü"LDefine a constant instead of duplicating this literal "php_version" 3 times.(ù£ëB
+œphp:S138×"†This function "get_test_theme_version" has 179 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(šúÎÈ
+a	php:S1192j"MDefine a constant instead of duplicating this literal "https_status" 5 times.(±Îk
+a	php:S1192â"FDefine a constant instead of duplicating this literal "Error" 3 times.(•õ˜—úÿÿÿÿ
+^	php:S1192ˆ"HDefine a constant instead of duplicating this literal "message" 3 times.(®óÚå
+j	php:S3776 	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾ùˆş
+f	php:S1192ß"KDefine a constant instead of duplicating this literal "sql_server" 3 times.(‡œÛæûÿÿÿÿ
+e	php:S1192Ğ"ODefine a constant instead of duplicating this literal "php_extensions" 3 times.(±é
+j	php:S1142—"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Åü®…øÿÿÿÿ
+g	php:S1192±"RDefine a constant instead of duplicating this literal "loopback_requests" 3 times.( ı¿=
+e	php:S1192‚"JDefine a constant instead of duplicating this literal "extension" 9 times.(Ò¾šßùÿÿÿÿ
+o	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ã«ˆıÿÿÿÿ
+y	php:S1192/"_Define a constant instead of duplicating this literal "wp_site_health_scheduled_check" 3 times.(æ¯ßÇÿÿÿÿÿ
+d	php:S1192Û"NDefine a constant instead of duplicating this literal "http_requests" 3 times.(£È™Ï
+b	php:S1192W"MDefine a constant instead of duplicating this literal "recommended" 30 times.(û¹Ì
+¢php:S138·"‡This function "get_test_php_extensions" has 177 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ã«ˆıÿÿÿÿ
+c	php:S1192÷"MDefine a constant instead of duplicating this literal "description" 59 times.(Èæ’
+	php:S1448
+"jClass "WP_Site_Health" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(šÅçØ
+e	php:S1192ä"ODefine a constant instead of duplicating this literal "plugin_version" 3 times.(İûìâ
+\	php:S1192S"GDefine a constant instead of duplicating this literal "direct" 9 times.(¾¤–±
+y	php:S1488ƒ"cImmediately return this expression instead of assigning it to the temporary variable "$body_class".(ŸÄ®
+a	php:S1192‰"KDefine a constant instead of duplicating this literal "<p>%s</p>" 52 times.(é®†Ó
+j	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ïñå
+i	php:S1192¯"NDefine a constant instead of duplicating this literal "PHP_AUTH_USER" 4 times.(ü¤²Üøÿÿÿÿ
+@	php:S1481“"*Remove this unused "$core" local variable.(„‡• 
+v	php:S1192à"[Define a constant instead of duplicating this literal "<p><a href="%s">%s</a></p>" 5 times.(ûÖÅİıÿÿÿÿ
+fphp:S101
+"RRename class "WP_Site_Health" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(šÅçØ
+h	php:S1192ô"MDefine a constant instead of duplicating this literal "Performance" 10 times.(Ó«ÒÑÿÿÿÿÿ
+a	php:S1192·	"FDefine a constant instead of duplicating this literal "5.5.3" 4 times.(¢¸‡‰øÿÿÿÿ
+g	php:S1192"QDefine a constant instead of duplicating this literal "scheduled_events" 3 times.(åùÑ¨
+Œ	php:S1192Ö"õDefine a constant instead of duplicating this literal "<p><a href="%s" target="_blank" rel="noopener noreferrer">%s <span class="screen-reader-text">%s</span><span aria-hidden="true" class="dashicons dashicons-external"></span></a></p>" 5 times.(‰ô©œ
+n	php:S3776F"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¾Ï×Ñıÿÿÿÿ
+j	php:S1192÷"TDefine a constant instead of duplicating this literal "php_bundled_version" 3 times.(òöÜ 
+C	php:S1481Û"(Remove this unused "$id" local variable.(šªµûúÿÿÿÿ
+g	php:S1192¯"LDefine a constant instead of duplicating this literal "PHP_AUTH_PW" 4 times.(ü¤²Üøÿÿÿÿ
+e	php:S1142¿"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ó¹ï¨
+^	php:S1192¬
+"HDefine a constant instead of duplicating this literal "timeout" 3 times.(ŸÄæ
+d	php:S1192õ"IDefine a constant instead of duplicating this literal "constant" 3 times.(¬äÇôøÿÿÿÿ
+d	php:S1192«"IDefine a constant instead of duplicating this literal "interval" 3 times.(»í·‡üÿÿÿÿ
+j	php:S1192Ú"UDefine a constant instead of duplicating this literal "(opens in a new tab)" 6 times.(®Şi
+`	php:S1192±"JDefine a constant instead of duplicating this literal "Security" 10 times.(Ş¾çõ
+b	php:S1192”"MDefine a constant instead of duplicating this literal "fallback_for" 7 times.(­´¢
+^	php:S1192"HDefine a constant instead of duplicating this literal "imagick" 3 times.(¡‰‰Æ
+d	php:S1192è"NDefine a constant instead of duplicating this literal "theme_version" 3 times.(¶§ô£
+O	php:S1481÷"4Remove this unused "$plugin_version" local variable.(ç®ú‹úÿÿÿÿ
+n	php:S1192å"SDefine a constant instead of duplicating this literal "background_updates" 3 times.(ò‚­ùÿÿÿÿ
+u	php:S1192P"`Define a constant instead of duplicating this literal "health-check-site-status-result" 3 times.(åó‰±
+]	php:S1192õ"GDefine a constant instead of duplicating this literal "color" 17 times.(ó§íß
+k	php:S1192¦
+"UDefine a constant instead of duplicating this literal "dotorg_communication" 3 times.(°Ó†¯
+[	php:S1192T"FDefine a constant instead of duplicating this literal "async" 5 times.(ªéší
+`	php:S1192Õ"JDefine a constant instead of duplicating this literal "function" 13 times.(ÊëÚŒ
+f	php:S1192³	"PDefine a constant instead of duplicating this literal "utf8mb4_support" 3 times.(«ñ­Î
+a	php:S1192Ù"FDefine a constant instead of duplicating this literal "class" 4 times.(Ğáàÿÿÿÿÿ
+k	php:S1192«"UDefine a constant instead of duplicating this literal "php_default_timezone" 3 times.(”î²ÿ
+b	php:S1192ó"GDefine a constant instead of duplicating this literal "badge" 20 times.(ŞìšÛşÿÿÿÿ
+m	php:S1192ù"RDefine a constant instead of duplicating this literal "wordpress_version" 3 times.(šıÇÜúÿÿÿÿ
+j	php:S3776×"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(šúÎÈ
+h	php:S1192¶"MDefine a constant instead of duplicating this literal "<p>%s %s</p>" 5 times.(®ÑÛ°ÿÿÿÿÿ
+a	php:S1192î"FDefine a constant instead of duplicating this literal "MySQL" 3 times.(¬ÿ­öüÿÿÿÿ
+^	php:S1192ø"IDefine a constant instead of duplicating this literal "actions" 22 times.(ıØïP
+_	php:S1192X"JDefine a constant instead of duplicating this literal "critical" 21 times.(Ì§ç›
+]	php:S1192ò"HDefine a constant instead of duplicating this literal "status" 70 times.(ôÿ¥_
+b	php:S1192ñ"GDefine a constant instead of duplicating this literal "label" 94 times.(•ö‡øÿÿÿÿ
+^	php:S1192…"HDefine a constant instead of duplicating this literal "mod_xml" 3 times.(‰ÍÄ
+f	php:S1192H"LDefine a constant instead of duplicating this literal "site-health" 4 times.(¿Ÿõ÷ûÿÿÿÿ

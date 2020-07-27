@@ -1,0 +1,15 @@
+
+R	php:S1172Ü"7Remove the unused function parameter "$directory_data".(£ÉßŠøÿÿÿÿ
+p	php:S1192_"VDefine a constant instead of duplicating this literal "followers_hide_button" 3 times.(ôŠÂöÿÿÿÿÿ
+o	php:S1192["UDefine a constant instead of duplicating this literal "followers_show_stats" 6 times.(ûÇ“„úÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "followers" 3 times.(ë›…N
+c	php:S1192O"NDefine a constant instead of duplicating this literal "most_followed" 5 times.(´°œ¡
+wphp:S101"^Rename class "Followers_Member_Directory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿÔİ£ùÿÿÿÿ
+y	php:S14884"_Immediately return this expression instead of assigning it to the temporary variable "$fields".(º™ŒÂşÿÿÿÿ
+a	php:S1192º"FDefine a constant instead of duplicating this literal "order" 3 times.(››Óıÿÿÿÿ
+i	php:S1192P"ODefine a constant instead of duplicating this literal "least_followed" 3 times.(‚­Ğ±ùÿÿÿÿ
+c	php:S1192¹"HDefine a constant instead of duplicating this literal "orderby" 3 times.(ì£ÏÀüÿÿÿÿ
+g	php:S11928"MDefine a constant instead of duplicating this literal "um-followers" 8 times.(ƒº•¸øÿÿÿÿ
+k	php:S1192"QDefine a constant instead of duplicating this literal "followers_button" 3 times.(ÕŞÚáÿÿÿÿÿ
+o	php:S1192^"UDefine a constant instead of duplicating this literal "followers_hide_stats" 3 times.(òÿ¾µüÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ

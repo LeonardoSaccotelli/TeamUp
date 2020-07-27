@@ -1,0 +1,13 @@
+
+4php:S125‹"Remove this commented out code.(‚±
+qphp:S101"XRename class "Requests_IDNAEncoder" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ş†äÃùÿÿÿÿ
+o	php:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ì¯”œøÿÿÿÿ
+O	php:S1135õ"4Complete the task associated to this "TODO" comment.(†É‹œÿÿÿÿÿ
+o	php:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(›ˆéÕùÿÿÿÿ
+l	php:S1192­"VDefine a constant instead of duplicating this literal "idna.invalidcodepoint" 4 times.(†¯ß§
+kphp:S127´"VRefactor the code to avoid updating the loop counter "$position" within the loop body.(ü¿åˆ
+p	php:S1192­"ZDefine a constant instead of duplicating this literal "Invalid Unicode codepoint" 4 times.(†¯ß§
+kphp:S127´"VRefactor the code to avoid updating the loop counter "$position" within the loop body.(ü¿åˆ
+9php:S125"Remove this commented out code.(µ±µ¶ıÿÿÿÿ
+pphp:S127¾"VRefactor the code to avoid updating the loop counter "$position" within the loop body.(Í•ÓÕùÿÿÿÿ
+H	php:S1135y"4Complete the task associated to this "TODO" comment.(µİÃ

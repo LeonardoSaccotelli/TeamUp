@@ -1,0 +1,9 @@
+
+f	php:S1192£"KDefine a constant instead of duplicating this literal "tags_input" 3 times.(ϋ‘δ²ϋÿÿÿÿ
+d	php:S1192"NDefine a constant instead of duplicating this literal "post_category" 3 times.(ΩΚ
+i	php:S1192/"TDefine a constant instead of duplicating this literal "0000-00-00 00:00:00" 4 times.(ο΅¨ή
+d	php:S1192›"NDefine a constant instead of duplicating this literal "page_template" 3 times.(ΎΨώ
+_	php:S1192—"JDefine a constant instead of duplicating this literal "ancestors" 3 times.(ρ«€$
+e	php:S1142–"OReduce the number of returns of this function 5, down to the maximum allowed 3.(π ‹
+j	php:S1142²"OReduce the number of returns of this function 6, down to the maximum allowed 3.(–Η†ÿÿÿÿÿ
+dphp:S101"KRename class "WP_Post" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(…„Άξωÿÿÿÿ

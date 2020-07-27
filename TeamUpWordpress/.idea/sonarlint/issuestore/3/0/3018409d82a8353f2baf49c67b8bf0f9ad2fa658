@@ -1,0 +1,21 @@
+
+_	php:S1192."JDefine a constant instead of duplicating this literal "following" 5 times.(ü´á˜
+]	php:S11920"IDefine a constant instead of duplicating this literal "user_id1" 4 times.(ä¦ß
+t	php:S1488€"^Immediately return this expression instead of assigning it to the temporary variable "$count".(ÖåÕÃ
+j	php:S1142·"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ôÆ¿İüÿÿÿÿ
+g	php:S1192"MDefine a constant instead of duplicating this literal "um_followers" 7 times.(ßÉŠÈÿÿÿÿÿ
+`	php:S1192%"FDefine a constant instead of duplicating this literal "error" 4 times.(ÿÙ»¥ùÿÿÿÿ
+[	php:S1192."FDefine a constant instead of duplicating this literal "count" 4 times.(ü´á˜
+_	php:S1192O"JDefine a constant instead of duplicating this literal "followers" 5 times.(·µôï
+g	php:S1192%"MDefine a constant instead of duplicating this literal "um-followers" 9 times.(ÿÙ»¥ùÿÿÿÿ
+t	php:S1488Ü"^Immediately return this expression instead of assigning it to the temporary variable "$count".(ÖåÕÃ
+Jphp:S121¦"0Add curly braces around the nested statement(s).(ã ±Áûÿÿÿÿ
+Jphp:S121Æ"0Add curly braces around the nested statement(s).(ÌæÇıÿÿÿÿ
+c	php:S1192Q"IDefine a constant instead of duplicating this literal "user_id2" 4 times.(ÚÏÙíøÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+{	php:S1488v"aImmediately return this expression instead of assigning it to the temporary variable "$nav_link".(´ÑŞõúÿÿÿÿ
+w	php:S1488„"aImmediately return this expression instead of assigning it to the temporary variable "$nav_link".(²Æ‰Š
+`	php:S11921"FDefine a constant instead of duplicating this literal "users" 6 times.(°õºŸşÿÿÿÿ
+w	php:S1488Ÿ"\Immediately return this expression instead of assigning it to the temporary variable "$res".(°Ÿ£Çúÿÿÿÿ
+jphp:S101"VRename class "Followers_Main_API" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ª•­ó
+u	php:S1488©"_Immediately return this expression instead of assigning it to the temporary variable "$result".(ŞÀ­•

@@ -1,0 +1,12 @@
+
+d	php:S1192ϊ"IDefine a constant instead of duplicating this literal "\xC2\xAE" 4 times.(…ÿρΖψÿÿÿÿ
+vphp:S1016"bRename class "SimplePie_Decode_HTML_Entities" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£ΐ
+h	php:S1192Ζ"MDefine a constant instead of duplicating this literal "\xE2\x84\xA2" 3 times.(®”ρκόÿÿÿÿ
+o	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¶οΓϊÿÿÿÿ
+>	php:S1862¬")This case duplicates the one on line 171.(Χ®€F
+php:S138¥"vThis function "entity" has 441 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¶οΓϊÿÿÿÿ
+^	php:S1117"HRename "$data" which has the same name as the field declared at line 62.(©΅’Λ
+d	php:S1192¤"IDefine a constant instead of duplicating this literal "\xC2\xA9" 4 times.(ω·²γώÿÿÿÿ
+hphp:S127ά"SRefactor the code to avoid updating the loop counter "$match" within the loop body.(µΟΉ
+h	php:S1192Ζ"MDefine a constant instead of duplicating this literal "\xEF\xBF\xBD" 5 times.(®”ρκόÿÿÿÿ
+b	php:S1117Ω"LRename "$consumed" which has the same name as the field declared at line 70.(‰«µΎ

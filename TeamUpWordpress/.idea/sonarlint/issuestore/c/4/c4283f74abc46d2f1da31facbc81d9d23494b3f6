@@ -1,0 +1,50 @@
+
+n	php:S1192*"YDefine a constant instead of duplicating this literal "um_shortcode_args_filter" 3 times.(Ûî‹’
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+C	php:S1172Â	"-Remove the unused function parameter "$args".(ô­¿Ë
+F	php:S1172Â	"0Remove the unused function parameter "$content".(ô­¿Ë
+}	php:S1488ã"bImmediately return this expression instead of assigning it to the temporary variable "$shortcode".(œûïØûÿÿÿÿ
+o	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(ßùé¼úÿÿÿÿ
+E	php:S1066Í	"/Merge this if statement with the enclosing one.(šîŒ·
+w	php:S1488¶"\Immediately return this expression instead of assigning it to the temporary variable "$arr".(şø¹üùÿÿÿÿ
+^	php:S1192´"HDefine a constant instead of duplicating this literal "form_id" 8 times.(ùÀ÷ä
+e	php:S1142Â	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ô­¿Ë
+o	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Úİç÷úÿÿÿÿ
+H	php:S1172"-Remove the unused function parameter "$args".(Œëá¤ûÿÿÿÿ
+`	php:S1192ë"JDefine a constant instead of duplicating this literal "lock_text" 3 times.(‚™
+v	php:S1488Ú"`Immediately return this expression instead of assigning it to the temporary variable "$classes".(©çó³
+e	php:S1142…	"OReduce the number of returns of this function 8, down to the maximum allowed 3.(Ñ¼­
+c	php:S1192ï	"HDefine a constant instead of duplicating this literal "search_" 3 times.(™ÕÒŠıÿÿÿÿ
+Ephp:S121æ"0Add curly braces around the nested statement(s).(¬Ä©Ê
+s	php:S1488™"]Immediately return this expression instead of assigning it to the temporary variable "$file".(®È›
+u	php:S1488©"_Immediately return this expression instead of assigning it to the temporary variable "$output".(óƒ¹ÿ
+w	php:S1488ø	"aImmediately return this expression instead of assigning it to the temporary variable "$template".(éÊÖ
+o	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(»½äÿÿÿÿÿ
+Qphp:S131ò"7Add a "case default" clause to this "switch" statement.(¾‘ò»úÿÿÿÿ
+v	php:S1488ÿ"`Immediately return this expression instead of assigning it to the temporary variable "$form_id".(²²¥
+9php:S125¼"Remove this commented out code.(Í‹ÿ§ûÿÿÿÿ
+J	php:S3801…	"4Refactor this function to use "return" consistently.(Ñ¼­
+j	php:S1142º"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ßùé¼úÿÿÿÿ
+B	php:S1481³"'Remove this unused "$k" local variable.(ÙíŸøÿÿÿÿ
+c	php:S1192¯"HDefine a constant instead of duplicating this literal "profile" 3 times.(’çßùÿÿÿÿ
+C	php:S1125£"(Remove the literal "true" boolean value.(æ÷ë¿ıÿÿÿÿ
+l	php:S1192ä	"QDefine a constant instead of duplicating this literal "roles_can_search" 5 times.(ã‘Şùÿÿÿÿ
+E	php:S1066¨"/Merge this if statement with the enclosing one.(½…­ó
+a	php:S1192	"FDefine a constant instead of duplicating this literal "roles" 4 times.(ÑáÚ›úÿÿÿÿ
+Ephp:S121Ù"0Add curly braces around the nested statement(s).(åÎ¹Ñ
+\	php:S1192Š"FDefine a constant instead of duplicating this literal "login" 3 times.(§”âû
+D	php:S1066·"/Merge this if statement with the enclosing one.(àäø1
+j	php:S3776…	"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ñ¼­
+j	php:S3776Â	"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ô­¿Ë
+f	php:S1192ë"PDefine a constant instead of duplicating this literal "ultimate-member" 3 times.(‚™
+E	php:S1481‹"*Remove this unused "$loop" local variable.(†Ï¸ûÿÿÿÿ
+c	php:S1192ù"HDefine a constant instead of duplicating this literal "version" 9 times.(Š‚üìúÿÿÿÿ
+e	php:S1192”"JDefine a constant instead of duplicating this literal "template" 16 times.(Œ­°çùÿÿÿÿ
+e	php:S1192ö"JDefine a constant instead of duplicating this literal "directory" 4 times.(ÄÄ·şıÿÿÿÿ
+{	php:S1448"fClass "Shortcodes" has 31 methods, which is greater than 20 authorized. Split it into smaller classes.(¾ìÌí
+O	php:S3801º"4Refactor this function to use "return" consistently.(ßùé¼úÿÿÿÿ
+u	php:S1488œ"_Immediately return this expression instead of assigning it to the temporary variable "$output".(óƒ¹ÿ
+>	php:S1125¹"(Remove the literal "true" boolean value.(ØÃ„Ô
+E	php:S1066¥"/Merge this if statement with the enclosing one.(Óó²ƒ
+C	php:S1125½"(Remove the literal "true" boolean value.(…®—œşÿÿÿÿ
+w	php:S1192†"\Define a constant instead of duplicating this literal "/ultimate-member/templates/" 3 times.(Ò«ÿÿÿÿÿ

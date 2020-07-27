@@ -1,0 +1,20 @@
+
+J	php:S1172ù"4Remove the unused function parameter "$filter_type".(½ĞŒÇ
+[	php:S1192G"FDefine a constant instead of duplicating this literal "value" 4 times.(Êø—­
+^	php:S1192Ø"HDefine a constant instead of duplicating this literal "NUMERIC" 5 times.(•Áª
+pphp:S101"\Rename class "Reviews_Member_Directory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ï‹§ª
+c	php:S1192×"HDefine a constant instead of duplicating this literal "compare" 7 times.(ğÂôúúÿÿÿÿ
+X	php:S1226€"CIntroduce a new variable instead of reusing the parameter "$query".(áà“v
+`	php:S1192ƒ"JDefine a constant instead of duplicating this literal "top_rated" 5 times.(ªÎÅ¿
+`	php:S1192Ü"KDefine a constant instead of duplicating this literal "NOT EXISTS" 3 times.(‘ª`
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+R	php:S1172±"7Remove the unused function parameter "$directory_data".(£ÉßŠøÿÿÿÿ
+O	php:S1172Ë"4Remove the unused function parameter "$filter_type".(öóûÖüÿÿÿÿ
+h	php:S1192w"NDefine a constant instead of duplicating this literal "filter_rating" 3 times.(»¥ŞÈıÿÿÿÿ
+g	php:S1192„"LDefine a constant instead of duplicating this literal "least_rated" 4 times.(…Öãªùÿÿÿÿ
+c	php:S1192Ö"MDefine a constant instead of duplicating this literal "_reviews_avg" 7 times.( ñşÌ
+`	php:S1192F"KDefine a constant instead of duplicating this literal "um-reviews" 8 times.(ÿÛŸ
+^	php:S1192Ú"IDefine a constant instead of duplicating this literal "_reviews" 3 times.(›«‘?
+]	php:S1226Ì"BIntroduce a new variable instead of reusing the parameter "$skip".(´êğ‰üÿÿÿÿ
+y	php:S1488B"_Immediately return this expression instead of assigning it to the temporary variable "$fields".(º™ŒÂşÿÿÿÿ
+a	php:S1192Ï"KDefine a constant instead of duplicating this literal "meta_query" 3 times.(ü×ÖÀ

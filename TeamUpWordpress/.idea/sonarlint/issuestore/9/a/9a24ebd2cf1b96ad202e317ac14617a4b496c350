@@ -1,0 +1,55 @@
+
+•php:S138¼"{This function "__construct" has 212 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‹ñßıÿÿÿÿ
+E	php:S1066—"/Merge this if statement with the enclosing one.(æˆı
+e	php:S1142Ò
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ú «å
+o	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(‹ñßıÿÿÿÿ
+b	php:S1192Ù"GDefine a constant instead of duplicating this literal "theme" 11 times.(ñıÕìùÿÿÿÿ
+}	php:S1488…
+"gImmediately return this expression instead of assigning it to the temporary variable "$post_templates".(±Õ‘è
+b	php:S1192""HDefine a constant instead of duplicating this literal "Version" 6 times.(±§Šÿÿÿÿÿ
+e	php:S1192!"KDefine a constant instead of duplicating this literal "Author URI" 3 times.(ø‰‹©ùÿÿÿÿ
+e	php:S1192Ü"JDefine a constant instead of duplicating this literal "template" 10 times.(¥–ÉŠúÿÿÿÿ
+D	php:S1481á")Remove this unused "$key" local variable.(“Öúæúÿÿÿÿ
+b	php:S1192Ü"GDefine a constant instead of duplicating this literal "errors" 9 times.(¥–ÉŠúÿÿÿÿ
+b	php:S1192ş"LDefine a constant instead of duplicating this literal "screenshot." 3 times.(ËÈ‚€
+a	php:S1192$"GDefine a constant instead of duplicating this literal "Status" 5 times.(³Ëşÿÿÿÿ
+}	php:S1488Ï"gImmediately return this expression instead of assigning it to the temporary variable "$allowed_themes".(Â ÈÏ
+`	php:S1192&"KDefine a constant instead of duplicating this literal "TextDomain" 4 times.(ù©›·
+d	php:S1192Ü"IDefine a constant instead of duplicating this literal "headers" 12 times.(¥–ÉŠúÿÿÿÿ
+b	php:S1192û"LDefine a constant instead of duplicating this literal "stylesheet" 10 times.(§şØà
+n	php:S1117½"SRename "$theme_root_uri" which has the same name as the field declared at line 143.(÷„¡÷şÿÿÿÿ
+j	php:S3776©	"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(³… ¦
+y	php:S1448	"dClass "WP_Theme" has 43 methods, which is greater than 20 authorized. Split it into smaller classes.(¦…öâ
+e	php:S1192Ï"ODefine a constant instead of duplicating this literal "allowed_themes" 5 times.(Â ÈÏ
+_	php:S1192û"IDefine a constant instead of duplicating this literal "relative" 4 times.( ¥èª
+a	php:S1192Ú"KDefine a constant instead of duplicating this literal "theme_root" 3 times.(„êü«
+Qphp:S131ô"7Add a "case default" clause to this "switch" statement.(Ä“™‹şÿÿÿÿ
+o	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(“ˆÔÛúÿÿÿÿ
+`php:S101	"LRename class "WP_Theme" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦…öâ
+Qphp:S131³"7Add a "case default" clause to this "switch" statement.(Ä“™‹şÿÿÿÿ
+a	php:S1192"LDefine a constant instead of duplicating this literal "Description" 8 times.(Œ°ª÷
+j	php:S1192É"ODefine a constant instead of duplicating this literal "post_templates" 3 times.(Ôº’ÿÿÿÿÿ
+j	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(½Šé»
+d	php:S1192!"JDefine a constant instead of duplicating this literal "AuthorURI" 6 times.(ø‰‹©ùÿÿÿÿ
+\	php:S1192Ï"FDefine a constant instead of duplicating this literal "title" 7 times.(£ËŠ¡
+a	php:S1192¹"KDefine a constant instead of duplicating this literal "/index.php" 3 times.(‚»àµ
+j	php:S1142¼"OReduce the number of returns of this function 7, down to the maximum allowed 3.(‹ñßıÿÿÿÿ
+c	php:S1192"IDefine a constant instead of duplicating this literal "ThemeURI" 3 times.(şì´Íûÿÿÿÿ
+i	php:S1192Å"NDefine a constant instead of duplicating this literal "allowedthemes" 9 times.(É…ãŞùÿÿÿÿ
+k	php:S1192ù"UDefine a constant instead of duplicating this literal "theme_parent_invalid" 3 times.(Ò¸¶£
+[	php:S1192 "GDefine a constant instead of duplicating this literal "Author" 9 times.(É¹‰m
+O	php:S1135Ê
+"4Complete the task associated to this "TODO" comment.(•’…×úÿÿÿÿ
+j	php:S1142ñ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ŒÖÖäüÿÿÿÿ
+_	php:S1192Â"IDefine a constant instead of duplicating this literal "WP_Theme" 3 times.(ì¸ÑŒ
+k	php:S1142é"PReduce the number of returns of this function 14, down to the maximum allowed 3.(ŞæÁÇúÿÿÿÿ
+e	php:S1142Ó"PReduce the number of returns of this function 18, down to the maximum allowed 3.(Íãê~
+]	php:S1192Ä"GDefine a constant instead of duplicating this literal "themes" 5 times.(ÀİŸ¬
+j	php:S1142ø
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Õò„äÿÿÿÿÿ
+o	php:S1192ä"TDefine a constant instead of duplicating this literal "theme_root_template" 3 times.(Ö¨îóşÿÿÿÿ
+a	php:S1192Ö"KDefine a constant instead of duplicating this literal "screenshot" 6 times.(œÂ•÷
+i	php:S1117›"NRename "$theme_root" which has the same name as the field declared at line 79.(Ğ ôÃùÿÿÿÿ
+e	php:S1142 "OReduce the number of returns of this function 5, down to the maximum allowed 3.(½Šé»
+c	php:S1192#"IDefine a constant instead of duplicating this literal "Template" 6 times.(úÛ¦—şÿÿÿÿ

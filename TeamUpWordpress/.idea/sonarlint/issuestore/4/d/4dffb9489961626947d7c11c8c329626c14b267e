@@ -1,0 +1,7 @@
+
+mphp:S101"YRename class "Plugin_Installer_Skin" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×º×
+f	php:S1192B"QDefine a constant instead of duplicating this literal "activate-plugin_" 4 times.(ÚÙá
+z	php:S1192^"eDefine a constant instead of duplicating this literal "<a href="%s" target="_parent">%s</a>" 3 times.(Æ˜Ùä
+™	php:S1192A"ƒDefine a constant instead of duplicating this literal "<a class="button button-primary" href="%s" target="_parent">%s</a>" 4 times.(¤÷êî
+g	php:S1192c"MDefine a constant instead of duplicating this literal "plugins_page" 3 times.(ÿŸªöüÿÿÿÿ
+e	php:S1192@"PDefine a constant instead of duplicating this literal "activate_plugin" 7 times.(ßñÀ

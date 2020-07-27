@@ -1,0 +1,56 @@
+
+_	php:S1192É"IDefine a constant instead of duplicating this literal "meta_key" 3 times.(Õ¾Ğä
+K	php:S1172£"0Remove the unused function parameter "$actions".(ƒøã¦üÿÿÿÿ
+E	php:S1172ë"/Remove the unused function parameter "$object".(£¸Õ»
+e	php:S1192Ä"JDefine a constant instead of duplicating this literal "post_type" 4 times.(¢š£¼üÿÿÿÿ
+d	php:S1192‚"NDefine a constant instead of duplicating this literal "review_rating" 3 times.(ÏñÊ¦
+b	php:S1192¦"GDefine a constant instead of duplicating this literal "value" 10 times.(¯Àæ³úÿÿÿÿ
+f	php:S1192="LDefine a constant instead of duplicating this literal "um-reviews" 31 times.(¤ÔÉ‚úÿÿÿÿ
+d	php:S1192“"IDefine a constant instead of duplicating this literal "Approved" 5 times.(î­ƒàúÿÿÿÿ
+f	php:S1192O"QDefine a constant instead of duplicating this literal "um_admin_reviews" 5 times.(¿¬‹÷
+^	php:S1192Œ"HDefine a constant instead of duplicating this literal "review" 10 times.(Ä˜óÎ
+`	php:S1192Ò"JDefine a constant instead of duplicating this literal "<a href="" 4 times.(¼ƒ Û
+d	php:S1192Ï"IDefine a constant instead of duplicating this literal "_status" 11 times.(äÛŒûÿÿÿÿ
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "Flagged" 5 times.(Š—â
+c	php:S1192Œ"MDefine a constant instead of duplicating this literal "_reviewer_id" 4 times.(Ä˜óÎ
+]	php:S1192Æ"GDefine a constant instead of duplicating this literal "status" 8 times.(ÆùÚé
+^	php:S1192K"JDefine a constant instead of duplicating this literal "um_review" 9 times.(™ş¿a
+^	php:S1192œ"HDefine a constant instead of duplicating this literal "_rating" 5 times.(®ƒî®
+j	php:S1142ø"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ßáî’øÿÿÿÿ
+jphp:S101"QRename class "Reviews_Admin" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îÁŞëúÿÿÿÿ
+	php:S1192î"dDefine a constant instead of duplicating this literal "um_admin_metabox_reviews_form_nonce" 3 times.(ÉàÒ«ÿÿÿÿÿ
+c	php:S1192Ë"MDefine a constant instead of duplicating this literal "meta_compare" 3 times.(ã‘×ğ
+o	php:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ßáî’øÿÿÿÿ
+\	php:S1192©"FDefine a constant instead of duplicating this literal "trash" 7 times.(Œç¼Û
+c	php:S1192–"HDefine a constant instead of duplicating this literal "Pending" 3 times.(¢ÚÿÈÿÿÿÿÿ
+c	php:S1192¨"HDefine a constant instead of duplicating this literal "pending" 4 times.(íäèˆıÿÿÿÿ
+€	php:S4144Õ"eUpdate this method so that its implementation is not identical to "um_from_review_field" on line 695.(’ä¡àÿÿÿÿÿ
+Lphp:S131¹"7Add a "case default" clause to this "switch" statement.(‘´ ã
+ƒ	php:S1448"iClass "Reviews_Admin" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(îÁŞëúÿÿÿÿ
+d	php:S1192Ò"NDefine a constant instead of duplicating this literal "profile_photo" 4 times.(¼ƒ Û
+k	php:S1192„"PDefine a constant instead of duplicating this literal "review_approved" 3 times.(ˆª¿ºøÿÿÿÿ
+f	php:S1192¥"KDefine a constant instead of duplicating this literal "meta_query" 3 times.(®¨ãüÿÿÿÿ
+s	php:S1488¾"]Immediately return this expression instead of assigning it to the temporary variable "$html".(³î²î
+E	php:S1066Æ"/Merge this if statement with the enclosing one.(ÆùÚé
+I	php:S1172Æ"3Remove the unused function parameter "$field_name".(¢ó¾È
+e	php:S1192£"JDefine a constant instead of duplicating this literal "prefix_id" 4 times.(±Ù«ƒøÿÿÿÿ
+i	php:S1192Ò"SDefine a constant instead of duplicating this literal "" target="_blank">" 4 times.(¼ƒ Û
+Qphp:S131¢"7Add a "case default" clause to this "switch" statement.(İÖùÿÿÿÿÿ
+f	php:S1192Ê"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(ĞÅ¤ûÿÿÿÿ
+d	php:S1192“"IDefine a constant instead of duplicating this literal "_user_id" 5 times.(ß©µúıÿÿÿÿ
+c	php:S1192¡"HDefine a constant instead of duplicating this literal "orderby" 4 times.( òÑ—úÿÿÿÿ
+OWeb:FieldsetWithoutLegendCheck…"$Add a <legend> tag to this fieldset.(Œèº‹
+Qphp:S131Ì"7Add a "case default" clause to this "switch" statement.(¥öìúÿÿÿÿ
+]	php:S1192•"GDefine a constant instead of duplicating this literal "rating" 3 times.(ñàşï
+s	php:S1488Ü"]Immediately return this expression instead of assigning it to the temporary variable "$html".(³î²î
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "EXISTS" 3 times.(­…›ıøÿÿÿÿ
+g	php:S1192ƒ"LDefine a constant instead of duplicating this literal "review_flag" 4 times.(·Ôîıÿÿÿÿ
+9php:S125ü"Remove this commented out code.(Òâ¡¯ûÿÿÿÿ
+c	php:S1192Ò"MDefine a constant instead of duplicating this literal "display_name" 6 times.(¼ƒ Û
+x	php:S1488¨"]Immediately return this expression instead of assigning it to the temporary variable "$html".(“Ø°ˆøÿÿÿÿ
+_	php:S1192§"IDefine a constant instead of duplicating this literal "approved" 7 times.(ë´€‡
+c	php:S1192¨"HDefine a constant instead of duplicating this literal "compare" 3 times.(­…›ıøÿÿÿÿ
+e	php:S1192½"JDefine a constant instead of duplicating this literal "_flagged" 10 times.(°€æıÿÿÿÿ
+]	php:S1192t"HDefine a constant instead of duplicating this literal "default" 7 times.(Ù£éŞ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+e	php:S1142¬"OReduce the number of returns of this function 4, down to the maximum allowed 3.(û·¬é

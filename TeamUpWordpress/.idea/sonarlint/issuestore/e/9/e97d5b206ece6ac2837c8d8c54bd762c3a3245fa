@@ -1,0 +1,14 @@
+
+]	php:S1192Í"GDefine a constant instead of duplicating this literal "<code>" 4 times.(Ì¬Ôñ
+j	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ğÿÔ
+sphp:S101
+"_Rename class "WP_Site_Health_Auto_Updates" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥¹¬
+i	php:S1192"TDefine a constant instead of duplicating this literal "WP_AUTO_UPDATE_CORE" 3 times.(í›¥ş
+b	php:S1192/"HDefine a constant instead of duplicating this literal "warning" 6 times.(£¥§Øıÿÿÿÿ
+j	php:S3776í"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(›³Ã¿
+x	php:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "$tests".(“ú…–ÿÿÿÿÿ
+g	php:S1192F"MDefine a constant instead of duplicating this literal "description" 19 times.(ÿš ‹ùÿÿÿÿ
+_	php:S1192K"JDefine a constant instead of duplicating this literal "severity" 19 times.(Ü¥¸ä
+N	php:S3801W"4Refactor this function to use "return" consistently.(…ÆÀÈûÿÿÿÿ
+e	php:S1142Ğ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ğÿÔ
+^	php:S1192Í"HDefine a constant instead of duplicating this literal "</code>" 4 times.(Ì¬Ôñ

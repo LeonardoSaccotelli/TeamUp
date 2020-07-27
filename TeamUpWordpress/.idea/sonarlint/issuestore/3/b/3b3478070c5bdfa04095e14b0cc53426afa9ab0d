@@ -1,0 +1,36 @@
+
+e	php:S1192s"KDefine a constant instead of duplicating this literal "elementor" 23 times.(Ÿğüâşÿÿÿÿ
+j	php:S1142“"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÉÑ…°ıÿÿÿÿ
+R	php:S1144é"<Remove this unused private "notice_rate_us_feedback" method.(œğÜÀ
+Š	Web:S5148İ"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(ª¦ğ¡úÿÿÿÿ
+L	php:S1144¿"7Remove this unused private "notice_cf7_promote" method.(ªğ¸A
+Š	Web:S5148á"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(Â•‡×øÿÿÿÿ
+J	php:S1135Ä"4Complete the task associated to this "TODO" comment.(¤¡ƒç
+Q	php:S1144“"6Remove this unused private "notice_api_notice" method.(ÉÑ…°ıÿÿÿÿ
+…	Web:S5148"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(Ûñï›
+`	php:S1192´"JDefine a constant instead of duplicating this literal "+24 hours" 5 times.(«î’Ô
+e	php:S1142ë"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ÒÅÒ×
+…	Web:S5148µ"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(ÁÏ’Ë
+Š	Web:S5148æ"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(ÌçÔüÿÿÿÿ
+d	php:S1142="OReduce the number of returns of this function 7, down to the maximum allowed 3.(ƒí¡Ò
+]	php:S1192^"HDefine a constant instead of duplicating this literal "version" 3 times.(…â»ó
+e	php:S1142—"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‘€Ì½
+N	php:S1144®"3Remove this unused private "notice_tracker" method.(Ö¤ÄÛüÿÿÿÿ
+ephp:S101"QRename class "Admin_Notices" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÆÂº
+e	php:S1192™"ODefine a constant instead of duplicating this literal "manage_options" 4 times.(›œíƒ
+e	php:S1142é"OReduce the number of returns of this function 4, down to the maximum allowed 3.(œğÜÀ
+U	php:S1144—"?Remove this unused private "notice_popup_maker_promote" method.(‘€Ì½
+j	php:S1142“"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¨¤ä©ıÿÿÿÿ
+e	php:S1142Ã"OReduce the number of returns of this function 5, down to the maximum allowed 3.(…İ¨”
+Š	Web:S5148¹"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(Éˆ‡…øÿÿÿÿ
+Z	php:S1144“"?Remove this unused private "notice_woocommerce_promote" method.(¨¤ä©ıÿÿÿÿ
+O	php:S1144ë"9Remove this unused private "notice_mc4wp_promote" method.(ÒÅÒ×
+j	php:S1142®"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Ö¤ÄÛüÿÿÿÿ
+d	php:S1192G"JDefine a constant instead of duplicating this literal "dashboard" 3 times.(‰¬…¶ÿÿÿÿÿ
+Š	Web:S5148ˆ"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(¬‰¸»ıÿÿÿÿ
+S	php:S1144=">Remove this unused private "notice_api_upgrade_plugin" method.(ƒí¡Ò
+d	php:S1142¿"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ªğ¸A
+V	php:S1144Ã"@Remove this unused private "notice_role_manager_promote" method.(…İ¨”
+f	php:S1192š"PDefine a constant instead of duplicating this literal "install_plugins" 4 times.(Ğ©Á
+a	php:S1192µ"KDefine a constant instead of duplicating this literal "Learn More" 5 times.(ÁÏ’Ë
+f	php:S1192¢"KDefine a constant instead of duplicating this literal "2019-08-01" 4 times.(‹ŸÇ˜ÿÿÿÿÿ

@@ -1,0 +1,13 @@
+
+ˆ	php:S1603 "nReplace this function name "POMO_Reader", since a "__construct" method has already been defined in this class.(±ğªïÿÿÿÿÿ
+Š	php:S1603÷"tReplace this function name "POMO_StringReader", since a "__construct" method has already been defined in this class.(›Âõ€
+Q	php:S1185Í"6Remove this method "__construct" to simply inherit it.(´ğõ„şÿÿÿÿ
+	php:S1603Ø"{Replace this function name "POMO_CachedIntFileReader", since a "__construct" method has already been defined in this class.(º¸’
+sphp:S101ª"YRename class "POMO_CachedFileReader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ì·Æ¾ùÿÿÿÿ
+cphp:S101"ORename class "POMO_Reader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡À°æ
+qphp:S101É"\Rename class "POMO_CachedIntFileReader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÃÂéã
+hphp:S101’"SRename class "POMO_FileReader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(®ëÌê
+	php:S1603£"rReplace this function name "POMO_FileReader", since a "__construct" method has already been defined in this class.(©ë‰÷úÿÿÿÿ
+`	php:S1192!"FDefine a constant instead of duplicating this literal "5.4.0" 5 times.(ØŞŞÕûÿÿÿÿ
+	php:S1603¾"xReplace this function name "POMO_CachedFileReader", since a "__construct" method has already been defined in this class.(›«À÷
+jphp:S101ã"URename class "POMO_StringReader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(€‚¶”

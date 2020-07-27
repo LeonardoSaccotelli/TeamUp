@@ -1,0 +1,4 @@
+
+w	php:S1488"\Immediately return this expression instead of assigning it to the temporary variable "$get".(üêˆİùÿÿÿÿ
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+}php:S101"iRename class "ParagonIE_Sodium_Core32_Curve25519_Fe" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ğ¨¥

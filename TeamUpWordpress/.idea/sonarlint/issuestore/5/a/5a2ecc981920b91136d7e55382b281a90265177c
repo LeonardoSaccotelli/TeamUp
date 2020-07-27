@@ -1,0 +1,54 @@
+
+c	php:S1192ß"HDefine a constant instead of duplicating this literal "default" 6 times.(èÂæûÿÿÿÿ
+j	php:S1142›"OReduce the number of returns of this function 5, down to the maximum allowed 3.(îŠÖşÿÿÿÿÿ
+h	php:S1192´"SDefine a constant instead of duplicating this literal "user-settings-time" 3 times.(‘ß|
+d	php:S1142É
+"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¿“»J
+J	php:S1066ô
+"/Merge this if statement with the enclosing one.(«º–çùÿÿÿÿ
+`	php:S1192I"KDefine a constant instead of duplicating this literal "notoptions" 8 times.(¿ƒï
+d	php:S1192€"IDefine a constant instead of duplicating this literal "meta_key" 3 times.(Œ»é§ÿÿÿÿÿ
+g	php:S1192‰"LDefine a constant instead of duplicating this literal "_transient_" 4 times.(¸æùèøÿÿÿÿ
+c	php:S1192„"HDefine a constant instead of duplicating this literal "siteurl" 4 times.(¹×€¯ÿÿÿÿÿ
+m	php:S1192Ë"RDefine a constant instead of duplicating this literal "sanitize_callback" 6 times.(¥ªÊŞıÿÿÿÿ
+]	php:S1192Ñ"HDefine a constant instead of duplicating this literal "integer" 3 times.(Ò†Ö1
+Ÿphp:S138ñ"‰This function "register_initial_settings" has 170 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(íÆû
+o	php:S1192ı"YDefine a constant instead of duplicating this literal "_site_transient_timeout_" 5 times.(ˆ—Üç
+j	php:S1142±"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Şù÷Áùÿÿÿÿ
+e	php:S1142Ä	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ü³³è
+d	php:S1142"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ğ¦¤Ñ
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğ¦¤Ñ
+i	php:S3776É
+"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿“»J
+o	php:S3776°"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(úõ°Åıÿÿÿÿ
+g	php:S1192ü"QDefine a constant instead of duplicating this literal "_site_transient_" 5 times.(ªÜà
+`	php:S1192†"JDefine a constant instead of duplicating this literal "transient" 3 times.(Ÿ”…¡
+b	php:S1192‘"GDefine a constant instead of duplicating this literal "schema" 5 times.(Ø£åĞúÿÿÿÿ
+h	php:S1192¬"MDefine a constant instead of duplicating this literal "wp-settings-" 7 times.(àå—°ÿÿÿÿÿ
+e	php:S1192¬"ODefine a constant instead of duplicating this literal "site-transient" 3 times.(¡¢á
+j	php:S1142¡"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¥œâÛşÿÿÿÿ
+O	php:S3801Å"4Refactor this function to use "return" consistently.(ç‡§÷şÿÿÿÿ
+e	php:S1142Ã"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¸÷”ˆ
+o	php:S1192ˆ"TDefine a constant instead of duplicating this literal "_transient_timeout_" 4 times.(ëÉïõüÿÿÿÿ
+^	php:S1192ó"IDefine a constant instead of duplicating this literal "general" 11 times.(­ô¼S
+c	php:S1192ä"HDefine a constant instead of duplicating this literal "writing" 3 times.(«îŠ¼úÿÿÿÿ
+e	php:S1142Í"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¶½àª
+¡	php:S1192ò"…Define a constant instead of duplicating this literal "The "%s" options group has been removed. Use another settings group." 4 times.( â«âıÿÿÿÿ
+j	php:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶½àª
+m	php:S1192µ"RDefine a constant instead of duplicating this literal "wp-settings-time-" 3 times.(îÜ§œøÿÿÿÿ
+a	php:S1192¦"KDefine a constant instead of duplicating this literal "alloptions" 7 times.(‘üÕÚ
+c	php:S1192ú"MDefine a constant instead of duplicating this literal "description" 17 times.(•Ü´¥
+i	php:S1192ª"NDefine a constant instead of duplicating this literal "user-settings" 5 times.(Ü½”²ÿÿÿÿÿ
+j	php:S1142°"OReduce the number of returns of this function 5, down to the maximum allowed 3.(úõ°Åıÿÿÿÿ
+i	php:S1192“"NDefine a constant instead of duplicating this literal "site-options" 14 times.(áŞ¾¯üÿÿÿÿ
+^	php:S1192ù"HDefine a constant instead of duplicating this literal "privacy" 4 times.(Øáç¹
+o	php:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(æò’øÿÿÿÿ
+c	php:S1192ÿ
+"HDefine a constant instead of duplicating this literal "site_id" 3 times.(ä­±¿øÿÿÿÿ
+j	php:S3776Ä	"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ü³³è
+J	php:S1066æ"/Merge this if statement with the enclosing one.(èÀÍ­ÿÿÿÿÿ
+^	php:S1192I"IDefine a constant instead of duplicating this literal "options" 17 times.(¿ƒï
+c	php:S1192ƒ"HDefine a constant instead of duplicating this literal "reading" 3 times.(ØÓı•ùÿÿÿÿ
+I	php:S1172	"3Remove the unused function parameter "$deprecated".(ÛÓæµ
+i	php:S1192ö"NDefine a constant instead of duplicating this literal "show_in_rest" 19 times.(ËÇ¦¸ÿÿÿÿÿ
+c	php:S1192ù"HDefine a constant instead of duplicating this literal "string" 12 times.(Şåáßúÿÿÿÿ

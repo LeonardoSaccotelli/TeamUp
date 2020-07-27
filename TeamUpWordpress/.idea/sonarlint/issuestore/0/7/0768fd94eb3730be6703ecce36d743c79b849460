@@ -1,0 +1,6 @@
+
+y	php:S1488R"_Immediately return this expression instead of assigning it to the temporary variable "$output".(—ª¾¿øÿÿÿÿ
+m	php:S1192("SDefine a constant instead of duplicating this literal "_enable_new_follow" 7 times.(®“‚ôúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+c	php:S1192""NDefine a constant instead of duplicating this literal "notifications" 4 times.(ÜÁ¿†
+hphp:S101"URename class "Followers_Account" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ý·ÃV

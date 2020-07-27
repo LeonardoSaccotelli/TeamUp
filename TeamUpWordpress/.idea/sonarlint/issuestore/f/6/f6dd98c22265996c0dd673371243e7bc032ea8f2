@@ -1,0 +1,23 @@
+
+j	php:S1142Ô"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Òÿ»Ïøÿÿÿÿ
+O	php:S1172"4Remove the unused function parameter "$workstation".( ó©±üÿÿÿÿ
+2	php:S2010‘"Replace "or" with "||".(‡ğ‡¡úÿÿÿÿ
+3	php:S2010‚"Replace "and" with "&&".(™ÎÃŒúÿÿÿÿ
+D	php:S1172Œ".Remove the unused function parameter "$realm".(«¥á´
+o	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÁÄ¦©şÿÿÿÿ
+a	php:S1192¥"FDefine a constant instead of duplicating this literal "LOGIN" 3 times.(°©¬ıüÿÿÿÿ
+2	php:S2010„"Replace "or" with "||".(ä½ìİûÿÿÿÿ
+h	php:S1192£"MDefine a constant instead of duplicating this literal "errorHandler" 4 times.(ÿÛÁğÿÿÿÿÿ
+.	php:S2010à"Replace "and" with "&&".(ë£Éá
+3	php:S2010‘"Replace "and" with "&&".(‡ğ‡¡úÿÿÿÿ
+C	php:S1172".Remove the unused function parameter "$OAuth".(õ‰­
+\	php:S1192´"FDefine a constant instead of duplicating this literal "error" 5 times.(Æ£›–
+-	php:S2010¸"Replace "or" with "||".(ó¼íµ
+u	php:S1448"`Class "SMTP" has 38 methods, which is greater than 20 authorized. Split it into smaller classes.(¦ÄåŸ
+2	php:S2010¡"Replace "or" with "||".(àê‰”üÿÿÿÿ
+k	php:S1142ˆ"PReduce the number of returns of this function 13, down to the maximum allowed 3.(ÁÄ¦©şÿÿÿÿ
+o	php:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(àô•áüÿÿÿÿ
+e	php:S1142±"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ûîßŠ
+3	php:S2010ã"Replace "and" with "&&".(ÅÌúÿÿÿÿ
+o	php:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ù½ƒ ûÿÿÿÿ
+.	php:S2010"Replace "and" with "&&".(äæøŞ

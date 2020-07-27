@@ -1,0 +1,34 @@
+
+b	php:S1192†"GDefine a constant instead of duplicating this literal "NOT IN" 3 times.(ôÇÅ„ûÿÿÿÿ
+j	php:S1142¤"OReduce the number of returns of this function 7, down to the maximum allowed 3.(æĞó÷øÿÿÿÿ
+a	php:S1192:"GDefine a constant instead of duplicating this literal "minute" 9 times.(¹ë¦Çÿÿÿÿÿ
+j	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¯şõ¥
+j	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ªËæê
+`	php:S1192:"FDefine a constant instead of duplicating this literal "after" 6 times.(¹ë¦Çÿÿÿÿÿ
+^	php:S1192Ã"HDefine a constant instead of duplicating this literal "compare" 4 times.(øãßİ
+e	php:S1142Æ"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¯şõ¥
+j	php:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(°ä•·
+jphp:S101"QRename class "WP_Date_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öîË’ùÿÿÿÿ
+_	php:S1192˜"IDefine a constant instead of duplicating this literal "relation" 5 times.(ÜÌÂ†
+\	php:S1192Æ"FDefine a constant instead of duplicating this literal " AND " 4 times.(±èÏ
+b	php:S1192£"GDefine a constant instead of duplicating this literal "column" 7 times.(©Ù¾šûÿÿÿÿ
+g	php:S1117ğ"LRename "$relation" which has the same name as the field declared at line 34.(×ë±øøÿÿÿÿ
+d	php:S1192:"JDefine a constant instead of duplicating this literal "dayofweek" 3 times.(¹ë¦Çÿÿÿÿÿ
+g	php:S1192†"LDefine a constant instead of duplicating this literal "NOT BETWEEN" 3 times.(ôÇÅ„ûÿÿÿÿ
+h	php:S1192:"NDefine a constant instead of duplicating this literal "dayofweek_iso" 3 times.(¹ë¦Çÿÿÿÿÿ
+d	php:S1192:"JDefine a constant instead of duplicating this literal "dayofyear" 3 times.(¹ë¦Çÿÿÿÿÿ
+e	php:S1117È"JRename "$column" which has the same name as the field declared at line 42.(¨Ö¦­øÿÿÿÿ
+o	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ºš˜ùÿÿÿÿ
+b	php:S1192¦"GDefine a constant instead of duplicating this literal "where" 20 times.(ìöÂÄøÿÿÿÿ
+o	php:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÖĞ¥Ùúÿÿÿÿ
+o	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÂĞß²úÿÿÿÿ
+a	php:S1192:"GDefine a constant instead of duplicating this literal "month" 18 times.(¹ë¦Çÿÿÿÿÿ
+b	php:S1192‘"GDefine a constant instead of duplicating this literal "<code>" 9 times.(»¾©‡ıÿÿÿÿ
+a	php:S1117Ì"KRename "$compare" which has the same name as the field declared at line 50.(ŠÜÚ±
+c	php:S1117ù"MRename "$time_keys" which has the same name as the field declared at line 58.(‘²†‰
+c	php:S1192‘"HDefine a constant instead of duplicating this literal "</code>" 9 times.(»¾©‡ıÿÿÿÿ
+K	php:S1172Â"5Remove the unused function parameter "$parent_query".(ªËæê
+c	php:S1192†"HDefine a constant instead of duplicating this literal "BETWEEN" 3 times.(ôÇÅ„ûÿÿÿÿ
+a	php:S1192:"GDefine a constant instead of duplicating this literal "before" 6 times.(¹ë¦Çÿÿÿÿÿ
+a	php:S1192:"GDefine a constant instead of duplicating this literal "second" 8 times.(¹ë¦Çÿÿÿÿÿ
+d	php:S1192*"JDefine a constant instead of duplicating this literal "post_date" 6 times.(Şú¶ûÿÿÿÿ

@@ -1,0 +1,5 @@
+
+f	php:S11922"LDefine a constant instead of duplicating this literal "description" 4 times.(‚ ÌÛúÿÿÿÿ
+\	php:S1192e"GDefine a constant instead of duplicating this literal "status" 3 times.(²¥ŠŞ
+yphp:S101"eRename class "WP_REST_Block_Renderer_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„æÑ
+]	php:S1192D"HDefine a constant instead of duplicating this literal "post_id" 5 times.(ËèúÓ

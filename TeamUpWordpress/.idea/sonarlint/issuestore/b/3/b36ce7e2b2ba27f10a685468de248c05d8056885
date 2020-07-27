@@ -1,0 +1,22 @@
+
+fphp:S101"SRename class "WP_Http_Streams" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Â½À
+jphp:S101×"URename class "WP_HTTP_Fsockopen" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œê´
+k	php:S1192ñ"UDefine a constant instead of duplicating this literal "limit_response_size" 12 times.(Ì–××
+a	php:S1192:"GDefine a constant instead of duplicating this literal "scheme" 6 times.(ˆ€ûÿÿÿÿ
+\	php:S1192["GDefine a constant instead of duplicating this literal "tcp://" 3 times.(°¨ÄÀ
+e	php:S1142ò"OReduce the number of returns of this function 6, down to the maximum allowed 3.(”‰›†
+]	php:S1192&"HDefine a constant instead of duplicating this literal "cookies" 4 times.(›Œ¦
+j	php:S3776"URefactor this function to reduce its Cognitive Complexity from 104 to the 15 allowed.(«ƒ“è
+`	php:S1192,"KDefine a constant instead of duplicating this literal "user-agent" 7 times.(›ê¤á
+e	php:S1192+"KDefine a constant instead of duplicating this literal "User-Agent" 3 times.(ø­Š‘şÿÿÿÿ
+d	php:S1192å"IDefine a constant instead of duplicating this literal "response" 3 times.(ÈÍ¬úÿÿÿÿ
+j	php:S1142°"OReduce the number of returns of this function 4, down to the maximum allowed 3.(“Í‡šüÿÿÿÿ
+d	php:S1192ø"IDefine a constant instead of duplicating this literal "filename" 5 times.(š¶À„ùÿÿÿÿ
+‹php:S138"wThis function "request" has 238 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(«ƒ“è
+D	php:S1066¬"/Merge this if statement with the enclosing one.(œ“İ 
+_	php:S1192"IDefine a constant instead of duplicating this literal "\r\n\r\n" 3 times.(Ñ‰«Æ
+d	php:S1142"OReduce the number of returns of this function 8, down to the maximum allowed 3.(«ƒ“è
+b	php:S1192 "HDefine a constant instead of duplicating this literal "timeout" 4 times.(òØ·öùÿÿÿÿ
+]	php:S1192$"IDefine a constant instead of duplicating this literal "headers" 24 times.(ıÜú-
+j	php:S1192¤"TDefine a constant instead of duplicating this literal "http_request_failed" 5 times.( Îìğ
+`	php:S1192:"FDefine a constant instead of duplicating this literal "https" 3 times.(ˆ€ûÿÿÿÿ

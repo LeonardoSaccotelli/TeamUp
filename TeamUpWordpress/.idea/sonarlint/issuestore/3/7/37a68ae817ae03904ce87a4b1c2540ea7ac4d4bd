@@ -1,0 +1,16 @@
+
+a	php:S1192Â"KDefine a constant instead of duplicating this literal "link_notes" 4 times.(ğÂÈ§
+`	php:S1192("KDefine a constant instead of duplicating this literal "link_image" 6 times.(ˆœ¬á
+^	php:S1192)"IDefine a constant instead of duplicating this literal "link_rss" 6 times.(•„ø­
+b	php:S1192¿"LDefine a constant instead of duplicating this literal "link_target" 4 times.(¬¤‡ö
+b	php:S1192¢"LDefine a constant instead of duplicating this literal "link_rating" 5 times.(×ğ©ƒ
+j	php:S3776›"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¼Ü™Ä
+a	php:S1192Á"KDefine a constant instead of duplicating this literal "link_owner" 4 times.(Ì†Æ
+e	php:S1142›"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¼Ü™Ä
+c	php:S1192%"IDefine a constant instead of duplicating this literal "link_url" 8 times.(ŒĞ§Ìşÿÿÿÿ
+b	php:S1192/"HDefine a constant instead of duplicating this literal "link_id" 6 times.(‘»ÕŞûÿÿÿÿ
+l	php:S1192Ã"QDefine a constant instead of duplicating this literal "link_description" 4 times.(»Õ¾¨øÿÿÿÿ
+_	php:S1192'"JDefine a constant instead of duplicating this literal "link_name" 6 times.(Ê£ü
+b	php:S1192*"MDefine a constant instead of duplicating this literal "link_visible" 7 times.(›÷®æ
+i	php:S1192e"ODefine a constant instead of duplicating this literal "link_category" 11 times.(Íÿéùÿÿÿÿ
+_	php:S1192Å"IDefine a constant instead of duplicating this literal "link_rel" 4 times.(½äøï

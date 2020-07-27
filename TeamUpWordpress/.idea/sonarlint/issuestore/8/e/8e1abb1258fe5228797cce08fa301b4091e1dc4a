@@ -1,0 +1,16 @@
+
+e	php:S1192·"ODefine a constant instead of duplicating this literal "permalink_base" 3 times.(û–Ò†
+G	php:S1172"-Remove the unused function parameter "$args".(§ª€¸ıÿÿÿÿ
+o	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ç«öıÿÿÿÿ
+s	php:S1192s"YDefine a constant instead of duplicating this literal "um_registration_complete" 3 times.(Èı²ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(èÉ¹êûÿÿÿÿ
+j	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(—–ıƒ
+y	php:S1192]"_Define a constant instead of duplicating this literal "um_registration_set_extra_data" 3 times.(®¸ûÿÿÿÿ
+B	php:S1172~"-Remove the unused function parameter "$args".(ñ•‹¯
+h	php:S1192—"RDefine a constant instead of duplicating this literal "secondary_btn_url" 3 times.(Åß¨„
+k	php:S1192µ"PDefine a constant instead of duplicating this literal "ultimate-member" 3 times.(×Ø‚Œıÿÿÿÿ
+G	php:S1172
+"-Remove the unused function parameter "$args".(©ª™´øÿÿÿÿ
+E	php:S1066ğ"/Merge this if statement with the enclosing one.(ñ×şö
+B	php:S1172&"-Remove the unused function parameter "$args".(ßáï
+_	php:S1192?"JDefine a constant instead of duplicating this literal "submitted" 8 times.(€Û²Ó

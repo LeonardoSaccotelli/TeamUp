@@ -1,0 +1,5 @@
+
+b	php:S1192{"HDefine a constant instead of duplicating this literal "warning" 7 times.(ϊΰ‹‹ψÿÿÿÿ
+j	php:S1142Ύ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ο”ς²ωÿÿÿÿ
+z	php:S2761ª"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(°Ω²ΐωÿÿÿÿ
+a	php:S1192K"GDefine a constant instead of duplicating this literal "value" 14 times.(ήϊƒέψÿÿÿÿ

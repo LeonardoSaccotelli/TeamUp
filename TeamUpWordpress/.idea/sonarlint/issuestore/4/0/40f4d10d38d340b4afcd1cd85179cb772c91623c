@@ -1,0 +1,4 @@
+
+]	php:S1192<"HDefine a constant instead of duplicating this literal "headers" 4 times.(Ïªã€
+i	php:S11423"OReduce the number of returns of this function 5, down to the maximum allowed 3.(‰ûÿðùÿÿÿÿ
+ophp:S101"VRename class "WP_HTTP_IXR_Client" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²ÁèÔûÿÿÿÿ

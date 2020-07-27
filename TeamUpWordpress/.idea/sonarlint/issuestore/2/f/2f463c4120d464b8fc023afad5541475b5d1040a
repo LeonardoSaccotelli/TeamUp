@@ -1,0 +1,44 @@
+
+I	php:S1172j"4Remove the unused function parameter "$editorArray".(ü›æŒ
+D	php:S1066õ"/Merge this if statement with the enclosing one.(¸¹¡-
+>php:S108Ü")Either remove or fill this block of code.(ÆÁëÎ
+_	php:S3358º"DExtract this nested ternary operation into an independent statement.(Ó€Ú›øÿÿÿÿ
+zphp:S101†"`Rename class "BFI_Image_Editor_Imagick_1_3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¾”şÿÿÿÿ
+j	php:S3776ª"URefactor this function to reduce its Cognitive Complexity from 174 to the 15 allowed.(å¬ß<
+J	php:S1066ê"/Merge this if statement with the enclosing one.(Ø–Ì±ıÿÿÿÿ
+_	php:S3358º"DExtract this nested ternary operation into an independent statement.(Ó€Ú›øÿÿÿÿ
+F	php:S1172Ş"0Remove the unused function parameter "$payload".(ìãŒé
+e	php:S1142ª"PReduce the number of returns of this function 11, down to the maximum allowed 3.(å¬ß<
+o	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼Û‡Íùÿÿÿÿ
+J	php:S1066à"/Merge this if statement with the enclosing one.(ìƒ¢•şÿÿÿÿ
+_	php:S3358º"DExtract this nested ternary operation into an independent statement.(Ó€Ú›øÿÿÿÿ
+j	php:S1142Š"OReduce the number of returns of this function 4, down to the maximum allowed 3.(õ«¿Úøÿÿÿÿ
+b	php:S1192M"HDefine a constant instead of duplicating this literal "version" 3 times.(ÙÌıæùÿÿÿÿ
+E	php:S1066ı"/Merge this if statement with the enclosing one.(¹íÔŸ
+Dphp:S121+"0Add curly braces around the nested statement(s).(õ¢©Ÿ
+E	php:S1066€"/Merge this if statement with the enclosing one.(ÿÆ•
+iphp:S101B"URename class "BFI_Class_Factory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(– ³
+G	php:S1172Š",Remove the unused function parameter "$out".(õ«¿Úøÿÿÿÿ
+C	php:S1172Ş"-Remove the unused function parameter "$crop".(ìãŒé
+D	php:S1066™"/Merge this if statement with the enclosing one.(”£Ëm
+pphp:S101Ù"[Rename class "BFI_Image_Editor_GD_1_3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿ë¿¶
+J	php:S1066ö"/Merge this if statement with the enclosing one.(ä÷ÕĞıÿÿÿÿ
+I	php:S1481Ñ".Remove this unused "$basename" local variable.(«áşáüÿÿÿÿ
+3php:S125‰"Remove this commented out code.(ÍÕd
+J	php:S1066‹"/Merge this if statement with the enclosing one.(Í„ËÌúÿÿÿÿ
+M	php:S1481—"2Remove this unused "$resized_file" local variable.(šÓ£Îøÿÿÿÿ
+fphp:S101’"QRename class "BFI_Thumb_1_3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•‚Œú
+‰php:S138ª"uThis function "thumb" has 172 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(å¬ß<
+a	php:S1192º"FDefine a constant instead of duplicating this literal "00000" 8 times.(Ó€Ú›øÿÿÿÿ
+J	php:S1066„"/Merge this if statement with the enclosing one.(³Ó¸¿üÿÿÿÿ
+J	php:S1066ƒ"/Merge this if statement with the enclosing one.(øÉÁğÿÿÿÿÿ
+J	php:S1066ï"/Merge this if statement with the enclosing one.(ŞÇÏÉúÿÿÿÿ
+E	php:S1066"/Merge this if statement with the enclosing one.(ˆŠ¯ï
+_	php:S11921"JDefine a constant instead of duplicating this literal "bfi_thumb" 3 times.(¢ığ‘
+_	php:S3358º"DExtract this nested ternary operation into an independent statement.(Ó€Ú›øÿÿÿÿ
+i	php:S1192-"TDefine a constant instead of duplicating this literal "BFITHUMB_UPLOAD_DIR" 3 times.(‘ß¨‘
+D	php:S1066Û"/Merge this if statement with the enclosing one.(’Ë
+4php:S125—"Remove this commented out code.(í—¢Ü
+b	php:S1192Ô"LDefine a constant instead of duplicating this literal "imagefilter" 3 times.(Œƒñ®
+9php:S125†"Remove this commented out code.(·®¥Šıÿÿÿÿ
+_	php:S3358º"DExtract this nested ternary operation into an independent statement.(Ó€Ú›øÿÿÿÿ

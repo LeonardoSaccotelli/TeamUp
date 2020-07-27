@@ -1,0 +1,11 @@
+
+h	php:S1192¥"MDefine a constant instead of duplicating this literal "oembed_cache" 3 times.(¶«Ü“úÿÿÿÿ
+b	php:S1192ï"LDefine a constant instead of duplicating this literal "{{unknown}}" 3 times.(Æ¤¸
+e	php:S1142‘"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ŠÒ™
+`php:S101	"LRename class "WP_Embed" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ß”âÚ
+C	php:S1481«"(Remove this unused "$id" local variable.(†™¦Àÿÿÿÿÿ
+^	php:S1192p"IDefine a constant instead of duplicating this literal "callback" 3 times.(ÿ‘œÛ
+C	php:S1481ª".Remove this unused "$priority" local variable.(©°¤.
+j	php:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(ŠÒ™
+a	php:S1117À"KRename "$post_ID" which has the same name as the field declared at line 11.(ÑÚøµ
+h	php:S1192®"MDefine a constant instead of duplicating this literal "post_content" 3 times.(Ÿ÷ÀÌÿÿÿÿÿ

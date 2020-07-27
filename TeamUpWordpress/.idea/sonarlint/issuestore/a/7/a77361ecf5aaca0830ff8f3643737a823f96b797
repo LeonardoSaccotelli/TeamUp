@@ -1,0 +1,44 @@
+
+`	php:S1192Å"KDefine a constant instead of duplicating this literal "Select All" 4 times.(½ f
+c	php:S1192µ"HDefine a constant instead of duplicating this literal "plugins" 4 times.(ùÃşÿÿÿÿ
+d	php:S1192"ODefine a constant instead of duplicating this literal "update_plugins" 3 times.(ÁÃã´
+f	php:S1192@"LDefine a constant instead of duplicating this literal "development" 4 times.(ëâèÿøÿÿÿÿ
+a	php:S1192Ä"FDefine a constant instead of duplicating this literal "title" 3 times.(Ú¢²ºüÿÿÿÿ
+l	php:S1192µ"QDefine a constant instead of duplicating this literal "do-theme-upgrade" 3 times.(ùÃşÿÿÿÿ
+^	php:S1192*"IDefine a constant instead of duplicating this literal "version" 12 times.(²ØÛÙ
+ƒ	php:S1192é"hDefine a constant instead of duplicating this literal "wp-admin/includes/class-wp-upgrader.php" 4 times.(Üµƒ˜şÿÿÿÿ
+NWeb:TableWithoutCaptionCheck×" Add a description to this table.(¿ñ‘½ıÿÿÿÿ
+u	php:S1192œ"ZDefine a constant instead of duplicating this literal "wp-admin/admin-footer.php" 5 times.(ØÖääıÿÿÿÿ
+c	php:S1192¶"HDefine a constant instead of duplicating this literal "checked" 5 times.(¡ºúôüÿÿÿÿ
+Š	php:S1192"pDefine a constant instead of duplicating this literal "Sorry, you are not allowed to update this site." 5 times.(§‚ç¼øÿÿÿÿ
+k	php:S1192–"UDefine a constant instead of duplicating this literal "_wpUpdatesItemCounts" 5 times.(Ë¨Ìˆ
+p	php:S1192 "UDefine a constant instead of duplicating this literal "upgrade-translations" 3 times.(öºŞæûÿÿÿÿ
+\	php:S1192-"GDefine a constant instead of duplicating this literal "en_US" 12 times.(Ò¤ª¦
+\	php:S1192ö"FDefine a constant instead of duplicating this literal "</h2>" 5 times.(Äğšé
+b	php:S1192Í"GDefine a constant instead of duplicating this literal "</div>" 6 times.(˜ñÄøÿÿÿÿ
+c	php:S1192"NDefine a constant instead of duplicating this literal "update_themes" 3 times.(ÁÃã´
+j	php:S1142¯"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ø…àÕÿÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÁ" Add a description to this table.(ÄÙñ£
+]	php:S1192Ú"GDefine a constant instead of duplicating this literal "<br />" 5 times.(œÔ½ª
+c	php:S1192–"HDefine a constant instead of duplicating this literal "upgrade" 3 times.(¨¸çÖşÿÿÿÿ
+o	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.( ¾äÕüÿÿÿÿ
+a	php:S1192"LDefine a constant instead of duplicating this literal "update_core" 4 times.(ÁÃã´
+j	php:S1192"PDefine a constant instead of duplicating this literal "update-core.php" 3 times.( üÆ¨ùÿÿÿÿ
+@	Web:S5256×"%Add "<th>" headers to this "<table>".(¿ñ‘½ıÿÿÿÿ
+m	php:S1192ı"RDefine a constant instead of duplicating this literal "about.php?updated" 3 times.(ø²£óøÿÿÿÿ
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ôÓ¡½øÿÿÿÿ
+o	php:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ø…àÕÿÿÿÿÿ
+b	php:S1192˜"GDefine a constant instead of duplicating this literal "totals" 5 times.(™¬şÿÿÿÿ
+f	php:S1192"QDefine a constant instead of duplicating this literal "update_languages" 3 times.(ÁÃã´
+n	php:S3776&"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(­Áš úÿÿÿÿ
+u	php:S1192ã"ZDefine a constant instead of duplicating this literal "wp-admin/admin-header.php" 5 times.(ÌîİÁûÿÿÿÿ
+]	php:S1192"HDefine a constant instead of duplicating this literal "updates" 6 times.(è”æÉ
+b	php:S1192¼"GDefine a constant instead of duplicating this literal "locale" 8 times.(«Ó¤†şÿÿÿÿ
+a	php:S11928"GDefine a constant instead of duplicating this literal "latest" 4 times.(Õ“Ó«úÿÿÿÿ
+d	php:S1192"NDefine a constant instead of duplicating this literal "upgrade-core" 12 times.(ëŒ×Ï
+;	Web:S5256Á"%Add "<th>" headers to this "<table>".(ÄÙñ£
+]	php:S1192·"GDefine a constant instead of duplicating this literal "themes" 4 times.(ÉÆš
+a	php:S1192ü"KDefine a constant instead of duplicating this literal "</p></div>" 3 times.(ä¿—É
+j	php:S1192À"ODefine a constant instead of duplicating this literal "Update Plugins" 4 times.(áï¡Áùÿÿÿÿ
+J	Web:S1827‚"/Remove this deprecated "frameborder" attribute.(Ø‘´¯üÿÿÿÿ
+d	php:S1192Ö"NDefine a constant instead of duplicating this literal "Update Themes" 4 times.(¾Ş¤ì

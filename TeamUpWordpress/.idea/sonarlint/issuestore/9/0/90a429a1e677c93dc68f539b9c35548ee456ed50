@@ -1,0 +1,17 @@
+
+_	php:S1192"JDefine a constant instead of duplicating this literal "post_type" 9 times.(çáˆ
+b	php:S1192¢"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(µ´¢
+p	php:S3776…"URefactor this function to reduce its Cognitive Complexity from 115 to the 15 allowed.(çÁ€²ùÿÿÿÿ
+i	php:S3776„"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(İ™Â'
+[	php:S1192"FDefine a constant instead of duplicating this literal "error" 6 times.(çáˆ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÜÒ˜ö
+b	php:S1192¢"MDefine a constant instead of duplicating this literal "blog_charset" 3 times.(µ´¢
+`	php:S1192¢"KDefine a constant instead of duplicating this literal "; charset=" 3 times.(µ´¢
+d	php:S1192¬"IDefine a constant instead of duplicating this literal "PHP_SELF" 3 times.(’©‘Éûÿÿÿÿ
+i	php:S1192É"NDefine a constant instead of duplicating this literal "Last-Modified" 5 times.(¸äÊäúÿÿÿÿ
+^	php:S1192"IDefine a constant instead of duplicating this literal "taxonomy" 4 times.(çáˆ
+c	php:S1192¡"MDefine a constant instead of duplicating this literal "query_string" 3 times.(”ïÕå
+e	php:S1192™"ODefine a constant instead of duplicating this literal "D, d M Y H:i:s" 4 times.(Ã³œÏ
+—php:S138…"}This function "parse_request" has 158 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(çÁ€²ùÿÿÿÿ
+d	php:S1142„"OReduce the number of returns of this function 6, down to the maximum allowed 3.(İ™Â'
+c	php:S1192¢"HDefine a constant instead of duplicating this literal "objects" 3 times.(ŸÔ­¦øÿÿÿÿ

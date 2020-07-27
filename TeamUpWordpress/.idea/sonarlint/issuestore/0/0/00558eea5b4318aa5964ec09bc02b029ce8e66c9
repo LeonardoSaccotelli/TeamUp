@@ -1,0 +1,15 @@
+
+i	php:S37763"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(íÄ¼Ì
+a	php:S1192W"GDefine a constant instead of duplicating this literal "select" 3 times.(£ŸÀÜùÿÿÿÿ
+z	php:S1488"_Immediately return this expression instead of assigning it to the temporary variable "$string".(Ñ´‘ïşÿÿÿÿ
+Jphp:S121¯"0Add curly braces around the nested statement(s).(”Ïåşÿÿÿÿ
+b	php:S1192X"HDefine a constant instead of duplicating this literal "options" 8 times.(•³šáøÿÿÿÿ
+y	php:S1192^"_Define a constant instead of duplicating this literal "custom_dropdown_options_source" 4 times.(¹¬ü±ûÿÿÿÿ
+f	php:S1192W"LDefine a constant instead of duplicating this literal "multiselect" 3 times.(£ŸÀÜùÿÿÿÿ
+j	php:S1142ø"OReduce the number of returns of this function 5, down to the maximum allowed 3.(à”“¯ùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+e	php:S1142«"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ş²·¤
+Ephp:S121±"0Add curly braces around the nested statement(s).(„ô¹â
+j	php:S1142¡"OReduce the number of returns of this function 4, down to the maximum allowed 3.(«©í‡øÿÿÿÿ
+Jphp:S121°"0Add curly braces around the nested statement(s).(ƒ¦º˜ûÿÿÿÿ
+s	php:S1488Ÿ"]Immediately return this expression instead of assigning it to the temporary variable "$name".(¿İÿ

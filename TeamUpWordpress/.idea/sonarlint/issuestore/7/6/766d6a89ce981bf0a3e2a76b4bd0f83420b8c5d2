@@ -1,0 +1,8 @@
+
+a	php:S1192_"LDefine a constant instead of duplicating this literal "um_user_tag" 3 times.(Ç¤Þ®
+@	php:S1172
+"-Remove the unused function parameter "$args".(Ž”@
+]	php:S1192h"HDefine a constant instead of duplicating this literal "term_id" 3 times.(ôÒÓÞ
+[	php:S1192g"FDefine a constant instead of duplicating this literal "count" 3 times.( Œ‡ù
+n	php:S37763"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ù¥Ì¨üÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ýÿÿÿÿ

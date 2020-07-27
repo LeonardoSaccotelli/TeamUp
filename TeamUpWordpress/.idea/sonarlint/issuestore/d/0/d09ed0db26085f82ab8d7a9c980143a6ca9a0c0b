@@ -1,0 +1,8 @@
+
+{	php:S1488>"aImmediately return this expression instead of assigning it to the temporary variable "$defaults".(³¸•²úÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ýÿÿÿÿ
+l	php:S1192V"WDefine a constant instead of duplicating this literal "um_notifications_setup" 3 times.(¾«å”
+qphp:S101"XRename class "UM_Notifications_API" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™ú´Ëùÿÿÿÿ
+o	php:S1192n"UDefine a constant instead of duplicating this literal "um_notifications_api" 3 times.(É‘ãæúÿÿÿÿ
+m	php:S1192y"XDefine a constant instead of duplicating this literal "um_notification_enqueue" 3 times.(Ý—–¶
+u	php:S1192„"ZDefine a constant instead of duplicating this literal "um_notification_shortcode" 3 times.(þÊ›¥øÿÿÿÿ

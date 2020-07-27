@@ -1,0 +1,11 @@
+
+K	php:S1172Œ"0Remove the unused function parameter "$matches".(¼ÙÑûÿÿÿÿ
+e	php:S1142Ò"OReduce the number of returns of this function 4, down to the maximum allowed 3.(åüÇ
+a	php:S1192¨"FDefine a constant instead of duplicating this literal "title" 6 times.(¿Óì¹ıÿÿÿÿ
+b	php:S1192œ"GDefine a constant instead of duplicating this literal "format" 3 times.(‘æØüÿÿÿÿ
+`	php:S1192\"FDefine a constant instead of duplicating this literal "width" 7 times.(éÛ­§ùÿÿÿÿ
+s	php:S1488£"]Immediately return this expression instead of assigning it to the temporary variable "$html".(¸ß·ß
+a	php:S1192\"GDefine a constant instead of duplicating this literal "height" 5 times.(éÛ­§ùÿÿÿÿ
+\	php:S1192Û"FDefine a constant instead of duplicating this literal "video" 5 times.(‡œ³
+F	php:S1172§"0Remove the unused function parameter "$matches".(ç¡ „
+j	php:S1142æ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ï¸ˆ•øÿÿÿÿ

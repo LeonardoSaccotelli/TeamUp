@@ -1,0 +1,15 @@
+
+w	php:S1488]"bImmediately return this expression instead of assigning it to the temporary variable "$edit_link".(éÅìˆ
+[	php:S1192]"FDefine a constant instead of duplicating this literal "2.0.0" 7 times.(éÅìˆ
+€	php:S1488ò"jImmediately return this expression instead of assigning it to the temporary variable "$placeholder_image".(Îú¶É
+{	php:S1448"aClass "Utils" has 27 methods, which is greater than 20 authorized. Split it into smaller classes.(‚Êë‚üÿÿÿÿ
+€	php:S1488í"eImmediately return this expression instead of assigning it to the temporary variable "$new_post_url".(ŠÂúšùÿÿÿÿ
+Zphp:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(¤±™X
+[php:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(€îãÁ
+q	php:S1488¡"\Immediately return this expression instead of assigning it to the temporary variable "$url".(Èœ·x
+e	php:S1192Ş"JDefine a constant instead of duplicating this literal "elementor" 5 times.(šŞÁûûÿÿÿÿ
+r	php:S1488}"]Immediately return this expression instead of assigning it to the temporary variable "$link".(÷ŸÖ¢
+8php:S125!"Remove this commented out code.(ö°Âéùÿÿÿÿ
+‚	php:S1488Å"gImmediately return this expression instead of assigning it to the temporary variable "$wp_preview_url".(™Ñ´”ùÿÿÿÿ
+{	php:S1488¼"eImmediately return this expression instead of assigning it to the temporary variable "$is_supported".(ºı‰Æ
+`php:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(šŞÁûûÿÿÿÿ

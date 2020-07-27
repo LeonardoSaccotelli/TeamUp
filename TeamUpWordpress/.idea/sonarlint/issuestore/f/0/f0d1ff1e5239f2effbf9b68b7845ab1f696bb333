@@ -1,0 +1,35 @@
+
+Jphp:S121×"0Add curly braces around the nested statement(s).(åÒıëüÿÿÿÿ
+`	php:S1192H"FDefine a constant instead of duplicating this literal "login" 3 times.(™é¿üÿÿÿÿ
+^	php:S1192Â"HDefine a constant instead of duplicating this literal "blog_id" 5 times.(›Á¶È
+g	php:S1192‡"LDefine a constant instead of duplicating this literal "upload_path" 3 times.(ğê¿ûÿÿÿÿ
+Ephp:S121¨"0Add curly braces around the nested statement(s).(×Úƒş
+Jphp:S121¿"0Add curly braces around the nested statement(s).(Ì£¾øÿÿÿÿ
+`	php:S1192-"FDefine a constant instead of duplicating this literal "3.0.0" 9 times.(´£¦¾ÿÿÿÿÿ
+Jphp:S121÷"0Add curly braces around the nested statement(s).(¦¹ÎÎıÿÿÿÿ
+Ephp:S121“"0Add curly braces around the nested statement(s).(Àí´±
+N	php:S1172º"3Remove the unused function parameter "$deprecated".(š‚›„ûÿÿÿÿ
+a	php:S1192í"FDefine a constant instead of duplicating this literal "limit" 6 times.(‚âÜ¹ÿÿÿÿÿ
+]	php:S1192¼"GDefine a constant instead of duplicating this literal "number" 3 times.(‰âÅ‚
+`	php:S1192Ã"JDefine a constant instead of duplicating this literal "postcount" 3 times.(Ù®îˆ
+Ephp:S121Ş"0Add curly braces around the nested statement(s).(í¶ö 
+q	php:S3973Q"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ÁˆÑõıÿÿÿÿ
+_	php:S1192¥"IDefine a constant instead of duplicating this literal "redirect" 9 times.(¦™á÷
+Jphp:S121Á"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+a	php:S1192û"FDefine a constant instead of duplicating this literal "https" 4 times.(Êş‹×üÿÿÿÿ
+Ephp:S121ã"0Add curly braces around the nested statement(s).(ø¢‚•
+K	php:S1172"0Remove the unused function parameter "$post_id".(ïãÄÅÿÿÿÿÿ
+c	php:S1192õ"HDefine a constant instead of duplicating this literal "http://" 4 times.(ªø£‹ÿÿÿÿÿ
+E	php:S1066ò"/Merge this if statement with the enclosing one.(¾üš·
+Dphp:S121I"0Add curly braces around the nested statement(s).(âÃóÉ
+f	php:S1192ç"KDefine a constant instead of duplicating this literal "network_id" 4 times.(¿¸šûÿÿÿÿ
+F	php:S1172£"0Remove the unused function parameter "$blog_id".(öÛ×¢
+Ephp:S121"0Add curly braces around the nested statement(s).(¦ø†‘
+Iphp:S121E"0Add curly braces around the nested statement(s).(üÒÁúÿÿÿÿÿ
+F	php:S1172"0Remove the unused function parameter "$user_id".(³áôí
+b	php:S1192õ"GDefine a constant instead of duplicating this literal "domain" 3 times.(ªø£‹ÿÿÿÿÿ
+Jphp:S121œ"0Add curly braces around the nested statement(s).(Ã¸¾€ûÿÿÿÿ
+Ephp:S121Ã"0Add curly braces around the nested statement(s).(ªòí
+Jphp:S121Û"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+P	php:S1172Œ"5Remove the unused function parameter "$weblog_title".(—ºÚèıÿÿÿÿ
+Ephp:S121Ù"0Add curly braces around the nested statement(s).(¢§Áî

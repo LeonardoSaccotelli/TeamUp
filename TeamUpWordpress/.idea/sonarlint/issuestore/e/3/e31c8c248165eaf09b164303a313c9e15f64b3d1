@@ -1,0 +1,8 @@
+
+d	php:S1192¶"IDefine a constant instead of duplicating this literal "meta_key" 3 times.(è‚®Žÿÿÿÿÿ
+9php:S125ä"Remove this commented out code.(¿„Æ½üÿÿÿÿ
+C	php:S1172Î"-Remove the unused function parameter "$page".(Ÿ¬¤†
+gphp:S101"NRename class "Admin_GDPR" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(º€á©ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+f	php:S1192*"QDefine a constant instead of duplicating this literal "ultimate-member" 21 times.(Àƒ¡Ó
+H	php:S1172“"-Remove the unused function parameter "$page".(‰€ƒ°ýÿÿÿÿ

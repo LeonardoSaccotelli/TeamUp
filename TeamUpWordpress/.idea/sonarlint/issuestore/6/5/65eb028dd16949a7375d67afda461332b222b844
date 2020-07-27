@@ -1,0 +1,13 @@
+
+c	php:S1192="NDefine a constant instead of duplicating this literal "profile_photo" 6 times.(şÒüÂ
+c	php:S1192?"IDefine a constant instead of duplicating this literal "verified" 3 times.(Ò”‡ úÿÿÿÿ
+e	php:S1192<"PDefine a constant instead of duplicating this literal "hide_in_members" 3 times.(ÁÃ‰
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+Pphp:S131C"7Add a "case default" clause to this "switch" statement.(š¼àâûÿÿÿÿ
+f	php:S1192>"LDefine a constant instead of duplicating this literal "cover_photo" 3 times.(³ì£Ğüÿÿÿÿ
+^	php:S11929"IDefine a constant instead of duplicating this literal "user_id" 10 times.(¯éÍò
+h	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ºí¿'
+d	php:S1192;"ODefine a constant instead of duplicating this literal "account_status" 3 times.(—»‹
+j	php:S1192"PDefine a constant instead of duplicating this literal "ultimate-member" 5 times.(ÅÀŠ·úÿÿÿÿ
+I	php:S1066X"/Merge this if statement with the enclosing one.(è¾úÿÿÿÿ
+f	php:S1192E"LDefine a constant instead of duplicating this literal "meta_value" 10 times.(Äº ©ùÿÿÿÿ

@@ -1,0 +1,24 @@
+
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ò×ÑÚÿÿÿÿÿ
+^	php:S1192 "IDefine a constant instead of duplicating this literal "bookmark" 8 times.(´¤ŒÑ
+Lphp:S131"7Add a "case default" clause to this "switch" statement.(Åì•Ã
+h	php:S1192–"MDefine a constant instead of duplicating this literal "link_visible" 3 times.(™ïüøÿÿÿÿÿ
+c	php:S1192Š"HDefine a constant instead of duplicating this literal "orderby" 3 times.(×çÎÀüÿÿÿÿ
+i	php:S1192"NDefine a constant instead of duplicating this literal "category_name" 4 times.(§Ô¼°şÿÿÿÿ
+f	php:S1192–"KDefine a constant instead of duplicating this literal "link_notes" 3 times.(™ïüøÿÿÿÿÿ
+i	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Ò×ÑÚÿÿÿÿÿ
+]	php:S1192“"GDefine a constant instead of duplicating this literal "search" 3 times.(µÌ”½
+h	php:S1192*"NDefine a constant instead of duplicating this literal "link_category" 4 times.(ßÎ´Óüÿÿÿÿ
+a	php:S1192Œ"FDefine a constant instead of duplicating this literal "limit" 3 times.(½§Òùÿÿÿÿ
+e	php:S1192–"JDefine a constant instead of duplicating this literal "link_name" 3 times.(™ïüøÿÿÿÿÿ
+_	php:S1192"IDefine a constant instead of duplicating this literal "category" 8 times.(¯‘¿Ê
+o	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(¼¼•üÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "show_updated" 3 times.(øÙİ¥ıÿÿÿÿ
+y	php:S1488•"^Immediately return this expression instead of assigning it to the temporary variable "$value".(á×Â¼ûÿÿÿÿ
+^	php:S1192’"HDefine a constant instead of duplicating this literal "exclude" 4 times.(äüÁ¾
+c	php:S1192‘"HDefine a constant instead of duplicating this literal "include" 3 times.(À‹Šøÿÿÿÿ
+E	php:S1066œ"/Merge this if statement with the enclosing one.(Òüˆ
+i	php:S1142L"OReduce the number of returns of this function 4, down to the maximum allowed 3.(½š¾âûÿÿÿÿ
+^	php:S1192‘"HDefine a constant instead of duplicating this literal "link_id" 5 times.(Ì¯²–
+g	php:S1192–"LDefine a constant instead of duplicating this literal "link_rating" 3 times.(™ïüøÿÿÿÿÿ
+i	php:S1192™"NDefine a constant instead of duplicating this literal "get_bookmarks" 7 times.(É¾™’ıÿÿÿÿ

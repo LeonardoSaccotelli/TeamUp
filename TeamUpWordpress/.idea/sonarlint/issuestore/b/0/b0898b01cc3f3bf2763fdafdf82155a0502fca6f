@@ -1,0 +1,33 @@
+
+G	php:S1481"1Remove this unused "$date_format" local variable.(—Êù¨
+Dphp:S121‰"0Add curly braces around the nested statement(s).(Ş‘
+d	php:S1192"JDefine a constant instead of duplicating this literal "um-theme" 15 times.(«Ä•¡ıÿÿÿÿ
+Ephp:S121¡"0Add curly braces around the nested statement(s).(ºÕğÂ
+n	php:S3776N"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ãİøàùÿÿÿÿ
+`	php:S1192p"FDefine a constant instead of duplicating this literal "order" 4 times.(óÿ™ëúÿÿÿÿ
+j	php:S1192ƒ"TDefine a constant instead of duplicating this literal "selected="selected"" 6 times.(õÎŠ±
+\	php:S1192m"GDefine a constant instead of duplicating this literal "fields" 4 times.(â°
+Ephp:S121†"0Add curly braces around the nested statement(s).(£¡Œó
+Ephp:S121"0Add curly braces around the nested statement(s).(Äúéğ
+¬	php:S2681†"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(£¡Œó
+l	php:S1192"RDefine a constant instead of duplicating this literal "um-member-layout" 11 times.(¹¥¬‚ıÿÿÿÿ
+[	php:S1192n"GDefine a constant instead of duplicating this literal "number" 4 times.(–ÒÕ
+Jphp:S121Œ"0Add curly braces around the nested statement(s).(«ÏÂûıÿÿÿÿ
+b	php:S1192o"HDefine a constant instead of duplicating this literal "orderby" 4 times.(ıÓô›úÿÿÿÿ
+k	php:S1192"QDefine a constant instead of duplicating this literal "um-member-order" 12 times.(Ù™¨äøÿÿÿÿ
+N	php:S1481ï"3Remove this unused "$member_layout" local variable.(Ë†Û£ûÿÿÿÿ
+¬	php:S2681ƒ"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(õÎŠ±
+`	php:S1192"FDefine a constant instead of duplicating this literal "title" 8 times.(«Ä•¡ıÿÿÿÿ
+Jphp:S121õ"0Add curly braces around the nested statement(s).(¦´÷Çùÿÿÿÿ
+@	php:S1481œ"*Remove this unused "$user" local variable.(Š­éÒ
+xphp:S101"_Rename class "Um_Theme_Widget_New_Members" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”¤éÕúÿÿÿÿ
+l	php:S3973e"WUse curly braces or indentation to denote the code conditionally executed by this "if".(©‹ö×
+r	php:S3973’"WUse curly braces or indentation to denote the code conditionally executed by this "if".(­†ØËÿÿÿÿÿ
+¬	php:S2681"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(Äúéğ
+Jphp:S121û"0Add curly braces around the nested statement(s).(¡¥¿…ÿÿÿÿÿ
+_	php:S1192"JDefine a constant instead of duplicating this literal "member-no" 9 times.(½»éİ
+Ephp:S121ƒ"0Add curly braces around the nested statement(s).(õÎŠ±
+b	php:S1192"MDefine a constant instead of duplicating this literal "display_name" 7 times.(òÁê‡
+±	php:S2681Œ"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(«ÏÂûıÿÿÿÿ
+«	php:S2681‰"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(Ş‘
+¬	php:S2681¡"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(ºÕğÂ

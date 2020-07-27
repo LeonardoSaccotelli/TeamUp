@@ -1,0 +1,23 @@
+
+s	php:S1192Š"XDefine a constant instead of duplicating this literal "astra-post-data-mapping" 5 times.(Àº„óûÿÿÿÿ
+o	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ıíˆûÿÿÿÿ
+^	php:S1192Ü"IDefine a constant instead of duplicating this literal "specific" 7 times.(‘£‡+
+\	php:S1192—"GDefine a constant instead of duplicating this literal "images" 3 times.(Ôóº
+D	php:S1481‘")Remove this unused "$key" local variable.(‘ô¹Îüÿÿÿÿ
+f	php:S1192’"KDefine a constant instead of duplicating this literal "post_title" 4 times.( ­³ùÿÿÿÿ
+J	php:S1172x"5Remove the unused function parameter "$demo_api_uri".(ÚÑõò
+J	php:S1481ã"/Remove this unused "$post_type" local variable.(À®ôèüÿÿÿÿ
+I	php:S1481å".Remove this unused "$post_key" local variable.(ä±‰€ÿÿÿÿÿ
+D	php:S1066j"/Merge this if statement with the enclosing one.(á¬å´
+zphp:S101"gRename class "Astra_Sites_Compatibility_Astra_Pro" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀÌÒ1
+c	php:S1192—"HDefine a constant instead of duplicating this literal "mapping" 4 times.(¥¼Êÿÿÿÿÿ
+?	php:S1481˜")Remove this unused "$key" local variable.(«×
+a	php:S1192<"GDefine a constant instead of duplicating this literal "WP_CLI" 3 times.(â“”úÿÿÿÿ
+D	php:S1066{"/Merge this if statement with the enclosing one.(á¬å´
+D	php:S1481ò".Remove this unused "$term_key" local variable.(†ÍïÚ
+D	php:S1066X"/Merge this if statement with the enclosing one.(á¬å´
+O	php:S1172g"5Remove the unused function parameter "$demo_api_uri".(Ø‡Ëùÿÿÿÿ
+a	php:S1192"FDefine a constant instead of duplicating this literal "menus" 3 times.(­óÿêúÿÿÿÿ
+†	php:S1192X"qDefine a constant instead of duplicating this literal "Astra_Admin_Helper::update_admin_settings_option" 3 times.(á¬å´
+\	php:S1192™"FDefine a constant instead of duplicating this literal "image" 3 times.(¾†Ä–
+j	php:S3776×"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(«î

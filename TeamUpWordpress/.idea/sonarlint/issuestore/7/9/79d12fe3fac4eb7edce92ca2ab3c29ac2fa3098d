@@ -1,0 +1,22 @@
+
+u	php:S1488«"_Immediately return this expression instead of assigning it to the temporary variable "$packed".(í¬¿½
+0	php:S3626"Remove this redundant jump.(ûÁÝ…
+rphp:S101
+"^Rename class "ParagonIE_Sodium_Core_Util" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õ›¬à
+j	php:S1142„"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ï¢ôÜüÿÿÿÿ
+<	php:S1110ß"!Remove these useless parentheses.(Õ¨ÞÓüÿÿÿÿ
+<	php:S1110ß"!Remove these useless parentheses.(Õ¨ÞÓüÿÿÿÿ
+u	php:S1488’"_Immediately return this expression instead of assigning it to the temporary variable "$packed".(ƒèÏô
+{	php:S1192õ"`Define a constant instead of duplicating this literal "Argument 1 must be an integer, " 4 times.(”¾ÏÙúÿÿÿÿ
+e	php:S1192Å"JDefine a constant instead of duplicating this literal "Argument " 7 times.(çñÃîøÿÿÿÿ
+H	php:S2761ß"-Use the "~" operator just once or not at all.(Õ¨ÞÓüÿÿÿÿ
+f	php:S1192ñ"PDefine a constant instead of duplicating this literal "String expected" 7 times.(ê« ¶
+^	php:S11922"IDefine a constant instead of duplicating this literal " given." 22 times.(ÌðÊÉ
+s	php:S11922"^Define a constant instead of duplicating this literal "Argument 1 must be a string, " 7 times.(ÌðÊÉ
+o	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ðâÀ¬ÿÿÿÿÿ
+‹	php:S1448
+"vClass "ParagonIE_Sodium_Core_Util" has 27 methods, which is greater than 20 authorized. Split it into smaller classes.(õ›¬à
+H	php:S2761ß"-Use the "~" operator just once or not at all.(Õ¨ÞÓüÿÿÿÿ
+E	php:S1066ï"/Merge this if statement with the enclosing one.(¤šãú
+z	php:S1488Æ"_Immediately return this expression instead of assigning it to the temporary variable "$packed".(ãÜšìùÿÿÿÿ
+z	php:S1488Œ"_Immediately return this expression instead of assigning it to the temporary variable "$values".(íâåùÿÿÿÿ

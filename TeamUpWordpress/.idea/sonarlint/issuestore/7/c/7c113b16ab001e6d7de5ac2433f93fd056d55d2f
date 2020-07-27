@@ -1,0 +1,50 @@
+
+b	php:S1192†"LDefine a constant instead of duplicating this literal "placeholder" 4 times.(“—Ô†
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.( æƒàúÿÿÿÿ
+`	php:S1192‡"JDefine a constant instead of duplicating this literal "lazy_load" 3 times.(ßé„
+i	php:S1192ö"NDefine a constant instead of duplicating this literal "image_overlay" 6 times.(©¯¼èÿÿÿÿÿ
+\	php:S1192q"HDefine a constant instead of duplicating this literal "options" 5 times.(ò–»6
+a	php:S1192X"LDefine a constant instead of duplicating this literal "dailymotion" 8 times.(»îƒ¤
+€	php:S1192ó"kDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-custom-embed-play i" 3 times.(Ğ¸k
+d	php:S1192¬"IDefine a constant instead of duplicating this literal "lightbox" 8 times.(ò£é³üÿÿÿÿ
+e	php:S1192½"JDefine a constant instead of duplicating this literal "label_off" 9 times.(¹ı¯âøÿÿÿÿ
+f	php:S1192ó"QDefine a constant instead of duplicating this literal "color: {{VALUE}}" 3 times.(Ğ¸k
+j	php:S1192Ÿ"ODefine a constant instead of duplicating this literal "show_play_icon" 6 times.(Óƒğïúÿÿÿÿ
+i	php:S1192½"NDefine a constant instead of duplicating this literal "image-overlay" 5 times.(ŞŠÚÑıÿÿÿÿ
+f	php:S1192º"KDefine a constant instead of duplicating this literal "insert_url" 4 times.(™óßœûÿÿÿÿ
+]	php:S1192"HDefine a constant instead of duplicating this literal "dynamic" 6 times.(Ï­ıñ
+^	php:S1192X"IDefine a constant instead of duplicating this literal "youtube" 11 times.(»îƒ¤
+e	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 82 times.(Ãàáùÿÿÿÿ
+[	php:S1192g"GDefine a constant instead of duplicating this literal "label" 47 times.(µé‹:
+b	php:S1192€"GDefine a constant instead of duplicating this literal "active" 6 times.(Ğÿ‰’şÿÿÿÿ
+\	php:S1192X"GDefine a constant instead of duplicating this literal "vimeo" 10 times.(»îƒ¤
+b	php:S1192"GDefine a constant instead of duplicating this literal "before" 3 times.(¾†üÿÿÿÿÿ
+b	php:S1192³"LDefine a constant instead of duplicating this literal "video_type!" 3 times.(€‡
+a	php:S1192‰"KDefine a constant instead of duplicating this literal "condition" 32 times.(Ä‹
+d	php:S1192®"NDefine a constant instead of duplicating this literal "video-wrapper" 4 times.(üë•
+b	php:S1192u"HDefine a constant instead of duplicating this literal "hosted" 13 times.(®áŞûøÿÿÿÿ
+g	php:S1192ˆ"LDefine a constant instead of duplicating this literal "label_block" 4 times.(à–ÂÆúÿÿÿÿ
+c	php:S1192p"IDefine a constant instead of duplicating this literal "default" 17 times.(Äõšüÿÿÿÿ
+`	php:S1192"KDefine a constant instead of duplicating this literal "categories" 5 times.(îìè
+N	Web:S4084Ö"3Add subtitles and description files for this video.(Œ¬ìùÿÿÿÿ
+`	php:S1192,"FDefine a constant instead of duplicating this literal "Video" 3 times.(Ãàáùÿÿÿÿ
+a	php:S1192¹"FDefine a constant instead of duplicating this literal "muted" 3 times.(ªÜı‰øÿÿÿÿ
+b	php:S1192õ"LDefine a constant instead of duplicating this literal "description" 3 times.(·Îƒæ
+e	php:S1192†"ODefine a constant instead of duplicating this literal "Enter your URL" 4 times.(“—Ô†
+\	php:S1192®"FDefine a constant instead of duplicating this literal "class" 5 times.(üë•
+`	php:S1192"FDefine a constant instead of duplicating this literal "video" 5 times.(º„˜¸úÿÿÿÿ
+j	php:S1192¦"TDefine a constant instead of duplicating this literal "image_overlay[url]!" 3 times.(®ÛÿÉ
+]	php:S1192ñ"GDefine a constant instead of duplicating this literal "start" 10 times.(£òš
+d	php:S1192¹"IDefine a constant instead of duplicating this literal "controls" 5 times.(«±¯ôùÿÿÿÿ
+j	php:S1192›"ODefine a constant instead of duplicating this literal "play_on_mobile" 3 times.(¨´¤òÿÿÿÿÿ
+œphp:S138c"‚This function "_register_controls" has 619 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+dphp:S101"PRename class "Widget_Video" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(–ññ
+e	php:S1192ò"JDefine a constant instead of duplicating this literal "selectors" 7 times.(Ú‘›æúÿÿÿÿ
+d	php:S1192¾"IDefine a constant instead of duplicating this literal "label_on" 9 times.(Î¸µúÿÿÿÿ
+b	php:S1192Ï"GDefine a constant instead of duplicating this literal "poster" 4 times.(ÂßŞşÿÿÿÿ
+_	php:S1192“"IDefine a constant instead of duplicating this literal "autoplay" 5 times.(â®ÔÜ
+e	php:S1192"JDefine a constant instead of duplicating this literal "separator" 5 times.(¾†üÿÿÿÿÿ
+a	php:S1192l"LDefine a constant instead of duplicating this literal "video_type" 32 times.(ùàè
+a	php:S1192ï"FDefine a constant instead of duplicating this literal "color" 4 times.(é÷ÚŸûÿÿÿÿ
+o	php:S1192ì"TDefine a constant instead of duplicating this literal "show_image_overlay" 12 times.(ÌÃë‰ÿÿÿÿÿ
+i	php:S1192°"SDefine a constant instead of duplicating this literal "frontend_available" 4 times.(‘İĞ€

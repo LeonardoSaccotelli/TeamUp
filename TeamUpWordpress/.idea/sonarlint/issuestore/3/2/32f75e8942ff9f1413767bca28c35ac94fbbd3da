@@ -1,0 +1,38 @@
+
+e	php:S1192œ"JDefine a constant instead of duplicating this literal "gutenberg" 4 times.(ÛÇõŠúÿÿÿÿ
+e	php:S1192“"ODefine a constant instead of duplicating this literal "beaver-builder" 5 times.(ñÛê¢
+p	php:S1192±"UDefine a constant instead of duplicating this literal "astra_sites_settings" 5 times.(×©¶¢úÿÿÿÿ
+p	php:S1192"[Define a constant instead of duplicating this literal "astra-sites-welcome-screen" 3 times.(Ê°ªO
+c	php:S1192J"NDefine a constant instead of duplicating this literal "page_builder" 16 times.(õÀâğ
+n	php:S1192"YDefine a constant instead of duplicating this literal "astra-sites-page-builder" 4 times.(Ê°ªO
+MWeb:ImgWithoutAltCheckå"%Add an "alt" attribute to this image.( ƒö§ùÿÿÿÿ
+hphp:S101"TRename class "Astra_Sites_Page" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«£¦
+c	php:S1192"HDefine a constant instead of duplicating this literal "message" 3 times.(×ÃŸòşÿÿÿÿ
+MWeb:BoldAndItalicTagsCheckÃ"!Replace this <b> tag by <strong>.(÷òšªÿÿÿÿÿ
+Qphp:S131"7Add a "case default" clause to this "switch" statement.(½¨½‹ûÿÿÿÿ
+j	php:S1192š"ODefine a constant instead of duplicating this literal "manage_options" 3 times.(¯¡ÃÍøÿÿÿÿ
+l	php:S1192{"RDefine a constant instead of duplicating this literal "starter-templates" 4 times.(ñ”Ôùÿÿÿÿ
+H	php:S1481‡"2Remove this unused "$current_slug" local variable.(„Ò–—
+HWeb:ImgWithoutAltCheck‡"%Add an "alt" attribute to this image.(Ûû¬‹
+`	php:S1192¾"JDefine a constant instead of duplicating this literal "image_url" 4 times.(ÛŒÏ
+IWeb:BoldAndItalicTagsCheckì"Replace this <i> tag by <em>.(­¸­ûÿÿÿÿ
+b	php:S1192š"GDefine a constant instead of duplicating this literal "WP_CLI" 3 times.(¯¡ÃÍøÿÿÿÿ
+IWeb:BoldAndItalicTagsCheckû"Replace this <i> tag by <em>.(ßıË©ıÿÿÿÿ
+CWeb:BoldAndItalicTagsCheckö"Replace this <i> tag by <em>.(§¿‹Q
+j	php:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(²ë¿õ
+e	php:S1192"JDefine a constant instead of duplicating this literal "elementor" 5 times.(’²Ğäøÿÿÿÿ
+P	php:S1481”"5Remove this unused "$global_cpt_meta" local variable.(»¯˜Æıÿÿÿÿ
+d	php:S1854¾"IRemove this useless assignment to local variable '$default_page_builder'.(Çõ²ùÿÿÿÿ
+?	php:S1481")Remove this unused "$key" local variable.(ÆÑ‚
+h	php:S1192ˆ"MDefine a constant instead of duplicating this literal "astra-sites" 36 times.(±Òú×ûÿÿÿÿ
+?	php:S1481×")Remove this unused "$key" local variable.(¥îæ¯
+e	php:S1117¨"PRename "$view_actions" which has the same name as the field declared at line 26.(¸øÙ
+j	php:S1142ğ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‹âÈÿûÿÿÿÿ
+a	php:S1192–"FDefine a constant instead of duplicating this literal "brizy" 5 times.(¼³³ªùÿÿÿÿ
+HWeb:ImgWithoutAltCheckÅ"%Add an "alt" attribute to this image.(Ûû¬‹
+HWeb:ImgWithoutAltCheck—"%Add an "alt" attribute to this image.(Ûû¬‹
+	php:S1448"lClass "Astra_Sites_Page" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(«£¦
+i	php:S1192I"TDefine a constant instead of duplicating this literal "change-page-builder" 4 times.(¾÷Ô
+@	php:S1481ó"*Remove this unused "$page" local variable.(Õ«¿Á
+MWeb:ImgWithoutAltCheck°"%Add an "alt" attribute to this image.( ƒö§ùÿÿÿÿ
+?	php:S1481ˆ")Remove this unused "$key" local variable.(ÕŞ¶

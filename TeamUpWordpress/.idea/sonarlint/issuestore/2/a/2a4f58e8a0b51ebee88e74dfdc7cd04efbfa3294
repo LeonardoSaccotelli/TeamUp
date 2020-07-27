@@ -1,0 +1,30 @@
+
+b	php:S1192~"MDefine a constant instead of duplicating this literal "um_functions" 3 times.(ÿí˜Ÿ
+9php:S125Œ"Remove this commented out code.(ÿõúÿÿÿÿÿ
+f	php:S1192k"QDefine a constant instead of duplicating this literal "um_datetime_date" 5 times.(Ô¢ï
+]	php:S1192"HDefine a constant instead of duplicating this literal "um-gdpr" 3 times.(úÉù:
+h	php:S1192"NDefine a constant instead of duplicating this literal "um_responsive" 4 times.(ô¼ñşÿÿÿÿ
+f	php:S1192 "KDefine a constant instead of duplicating this literal "um_profile" 5 times.(‚¨Éºøÿÿÿÿ
+b	php:S1192y"HDefine a constant instead of duplicating this literal "um_raty" 4 times.(İ‚Îúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+h	php:S1192g"NDefine a constant instead of duplicating this literal "um_fileupload" 4 times.(½Ïòüÿÿÿÿ
+h	php:S1192m"SDefine a constant instead of duplicating this literal "um_datetime_legacy" 3 times.(Â‚©³
+]	php:S1192z"HDefine a constant instead of duplicating this literal "um_crop" 8 times.(“±²µ
+|	php:S1192s"bDefine a constant instead of duplicating this literal "assets/js/pickadate/translations/" 3 times.(óÅ¢¡ûÿÿÿÿ
+a	php:S1192¡"KDefine a constant instead of duplicating this literal "um_account" 4 times.(¯°‘Ê
+b	php:S1192\"HDefine a constant instead of duplicating this literal "select2" 9 times.(ŸÄäıÿÿÿÿ
+`	php:S1192Ÿ"KDefine a constant instead of duplicating this literal "um_members" 3 times.(şÌúD
+9php:S125à"Remove this commented out code.(Ûª¼ùşÿÿÿÿ
+b	php:S1192|"HDefine a constant instead of duplicating this literal "wp-util" 5 times.(ï«æïúÿÿÿÿ
+^	php:S1192x"IDefine a constant instead of duplicating this literal "um_tipsy" 4 times.(óµ¤è
+g	php:S1192d"MDefine a constant instead of duplicating this literal "um_scrollbar" 4 times.(£¡¬´ûÿÿÿÿ
+c	php:S1192|"IDefine a constant instead of duplicating this literal "um_modal" 4 times.(ï«æïúÿÿÿÿ
+j	php:S1192‚"ODefine a constant instead of duplicating this literal "um_conditional" 3 times.(ï•û¯ûÿÿÿÿ
+m	php:S1192r"SDefine a constant instead of duplicating this literal "um_datetime_locale" 3 times.(ú¢ÿÿÿÿÿ
+}	php:S1448"cClass "Enqueue" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(×²áøÿÿÿÿ
+f	php:S1192ƒ"KDefine a constant instead of duplicating this literal "um_scripts" 5 times.(Ê´‡±úÿÿÿÿ
+9php:S125ü"Remove this commented out code.(´Ä²ùşÿÿÿÿ
+k	php:S1192l"QDefine a constant instead of duplicating this literal "um_datetime_time" 5 times.(•Ë°ªøÿÿÿÿ
+b	php:S1192b"HDefine a constant instead of duplicating this literal "jquery" 23 times.(ƒ°Ç®ùÿÿÿÿ
+4php:S125ª"Remove this commented out code.(¸Ø©·
+g	php:S1192j"MDefine a constant instead of duplicating this literal "um_datetime" 12 times.(–¸Ö»şÿÿÿÿ

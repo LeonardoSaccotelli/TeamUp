@@ -1,0 +1,66 @@
+
+d	php:S1192‚"IDefine a constant instead of duplicating this literal "taxonomy" 9 times.(û¡Éªúÿÿÿÿ
+^	php:S1192©	"HDefine a constant instead of duplicating this literal "contact" 3 times.(ËèÎ¾
+]	php:S1192©	"GDefine a constant instead of duplicating this literal "friend" 3 times.(ËèÎ¾
+j	php:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ş†Êú
+d	php:S1192¯	"IDefine a constant instead of duplicating this literal "identity" 4 times.(ï¦ûÜşÿÿÿÿ
+_	php:S1192•
+"IDefine a constant instead of duplicating this literal "romantic" 6 times.(òâá®
+B	php:S2041»
+"-Remove the parentheses from this "echo" call.(é©a
+H	php:S2041…	"-Remove the parentheses from this "echo" call.(ˆüÄøÿÿÿÿ
+H	php:S2041¿
+"-Remove the parentheses from this "echo" call.(Ğ€ÄÕıÿÿÿÿ
+i	php:S1192´"NDefine a constant instead of duplicating this literal "do_meta_boxes" 3 times.(Š¸¹œıÿÿÿÿ
+]	php:S1192¦	"GDefine a constant instead of duplicating this literal "parent" 3 times.(’ªÇ
+c	php:S11921"IDefine a constant instead of duplicating this literal "publish" 12 times.(ÖÎÿÿÿÿÿ
+_	php:S1192İ	"IDefine a constant instead of duplicating this literal "physical" 3 times.(¨Ìí
+k	php:S1192†"PDefine a constant instead of duplicating this literal "post-thumbnails" 3 times.(Ë²âÃşÿÿÿÿ
+B	php:S2041‚	"-Remove the parentheses from this "echo" call.(ƒ’}
+c	php:S1192Ñ"MDefine a constant instead of duplicating this literal "post-formats" 5 times.(ïÿÅõ
+a	php:S11921"GDefine a constant instead of duplicating this literal "future" 6 times.(ÖÎÿÿÿÿÿ
+c	php:S1192Ö"NDefine a constant instead of duplicating this literal "primary large" 3 times.(Äèò
+\	php:S1192¦	"FDefine a constant instead of duplicating this literal "child" 3 times.(’ªÇ
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "public" 4 times.(ıˆ½Èıÿÿÿÿ
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ëï¨æ
+]	php:S1192¦	"GDefine a constant instead of duplicating this literal "family" 9 times.(’ªÇ
+`	php:S1192t"KDefine a constant instead of duplicating this literal "auto-draft" 5 times.(æÍ®í
+C	php:S2041·
+"-Remove the parentheses from this "echo" call.(€å‚à
+_	php:S1192¬	"IDefine a constant instead of duplicating this literal "neighbor" 3 times.( ¥–ä
+IWeb:TableWithoutCaptionCheck¾	" Add a description to this table.(™ÁúÒ
+^	php:S1192¦	"HDefine a constant instead of duplicating this literal "sibling" 3 times.(’ªÇ
+e	php:S1192†"JDefine a constant instead of duplicating this literal "thumbnail" 3 times.(Ë²âÃşÿÿÿÿ
+n	php:S1192"XDefine a constant instead of duplicating this literal "__back_compat_meta_box" 16 times.(Å³úĞ
+A	php:S1172Ğ",Remove the unused function parameter "$box".(ÑÌ«
+k	php:S1192ò"PDefine a constant instead of duplicating this literal "revisions_count" 3 times.(Í£½ıÿÿÿÿ
+a	php:S1192©	"KDefine a constant instead of duplicating this literal "friendship" 7 times.(ËèÎ¾
+c	php:S1192›"HDefine a constant instead of duplicating this literal "normal" 10 times.(Í€Œöÿÿÿÿÿ
+h	php:S1192å	"MDefine a constant instead of duplicating this literal "professional" 4 times.(©’Şøÿÿÿÿ
+Kphp:S131f"7Add a "case default" clause to this "switch" statement.(¹¦ì“
+b	php:S11921"HDefine a constant instead of duplicating this literal "pending" 5 times.(ÖÎÿÿÿÿÿ
+E	php:S1066…"/Merge this if statement with the enclosing one.(ÏÚä
+i	php:S1192¢	"SDefine a constant instead of duplicating this literal " checked="checked"" 5 times.(¶“»á
+]	php:S1192ä"GDefine a constant instead of duplicating this literal "Update" 4 times.(ùë—‹
+H	php:S2041Ê
+"-Remove the parentheses from this "echo" call.(©ÚÔñúÿÿÿÿ
+o	php:S3776—	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿›éøÿÿÿÿ
+E	Web:S1827´
+"/Remove this deprecated "cellpadding" attribute.(Ô‡Şƒ
+b	php:S1192¬	"LDefine a constant instead of duplicating this literal "co-resident" 3 times.( ¥–ä
+B	php:S2041Á	"-Remove the parentheses from this "echo" call.(Œû”9
+]	php:S1192¦	"GDefine a constant instead of duplicating this literal "spouse" 3 times.(’ªÇ
+`	php:S1192s"FDefine a constant instead of duplicating this literal "draft" 4 times.(´Á‚Ìûÿÿÿÿ
+c	php:S1192¬	"MDefine a constant instead of duplicating this literal "geographical" 6 times.( ¥–ä
+c	php:S1192©	"MDefine a constant instead of duplicating this literal "acquaintance" 3 times.(ËèÎ¾
+IWeb:TableWithoutCaptionCheck´
+" Add a description to this table.(Ô‡Şƒ
+C	php:S2041ÿ"-Remove the parentheses from this "echo" call.(¤ˆÂ“
+O	php:S1135ñ"4Complete the task associated to this "TODO" comment.(ßÃåêùÿÿÿÿ
+^	php:S1192Ø"HDefine a constant instead of duplicating this literal "Publish" 3 times.(Ïàç¿
+O	php:S1135°"4Complete the task associated to this "TODO" comment.(ßÃåêùÿÿÿÿ
+c	php:S11923"IDefine a constant instead of duplicating this literal "private" 12 times.(¹Äıÿÿÿÿ
+h	php:S1192ÿ"RDefine a constant instead of duplicating this literal "checked="checked"" 3 times.(¤ˆÂ“
+™php:S138"„This function "post_submit_meta_box" has 185 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ëï¨æ
+4php:S125	"Remove this commented out code.(½úšà
+`	php:S1192u"FDefine a constant instead of duplicating this literal "Draft" 3 times.(å“Ÿîşÿÿÿÿ

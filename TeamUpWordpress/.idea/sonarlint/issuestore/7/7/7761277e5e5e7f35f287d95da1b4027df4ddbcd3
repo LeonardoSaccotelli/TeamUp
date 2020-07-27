@@ -1,0 +1,10 @@
+
+d	php:S1192â"IDefine a constant instead of duplicating this literal "blogname" 3 times.(öÚ‰Òýÿÿÿÿ
+f	php:S1192ä"KDefine a constant instead of duplicating this literal "post_count" 3 times.(˜˜«ïøÿÿÿÿ
+`	php:S1192ç"JDefine a constant instead of duplicating this literal "ms_loaded" 3 times.(³ë¿Å
+_php:S101"KRename class "WP_Site" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿È·ø
+f	php:S1192à"KDefine a constant instead of duplicating this literal "network_id" 3 times.(§íü¶ÿÿÿÿÿ
+j	php:S1142Ü"OReduce the number of returns of this function 5, down to the maximum allowed 3.(–žÇ†ÿÿÿÿÿ
+v	php:S1488Ú"`Immediately return this expression instead of assigning it to the temporary variable "$details".(Îüƒë
+e	php:S1142ÿ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ðš ‹
+c	php:S1192ã"HDefine a constant instead of duplicating this literal "siteurl" 3 times.(ê×¯Îýÿÿÿÿ

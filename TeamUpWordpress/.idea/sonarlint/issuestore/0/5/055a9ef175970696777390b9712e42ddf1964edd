@@ -1,0 +1,18 @@
+
+`	php:S1192B"FDefine a constant instead of duplicating this literal "UTF-8" 9 times.(­ê³ƒùÿÿÿÿ
+1	php:S3626"Remove this redundant jump.(ûÁİ…
+ophp:S1016"VRename class "SimplePie_Sanitize" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‚ëÉœüÿÿÿÿ
+\	php:S1192>"GDefine a constant instead of duplicating this literal "script" 7 times.(ªĞ“
+j	php:S3776á"TRefactor this function to reduce its Cognitive Complexity from 94 to the 15 allowed.(•³¦Ô
+I	php:S1172g"4Remove the unused function parameter "$cache_class".(áÅîè
+1	php:S3626„"Remove this redundant jump.(ûÁİ…
+j	php:S1142²"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ºÁÎ†úÿÿÿÿ
+P	php:S1854ã":Remove this useless assignment to local variable '$value'.(³›üÉ
+j	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ì†øš
+[	php:S1192>"FDefine a constant instead of duplicating this literal "style" 9 times.(ªĞ“
+M	php:S1172y"3Remove the unused function parameter "$file_class".( çáºÿÿÿÿÿ
+N	php:S11354"4Complete the task associated to this "TODO" comment.(–Š±Œøÿÿÿÿ
+H	php:S1481¿"-Remove this unused "$headers" local variable.(ë®Õğÿÿÿÿÿ
+[	php:S1192>"FDefine a constant instead of duplicating this literal "input" 3 times.(ªĞ“
+j	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÅŞß
+w	php:S1488“"\Immediately return this expression instead of assigning it to the temporary variable "$ret".(ªäŒÑøÿÿÿÿ

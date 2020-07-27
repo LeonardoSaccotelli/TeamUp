@@ -1,0 +1,4 @@
+
+ephp:S101"QRename class "Requests_IPv6" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ßÔ‰Ú
+j	php:S1142“"OReduce the number of returns of this function 6, down to the maximum allowed 3.(³‰âçþÿÿÿÿ
+o	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(³‰âçþÿÿÿÿ

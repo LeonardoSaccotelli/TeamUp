@@ -1,0 +1,11 @@
+
+a	php:S1192l"LDefine a constant instead of duplicating this literal "post_author" 3 times.(‹¤»¼
+_	php:S1192i"JDefine a constant instead of duplicating this literal "post_type" 3 times.(Ó„ Ì
+c	php:S1192]"IDefine a constant instead of duplicating this literal "_um_core" 4 times.(üÛØ÷şÿÿÿÿ
+]	php:S1192k"HDefine a constant instead of duplicating this literal "publish" 3 times.(¦—Êı
+e	php:S1192j"KDefine a constant instead of duplicating this literal "post_title" 3 times.(§±áêÿÿÿÿÿ
+	php:S1186"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¨ÿ—¦
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+a	php:S1192k"LDefine a constant instead of duplicating this literal "post_status" 3 times.(¦—Êı
+n	php:S3776K"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(úÃŒ²ÿÿÿÿÿ
+e	php:S1192M"KDefine a constant instead of duplicating this literal "um_options" 6 times.(Ş®¥ şÿÿÿÿ

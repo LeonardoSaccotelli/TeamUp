@@ -1,0 +1,37 @@
+
+~	php:S1448"iClass "WP_List_Table" has 46 methods, which is greater than 20 authorized. Split it into smaller classes.(ĞÚ©™
+o	php:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(®‡Ëëşÿÿÿÿ
+c	php:S1192ğ"HDefine a constant instead of duplicating this literal "action2" 3 times.(¨®Í¸ùÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "plural" 7 times.(ıÀâƒüÿÿÿÿ
+u	php:S4144«"ZUpdate this method so that its implementation is not identical to "get_views" on line 382.(¥„ºüÿÿÿÿ
+;	Web:S5256¦	"%Add "<th>" headers to this "<table>".(ÚË˜å
+ephp:S101"QRename class "WP_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ĞÚ©™
+H	php:S1172ã
+"-Remove the unused function parameter "$item".(Îûóûÿÿÿÿ
+b	php:S1192¯"LDefine a constant instead of duplicating this literal "post_status" 4 times.(‚ìÂ¢
+I	php:S1481¬
+".Remove this unused "$sortable" local variable.(ÇÕşÿÿÿÿÿ
+b	php:S1192±"LDefine a constant instead of duplicating this literal "No comments" 3 times.(ó‡€ƒ
+_	php:S1192š"IDefine a constant instead of duplicating this literal "per_page" 3 times.(ø ›©
+e	php:S1142ç"OReduce the number of returns of this function 4, down to the maximum allowed 3.(éêÛ
+\	php:S1192¤"FDefine a constant instead of duplicating this literal "paged" 8 times.(æŸØ¦
+D	php:S1172ğ	".Remove the unused function parameter "$which".(Ş†˜ı
+u	php:S4144¸"ZUpdate this method so that its implementation is not identical to "get_views" on line 382.(šÒé·ıÿÿÿÿ
+3php:S125£"Remove this commented out code.(¨Åó5
+c	php:S1192™"MDefine a constant instead of duplicating this literal "total_pages" 14 times.(‹‘°ü
+w	php:S1488"\Immediately return this expression instead of assigning it to the temporary variable "$out".(¢µˆşÿÿÿÿ
+j	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(…«µˆ
+]	php:S1192Ü"GDefine a constant instead of duplicating this literal "action" 4 times.(·Î³Ô
+g	php:S1192˜"LDefine a constant instead of duplicating this literal "total_items" 6 times.(ü¾˜Îÿÿÿÿÿ
+J	php:S1172
+"4Remove the unused function parameter "$column_name".(í´Öê
+C	php:S1172
+"-Remove the unused function parameter "$item".(í´Öê
+C	php:S1172¢
+"-Remove the unused function parameter "$item".(Şœ¸ã
+a	php:S1192W"GDefine a constant instead of duplicating this literal "screen" 4 times.(¹ÿœøÿÿÿÿ
+^	php:S1192á"HDefine a constant instead of duplicating this literal "orderby" 5 times.(ë³ÍØ
+_	php:S1192"IDefine a constant instead of duplicating this literal "singular" 4 times.(ÒÂøè
+d	php:S1192Ğ"IDefine a constant instead of duplicating this literal "</label>" 3 times.(ˆç†ùÿÿÿÿ
+a	php:S1192ä"FDefine a constant instead of duplicating this literal "order" 5 times.(ÖëÃııÿÿÿÿ
+IWeb:TableWithoutCaptionCheck¦	" Add a description to this table.(ÚË˜å

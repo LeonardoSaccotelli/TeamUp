@@ -1,0 +1,27 @@
+
+_	php:S1192,"JDefine a constant instead of duplicating this literal "Accordion" 3 times.(Íğ…Ö
+_	php:S1192^"JDefine a constant instead of duplicating this literal "tab_title" 5 times.(àáì¡
+b	php:S1192²"LDefine a constant instead of duplicating this literal "icon_active" 3 times.(·¯™
+a	php:S1192W"GDefine a constant instead of duplicating this literal "label" 25 times.(Ş”¨Şúÿÿÿÿ
+	php:S1192«"xDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-accordion .elementor-tab-content" 4 times.(¯È¹ˆ
+f	php:S1192ó"KDefine a constant instead of duplicating this literal "selectors" 12 times.(Ú‘›æúÿÿÿÿ
+j	php:S1192Ì"ODefine a constant instead of duplicating this literal "title_html_tag" 3 times.(ÜÚ¹¸úÿÿÿÿ
+a	php:S1192™"FDefine a constant instead of duplicating this literal "value" 6 times.(²¢Õùùÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck•"Replace this <i> tag by <em>.(Á¨‘ÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck”"Replace this <i> tag by <em>.(áÿËøÿÿÿÿ
+v	php:S1192ô"`Define a constant instead of duplicating this literal "border-width: {{SIZE}}{{UNIT}};" 3 times.(ìÏõË
+\	php:S1192 "FDefine a constant instead of duplicating this literal "Color" 3 times.(ì¡¤
+IWeb:BoldAndItalicTagsCheckÔ"Replace this <i> tag by <em>.(ùúƒúøÿÿÿÿ
+hphp:S101"TRename class "Widget_Accordion" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æ¾µÀ
+a	php:S1192Ş"KDefine a constant instead of duplicating this literal "icon_align" 4 times.(ˆÉ«€
+`	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 34 times.(Íğ…Ö
+_	php:S1192š"IDefine a constant instead of duplicating this literal "fa-solid" 4 times.(Õíú
+IWeb:BoldAndItalicTagsCheckÕ"Replace this <i> tag by <em>.(Öòß±ıÿÿÿÿ
+f	php:S1192f"LDefine a constant instead of duplicating this literal "label_block" 3 times.(à–ÂÆúÿÿÿÿ
+a	php:S1192k"LDefine a constant instead of duplicating this literal "tab_content" 5 times.(¸•—
+]	php:S1192¥"GDefine a constant instead of duplicating this literal "scheme" 5 times.(¡ŠËÆ
+œphp:S138S"‚This function "_register_controls" has 355 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+d	php:S1192’"NDefine a constant instead of duplicating this literal "selected_icon" 4 times.(™° ‡
+]	php:S1192b"HDefine a constant instead of duplicating this literal "default" 8 times.(×ÒŠŠ
+J	php:S1135ä"4Complete the task associated to this "TODO" comment.(ç†à¶
+m	php:S1192£"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 5 times.(”´‰Ãûÿÿÿÿ

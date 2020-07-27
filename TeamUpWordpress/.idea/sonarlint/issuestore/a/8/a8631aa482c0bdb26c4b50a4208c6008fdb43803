@@ -1,0 +1,16 @@
+
+a	php:S1192:"LDefine a constant instead of duplicating this literal "description" 9 times.(¶ÀÔ
+c	php:S1192C"IDefine a constant instead of duplicating this literal "context" 13 times.(²ÒÄüÿÿÿÿ
+c	php:S1192µ"HDefine a constant instead of duplicating this literal "boolean" 6 times.(¦Õ¬üşÿÿÿÿ
+c	php:S1192æ"HDefine a constant instead of duplicating this literal "private" 3 times.(ò¹ÍËøÿÿÿÿ
+`	php:S1192r"FDefine a constant instead of duplicating this literal "trash" 3 times.(ÅÇ²ıÿÿÿÿ
+d	php:S1192ş"NDefine a constant instead of duplicating this literal "date_floating" 3 times.(†Æ½×
+e	php:S1192ò"JDefine a constant instead of duplicating this literal "queryable" 3 times.(ÏÂ‘òıÿÿÿÿ
+_	php:S1192±"IDefine a constant instead of duplicating this literal "readonly" 8 times.(åúÆÖ
+e	php:S1192ê"JDefine a constant instead of duplicating this literal "protected" 3 times.(‚œ©ùÿÿÿÿ
+\	php:S11929"GDefine a constant instead of duplicating this literal "status" 9 times.(“Üò®
+]	php:S1192î"GDefine a constant instead of duplicating this literal "public" 3 times.(µëöï
+c	php:S1192ö"MDefine a constant instead of duplicating this literal "show_in_list" 3 times.(ßÌİÙ
+}php:S101"dRename class "WP_REST_Post_Statuses_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ºÙéîşÿÿÿÿ
+a	php:S1192;"GDefine a constant instead of duplicating this literal "string" 3 times.(Şåáßúÿÿÿÿ
+?	php:S1481t"*Remove this unused "$slug" local variable.(Ñ»º¾

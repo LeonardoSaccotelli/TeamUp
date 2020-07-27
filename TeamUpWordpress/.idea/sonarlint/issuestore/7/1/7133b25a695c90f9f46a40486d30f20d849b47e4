@@ -1,0 +1,20 @@
+
+J	php:S1135ù"4Complete the task associated to this "TODO" comment.(óâÔß
+c	php:S1192€"HDefine a constant instead of duplicating this literal "wp_head" 6 times.(¯•´ïûÿÿÿÿ
+9php:S125Ù	"Remove this commented out code.(ğÈ¥Óşÿÿÿÿ
+d	php:S1192g"JDefine a constant instead of duplicating this literal "post_type" 3 times.(©¹‡¼ûÿÿÿÿ
+l	php:S1192İ"QDefine a constant instead of duplicating this literal "elementor-editor" 7 times.(ÔÖçıÿÿÿÿ
+™php:S138Ï"This function "enqueue_scripts" has 356 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¾Ï×Ñıÿÿÿÿ
+n	php:S1192†"SDefine a constant instead of duplicating this literal "wp_enqueue_scripts" 5 times.(ãœåöıÿÿÿÿ
+e	php:S1142æ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(”öÇŸ
+M	php:S1172å"2Remove the unused function parameter "$post_type".(‚óù üÿÿÿÿ
+b	php:S1192ô"GDefine a constant instead of duplicating this literal "jquery" 5 times.(”½–ùÿÿÿÿ
+J	php:S1135Ø	"4Complete the task associated to this "TODO" comment.(º¢Ê
+a	php:S1192æ"FDefine a constant instead of duplicating this literal "2.3.0" 5 times.(Çã¬Áşÿÿÿÿ
+a	php:S1192Ç"LDefine a constant instead of duplicating this literal "elementor" 139 times.(¯èûQ
+N	php:S1135z"4Complete the task associated to this "TODO" comment.(ˆÜÕ„úÿÿÿÿ
+\	php:S1192Õ"FDefine a constant instead of duplicating this literal "pickr" 4 times.(û¶Ô‘
+e	php:S1192©"JDefine a constant instead of duplicating this literal "flatpickr" 4 times.(ù—¯áıÿÿÿÿ
+e	php:S1192ƒ"JDefine a constant instead of duplicating this literal "wp_footer" 5 times.(ûàô³úÿÿÿÿ
+w	php:S1448!"bClass "Editor" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(¡‡•Ë
+]	php:S1192ø"GDefine a constant instead of duplicating this literal "action" 3 times.(ßÅ±

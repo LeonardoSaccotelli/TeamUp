@@ -1,0 +1,9 @@
+
+j	php:S1192ˆ"ODefine a constant instead of duplicating this literal "no-more-tokens" 3 times.(ŞøÆ¯ûÿÿÿÿ
+lphp:S101"YRename class "WP_Block_Parser_Block" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(’îïz
+j	php:S1142‘"OReduce the number of returns of this function 5, down to the maximum allowed 3.(†ıôùÿÿÿÿ
+mphp:S101d"YRename class "WP_Block_Parser_Frame" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²›Ìê
+hphp:S101¬"SRename class "WP_Block_Parser" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(á©‰
+e	php:S1142ÿ"PReduce the number of returns of this function 10, down to the maximum allowed 3.(Ñµó
+a	php:S1192¶"FDefine a constant instead of duplicating this literal "attrs" 3 times.(£É¶ÿÿÿÿÿ
+i	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ñµó

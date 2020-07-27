@@ -1,0 +1,16 @@
+
+i	php:S1142$"OReduce the number of returns of this function 4, down to the maximum allowed 3.(…ú×şÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(úâÈôşÿÿÿÿ
+v	php:S1192"[Define a constant instead of duplicating this literal "_elementor_edit_mode_nonce" 3 times.(óĞø’ÿÿÿÿÿ
+`	php:S1192—"KDefine a constant instead of duplicating this literal "elementor" 35 times.(Ñ‡¼
+v	php:S1448"aClass "Admin" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.(õ¯€†
+v	php:S1488ú"`Immediately return this expression instead of assigning it to the temporary variable "$actions".(ü’ƒ
+l	php:S1192ğ"VDefine a constant instead of duplicating this literal "admin_enqueue_scripts" 4 times.(“¶
+`	php:S1192ú"JDefine a constant instead of duplicating this literal "post_type" 4 times.(µï„
+t	php:S27615"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(·’ãÓ
+j	php:S1192L"PDefine a constant instead of duplicating this literal "elementor-admin" 4 times.(Í ÜÕúÿÿÿÿ
+N	php:S1135s"4Complete the task associated to this "TODO" comment.(µä·ıÿÿÿÿ
+e	php:S1192Ş"JDefine a constant instead of duplicating this literal "Elementor" 3 times.(ø«Ë»ÿÿÿÿÿ
+\	php:S1192¾"FDefine a constant instead of duplicating this literal "title" 5 times.(¸º¹°
+p	php:S1192ß"UDefine a constant instead of duplicating this literal "e-dashboard-overview" 3 times.(„ˆş£ùÿÿÿÿ
+`	php:S1192"FDefine a constant instead of duplicating this literal "admin" 3 times.(•—¼Õşÿÿÿÿ

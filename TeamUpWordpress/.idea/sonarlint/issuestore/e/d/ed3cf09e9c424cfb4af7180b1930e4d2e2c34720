@@ -1,0 +1,23 @@
+
+e	php:S1192ø"JDefine a constant instead of duplicating this literal "latin-ext" 3 times.(»áò—üÿÿÿÿ
+b	php:S1192¹"GDefine a constant instead of duplicating this literal "jquery" 8 times.(”½–ùÿÿÿÿ
+D	php:S1481„")Remove this unused "$key" local variable.(†¸—µşÿÿÿÿ
+k	php:S1192Î"PDefine a constant instead of duplicating this literal "elementor-icons" 3 times.(•¾Ëèüÿÿÿÿ
+j	php:S1142è"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Õ‹Î¼ıÿÿÿÿ
+4php:S125‰"Remove this commented out code.(Ì÷‚‡
+d	php:S1192²"IDefine a constant instead of duplicating this literal "frontend" 3 times.(Å•¬Åÿÿÿÿÿ
+e	php:S1192Ê"JDefine a constant instead of duplicating this literal "flatpickr" 4 times.(ù—¯áıÿÿÿÿ
+`	php:S1192‘"KDefine a constant instead of duplicating this literal "share-link" 3 times.(˜©Ö
+y	php:S1448"dClass "Frontend" has 31 methods, which is greater than 20 authorized. Split it into smaller classes.(¥Ù»Ä
+b	php:S1192€"GDefine a constant instead of duplicating this literal "google" 5 times.(”ÙóÒùÿÿÿÿ
+b	php:S1192‘"LDefine a constant instead of duplicating this literal "the_content" 5 times.(ß¢ã¢
+e	php:S1192Û	"JDefine a constant instead of duplicating this literal "more_text" 3 times.(…û§üÿÿÿÿ
+n	php:S1192"SDefine a constant instead of duplicating this literal "wp_enqueue_scripts" 3 times.(«¸›±ùÿÿÿÿ
+]	php:S1192è"GDefine a constant instead of duplicating this literal "swiper" 3 times.(‹òÜÖ
+_	php:S1192ò"IDefine a constant instead of duplicating this literal "cyrillic" 3 times.(Úİ‹¾
+\	php:S1192Ø"FDefine a constant instead of duplicating this literal "title" 4 times.(ò¦¨µ
+`	php:S1192Ø"JDefine a constant instead of duplicating this literal "elementor" 8 times.(ò¦¨µ
+a	php:S1117Ê"KRename "$post_id" which has the same name as the field declared at line 41.(Ö¯ú‘
+a	php:S1192"FDefine a constant instead of duplicating this literal "early" 4 times.(Å…®³üÿÿÿÿ
+a	php:S1117Ö"KRename "$post_id" which has the same name as the field declared at line 41.(Ö¯ú‘
+n	php:S1192›"SDefine a constant instead of duplicating this literal "elementor-frontend" 4 times.(°¯÷¥øÿÿÿÿ

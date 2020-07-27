@@ -1,0 +1,18 @@
+
+h	php:S1192"NDefine a constant instead of duplicating this literal "bulk-comments" 3 times.(ì±¢úÿÿÿÿ
+Qphp:S131²"7Add a "case default" clause to this "switch" statement.(ôß»øÿÿÿÿ
+Kphp:S131<"7Add a "case default" clause to this "switch" statement.(‘´ ã
+c	php:S1301ø"MReplace this "switch" statement with "if" statements to increase readability.(’éÜ—
+\	php:S1192"GDefine a constant instead of duplicating this literal "delete" 3 times.(Àñ´
+`	php:S11923"FDefine a constant instead of duplicating this literal "paged" 3 times.(Ã†ğ“úÿÿÿÿ
+^	php:S11922"IDefine a constant instead of duplicating this literal "approved" 5 times.(ª’Å˜
+Lphp:S131ø"7Add a "case default" clause to this "switch" statement.(’éÜ—
+_	php:S11922"JDefine a constant instead of duplicating this literal "unspammed" 5 times.(ª’Å˜
+b	php:S1192="HDefine a constant instead of duplicating this literal "approve" 3 times.(Î»ÑÁùÿÿÿÿ
+f	php:S1192—"KDefine a constant instead of duplicating this literal " <a href="" 5 times.(€ƒßÍüÿÿÿÿ
+^	php:S1192Œ"IDefine a constant instead of duplicating this literal "&hellip;" 3 times.(è¥Ş
+]	php:S11922"HDefine a constant instead of duplicating this literal "deleted" 5 times.(ª’Å˜
+_	php:S11922"JDefine a constant instead of duplicating this literal "untrashed" 5 times.(ª’Å˜
+[	php:S1192M"FDefine a constant instead of duplicating this literal "trash" 3 times.(Ú¢™Ï
+]	php:S11922"HDefine a constant instead of duplicating this literal "spammed" 5 times.(ª’Å˜
+]	php:S11922"HDefine a constant instead of duplicating this literal "trashed" 5 times.(ª’Å˜

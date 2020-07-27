@@ -1,0 +1,9 @@
+
+i	php:S1142["OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÑÆŞÍøÿÿÿÿ
+\	php:S1192ä"GDefine a constant instead of duplicating this literal "delete" 4 times.(¬ãñ
+^	php:S1192:"IDefine a constant instead of duplicating this literal "features" 3 times.(ğğÚü
+b	php:S1192"LDefine a constant instead of duplicating this literal "total_pages" 4 times.(¿Ú£Ú
+o	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(İ±…´şÿÿÿÿ
+lphp:S101"XRename class "WP_Themes_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½Õ¥
+\	php:S1192$"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+j	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¦÷èö

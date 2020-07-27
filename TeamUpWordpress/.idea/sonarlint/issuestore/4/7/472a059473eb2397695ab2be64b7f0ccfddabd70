@@ -1,0 +1,8 @@
+
+[	php:S1192C"FDefine a constant instead of duplicating this literal "label" 4 times.(ë‰ùí
+gphp:S101"SRename class "User_Tags_Admin" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿Éì½
+d	php:S1192&"JDefine a constant instead of duplicating this literal "User Tags" 5 times.(‚à¯½ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+[	php:S1192a"FDefine a constant instead of duplicating this literal "small" 3 times.(ßº·Ú
+h	php:S1192&"NDefine a constant instead of duplicating this literal "um-user-tags" 12 times.(‚à¯½ûÿÿÿÿ
+\	php:S1192A"GDefine a constant instead of duplicating this literal "fields" 3 times.(êÙ‘

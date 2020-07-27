@@ -1,0 +1,25 @@
+
+r	php:S1488«"\Immediately return this expression instead of assigning it to the temporary variable "$url".(¤“Öæ
+J	php:S1066œ"/Merge this if statement with the enclosing one.(ãí÷ıÿÿÿÿ
+d	php:S1192Ş"IDefine a constant instead of duplicating this literal "elements" 6 times.(Ø¿ôšøÿÿÿÿ
+w	php:S1488Á"\Immediately return this expression instead of assigning it to the temporary variable "$url".(ßÒ†¯úÿÿÿÿ
+g	php:S1192J"MDefine a constant instead of duplicating this literal "has_elements" 5 times.(ÒÆ‹…øÿÿÿÿ
+g	php:S1192›"LDefine a constant instead of duplicating this literal "post_status" 3 times.(¶ Ü¶şÿÿÿÿ
+f	php:S1192Û"PDefine a constant instead of duplicating this literal "_elementor_data" 3 times.(¤Æß´
+`	php:S1192b"KDefine a constant instead of duplicating this literal "elementor" 12 times.(…Ù™÷
+z	php:S1488Ü"dImmediately return this expression instead of assigning it to the temporary variable "$render_html".(·‰åø
+`php:S112å"FDefine and throw a dedicated exception instead of using a generic one.(ììŸşÿÿÿÿ
+u	php:S1488ú"_Immediately return this expression instead of assigning it to the temporary variable "$config".(©¹€à
+]	php:S1192œ"GDefine a constant instead of duplicating this literal "elType" 3 times.(€ƒöÍ
+y	php:S1448"dClass "Document" has 58 methods, which is greater than 20 authorized. Split it into smaller classes.(­ØÔ¬
+]	php:S1192ß"HDefine a constant instead of duplicating this literal "post_id" 4 times.(Ô´§i
+_	php:S1192È"IDefine a constant instead of duplicating this literal "settings" 9 times.(Àøğï
+\	php:S1192¤	"FDefine a constant instead of duplicating this literal "label" 3 times.(ËßğÁ
+c	php:S1117À"HRename "$post" which has the same name as the field declared at line 50.(Í–Šáùÿÿÿÿ
+z	php:S2761Ï"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(ìí©—øÿÿÿÿ
+J	php:S1066è"/Merge this if statement with the enclosing one.(Âé§ûÿÿÿÿ
+i	php:S1192ı"SDefine a constant instead of duplicating this literal "_elementor_version" 3 times.(¿äéº
+w	php:S1488ì"\Immediately return this expression instead of assigning it to the temporary variable "$url".(±õÆùÿÿÿÿ
+f	php:S1192O"LDefine a constant instead of duplicating this literal "support_kit" 3 times.(ƒ·ö¯üÿÿÿÿ
+J	php:S1135˜"4Complete the task associated to this "TODO" comment.(ŠÌÜª
+Zphp:S112×"FDefine and throw a dedicated exception instead of using a generic one.(­Î

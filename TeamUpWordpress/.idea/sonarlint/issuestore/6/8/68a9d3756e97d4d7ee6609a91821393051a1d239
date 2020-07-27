@@ -1,0 +1,20 @@
+
+{	php:S1488–"`Immediately return this expression instead of assigning it to the temporary variable "$reverse".(“îğŠúÿÿÿÿ
+qphp:S101â"WRename class "Text_Diff_Op_change" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ç¿´Ğÿÿÿÿÿ
+v	php:S1488Ö"`Immediately return this expression instead of assigning it to the temporary variable "$reverse".(³üºö
+‘	php:S1603°"vReplace this function name "Text_Diff_Op_delete", since a "__construct" method has already been defined in this class.(êÇ«İùÿÿÿÿ
+{	php:S1488¶"`Immediately return this expression instead of assigning it to the temporary variable "$reverse".(›àşÃÿÿÿÿÿ
+	php:S1603="lReplace this function name "Text_Diff", since a "__construct" method has already been defined in this class.(¯‚¨
+ophp:S101ÿ"URename class "Text_Diff_Op_copy" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£©¸Îøÿÿÿÿ
+mphp:S101¨"SRename class "Text_MappedDiff" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦ÊòÁùÿÿÿÿ
+fphp:S101"MRename class "Text_Diff" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(µó«Ùşÿÿÿÿ
+jphp:S101ã"PRename class "Text_Diff_Op" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(è×º’ùÿÿÿÿ
+G	php:S1172×",Remove the unused function parameter "$key".(Ş’µŠüÿÿÿÿ
+v	php:S1488ö"`Immediately return this expression instead of assigning it to the temporary variable "$reverse".(ğ¦¢Ë
+Œ	php:S1603ğ"vReplace this function name "Text_Diff_Op_change", since a "__construct" method has already been defined in this class.(–„˜à
+iphp:S101Â"TRename class "Text_Diff_Op_add" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ÿ°É–
+ˆ	php:S1603Õ"rReplace this function name "Text_MappedDiff", since a "__construct" method has already been defined in this class.(Ú¤Éù
+	php:S1603"tReplace this function name "Text_Diff_Op_copy", since a "__construct" method has already been defined in this class.(Ì˜·Şşÿÿÿÿ
+U	php:S1605À"?Replace "parent::Text_Diff(...)" by "parent::__construct(...)".(”ÔèË
+‰	php:S1603Ğ"sReplace this function name "Text_Diff_Op_add", since a "__construct" method has already been defined in this class.(È¢÷µ
+qphp:S101¢"WRename class "Text_Diff_Op_delete" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸–Œ€ÿÿÿÿÿ

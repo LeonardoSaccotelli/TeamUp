@@ -1,0 +1,8 @@
+
+›	php:S1192A"€Define a constant instead of duplicating this literal "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="%s">support forums</a>." 3 times.(Áîª¹úÿÿÿÿ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ä«þåùÿÿÿÿ
+j	php:S1142Ô"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Ýä‚Žûÿÿÿÿ
+E	php:S1066¬"/Merge this if statement with the enclosing one.(ÄßÇÌ
+b	php:S11923"HDefine a constant instead of duplicating this literal "version" 3 times.(Ï¬ËÒýÿÿÿÿ
+d	php:S1192Ž"IDefine a constant instead of duplicating this literal "language" 6 times.(¤™Ó­ûÿÿÿÿ
+€	php:S1192B"fDefine a constant instead of duplicating this literal "https://wordpress.org/support/forums/" 3 times.(³Î¶ãûÿÿÿÿ

@@ -1,0 +1,6 @@
+
+E	php:S1066"/Merge this if statement with the enclosing one.(šîŒ·
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+g	php:S1192-"RDefine a constant instead of duplicating this literal "_um_search_fields" 3 times.(“ßœ
+e	php:S1192	"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(Ô“ïŞÿÿÿÿÿ
+e	php:S1192@"KDefine a constant instead of duplicating this literal "_um_search" 3 times.(ÙÇó£şÿÿÿÿ

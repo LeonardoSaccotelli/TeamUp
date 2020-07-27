@@ -1,0 +1,27 @@
+
+|	php:S1488º"aImmediately return this expression instead of assigning it to the temporary variable "$response".(ù¨èÓúÿÿÿÿ
+	php:S1448"jClass "WP_REST_Server" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(¥œã©
+]	php:S1192e"HDefine a constant instead of duplicating this literal "context" 6 times.(û÷˜×
+]	php:S1192b"IDefine a constant instead of duplicating this literal "callback" 4 times.(Ä«Š>
+c	php:S1117ò"MRename "$endpoints" which has the same name as the field declared at line 71.(æµ¥
+fphp:S101"RRename class "WP_REST_Server" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥œã©
+c	php:S1117ş"MRename "$endpoints" which has the same name as the field declared at line 71.(ÍĞ–Ù
+]	php:S1192¡"GDefine a constant instead of duplicating this literal "status" 8 times.(şÔÎÉ
+j	php:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(…¸Ú
+o	php:S3776Í	"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(„÷úüüÿÿÿÿ
+b	php:S1192Í"LDefine a constant instead of duplicating this literal "description" 4 times.(×¹‰é
+]	php:S1192ç"GDefine a constant instead of duplicating this literal "_jsonp" 3 times.(ÆòÈ
+b	php:S1192f"HDefine a constant instead of duplicating this literal "default" 8 times.(ï¢·¡ÿÿÿÿÿ
+v	php:S1192"[Define a constant instead of duplicating this literal "rest_authentication_errors" 3 times.(ıç×úøÿÿÿÿ
+b	php:S1192Û	"GDefine a constant instead of duplicating this literal "schema" 3 times.(–¨—úÿÿÿÿ
+e	php:S1192Ä"JDefine a constant instead of duplicating this literal "namespace" 9 times.(™Í“ûÿÿÿÿ
+c	php:S1192c"IDefine a constant instead of duplicating this literal "methods" 18 times.(Å‘†©ÿÿÿÿÿ
+e	php:S1142æ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(…¸Ú
+j	php:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.(¯¿å÷
+]	php:S1192ñ"GDefine a constant instead of duplicating this literal "_embed" 3 times.(îÒçÂ
+J	php:S1066Ô"/Merge this if statement with the enclosing one.(ñÃãÛúÿÿÿÿ
+o	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(×Òá§ıÿÿÿÿ
+i	php:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(É¿:
+\	php:S1192×"GDefine a constant instead of duplicating this literal "_links" 4 times.(ÏØ€
+[	php:S1192€
+"FDefine a constant instead of duplicating this literal "items" 3 times.(çÒå

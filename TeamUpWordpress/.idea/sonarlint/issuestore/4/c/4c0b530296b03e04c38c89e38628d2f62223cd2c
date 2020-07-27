@@ -1,0 +1,17 @@
+
+‹	php:S1448	"qClass "ParagonIE_Sodium_File" has 21 methods, which is greater than 20 authorized. Split it into smaller classes.(¥‡‹§øÿÿÿÿ
+	php:S1192="gDefine a constant instead of duplicating this literal "Could not open input file for reading" 11 times.(‹ôõ”ûÿÿÿÿ
+	php:S1192D"gDefine a constant instead of duplicating this literal "Could not open output file for writing" 6 times.(éöÑÂıÿÿÿÿ
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+s	php:S1192&"^Define a constant instead of duplicating this literal "Argument 3 must be a string, " 7 times.(Ÿ¿
+x	php:S1192+"^Define a constant instead of duplicating this literal "Argument 4 must be a string, " 4 times.(Õ¯Å‘üÿÿÿÿ
+x	php:S1192 "^Define a constant instead of duplicating this literal "Argument 1 must be a string, " 9 times.(‚ç”Áüÿÿÿÿ
+E	php:S1481"*Remove this unused "$iter" local variable.(éºÅÿşÿÿÿÿ
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "sha512" 8 times.(ëÉ¿Æùÿÿÿÿ
+E	php:S1481õ"*Remove this unused "$iter" local variable.(éºÅÿşÿÿÿÿ
+z	php:S11927"`Define a constant instead of duplicating this literal "Could not obtain the file size" 11 times.(¡™ªêüÿÿÿÿ
+o	php:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(é‰ßÿÿÿÿÿ
+c	php:S1192 "IDefine a constant instead of duplicating this literal " given." 33 times.(‚ç”Áüÿÿÿÿ
+x	php:S1192#"^Define a constant instead of duplicating this literal "Argument 2 must be a string, " 9 times.(ÖÙ²Ìúÿÿÿÿ
+rphp:S101	"YRename class "ParagonIE_Sodium_File" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥‡‹§øÿÿÿÿ
+q	php:S1192²"[Define a constant instead of duplicating this literal "Could not read input file" 14 times.(È©ë

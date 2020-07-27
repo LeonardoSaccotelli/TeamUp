@@ -1,0 +1,36 @@
+
+?	php:S1481ò")Remove this unused "$key" local variable.(¦Œ¥­
+D	php:S1481°")Remove this unused "$key" local variable.(¨ Œêûÿÿÿÿ
+b	php:S1192÷"LDefine a constant instead of duplicating this literal "reset_terms" 3 times.(¢ƒüÄ
+s	php:S1192­"XDefine a constant instead of duplicating this literal "astra-site-page-builder" 3 times.(¿ç§ƒıÿÿÿÿ
+h	php:S1192é"MDefine a constant instead of duplicating this literal "page_builder" 3 times.(ŠìÉ²úÿÿÿÿ
+e	php:S1192ş"ODefine a constant instead of duplicating this literal "reset_wp_forms" 3 times.(øßäÉ
+`	php:S1192h"KDefine a constant instead of duplicating this literal "categories" 5 times.(´¬ã
+D	php:S1481Ê")Remove this unused "$key" local variable.(…šÁåıÿÿÿÿ
+p	php:S1192ñ"ZDefine a constant instead of duplicating this literal "astra-site-cartflows-path" 3 times.(€ÍÍà
+j	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(º…Çî
+h	php:S1192i"NDefine a constant instead of duplicating this literal "page_builders" 3 times.(†êøÿÿÿÿ
+[	php:S1192o"FDefine a constant instead of duplicating this literal "title" 3 times.(£ËŠ¡
+g	php:S1192i"MDefine a constant instead of duplicating this literal "page-builder" 4 times.(†êøÿÿÿÿ
+D	php:S1481Ë")Remove this unused "$key" local variable.(åê‹ÿÿÿÿÿ
+h	php:S1192"SDefine a constant instead of duplicating this literal "Astra_Sites_WP_CLI" 3 times.(º®à¾
+\	php:S1192Y"GDefine a constant instead of duplicating this literal "search" 4 times.(üÄØ¿
+O	php:S1135–"4Complete the task associated to this "TODO" comment.(ìÀ‚Ïşÿÿÿÿ
+ophp:S101"VRename class "Astra_Sites_WP_CLI" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦êÿ ùÿÿÿÿ
+Q	php:S1481ß"6Remove this unused "$page_builder_key" local variable.(êûùşÿÿÿÿ
+n	php:S1192ø"XDefine a constant instead of duplicating this literal "astra-site-wpforms-path" 3 times.(— ¨«
+H	php:S1172©"2Remove the unused function parameter "$post_slug".(½ÄÉ’
+J	php:S1066„"/Merge this if statement with the enclosing one.(‚á¿»øÿÿÿÿ
+j	php:S3776–"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(¶àÄµ
+j	php:S1192„"TDefine a constant instead of duplicating this literal "astra-site-wxr-path" 3 times.(šŞÉ±
+g	php:S1192ğ"LDefine a constant instead of duplicating this literal "reset_posts" 3 times.(šºÉ´øÿÿÿÿ
+t	php:S1192Å"YDefine a constant instead of duplicating this literal "astra-enabled-extensions" 3 times.(èÊáõüÿÿÿÿ
+j	php:S1192¿"TDefine a constant instead of duplicating this literal "astra-site-category" 3 times.(íÕÜ²
+s	php:S1192“"XDefine a constant instead of duplicating this literal "astra-site-widgets-data" 3 times.(ƒ—Ù¥ıÿÿÿÿ
+j	php:S3776©"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(½ÄÉ’
+c	php:S1192É"HDefine a constant instead of duplicating this literal "success" 5 times.(æÙ Úûÿÿÿÿ
+M	php:S1481×"2Remove this unused "$category_key" local variable.(¥ªŠşÿÿÿÿ
+g	php:S1192È"QDefine a constant instead of duplicating this literal "required_plugins" 4 times.(çÂè´
+b	php:S1192d"MDefine a constant instead of duplicating this literal "astra-sites" 33 times.(Œ¸‚ÿ
+s	php:S1192Å"XDefine a constant instead of duplicating this literal "astra-site-options-data" 6 times.(èÊáõüÿÿÿÿ
+a	php:S1192¯"FDefine a constant instead of duplicating this literal "terms" 4 times.(†ñé¶ûÿÿÿÿ

@@ -1,0 +1,7 @@
+
+I	php:S1066C"/Merge this if statement with the enclosing one.(הüˆ׳שÿÿÿÿ
+i	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ַ¥°ִשÿÿÿÿ
+_	php:S1192+"KDefine a constant instead of duplicating this literal "extensions" 3 times.(נ¬>
+B	php:S1481&".Remove this unused "$wildcard" local variable.(üץ×
+iphp:S101"PRename class "Requests_SSL" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ִ¡ֶÿÿÿÿÿ
+i	php:S1142["OReduce the number of returns of this function 4, down to the maximum allowed 3.(°כהצתÿÿÿÿ

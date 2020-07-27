@@ -1,0 +1,14 @@
+
+^	php:S1192¶"HDefine a constant instead of duplicating this literal "default" 6 times.(ôÛÄŞ
+d	php:S1117Ä"IRename "$tabs" which has the same name as the field declared at line 286.(ÁÙ‘üÿÿÿÿ
+h	php:S1117"MRename "$controls" which has the same name as the field declared at line 249.(Ö‘ŞÊùÿÿÿÿ
+a	php:S1192Œ"FDefine a constant instead of duplicating this literal "title" 3 times.(„èõïüÿÿÿÿ
+c	php:S1117Ï"MRename "$controls" which has the same name as the field declared at line 249.(Äï÷÷
+d	php:S1192†"IDefine a constant instead of duplicating this literal "controls" 9 times.(Ëìÿ½ÿÿÿÿÿ
+`	php:S1192œ"JDefine a constant instead of duplicating this literal "overwrite" 3 times.(ªÒ£
+mphp:S101"TRename class "Controls_Manager" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“¶ğøÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "index" 3 times.(„“…¾
+f	php:S1192«"KDefine a constant instead of duplicating this literal "elementor" 13 times.(ÈÙÀÁüÿÿÿÿ
+†	php:S1448"lClass "Controls_Manager" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(“¶ğøÿÿÿÿ
+MWeb:ImgWithoutAltCheckš"%Add an "alt" attribute to this image.(ßØ Æüÿÿÿÿ
+_	php:S1192"IDefine a constant instead of duplicating this literal "messages" 3 times.( ³ü„

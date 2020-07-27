@@ -1,0 +1,7 @@
+
+c	php:S1192"HDefine a constant instead of duplicating this literal "_batch_" 3 times.(’òïüÿÿÿÿ
+o	php:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µ®æÚûÿÿÿÿ
+d	php:S1192D"ODefine a constant instead of duplicating this literal "_cron_interval" 4 times.(ŒÛ’ü
+‹	php:S1448"qClass "WP_Background_Process" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(†Øüÿÿÿÿ
+rphp:S101"YRename class "WP_Background_Process" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†Øüÿÿÿÿ
+i	php:S1192ß"NDefine a constant instead of duplicating this literal "_process_lock" 3 times.(°…ğ¸üÿÿÿÿ

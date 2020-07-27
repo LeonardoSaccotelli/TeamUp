@@ -1,0 +1,18 @@
+
+Iphp:S121W"0Add curly braces around the nested statement(s).(º’¹¯üÿÿÿÿ
+e	php:S1192+"KDefine a constant instead of duplicating this literal "</p></div>" 3 times.(‘ûİùÿÿÿÿ
+b	php:S1192."NDefine a constant instead of duplicating this literal "admin_notices" 3 times.(ïÓÑ-
+q	php:S1192+"WDefine a constant instead of duplicating this literal "<div class="error"><p>" 3 times.(‘ûİùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+php:S115"mRename this constant "um_messaging_textdomain" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Ù”°’
+Iphp:S121T"0Add curly braces around the nested statement(s).(¯¢ô§øÿÿÿÿ
+b	php:S1192"MDefine a constant instead of duplicating this literal "um-messaging" 3 times.(Ù”°’
+php:S115"fRename this constant "um_messaging_url" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(„¶ˆ×úÿÿÿÿ
+„php:S115"kRename this constant "um_messaging_requires" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Š–½úÿÿÿÿ
+ƒphp:S115"jRename this constant "um_messaging_version" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‡ÙŞÚşÿÿÿÿ
+n	php:S1192."ZDefine a constant instead of duplicating this literal "um_messaging_dependencies" 3 times.(ïÓÑ-
+}php:S115"iRename this constant "um_messaging_plugin" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ğ½€è
+€php:S115"gRename this constant "um_messaging_path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Œ šúÿÿÿÿ
+€php:S115"lRename this constant "um_messaging_extension" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(òáí
+ƒ	php:S4144:"iUpdate this method so that its implementation is not identical to "um_messaging_dependencies" on line 42.(äò´‹øÿÿÿÿ
+o	php:S1192"UDefine a constant instead of duplicating this literal "um_messaging_version" 3 times.(‡ÙŞÚşÿÿÿÿ

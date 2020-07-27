@@ -1,0 +1,3 @@
+
+â	php:S1603+"tReplace this function name "WP_Widget_Factory", since a "__construct" method has already been defined in this class.(¨úé”
+iphp:S101"URename class "WP_Widget_Factory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÌÇªù

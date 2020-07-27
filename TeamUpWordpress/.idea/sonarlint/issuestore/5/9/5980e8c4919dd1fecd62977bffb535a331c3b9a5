@@ -1,0 +1,44 @@
+
+:	Web:S5256è"%Add "<th>" headers to this "<table>".(¬ì—J
+OWeb:FieldsetWithoutLegendCheckŞ"$Add a <legend> tag to this fieldset.(„ƒöà
+^	php:S1192µ"HDefine a constant instead of duplicating this literal "excerpt" 6 times.(ø®¿
+J	php:S1066Í"/Merge this if statement with the enclosing one.(¢´á€ÿÿÿÿÿ
+f	php:S1192¶"KDefine a constant instead of duplicating this literal "delete_all" 3 times.(ˆâñŠûÿÿÿÿ
+`	php:S1192ã"JDefine a constant instead of duplicating this literal "post_type" 9 times.(ÅõÛÛ
+a	php:S1192ã"FDefine a constant instead of duplicating this literal "title" 7 times.(Üœµîÿÿÿÿÿ
+o	php:S3776–	"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ïÊè·ûÿÿÿÿ
+OWeb:FieldsetWithoutLegendCheckğ"$Add a <legend> tag to this fieldset.(Œèº‹
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÂŞû©úÿÿÿÿ
+p	php:S3776³"URefactor this function to reduce its Cognitive Complexity from 149 to the 15 allowed.(›úÌ­ùÿÿÿÿ
+j	php:S3776’"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÎÙ›«
+\	php:S1192P"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+p	php:S1192¯"ZDefine a constant instead of duplicating this literal "&mdash; No Change &mdash;" 8 times.(ß¸Ô
+\	php:S1192l"HDefine a constant instead of duplicating this literal "author" 14 times.(›Õ±O
+o	php:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ëç“¼ûÿÿÿÿ
+a	php:S1192l"MDefine a constant instead of duplicating this literal "post_status" 13 times.(›Õ±O
+o	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Í¥ß–üÿÿÿÿ
+[	php:S1192O"FDefine a constant instead of duplicating this literal "posts" 5 times.(ê¯ó­
+o	php:S3776®
+"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¦›ıÖøÿÿÿÿ
+d	php:S1192‡"IDefine a constant instead of duplicating this literal "comments" 8 times.(£”¦¬üÿÿÿÿ
+a	php:S1192Î"KDefine a constant instead of duplicating this literal "trackbacks" 3 times.(‡ÿÍ 
+]	php:S1192»"GDefine a constant instead of duplicating this literal "trash" 10 times.(Òº¦á
+_	php:S1192ˆ"IDefine a constant instead of duplicating this literal "Comments" 3 times.(£ÊßÓ
+^	php:S1192ÿ"HDefine a constant instead of duplicating this literal "current" 5 times.(¨‰é×
+f	php:S1192ü"KDefine a constant instead of duplicating this literal "categories" 3 times.(…«òšùÿÿÿÿ
+c	php:S1192“"HDefine a constant instead of duplicating this literal "</span>" 4 times.(ÊËÅüÿÿÿÿ
+h	php:S1192¼"MDefine a constant instead of duplicating this literal "post-formats" 3 times.(ƒÖ‘ôÿÿÿÿÿ
+HWeb:TableWithoutCaptionCheckè" Add a description to this table.(¬ì—J
+_	php:S1192Ã"IDefine a constant instead of duplicating this literal "category" 5 times.(ş§àĞ
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(·²‹şÿÿÿÿ
+pphp:S101"WRename class "WP_Posts_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸˜Ã’ÿÿÿÿÿ
+‰	php:S1448"oClass "WP_Posts_List_Table" has 32 methods, which is greater than 20 authorized. Split it into smaller classes.(¸˜Ã’ÿÿÿÿÿ
+_	php:S1192é"IDefine a constant instead of duplicating this literal "taxonomy" 3 times.(½˜«Ô
+e	php:S1192˜"JDefine a constant instead of duplicating this literal "edit_post" 3 times.(Ì·ÄÊüÿÿÿÿ
+q	php:S1192Y"WDefine a constant instead of duplicating this literal "show_in_admin_all_list" 3 times.(±Óßêÿÿÿÿÿ
+^	php:S1192l"JDefine a constant instead of duplicating this literal "all_posts" 3 times.(›Õ±O
+•php:S138³"{This function "inline_edit" has 221 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(›úÌ­ùÿÿÿÿ
+c	php:S1192Š"HDefine a constant instead of duplicating this literal "publish" 3 times.(„çîªùÿÿÿÿ
+b	php:S1192é"LDefine a constant instead of duplicating this literal "post_format" 4 times.(½˜«Ô
+b	php:S1192‡"GDefine a constant instead of duplicating this literal "future" 3 times.(£”¦¬üÿÿÿÿ
+`	php:S1192l"LDefine a constant instead of duplicating this literal "show_sticky" 5 times.(›Õ±O

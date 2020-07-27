@@ -1,0 +1,34 @@
+
+j	php:S1192š"ODefine a constant instead of duplicating this literal "user_password" 13 times.(÷ÎÚ¬úÿÿÿÿ
+y	php:S1192"_Define a constant instead of duplicating this literal "um_change_password_errors_hook" 3 times.(“üÄ·ûÿÿÿÿ
+g	php:S1192À"QDefine a constant instead of duplicating this literal "ultimate-member" 13 times.(¯¬í±
+d	php:S1192š"NDefine a constant instead of duplicating this literal "wp-resetpass-" 3 times.(”¦û
+y	php:S1192"_Define a constant instead of duplicating this literal "um_reset_password_process_hook" 3 times.(‰ß£ûÿÿÿÿ
+h	php:S1871‹"MThis branch's code block is the same as the block for the branch on line 265.(ÜÊê¾ıÿÿÿÿ
+^	php:S1192­"HDefine a constant instead of duplicating this literal "updated" 6 times.(„è¢†
+j	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(“½ÓÂ
+o	php:S3776–"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(‰Í¢øÿÿÿÿ
+B	php:S1125I"(Remove the literal "true" boolean value.(…®—œşÿÿÿÿ
+<	php:S1110ë"!Remove these useless parentheses.(†±Òÿÿÿÿÿ
+C	php:S1172½"-Remove the unused function parameter "$args".(“½ÓÂ
+q	php:S14881"\Immediately return this expression instead of assigning it to the temporary variable "$url".(èã×Ö
+a	php:S1192£"KDefine a constant instead of duplicating this literal "invalidkey" 4 times.(ª¨Ù
+z	php:S1192"`Define a constant instead of duplicating this literal "um_change_password_process_hook" 3 times.(ƒ¸Óƒûÿÿÿÿ
+u	php:S1488b"`Immediately return this expression instead of assigning it to the temporary variable "$classes".(©çó³
+q	php:S1192®"VDefine a constant instead of duplicating this literal "confirm_user_password" 6 times.(èô…ÿÿÿÿÿ
+u	php:S1488ï"_Immediately return this expression instead of assigning it to the temporary variable "$output".(óƒ¹ÿ
+o	php:S1192‹"TDefine a constant instead of duplicating this literal "_um_password_change" 4 times.(ÜÊê¾ıÿÿÿÿ
+]	php:S11921"HDefine a constant instead of duplicating this literal "user_id" 9 times.(èã×Ö
+[	php:S1192"FDefine a constant instead of duplicating this literal "login" 3 times.(Ø‡›I
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(š·àşÿÿÿÿ
+q	php:S1192Ù"VDefine a constant instead of duplicating this literal "password_rst_attempts" 3 times.(ÊÚ›ùÿÿÿÿ
+d	php:S11921"ODefine a constant instead of duplicating this literal "password-reset" 7 times.(èã×Ö
+d	php:S11921"ODefine a constant instead of duplicating this literal "reset_password" 3 times.(èã×Ö
+o	php:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ñÏœìûÿÿÿÿ
+a	php:S1192Æ"KDefine a constant instead of duplicating this literal "username_b" 5 times.(æÓì¥
+x	php:S1192"^Define a constant instead of duplicating this literal "um_reset_password_errors_hook" 3 times.(—ãóåıÿÿÿÿ
+=	php:S1125E"(Remove the literal "true" boolean value.(ØÃ„Ô
+c	php:S1192s"IDefine a constant instead of duplicating this literal "password" 4 times.(³‚¨­ùÿÿÿÿ
+H	php:S1172ô"-Remove the unused function parameter "$args".(©ºÍúÿÿÿÿ
+]	php:S1192™"GDefine a constant instead of duplicating this literal "rp_key" 3 times.(°±²Å

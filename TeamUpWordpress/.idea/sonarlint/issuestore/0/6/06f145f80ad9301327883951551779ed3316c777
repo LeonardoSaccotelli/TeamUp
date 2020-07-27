@@ -1,0 +1,56 @@
+
+\	php:S1192c"GDefine a constant instead of duplicating this literal "video" 13 times.(ÿÙÓè
+^	php:S1192º"IDefine a constant instead of duplicating this literal "options" 11 times.(ò–»6
+}	php:S1192ˆ"gDefine a constant instead of duplicating this literal "background-size: {{SIZE}}{{UNIT}} auto" 3 times.(Í›ä½
+c	php:S1192ã"MDefine a constant instead of duplicating this literal "Center Right" 3 times.(¢İ‘¯
+_	php:S1192š"IDefine a constant instead of duplicating this literal "of_type" 19 times.(ßÓÉÒ
+i	php:S1192‡"NDefine a constant instead of duplicating this literal "{{SELECTOR}}" 17 times.( ÌÍ‹ıÿÿÿÿ
+f	php:S1192ü"KDefine a constant instead of duplicating this literal "responsive" 9 times.(Ù‚öœøÿÿÿÿ
+n	php:S1192\"TDefine a constant instead of duplicating this literal "Background Control" 69 times.(Å¬Û¶ıÿÿÿÿ
+i	php:S1192á"NDefine a constant instead of duplicating this literal "Center Center" 3 times.(Éúßüüÿÿÿÿ
+f	php:S1192~"LDefine a constant instead of duplicating this literal "render_type" 6 times.(¿ĞÜëüÿÿÿÿ
+d	php:S1192„"IDefine a constant instead of duplicating this literal "default" 22 times.(äÜµéùÿÿÿÿ
+c	php:S1192é"MDefine a constant instead of duplicating this literal "bottom right" 3 times.(®‘§ü
+pphp:S101"\Rename class "Group_Control_Background" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÅòĞ 
+`	php:S1192æ"JDefine a constant instead of duplicating this literal "Top Right" 3 times.(‰’£Š
+f	php:S1192ä"KDefine a constant instead of duplicating this literal "top center" 3 times.(ĞşÀ²øÿÿÿÿ
+b	php:S1192ª"LDefine a constant instead of duplicating this literal "description" 4 times.(‚ÏÓ–
+”php:S138x"{This function "init_fields" has 599 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÇÑô–ÿÿÿÿÿ
+c	php:S1192é"MDefine a constant instead of duplicating this literal "Bottom Right" 3 times.(®‘§ü
+_	php:S1192å"IDefine a constant instead of duplicating this literal "Top Left" 3 times.(õî¼×
+j	php:S1117­"TRename "$background_types" which has the same name as the field declared at line 42.(Õ£ Ë
+\	php:S1192€"FDefine a constant instead of duplicating this literal "types" 3 times.(÷Š”¯
+f	php:S11928"LDefine a constant instead of duplicating this literal "background" 40 times.(ÄÒÂõşÿÿÿÿ
+j	php:S1192±"TDefine a constant instead of duplicating this literal "frontend_available" 12 times.(‘İĞ€
+a	php:S1192‰"KDefine a constant instead of duplicating this literal "condition" 37 times.(Ä‹
+g	php:S1192Ÿ"LDefine a constant instead of duplicating this literal "image[url]!" 8 times.(‡ó½áşÿÿÿÿ
+g	php:S1192©"LDefine a constant instead of duplicating this literal "placeholder" 3 times.(©ÔËËüÿÿÿÿ
+f	php:S1192†"KDefine a constant instead of duplicating this literal "selectors" 20 times.(Ú‘›æúÿÿÿÿ
+f	php:S1192ä"KDefine a constant instead of duplicating this literal "Top Center" 3 times.(ĞşÀ²øÿÿÿÿ
+f	php:S1192‘"KDefine a constant instead of duplicating this literal "size_units" 6 times.(½–Óİúÿÿÿÿ
+`	php:S1192\"FDefine a constant instead of duplicating this literal "title" 6 times.(Å¬Û¶ıÿÿÿÿ
+g	php:S1192â"LDefine a constant instead of duplicating this literal "Center Left" 3 times.(şÛåëøÿÿÿÿ
+c	php:S1192ã"MDefine a constant instead of duplicating this literal "center right" 3 times.(¢İ‘¯
+d	php:S1117y"JRename "$fields" which has the same name as the field declared at line 29.(‰®™·üÿÿÿÿ
+d	php:S1192Î"IDefine a constant instead of duplicating this literal "required" 3 times.(ÑÈÔáıÿÿÿÿ
+b	php:S1192è"LDefine a constant instead of duplicating this literal "bottom left" 3 times.(õÎ™˜
+g	php:S1192Ï"LDefine a constant instead of duplicating this literal "device_args" 3 times.(Ò’ƒºúÿÿÿÿ
+`	php:S1192æ"JDefine a constant instead of duplicating this literal "top right" 3 times.(‰’£Š
+g	php:S1192â"LDefine a constant instead of duplicating this literal "center left" 3 times.(şÛåëøÿÿÿÿ
+_	php:S1192‡"IDefine a constant instead of duplicating this literal "position" 3 times.(Œñë¡
+_	php:S1192å"IDefine a constant instead of duplicating this literal "top left" 3 times.(õî¼×
+i	php:S1192á"NDefine a constant instead of duplicating this literal "center center" 4 times.(Éúßüüÿÿÿÿ
+b	php:S1192è"LDefine a constant instead of duplicating this literal "Bottom Left" 3 times.(õÎ™˜
+\	php:S1192Î"FDefine a constant instead of duplicating this literal "range" 4 times.(÷¦ç£
+d	php:S1192ç"NDefine a constant instead of duplicating this literal "Bottom Center" 3 times.(„Š°¥
+e	php:S1192\"KDefine a constant instead of duplicating this literal "elementor" 93 times.(Å¬Û¶ıÿÿÿÿ
+_	php:S1192—"IDefine a constant instead of duplicating this literal "initial" 11 times.(ûÍÛâ
+e	php:S1192g"KDefine a constant instead of duplicating this literal "slideshow" 15 times.(±¾öúÿÿÿÿ
+]	php:S1192»"GDefine a constant instead of duplicating this literal "linear" 3 times.(Êéš“
+^	php:S1192"HDefine a constant instead of duplicating this literal "Default" 6 times.(’èšº
+`	php:S1117‘"JRename "$fields" which has the same name as the field declared at line 29.(ÚÔß
+a	php:S1192|"GDefine a constant instead of duplicating this literal "label" 31 times.(á°üùüÿÿÿÿ
+d	php:S1192ç"NDefine a constant instead of duplicating this literal "bottom center" 3 times.(„Š°¥
+i	php:S1192·"NDefine a constant instead of duplicating this literal "gradient_type" 3 times.(ºİ•şûÿÿÿÿ
+_	php:S1192_"JDefine a constant instead of duplicating this literal "gradient" 15 times.(è«àè
+c	php:S1192["IDefine a constant instead of duplicating this literal "classic" 18 times.(ó±”¤ıÿÿÿÿ

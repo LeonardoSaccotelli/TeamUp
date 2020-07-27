@@ -1,0 +1,8 @@
+
+e	php:S11922"KDefine a constant instead of duplicating this literal "email_html" 3 times.(ßí»üÿÿÿÿ
+J	php:S11720"0Remove the unused function parameter "$message".(¨™®Öıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+`	php:S1126¿"EReplace this "if-then-else" statement by a single "return" statement.(Êİ«øÿÿÿÿ
+h	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(Æıá¼ùÿÿÿÿ
+k	php:S1192s"VDefine a constant instead of duplicating this literal "ultimate-member/email" 3 times.(à¶€
+Qphp:S131"7Add a "case default" clause to this "switch" statement.(Æıá¼ùÿÿÿÿ

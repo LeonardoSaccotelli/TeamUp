@@ -1,0 +1,164 @@
+
+c	php:S1192"HDefine a constant instead of duplicating this literal "scheme" 13 times.(×¦¼‚øÿÿÿÿ
+D	php:S1481ø")Remove this unused "$key" local variable.(Ø³Ø¢úÿÿÿÿ
+Jphp:S121¤"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121¡"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+4php:S125ë"Remove this commented out code.(°Ğ¬¿
+J	php:S3801«	"4Refactor this function to use "return" consistently.(Ş¥Ö¹
+Ephp:S121Ì"0Add curly braces around the nested statement(s).(º·Ş®
+^	php:S1117î"HRename "$host" which has the same name as the field declared at line 44.(ß†ëŠ
+Jphp:S121â"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+4php:S125©	"Remove this commented out code.(°Ğ¬¿
+4php:S125æ"Remove this commented out code.(°Ğ¬¿
+4php:S125Ä"Remove this commented out code.(°Ğ¬¿
+4php:S125Í"Remove this commented out code.(°Ğ¬¿
+Jphp:S121×	"0Add curly braces around the nested statement(s).(øš¿áıÿÿÿÿ
+D	php:S1066ï"/Merge this if statement with the enclosing one.(ê¶¯?
+J	php:S1066À"/Merge this if statement with the enclosing one.(¡ÄÎæıÿÿÿÿ
+Jphp:S121ÿ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+f	php:S1117¸"KRename "$headers" which has the same name as the field declared at line 79.(¦‹©±üÿÿÿÿ
+Jphp:S121ˆ"0Add curly braces around the nested statement(s).(‹í†˜øÿÿÿÿ
+Jphp:S121¶"0Add curly braces around the nested statement(s).(è–ê¤ÿÿÿÿÿ
+Jphp:S121î"0Add curly braces around the nested statement(s).(Ô•ÑÇıÿÿÿÿ
+Ephp:S121œ"0Add curly braces around the nested statement(s).(ì Ü£
+4php:S125¡"Remove this commented out code.(°Ğ¬¿
+Jphp:S121ú"0Add curly braces around the nested statement(s).(É¶é¦şÿÿÿÿ
+4php:S125ˆ"Remove this commented out code.(°Ğ¬¿
+Ephp:S121Æ"0Add curly braces around the nested statement(s).(“‹ïÜ
+Ephp:S121¤"0Add curly braces around the nested statement(s).(Áöä
+Jphp:S121»"0Add curly braces around the nested statement(s).(¾’„Şùÿÿÿÿ
+Ephp:S121¡"0Add curly braces around the nested statement(s).(‹ğòß
+Jphp:S121Á"0Add curly braces around the nested statement(s).(ˆÖ£ûÿÿÿÿ
+Jphp:S121ì"0Add curly braces around the nested statement(s).(Ñº‡ñùÿÿÿÿ
+Jphp:S121¹"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.(€ÙÙÁùÿÿÿÿ
+Dphp:S121…"0Add curly braces around the nested statement(s).(ş†É
+Ephp:S121ò"0Add curly braces around the nested statement(s).(›¢¾ç
+Dphp:S121Ş"0Add curly braces around the nested statement(s).(«ä€]
+Ephp:S121†"0Add curly braces around the nested statement(s).(•Í£²
+Ephp:S121Ó"0Add curly braces around the nested statement(s).(›¢¾ç
+j	php:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(õäĞò
+Jphp:S121û"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+3php:S125"Remove this commented out code.(°Ğ¬¿
+|	php:S1488"fImmediately return this expression instead of assigning it to the temporary variable "$expandedLinks".(î††Ì
+j	php:S3776«	"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ş¥Ö¹
+Ephp:S121¾"0Add curly braces around the nested statement(s).(ì Ü£
+Ephp:S121µ"0Add curly braces around the nested statement(s).(­¾‰ä
+4php:S125›	"Remove this commented out code.(°Ğ¬¿
+Ephp:S121“"0Add curly braces around the nested statement(s).(­¾‰ä
+`	php:S1192«"JDefine a constant instead of duplicating this literal "|^http://" 5 times.(Ê…•Ü
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(ú‰¯Ö
+Jphp:S121€"0Add curly braces around the nested statement(s).(É¶é¦şÿÿÿÿ
+Ephp:S121Ã"0Add curly braces around the nested statement(s).(éÀ›Ö
+Ephp:S121°"0Add curly braces around the nested statement(s).(Ë’Ç‰
+Dphp:S121Ğ"0Add curly braces around the nested statement(s).(ê¶¯?
+Jphp:S121¡"0Add curly braces around the nested statement(s).(è–ê¤ÿÿÿÿÿ
+Ephp:S121È"0Add curly braces around the nested statement(s).(Áöä
+Jphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121¤"0Add curly braces around the nested statement(s).(ÉßãK
+4php:S125·"Remove this commented out code.(°Ğ¬¿
+Jphp:S121½"0Add curly braces around the nested statement(s).(øÉÏûÿÿÿÿ
+Ephp:S121½"0Add curly braces around the nested statement(s).(Ë’Ç‰
+Jphp:S121¢"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+]	php:S1192"GDefine a constant instead of duplicating this literal "Host: " 3 times.(œ¨Şº
+Ephp:S121·"0Add curly braces around the nested statement(s).(ì Ü£
+Jphp:S121ı"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+3php:S1256"Remove this commented out code.(ƒÏç¿
+j	php:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(‡§‰É
+Jphp:S121Í"0Add curly braces around the nested statement(s).(Ñº‡ñùÿÿÿÿ
+i	php:S1192Ğ"TDefine a constant instead of duplicating this literal "multipart/form-data" 4 times.(Ñß¨!
+p	php:S3776—"URefactor this function to reduce its Cognitive Complexity from 103 to the 15 allowed.(¶ƒ™æøÿÿÿÿ
+Jphp:S121Ë"0Add curly braces around the nested statement(s).(Íş€úÿÿÿÿ
+Jphp:S121Â"0Add curly braces around the nested statement(s).(áû¨‚üÿÿÿÿ
+Jphp:S121Ä"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121¨"0Add curly braces around the nested statement(s).(º·Ş®
+Jphp:S121å"0Add curly braces around the nested statement(s).(ˆÖ£ûÿÿÿÿ
+D	php:S1066Ğ"/Merge this if statement with the enclosing one.(ê¶¯?
+Jphp:S121¶"0Add curly braces around the nested statement(s).(Ñ˜«ùÿÿÿÿ
+|	php:S1192n"bDefine a constant instead of duplicating this literal "application/x-www-form-urlencoded" 3 times.(ĞÎ‘ìøÿÿÿÿ
+\	php:S1192­	"FDefine a constant instead of duplicating this literal "array" 3 times.(Î»·
+Ephp:S121«"0Add curly braces around the nested statement(s).(›¢¾ç
+4php:S125æ"Remove this commented out code.(°Ğ¬¿
+C	php:S1481¹	"-Remove this unused "$cur_key" local variable.(À¿¶Â
+j	php:S1142—"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¶ƒ™æøÿÿÿÿ
+8php:S1258"Remove this commented out code.(ãÜ¡Úøÿÿÿÿ
+4php:S125"Remove this commented out code.(°Ğ¬¿
+4php:S125"Remove this commented out code.(°Ğ¬¿
+Ephp:S121Ç"0Add curly braces around the nested statement(s).(¢ùÎî
+4php:S125±"Remove this commented out code.(°Ğ¬¿
+Jphp:S121²"0Add curly braces around the nested statement(s).(Ó ¥ßıÿÿÿÿ
+Jphp:S121æ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121Ë"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Lphp:S131´	"7Add a "case default" clause to this "switch" statement.(°¨ñ½
+4php:S125ğ"Remove this commented out code.(°Ğ¬¿
+Jphp:S121 "0Add curly braces around the nested statement(s).(‹í†˜øÿÿÿÿ
+Ephp:S121Ç"0Add curly braces around the nested statement(s).(ì Ü£
+Dphp:S121š"0Add curly braces around the nested statement(s).(ÅÀ
+Ephp:S121Š"0Add curly braces around the nested statement(s).(ä±Ø¦
+j	php:S3776³"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(êò‡æ
+4php:S125Ø"Remove this commented out code.(°Ğ¬¿
+Jphp:S121à"0Add curly braces around the nested statement(s).(øÉÏûÿÿÿÿ
+c	php:S1117ï"HRename "$port" which has the same name as the field declared at line 45.(¼Ú×ˆÿÿÿÿÿ
+Jphp:S121Í"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121•"0Add curly braces around the nested statement(s).(ì Ü£
+a	php:S1117ƒ"KRename "$results" which has the same name as the field declared at line 75.(ŸŞõË
+Ephp:S121¼	"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121±	"0Add curly braces around the nested statement(s).(ìƒ‹úüÿÿÿÿ
+Ephp:S121ç"0Add curly braces around the nested statement(s).(éÀ›Ö
+Ephp:S121“"0Add curly braces around the nested statement(s).(›¢¾ç
+9php:S125‘"Remove this commented out code.(ÊÃÍÖşÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(•Í£²
+9php:S125Ò"Remove this commented out code.(óê¶™üÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(Íş€úÿÿÿÿ
+Jphp:S121š"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+t	php:S1488”"^Immediately return this expression instead of assigning it to the temporary variable "$match".(­ú¨Ø
+Jphp:S121Ï"0Add curly braces around the nested statement(s).(Ô•ÑÇıÿÿÿÿ
+Ephp:S121¢"0Add curly braces around the nested statement(s).(ä±Ø¦
+Jphp:S121ï"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121í"0Add curly braces around the nested statement(s).(†¸§àøÿÿÿÿ
+]	php:S1192Š"GDefine a constant instead of duplicating this literal "query" 12 times.(ä±Ø¦
+4php:S125ã"Remove this commented out code.(°Ğ¬¿
+9php:S125¾"Remove this commented out code.(ÿÈ˜ùÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121ò"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(Ó ¥ßıÿÿÿÿ
+Jphp:S121˜"0Add curly braces around the nested statement(s).(†¸§àøÿÿÿÿ
+4php:S125Ô"Remove this commented out code.(°Ğ¬¿
+J	php:S1066¨"/Merge this if statement with the enclosing one.(¡ÄÎæıÿÿÿÿ
+Jphp:S121Î"0Add curly braces around the nested statement(s).(Ş×Ëªûÿÿÿÿ
+E	php:S1066ç"/Merge this if statement with the enclosing one.(Ê…•Ü
+4php:S125ª"Remove this commented out code.(°Ğ¬¿
+Jphp:S121Ä"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+J	php:S1066ƒ"/Merge this if statement with the enclosing one.(¡ÄÎæıÿÿÿÿ
+Ephp:S121Ü"0Add curly braces around the nested statement(s).(ƒ­ ğ
+Jphp:S121Ú"0Add curly braces around the nested statement(s).(Ñ˜«ùÿÿÿÿ
+Dphp:S121Á"0Add curly braces around the nested statement(s).(«ä€]
+Jphp:S121Ê"0Add curly braces around the nested statement(s).(¼×ç·ûÿÿÿÿ
+x	php:S1488Û"]Immediately return this expression instead of assigning it to the temporary variable "$text".(µïŞÆşÿÿÿÿ
+f	php:S1117‚"KRename "$results" which has the same name as the field declared at line 75.(£ñ¦Ùüÿÿÿÿ
+J	php:S1172³"4Remove the unused function parameter "$http_method".(êò‡æ
+c	php:S1301´	"MReplace this "switch" statement with "if" statements to increase readability.(°¨ñ½
+Dphp:S121ï"0Add curly braces around the nested statement(s).(ê¶¯?
+Dphp:S121Œ"0Add curly braces around the nested statement(s).(ÉßãK
+Jphp:S121Ã"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ú‰¯Ö
+Dphp:S121ø"0Add curly braces around the nested statement(s).(«ä€]
+Ephp:S121¢"0Add curly braces around the nested statement(s).(“‹ïÜ
+Jphp:S121—"0Add curly braces around the nested statement(s).(¾’„Şùÿÿÿÿ
+Dphp:S121Â"0Add curly braces around the nested statement(s).(ş†É
+J	php:S1066ä"/Merge this if statement with the enclosing one.(¡ÄÎæıÿÿÿÿ
+ƒ	Web:S4645ª"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(™Ò•Ÿùÿÿÿÿ
+E	php:S1066«"/Merge this if statement with the enclosing one.(Ê…•Ü
+Jphp:S121á"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121¿"0Add curly braces around the nested statement(s).(ÅÀ
+Ephp:S121"0Add curly braces around the nested statement(s).(Ë’Ç‰
+Ephp:S121¸"0Add curly braces around the nested statement(s).(ƒ­ ğ
+f	php:S1117™"KRename "$headers" which has the same name as the field declared at line 79.(Üì²³üÿÿÿÿ
+Jphp:S121Á"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+3php:S125„"Remove this commented out code.(ì¸¨a
+Jphp:S121ß"0Add curly braces around the nested statement(s).(ôÖ³Ëûÿÿÿÿ
+Ephp:S121Á"0Add curly braces around the nested statement(s).(ÈÎ»³
+l	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(´ÍÜì
+Jphp:S121ß"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+4php:S125Ô"Remove this commented out code.(°Ğ¬¿
+Ephp:S121"0Add curly braces around the nested statement(s).(°†ì¬

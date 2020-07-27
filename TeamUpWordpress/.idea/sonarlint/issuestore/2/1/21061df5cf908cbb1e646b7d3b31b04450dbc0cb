@@ -1,0 +1,15 @@
+
+_	php:S1192F"JDefine a constant instead of duplicating this literal "image/gif" 3 times.(§Ğ•¹
+d	php:S1142?"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ûÜ¥
+J	php:S1481á"/Remove this unused "$extension" local variable.(İéÒøÿÿÿÿ
+Kphp:S131A"7Add a "case default" clause to this "switch" statement.(å ºó
+]	php:S1192›"GDefine a constant instead of duplicating this literal "height" 9 times.(“Îß
+d	php:S1142T"OReduce the number of returns of this function 5, down to the maximum allowed 3.(€½•õ
+o	php:S1192°"YDefine a constant instead of duplicating this literal "Image Editor Save Failed" 4 times.(¹ÊîÛ
+\	php:S1192›"FDefine a constant instead of duplicating this literal "width" 9 times.(“Îß
+_	php:S1192D"JDefine a constant instead of duplicating this literal "image/png" 3 times.(ÿÿ×¢
+I	php:S1481á".Remove this unused "$filename" local variable.(İéÒøÿÿÿÿ
+e	php:S1142§"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¦íÑ
+g	php:S1192°"QDefine a constant instead of duplicating this literal "image_save_error" 4 times.(¹ÊîÛ
+jphp:S101"VRename class "WP_Image_Editor_GD" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(é©ß–
+j	php:S1142š"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ë ‰õúÿÿÿÿ

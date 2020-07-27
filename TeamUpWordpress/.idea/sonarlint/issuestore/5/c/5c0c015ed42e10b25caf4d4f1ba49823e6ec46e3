@@ -1,0 +1,106 @@
+
+J	php:S1135Å"4Complete the task associated to this "TODO" comment.(¾ÿä€
+d	php:S1192µ2"NDefine a constant instead of duplicating this literal "wp-auth-check" 3 times.(¬ô‚Í
+l	php:S1192¡!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\xae" 3 times.(Û‹âˆüÿÿÿÿ
+x	php:S1488¯"]Immediately return this expression instead of assigning it to the temporary variable "$date".(ÆÀ±üÿÿÿÿ
+d	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(•…‹ø
+e	php:S1192¸"JDefine a constant instead of duplicating this literal "link_text" 3 times.(­°œÖÿÿÿÿÿ
+f	php:S1192–,"KDefine a constant instead of duplicating this literal "continent" 10 times.(ÉŠ­ƒıÿÿÿÿ
+o	php:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(õ­ùÿÿÿÿ
+l	php:S1192’!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\x90" 3 times.(ÉÆ›íûÿÿÿÿ
+w	php:S1488z"bImmediately return this expression instead of assigning it to the temporary variable "$tz_offset".(ôÃ»
+u	php:S1488"`Immediately return this expression instead of assigning it to the temporary variable "$content".(†Ğ½	
+o	php:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(†ë¹°şÿÿÿÿ
+e	php:S1142¼"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¼¤âƒ
+€	php:S1488ö9"jImmediately return this expression instead of assigning it to the temporary variable "$direct_update_url".(ƒ¾Åß
+h	php:S1871ê"MThis branch's code block is the same as the block for the branch on line 872.(öë ©şÿÿÿÿ
+m	php:S1192Ğ,"RDefine a constant instead of duplicating this literal "continents-cities" 5 times.(á—Óÿÿÿÿÿ
+o	php:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ˆ›Ö¯üÿÿÿÿ
+j	php:S3776’"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.( œ‡æ
+j	php:S1142â("OReduce the number of returns of this function 4, down to the maximum allowed 3.(¼¥öÂıÿÿÿÿ
+j	php:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(­™Ìî
+k	php:S1142ã"PReduce the number of returns of this function 13, down to the maximum allowed 3.(ˆ›Ö¯üÿÿÿÿ
+f	php:S1192£!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\xa1" 3 times.(§è›N
+[php:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(¾¼—Ö
+_	php:S1192š-"IDefine a constant instead of duplicating this literal "<option " 3 times.(ƒ€‰î
+^	php:S1192š-"HDefine a constant instead of duplicating this literal "value="" 3 times.(ƒ€‰î
+l	php:S1192–!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x99\x82" 3 times.( »ñàÿÿÿÿÿ
+w	php:S1488ø"\Immediately return this expression instead of assigning it to the temporary variable "$ret".(íÕÙÿÿÿÿÿ
+a	php:S1192ÿ"FDefine a constant instead of duplicating this literal "class" 4 times.(®‘¬Ûıÿÿÿÿ
+j	php:S1142È"OReduce the number of returns of this function 6, down to the maximum allowed 3.(óÿ­¢ùÿÿÿÿ
+o	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(¢Êìúÿÿÿÿ
+¦	php:S1192ä$"ŠDefine a constant instead of duplicating this literal "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead." 5 times.(îšë˜ùÿÿÿÿ
+g	php:S1192¤!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x99\x81" 3 times.(úÕßç
+O	php:S1172Â6"4Remove the unused function parameter "$option_name".(íÃ™Ôùÿÿÿÿ
+<	php:S1110ã"!Remove these useless parentheses.(ÿõâèùÿÿÿÿ
+c	php:S1192­"HDefine a constant instead of duplicating this literal "siteurl" 3 times.(ª«†óşÿÿÿÿ
+­	php:S1192ï$"–Define a constant instead of duplicating this literal "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available." 5 times.(¤øíò
+o	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(´˜ßÑûÿÿÿÿ
+d	php:S1192¸"IDefine a constant instead of duplicating this literal "link_url" 3 times.(­°œÖÿÿÿÿÿ
+k	php:S1142”,"PReduce the number of returns of this function 11, down to the maximum allowed 3.(øâŠ‰üÿÿÿÿ
+d	php:S1192è "IDefine a constant instead of duplicating this literal "toolbar1" 3 times.(ã“Éİøÿÿÿÿ
+g	php:S1192Ÿ!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\x89" 3 times.(‡°½
+j	php:S11425"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ˆÛæ¹ùÿÿÿÿ
+l	php:S1192—!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\x95" 3 times.(« âøÿÿÿÿ
+o	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¹ˆ„ˆÿÿÿÿÿ
+b	php:S1192 	"GDefine a constant instead of duplicating this literal "error" 12 times.(æıïùÿÿÿÿ
+_	php:S1192Ò"IDefine a constant instead of duplicating this literal "https://" 4 times.(¸ŒêÎ
+s	php:S1488Î"]Immediately return this expression instead of assigning it to the temporary variable "$date".(áü¤
+a	php:S1192©,"LDefine a constant instead of duplicating this literal "t_continent" 7 times.(ÖŞ½T
+e	php:S1142¥"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ÿ¥åÔ
+t	php:S1192¯"YDefine a constant instead of duplicating this literal "application/octet-stream" 3 times.(Ï‰›îÿÿÿÿÿ
+b	php:S1192ª,"GDefine a constant instead of duplicating this literal "t_city" 6 times.(İéÚıÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‡æ¤‰
+j	php:S3776Ç,"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(’ú™‡
+g	php:S1192•!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\xaf" 3 times.(›è„Ù
+i	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(íÅü
+_	php:S1192¢1"IDefine a constant instead of duplicating this literal "function" 6 times.(ÜÄŸ˜
+g	php:S1192¨"RDefine a constant instead of duplicating this literal "additional_errors" 8 times.(à„˜J
+T	php:S1788Â"?Move arguments "$content" after arguments without default value(íÅü
+h	php:S1192†-"RDefine a constant instead of duplicating this literal "<optgroup label="" 3 times.(ØÌ¾‡
+`	php:S1192‹"JDefine a constant instead of duplicating this literal "response" 23 times.(ñ±ÜÂ
+d	php:S1192Ñ"IDefine a constant instead of duplicating this literal "charset" 10 times.(¤–Ôıÿÿÿÿ
+Qphp:S131‡"7Add a "case default" clause to this "switch" statement.(êâÛøÿÿÿÿ
+e	php:S1142¤7"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ºû±è
+c	php:S1192Ï"HDefine a constant instead of duplicating this literal "http://" 4 times.(Œ‚Éüÿÿÿÿ
+~	php:S1488Ô9"cImmediately return this expression instead of assigning it to the temporary variable "$annotation".(ƒòµßøÿÿÿÿ
+v	php:S1192Ä%"[Define a constant instead of duplicating this literal "<code>__construct()</code>" 4 times.(¾ñâÅúÿÿÿÿ
+j	php:S1142ß"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Åª›‰üÿÿÿÿ
+l	php:S1192š!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\x80" 3 times.(ÊÓÿ°şÿÿÿÿ
+o	php:S3776Ì:"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(æå¯áúÿÿÿÿ
+o	php:S3776”,"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(øâŠ‰üÿÿÿÿ
+e	php:S1192Í"ODefine a constant instead of duplicating this literal "text_direction" 6 times.(¹Ä·™
+c	php:S1192ê,"HDefine a constant instead of duplicating this literal "subcity" 3 times.(Üªˆïşÿÿÿÿ
+m	php:S1192¤"RDefine a constant instead of duplicating this literal "is_blog_installed" 3 times.(£ò›Ğıÿÿÿÿ
+c	php:S1192ÿ"HDefine a constant instead of duplicating this literal "basedir" 9 times.(íâ¡¯şÿÿÿÿ
+d	php:S1192ª"NDefine a constant instead of duplicating this literal "Last-Modified" 3 times.(ØäÃÊ
+d	php:S1192¤	"IDefine a constant instead of duplicating this literal "message" 17 times.(†°Öşÿÿÿÿ
+j	php:S3776¤7"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ºû±è
+f	php:S1192Ê"KDefine a constant instead of duplicating this literal "text/plain" 4 times.(¶õ—”úÿÿÿÿ
+l	php:S1192!"QDefine a constant instead of duplicating this literal "\xf0\x9f\x98\x9b" 3 times.(ØÃëºøÿÿÿÿ
+j	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(òÉîÎ
+i	php:S1192õ
+"NDefine a constant instead of duplicating this literal "apply_filters" 3 times.(£àÙûûÿÿÿÿ
+`	php:S1192ö,"JDefine a constant instead of duplicating this literal "</option>" 4 times.(îúàÍ
+]	php:S1192š"GDefine a constant instead of duplicating this literal "status" 4 times.(êŠ‘£
+\	php:S1192‹"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(›‡÷Ç
+f	php:S1192"KDefine a constant instead of duplicating this literal "\\A..Za..z" 6 times.(¬ƒ¾şÿÿÿÿ
+J	php:S3801’3"4Refactor this function to use "return" consistently.(•üñ¦
+c	php:S1192ƒ5"MDefine a constant instead of duplicating this literal "memory_limit" 4 times.(Ì…
+i	php:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ºÅA
+o	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ïÏ¢ûÿÿÿÿ
+^	php:S1192ä "HDefine a constant instead of duplicating this literal "plugins" 3 times.(…ì°£
+\	php:S1192„"FDefine a constant instead of duplicating this literal "video" 3 times.(ß˜Û›
+k	php:S1192˜-"UDefine a constant instead of duplicating this literal "selected="selected" " 3 times.(ØØÙ
+`	php:S1192«,"JDefine a constant instead of duplicating this literal "t_subcity" 4 times.(­óÈ¢
+i	php:S3776‹1"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¦ä@
+e	php:S1142‹"OReduce the number of returns of this function 4, down to the maximum allowed 3.(û¿ÎÆ
+\	php:S1192„"FDefine a constant instead of duplicating this literal "audio" 3 times.(ß˜Û›
+c	php:S1192¼"MDefine a constant instead of duplicating this literal "REQUEST_URI" 12 times.(ì¾Å
+`	php:S1192Á"JDefine a constant instead of duplicating this literal "back_link" 3 times.(Ÿ±îÔ
+e	php:S1142’"OReduce the number of returns of this function 4, down to the maximum allowed 3.( œ‡æ
+g	php:S1192-"LDefine a constant instead of duplicating this literal "</optgroup>" 3 times.(şôÎÄıÿÿÿÿ
+b	php:S1192€"GDefine a constant instead of duplicating this literal "subdir" 5 times.(£ÖÁ±ùÿÿÿÿ
+dphp:S127—"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(›€û“
+j	php:S1142â"OReduce the number of returns of this function 5, down to the maximum allowed 3.(üÑıÌûÿÿÿÿ
+j	php:S1142¬)"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ù™ÁĞûÿÿÿÿ

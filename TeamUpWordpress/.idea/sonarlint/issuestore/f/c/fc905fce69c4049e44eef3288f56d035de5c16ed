@@ -1,0 +1,72 @@
+
+m	php:S3973‘"WUse curly braces or indentation to denote the code conditionally executed by this "if".(½»Ûë
+4php:S125¡"Remove this commented out code.(¦æº©
+[	php:S11928"FDefine a constant instead of duplicating this literal "title" 3 times.(¯ô‹¨
+o	php:S1600º"TReplace this use of the deprecated "$php_errormsg" variable with "error_get_last()".(ºËªüÿÿÿÿ
+Ephp:S121Ù"0Add curly braces around the nested statement(s).(•Õµ
+.	php:S2010Ì"Replace "and" with "&&".(Æ®
+9php:S125ó"Remove this commented out code.(ŒÔú¡ùÿÿÿÿ
+e	php:S1142œ"OReduce the number of returns of this function 8, down to the maximum allowed 3.(€ëÔÉ
+g	php:S1192 "RDefine a constant instead of duplicating this literal "MAGPIE_USER_AGENT" 3 times.(éäìş
+]	php:S11928"HDefine a constant instead of duplicating this literal "tagline" 3 times.(¯ô‹¨
+3	php:S2010¬"Replace "and" with "&&".(¿ÿôƒÿÿÿÿÿ
+.	php:S2010ğ"Replace "and" with "&&".(Ä­ĞŸ
+o	php:S1600¹"TReplace this use of the deprecated "$php_errormsg" variable with "error_get_last()".(áˆÈõşÿÿÿÿ
+-	php:S2010‘"Replace "or" with "||".(¶é¶
+S	php:S1854…"=Remove this useless assignment to local variable '$errormsg'.(¼­’¹
+g	php:S1192Ø"LDefine a constant instead of duplicating this literal "description" 5 times.(ÇÒ„üÿÿÿÿ
+Ephp:S121å"0Add curly braces around the nested statement(s).(©†®ä
+3	php:S2010¤"Replace "and" with "&&".(ñà¡´úÿÿÿÿ
+3	php:S2010É"Replace "and" with "&&".(š±ÅÈÿÿÿÿÿ
+4php:S125¶"Remove this commented out code.(ÃĞ¥¿
+.	php:S2010€"Replace "and" with "&&".(ÅÂŞå
+m	php:S3973š"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¾…õ±
+4php:S125ø"Remove this commented out code.(ÃĞ¥¿
+9php:S125“"Remove this commented out code.(ŒÔú¡ùÿÿÿÿ
+	php:S1603h"lReplace this function name "MagpieRSS", since a "__construct" method has already been defined in this class.(Ğø­—
+4php:S125—"Remove this commented out code.(ßïÌª
+3	php:S2010œ"Replace "and" with "&&".(ñà¡´úÿÿÿÿ
+.	php:S2010¸"Replace "and" with "&&".(ÂäÚ
+r	php:S3973Ë"WUse curly braces or indentation to denote the code conditionally executed by this "if".(•Òæ“ûÿÿÿÿ
+4php:S125ê"Remove this commented out code.(ÃĞ¥¿
+n	php:S3776l"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ì¯éüÿÿÿÿ
+j	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÎÔâ¡
+c	php:S1192Ú"HDefine a constant instead of duplicating this literal "encoded" 3 times.(À­ËÄúÿÿÿÿ
+-	php:S2010ê"Replace "or" with "||".(ÊÌİ®
+E	php:S1172Û"*Remove the unused function parameter "$p".(ù²İğıÿÿÿÿ
+-	php:S2010ü"Replace "or" with "||".(Àİû¾
+3	php:S2010Ú"Replace "and" with "&&".(çè®…ÿÿÿÿÿ
+.	php:S2010â"Replace "and" with "&&".(òëê
+o	php:S1600…"TReplace this use of the deprecated "$php_errormsg" variable with "error_get_last()".(áˆÈõşÿÿÿÿ
+†	php:S1603á"kReplace this function name "RSSCache", since a "__construct" method has already been defined in this class.(óÊÀ¾üÿÿÿÿ
+c	php:S1192°"MDefine a constant instead of duplicating this literal "atom_content" 4 times.(¢ŸçÚ
+Jphp:S121¹"0Add curly braces around the nested statement(s).(¡“»’øÿÿÿÿ
+I	php:S1481Â".Remove this unused "$errormsg" local variable.(Š‚´øÿÿÿÿ
+4php:S125"Remove this commented out code.(ÃĞ¥¿
+]	php:S11928"HDefine a constant instead of duplicating this literal "content" 5 times.(¯ô‹¨
+9php:S125­"Remove this commented out code.(Ğ‚ƒˆıÿÿÿÿ
+E	php:S1172ç"*Remove the unused function parameter "$p".( ˆ†´ÿÿÿÿÿ
+j	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(€ëÔÉ
+r	php:S3973÷"WUse curly braces or indentation to denote the code conditionally executed by this "if".(÷á¥øÿÿÿÿ
+-	php:S2010u"Replace "and" with "&&".(‚¤á
+j	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ª²‹Í
+Jphp:S121ã"0Add curly braces around the nested statement(s).(¬­ÊÍøÿÿÿÿ
+t	php:S1488î"^Immediately return this expression instead of assigning it to the temporary variable "$epoch".(·‹‹»
+8php:S1256"Remove this commented out code.(‹«œúÿÿÿÿ
+-	php:S2010»"Replace "and" with "&&".(ÕÈè4
+4php:S125"Remove this commented out code.(ÃĞ¥¿
+.	php:S2010"Replace "and" with "&&".(·’¢’
+3	php:S2010ô"Replace "and" with "&&".(˜‘îéùÿÿÿÿ
+4php:S125¤"Remove this commented out code.(ÃĞ¥¿
+3	php:S2010ô"Replace "and" with "&&".(˜‘îéùÿÿÿÿ
+D	php:S1481î".Remove this unused "$errormsg" local variable.(Æ¦Í²
+3	php:S2010ø"Replace "and" with "&&".(¿ÿôƒÿÿÿÿÿ
+D	php:S1172l"*Remove the unused function parameter "$p".(ì¯éüÿÿÿÿ
+.	php:S2010¥"Replace "and" with "&&".(·’¢’
+]	php:S11928"HDefine a constant instead of duplicating this literal "summary" 4 times.(¯ô‹¨
+o	php:S1600†"TReplace this use of the deprecated "$php_errormsg" variable with "error_get_last()".(ºËªüÿÿÿÿ
+4php:S125®"Remove this commented out code.(ÃĞ¥¿
+Ephp:S121×"0Add curly braces around the nested statement(s).(·ÄÙ
+3	php:S2010İ"Replace "and" with "&&".(ë•ßúÿÿÿÿ
+.	php:S2010ğ"Replace "and" with "&&".(Ä­ĞŸ
+.	php:S2010Ë"Replace "and" with "&&".( ¼³Ç

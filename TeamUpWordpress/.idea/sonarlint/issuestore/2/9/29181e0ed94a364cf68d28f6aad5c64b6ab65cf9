@@ -1,0 +1,31 @@
+
+’php:S138ø"}This function "wp_save_image" has 182 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(şÎøø
+q	php:S1192!"\Define a constant instead of duplicating this literal "_wp_attachment_backup_sizes" 5 times.(‡ñŸß
+d	php:S1192"JDefine a constant instead of duplicating this literal "thumbnail" 8 times.(İ—œ»ùÿÿÿÿ
+^	php:S1192Ú"HDefine a constant instead of duplicating this literal "nothumb" 3 times.(àøËÖ
+j	php:S1192c"UDefine a constant instead of duplicating this literal "IMAGE_EDIT_OVERWRITE" 7 times.(©ì­
+`	php:S1192#"KDefine a constant instead of duplicating this literal "full-orig" 10 times.(²÷í
+]	php:S1192"GDefine a constant instead of duplicating this literal "$image" 3 times.(ó¹Óô
+Qphp:S131Ã"7Add a "case default" clause to this "switch" statement.(ÁÊËÛøÿÿÿÿ
+q	php:S1192•"VDefine a constant instead of duplicating this literal "image_editor_save_pre" 4 times.(İçœúøÿÿÿÿ
+j	php:S1142Æ"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ÿËòüÿÿÿÿ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ë ëåşÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(îÂÁ»şÿÿÿÿ
+o	php:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(·ùÈşÿÿÿÿ
+\	php:S1192"GDefine a constant instead of duplicating this literal "sizes" 18 times.(ŠÊ”¡
+J	php:S1066–"/Merge this if statement with the enclosing one.(¢¢Ü°úÿÿÿÿ
+f	php:S1192"PDefine a constant instead of duplicating this literal "WP_Image_Editor" 3 times.(ó¹Óô
+iphp:S127¡"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(ßªæüÿÿÿÿ
+j	php:S1142Š"OReduce the number of returns of this function 6, down to the maximum allowed 3.(î‰±äøÿÿÿÿ
+b	php:S1192"HDefine a constant instead of duplicating this literal "height" 24 times.(îÏÆÄÿÿÿÿÿ
+k	php:S3776ø"URefactor this function to reduce its Cognitive Complexity from 113 to the 15 allowed.(şÎøø
+Lphp:S131•"7Add a "case default" clause to this "switch" statement.(ßÁ¤â
+]	php:S1192Ğ"GDefine a constant instead of duplicating this literal "rotate" 4 times.(¨èåÖ
+\	php:S1192"FDefine a constant instead of duplicating this literal "3.5.0" 9 times.(ó¹Óô
+a	php:S1192"GDefine a constant instead of duplicating this literal "width" 24 times.(îÏÆÄÿÿÿÿÿ
+c	php:S1301•"MReplace this "switch" statement with "if" statements to increase readability.(ßÁ¤â
+v	php:S1192"`Define a constant instead of duplicating this literal "%1$s needs to be a %2$s object." 3 times.(ó¹Óô
+e	php:S1142ø"OReduce the number of returns of this function 6, down to the maximum allowed 3.(şÎøø
+c	php:S1192€"HDefine a constant instead of duplicating this literal "history" 4 times.(ôæ˜Šùÿÿÿÿ
+_	php:S1192±"IDefine a constant instead of duplicating this literal "basename" 3 times.(Î­÷Ë
+E	php:S1066â"/Merge this if statement with the enclosing one.(Œ¥œø

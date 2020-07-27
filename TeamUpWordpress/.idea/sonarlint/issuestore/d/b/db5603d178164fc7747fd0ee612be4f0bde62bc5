@@ -1,0 +1,34 @@
+
+a	php:S1192t"GDefine a constant instead of duplicating this literal "sizes" 12 times.(ÊÜ²üÿÿÿÿ
+J	php:S1135·"4Complete the task associated to this "TODO" comment.(Ñåİè
+e	php:S1142â"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹Ö« 
+^	php:S1192¸"HDefine a constant instead of duplicating this literal "caption" 9 times.(¼É¼€
+[	php:S1192g"FDefine a constant instead of duplicating this literal "width" 6 times.(–ë¼å
+j	php:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÛÊÓ 
+^	php:S1192À"IDefine a constant instead of duplicating this literal "keywords" 4 times.(ŞÔ¦1
+c	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(½ìäÌ
+J	php:S1135Ò"4Complete the task associated to this "TODO" comment.(Ñåİè
+f	php:S1192¶"PDefine a constant instead of duplicating this literal "ISOSpeedRatings" 4 times.(ª’ş»
+a	php:S1192í"FDefine a constant instead of duplicating this literal "image" 7 times.(Úäº±ùÿÿÿÿ
+J	php:S1135µ"4Complete the task associated to this "TODO" comment.(Ñåİè
+j	php:S1142€"OReduce the number of returns of this function 4, down to the maximum allowed 3.(³ÆÖ©ùÿÿÿÿ
+Lphp:S131"7Add a "case default" clause to this "switch" statement.(½ìäÌ
+l	php:S1192Š"QDefine a constant instead of duplicating this literal "ImageDescription" 4 times.(£ƒ¹öşÿÿÿÿ
+J	php:S1135¾"4Complete the task associated to this "TODO" comment.(Ñåİè
+j	php:S3776â"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(‹Ö« 
+j	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(œÿ˜¾
+e	php:S1192º"JDefine a constant instead of duplicating this literal "copyright" 5 times.(¯¡¶åûÿÿÿÿ
+a	php:S1192h"GDefine a constant instead of duplicating this literal "height" 6 times.(À«ÖÙúÿÿÿÿ
+m	php:S1192¹"RDefine a constant instead of duplicating this literal "created_timestamp" 4 times.(É©Éşÿÿÿÿ
+o	php:S3776€"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(³ÆÖ©ùÿÿÿÿ
+J	php:S1135´"4Complete the task associated to this "TODO" comment.(Ñåİè
+\	php:S1192¾"FDefine a constant instead of duplicating this literal "title" 8 times.(¹÷¿â
+`php:S107"GThis function has 9 parameters, which is greater than the 7 authorized.(öÍÜ›ûÿÿÿÿ
+e	php:S1192ú"JDefine a constant instead of duplicating this literal "image/png" 3 times.(Ş™¥‰ÿÿÿÿÿ
+\	php:S1192·"GDefine a constant instead of duplicating this literal "camera" 3 times.(³ö‹)
+g	php:S1192°"LDefine a constant instead of duplicating this literal "orientation" 8 times.(ÿ½úÿÿÿÿ
+i	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(öÍÜ›ûÿÿÿÿ
+O	php:S1135¡"4Complete the task associated to this "TODO" comment.(±ı¸úÿÿÿÿ
+a	php:S1192ö"KDefine a constant instead of duplicating this literal "image_meta" 6 times.(¼ÒÕÙ
+]	php:S1192¶"GDefine a constant instead of duplicating this literal "credit" 7 times.(½èÎ¾
+e	php:S1192£"JDefine a constant instead of duplicating this literal "thumbnail" 7 times.(«âÛÜüÿÿÿÿ

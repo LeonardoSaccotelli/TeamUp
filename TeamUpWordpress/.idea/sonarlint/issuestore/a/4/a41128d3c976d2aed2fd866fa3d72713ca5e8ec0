@@ -1,0 +1,41 @@
+
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "intval" 3 times.(ŒšËñúÿÿÿÿ
+p	php:S3776¬"URefactor this function to reduce its Cognitive Complexity from 167 to the 15 allowed.(Ï¹ûÿÿÿÿ
+a	php:S1192¹"FDefine a constant instead of duplicating this literal "order" 5 times.(ô˜‘Úıÿÿÿÿ
+g	php:S1192Ä"QDefine a constant instead of duplicating this literal "term_taxonomy_id" 8 times.(²º˜û
+e	php:S1192Ú"JDefine a constant instead of duplicating this literal "t.term_id" 5 times.(öÚô¡şÿÿÿÿ
+b	php:S11926"HDefine a constant instead of duplicating this literal "orderby" 8 times.(Øğ‘Ëøÿÿÿÿ
+a	php:S1192É"KDefine a constant instead of duplicating this literal "pad_counts" 5 times.(“·Øü
+b	php:S1192¿"GDefine a constant instead of duplicating this literal "offset" 4 times.(»Ù“úÿÿÿÿ
+e	php:S1192Í"JDefine a constant instead of duplicating this literal "childless" 4 times.(´‚×Ñıÿÿÿÿ
+d	php:S1192¶"IDefine a constant instead of duplicating this literal "taxonomy" 9 times.(ó‡ÔÇÿÿÿÿÿ
+a	php:S1192·"KDefine a constant instead of duplicating this literal "object_ids" 9 times.(”œ¡·
+]	php:S1192İ"GDefine a constant instead of duplicating this literal "t.name" 3 times.(»şíø
+]	php:S1192¾"GDefine a constant instead of duplicating this literal "number" 4 times.(¸â¡Ö
+m	php:S1192È"RDefine a constant instead of duplicating this literal "description__like" 4 times.( ÿœıÿÿÿÿ
+_	php:S1192Ë"IDefine a constant instead of duplicating this literal "child_of" 7 times.(¢Úéø
+a	php:S11925"GDefine a constant instead of duplicating this literal "where" 21 times.(Õ‹ÎÇıÿÿÿÿ
+jphp:S101"QRename class "WP_Term_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öÅÄ¦şÿÿÿÿ
+c	php:S1192Å"MDefine a constant instead of duplicating this literal "hierarchical" 5 times.(ÎÜ…
+a	php:S11923"GDefine a constant instead of duplicating this literal "select" 3 times.(ÓÂÅøÿÿÿÿ
+_	php:S1117Î"IRename "$terms" which has the same name as the field declared at line 80.(è²ÌÙ
+d	php:S1192Ú"IDefine a constant instead of duplicating this literal "tt.count" 4 times.(öÚô¡şÿÿÿÿ
+^	php:S1192»"HDefine a constant instead of duplicating this literal "include" 5 times.(ÔÁªã
+i	php:S1192Ğ"SDefine a constant instead of duplicating this literal "all_with_object_id" 6 times.(’›‹È
+a	php:S1192¼"FDefine a constant instead of duplicating this literal "terms" 5 times.(ØŒµûÿÿÿÿ
+“php:S138¬"yThis function "get_terms" has 377 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ï¹ûÿÿÿÿ
+a	php:S11927"GDefine a constant instead of duplicating this literal "limits" 6 times.(ÁŸÜ¤ùÿÿÿÿ
+]	php:S1192Æ"GDefine a constant instead of duplicating this literal "search" 4 times.(µÌ”½
+c	php:S1192"HDefine a constant instead of duplicating this literal "term_id" 6 times.(§Š–˜øÿÿÿÿ
+c	php:S1192À"HDefine a constant instead of duplicating this literal "fields" 10 times.(¥ş«Åşÿÿÿÿ
+j	php:S1142¬"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ï¹ûÿÿÿÿ
+d	php:S1192‘"IDefine a constant instead of duplicating this literal "distinct" 3 times.(»æíïøÿÿÿÿ
+\	php:S1192­"FDefine a constant instead of duplicating this literal "alias" 4 times.(õĞÄ
+a	php:S1192º"KDefine a constant instead of duplicating this literal "hide_empty" 7 times.(È»Ïê
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "parent" 6 times.(«°–¡ûÿÿÿÿ
+\	php:S1192Á"FDefine a constant instead of duplicating this literal "count" 7 times.(ê’‚â
+f	php:S1192Ç"KDefine a constant instead of duplicating this literal "name__like" 4 times.(„Ğê‘úÿÿÿÿ
+g	php:S1192Ú"LDefine a constant instead of duplicating this literal "tt.taxonomy" 4 times.(öÚô¡şÿÿÿÿ
+Lphp:S131Î"7Add a "case default" clause to this "switch" statement.(éËë
+_	php:S1117ô"IRename "$terms" which has the same name as the field declared at line 80.(ãıÉ³
+a	php:S1192Ò"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(”Û¼é

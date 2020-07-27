@@ -1,0 +1,22 @@
+
+m	php:S1192è"WDefine a constant instead of duplicating this literal "image_strip_meta_error" 3 times.(¹ã˜“
+d	php:S1142a"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ûÜ¥
+j	php:S1192¼"TDefine a constant instead of duplicating this literal "setImageOrientation" 3 times.(Òß÷„
+A	php:S1481„"+Remove this unused "$dst_y" local variable.(ƒÛ©
+]	php:S1192â"GDefine a constant instead of duplicating this literal "width" 11 times.(Ï‡¹í
+]	php:S1192."HDefine a constant instead of duplicating this literal "Imagick" 3 times.(äÉØË
+c	php:S1192æ"HDefine a constant instead of duplicating this literal "height" 11 times.(‰ôãìıÿÿÿÿ
+I	php:S1481Ê".Remove this unused "$filename" local variable.(İéÒøÿÿÿÿ
+s	php:S1192¼"]Define a constant instead of duplicating this literal "Imagick::ORIENTATION_TOPLEFT" 3 times.(Òß÷„
+A	php:S1481„"+Remove this unused "$dst_x" local variable.(ƒÛ©
+i	php:S1142+"OReduce the number of returns of this function 5, down to the maximum allowed 3.(“Í‡šüÿÿÿÿ
+tphp:S101"[Rename class "WP_Image_Editor_Imagick" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õÂ£éùÿÿÿÿ
+d	php:S1142}"OReduce the number of returns of this function 6, down to the maximum allowed 3.(€½•õ
+J	php:S1066ƒ"/Merge this if statement with the enclosing one.(‘˜™øÿÿÿÿ
+o	php:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÖŠÕşÿÿÿÿ
+j	php:S1142ú"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ë ‰õúÿÿÿÿ
+j	php:S1142Š"OReduce the number of returns of this function 4, down to the maximum allowed 3.(›Ãø¬ûÿÿÿÿ
+j	php:S1142ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ş«¸şÿÿÿÿ
+E	php:S1066Š"/Merge this if statement with the enclosing one.(é’é›
+i	php:S1192š"NDefine a constant instead of duplicating this literal "invalid_image" 3 times.(àÌÁƒúÿÿÿÿ
+e	php:S1192j"KDefine a constant instead of duplicating this literal "image/jpeg" 3 times.(¢âÓÎúÿÿÿÿ

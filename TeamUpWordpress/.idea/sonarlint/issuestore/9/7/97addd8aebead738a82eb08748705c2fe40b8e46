@@ -1,0 +1,9 @@
+
+e	php:S1192½"ODefine a constant instead of duplicating this literal "delayed-notice" 4 times.(Ÿßê¡
+p	php:S1192Á"UDefine a constant instead of duplicating this literal "display-notice-after" 4 times.(‹¦¢÷ûÿÿÿÿ
+^	php:S1192¿"HDefine a constant instead of duplicating this literal "show_if" 3 times.(°»·°
+E	php:S1172["0Remove the unused function parameter "$context".(ø Ç»
+h	php:S1192|"NDefine a constant instead of duplicating this literal "astra-notices" 5 times.(ËÂ¬şÿÿÿÿ
+ephp:S101"QRename class "Astra_Notices" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñ™ƒ°
+_	php:S1192©"IDefine a constant instead of duplicating this literal "priority" 7 times.(å»¤œ
+E	php:S1066½"/Merge this if statement with the enclosing one.(Ÿßê¡

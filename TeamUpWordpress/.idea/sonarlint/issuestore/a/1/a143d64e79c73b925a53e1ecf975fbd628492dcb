@@ -1,0 +1,6 @@
+
+j	php:S1142”"OReduce the number of returns of this function 5, down to the maximum allowed 3.(χ²©ζωÿÿÿÿ
+\	php:S1192µ"FDefine a constant instead of duplicating this literal "after" 3 times.(Νµ
+fphp:S101"MRename class "WP_Styles" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„ΞΝΚϋÿÿÿÿ
+o	php:S3776”"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(χ²©ζωÿÿÿÿ
+E	php:S1066½"/Merge this if statement with the enclosing one.(μ©¦

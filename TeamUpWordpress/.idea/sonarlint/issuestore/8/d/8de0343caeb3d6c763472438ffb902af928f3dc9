@@ -1,0 +1,22 @@
+
+^	php:S1192í"HDefine a constant instead of duplicating this literal "#0084ff" 3 times.(“ÙØà
+c	php:S1192#"IDefine a constant instead of duplicating this literal "#eeeeee" 12 times.(¬‚¦şÿÿÿÿ
+v	php:S1488Ü"`Immediately return this expression instead of assigning it to the temporary variable "$options".(úóï˜
+b	php:S11929"HDefine a constant instead of duplicating this literal "#ED5565" 3 times.(¼«ªüÿÿÿÿÿ
+]	php:S1192."HDefine a constant instead of duplicating this literal "#aaaaaa" 3 times.(­¦¼ø
+c	php:S1192‡"HDefine a constant instead of duplicating this literal "#bbbbbb" 3 times.(Ø–ì‰ûÿÿÿÿ
+^	php:S1192Õ"HDefine a constant instead of duplicating this literal "#2295ff" 5 times.(¥ ã
+_	php:S1192A"JDefine a constant instead of duplicating this literal "Open Sans" 5 times.(İğ†Æ
+b	php:S11928"HDefine a constant instead of duplicating this literal "#e5e5e5" 3 times.(¤È úÿÿÿÿ
+b	php:S11925"HDefine a constant instead of duplicating this literal "#666666" 8 times.(áñ¬üÿÿÿÿ
+^	php:S1192"IDefine a constant instead of duplicating this literal "#444444" 29 times.(Ì’¨‘
+b	php:S11920"HDefine a constant instead of duplicating this literal "#999999" 4 times.(¥Üıÿÿÿÿ
+c	php:S1192Ú"HDefine a constant instead of duplicating this literal "#414141" 3 times.(×§­ÿÿÿÿÿ
+\	php:S1192T"GDefine a constant instead of duplicating this literal "normal" 4 times.(´€‚™
+c	php:S1192‰"HDefine a constant instead of duplicating this literal "#3F51B5" 7 times.(€ÉøÙúÿÿÿÿ
+c	php:S1192¥"HDefine a constant instead of duplicating this literal "#6596ff" 6 times.(²ë°öıÿÿÿÿ
+b	php:S11921"HDefine a constant instead of duplicating this literal "#3BA1DA" 7 times.(À¨™Âıÿÿÿÿ
+c	php:S1192'"IDefine a constant instead of duplicating this literal "#333333" 29 times.(ãûÙ•ıÿÿÿÿ
+^	php:S1192"IDefine a constant instead of duplicating this literal "#ffffff" 64 times.(Ïª µ
+^	php:S1192‚"HDefine a constant instead of duplicating this literal "#cccccc" 5 times.(ô×ôæ
+¢php:S138"ˆThis function "um_theme_option_defaults" has 421 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Í³€ûÿÿÿÿ

@@ -1,0 +1,16 @@
+
+€php:S115"gRename this constant "um_followers_path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¬¦À£şÿÿÿÿ
+ƒ	php:S4144:"iUpdate this method so that its implementation is not identical to "um_followers_dependencies" on line 42.(óÅ×êùÿÿÿÿ
+q	php:S1192+"WDefine a constant instead of duplicating this literal "<div class="error"><p>" 3 times.(˜ĞõÙúÿÿÿÿ
+ƒphp:S115"jRename this constant "um_followers_version" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‹Ì¥¦ûÿÿÿÿ
+o	php:S1192."ZDefine a constant instead of duplicating this literal "um_followers_dependencies" 3 times.(·¹Ú™
+e	php:S1192+"KDefine a constant instead of duplicating this literal "</p></div>" 3 times.(˜ĞõÙúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+€php:S115"lRename this constant "um_followers_extension" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¡¥ä±
+o	php:S1192"UDefine a constant instead of duplicating this literal "um_followers_version" 3 times.(‹Ì¥¦ûÿÿÿÿ
+zphp:S115"fRename this constant "um_followers_url" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(…îÕ›
+php:S115"kRename this constant "um_followers_requires" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Š‘å
+c	php:S1192."NDefine a constant instead of duplicating this literal "admin_notices" 3 times.(·¹Ú™
+‚php:S115"iRename this constant "um_followers_plugin" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(şİïƒÿÿÿÿÿ
+†php:S115"mRename this constant "um_followers_textdomain" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ËŠôşÿÿÿÿ
+g	php:S1192"MDefine a constant instead of duplicating this literal "um-followers" 3 times.(ËŠôşÿÿÿÿ

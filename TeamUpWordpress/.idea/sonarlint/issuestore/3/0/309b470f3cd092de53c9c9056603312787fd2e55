@@ -1,0 +1,16 @@
+
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "boolean" 29 times.(©‚üÿ
+qphp:S101"]Rename class "WP_REST_Themes_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½ÆËÓ
+\	php:S1192J"GDefine a constant instead of duplicating this literal "status" 5 times.(ååÄ
+d	php:S1192v"ODefine a constant instead of duplicating this literal "theme_supports" 7 times.(òğó
+b	php:S1192Á"GDefine a constant instead of duplicating this literal "object" 8 times.(¢Úêúÿÿÿÿ
+™php:S138¹"This function "get_item_schema" has 280 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‰±şŒøÿÿÿÿ
+c	php:S1192Õ"HDefine a constant instead of duplicating this literal "string" 23 times.(Şåáßúÿÿÿÿ
+a	php:S1192È"FDefine a constant instead of duplicating this literal "items" 8 times.(ì¿©¸ûÿÿÿÿ
+p	php:S1192ô"UDefine a constant instead of duplicating this literal "additionalProperties" 6 times.(šéµûÿÿÿÿ
+]	php:S1192z"HDefine a constant instead of duplicating this literal "formats" 3 times.(Ï·¬§
+n	php:S3776r"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ª ‰‘ÿÿÿÿÿ
+f	php:S1192x"LDefine a constant instead of duplicating this literal "properties" 10 times.(ş¯Ä—ùÿÿÿÿ
+\	php:S1192Ç"FDefine a constant instead of duplicating this literal "array" 8 times.(÷Áİş
+h	php:S1192Ä"MDefine a constant instead of duplicating this literal "description" 22 times.(Øàÿùÿÿÿÿ
+]	php:S1192Ü"HDefine a constant instead of duplicating this literal "integer" 4 times.(Ò†Ö1

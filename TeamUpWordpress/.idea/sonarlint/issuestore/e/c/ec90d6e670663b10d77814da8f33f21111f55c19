@@ -1,0 +1,10 @@
+
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÎÄˆ„şÿÿÿÿ
+~php:S101"jRename class "Astra_Sites_Batch_Processing_Gutenberg" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í’­…
+i	php:S3776s"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(÷ »©
+4php:S125µ"Remove this commented out code.(·“–Ø
+J	php:S1135´"4Complete the task associated to this "TODO" comment.(á„˜¨
+D	php:S1481Ü")Remove this unused "$key" local variable.(˜´²ûÿÿÿÿ
+?	php:S1481¥")Remove this unused "$key" local variable.(éûË
+a	php:S1192X"GDefine a constant instead of duplicating this literal "WP_CLI" 3 times.(â“”úÿÿÿÿ
+d	php:S1192¡"IDefine a constant instead of duplicating this literal "category" 3 times.(Ææ¿œüÿÿÿÿ

@@ -1,0 +1,5 @@
+
+{php:S101"gRename class "WP_Importer_Logger_ServerSentEvents" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(àÁ³¸
+Kphp:S131"7Add a "case default" clause to this "switch" statement.(®‚ôò
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¦Íãª
+b	php:S1192"HDefine a constant instead of duplicating this literal "message" 7 times.(öèÓëüÿÿÿÿ

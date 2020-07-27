@@ -1,0 +1,36 @@
+
+\	php:S1192Æ"FDefine a constant instead of duplicating this literal "value" 4 times.(Â½÷ë
+b	php:S1192m"HDefine a constant instead of duplicating this literal "fields" 10 times.(¥ş«Åşÿÿÿÿ
+f	php:S1192Œ"KDefine a constant instead of duplicating this literal "user_email" 4 times.(‰İ†Øüÿÿÿÿ
+\	php:S1192e"GDefine a constant instead of duplicating this literal "search" 3 times.(µÌ”½
+i	php:S1192Œ"NDefine a constant instead of duplicating this literal "user_nicename" 3 times.(‰İ†Øüÿÿÿÿ
+^	php:S1192p"IDefine a constant instead of duplicating this literal "nicename" 4 times.(»Ğø
+\	php:S1192j"GDefine a constant instead of duplicating this literal "number" 6 times.(¸â¡Ö
+I	php:S1135ş"4Complete the task associated to this "TODO" comment.(²®ˆR
+jphp:S101"QRename class "WP_User_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÛÜ÷¶øÿÿÿÿ
+a	php:S1192i"GDefine a constant instead of duplicating this literal "offset" 3 times.(»Ù“úÿÿÿÿ
+i	php:S1192o"TDefine a constant instead of duplicating this literal "has_published_posts" 4 times.(±™›Ì
+b	php:S1192g"HDefine a constant instead of duplicating this literal "orderby" 5 times.(·¡ëşÿÿÿÿ
+a	php:S1192À"KDefine a constant instead of duplicating this literal "user_login" 5 times.(›ºèğ
+b	php:S1192\"HDefine a constant instead of duplicating this literal "blog_id" 6 times.(Š€µ©ùÿÿÿÿ
+—php:S138Ó"}This function "prepare_query" has 262 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ší§Åûÿÿÿÿ
+b	php:S1192_"MDefine a constant instead of duplicating this literal "role__not_in" 3 times.(áÔ½ö
+^	php:S1192^"IDefine a constant instead of duplicating this literal "role__in" 3 times.(ë–æğ
+g	php:S1192q"MDefine a constant instead of duplicating this literal "nicename__in" 6 times.(³ÄÕ‰ÿÿÿÿÿ
+_	php:S1192t"JDefine a constant instead of duplicating this literal "login__in" 6 times.(‚¶ÃÛ
+d	php:S1192f"ODefine a constant instead of duplicating this literal "search_columns" 3 times.(†èó
+h	php:S1192õ"MDefine a constant instead of duplicating this literal "capabilities" 4 times.(¾¦’¤ıÿÿÿÿ
+^	php:S1192Ç"HDefine a constant instead of duplicating this literal "compare" 5 times.(ï•½Ø
+d	php:S1192Ó"IDefine a constant instead of duplicating this literal "relation" 6 times.(”²Ÿ®şÿÿÿÿ
+]	php:S1192c"HDefine a constant instead of duplicating this literal "include" 6 times.(ÔÁªã
+`	php:S1192g"FDefine a constant instead of duplicating this literal "login" 5 times.(·¡ëşÿÿÿÿ
+c	php:S1192u"NDefine a constant instead of duplicating this literal "login__not_in" 3 times.(’Íóñ
+h	php:S1192Œ"MDefine a constant instead of duplicating this literal "display_name" 4 times.(‰İ†Øüÿÿÿÿ
+a	php:S1192µ"KDefine a constant instead of duplicating this literal "date_query" 3 times.(÷òí¯
+f	php:S1192r"QDefine a constant instead of duplicating this literal "nicename__not_in" 3 times.(Ì³Ø„
+a	php:S1192l"LDefine a constant instead of duplicating this literal "count_total" 5 times.(Ç°­÷
+c	php:S1192£"HDefine a constant instead of duplicating this literal "esc_sql" 6 times.(¬õ–úÿÿÿÿ
+`	php:S1192h"FDefine a constant instead of duplicating this literal "order" 5 times.(ô˜‘Úıÿÿÿÿ
+p	php:S3776Ó"URefactor this function to reduce its Cognitive Complexity from 114 to the 15 allowed.(Ší§Åûÿÿÿÿ
+b	php:S1192d"HDefine a constant instead of duplicating this literal "exclude" 3 times.(ÁÍ‡±şÿÿÿÿ
+d	php:S1192Œ"IDefine a constant instead of duplicating this literal "user_url" 4 times.(‰İ†Øüÿÿÿÿ

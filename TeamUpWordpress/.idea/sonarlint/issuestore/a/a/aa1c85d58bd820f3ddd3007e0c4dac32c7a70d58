@@ -1,0 +1,6 @@
+
+u	php:S1488ö"_Immediately return this expression instead of assigning it to the temporary variable "$params".(Úüê…
+s	php:S1192<"YDefine a constant instead of duplicating this literal "elementor_allow_tracking" 4 times.(è½ªıÿÿÿÿ
+d	php:S1142R"OReduce the number of returns of this function 4, down to the maximum allowed 3.(×ìò
+h	php:S1192¯"RDefine a constant instead of duplicating this literal "elementor_tracker" 4 times.(¿ÕÀí
+‚	php:S1488‡"gImmediately return this expression instead of assigning it to the temporary variable "$last_send_time".(İŠÖ üÿÿÿÿ

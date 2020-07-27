@@ -1,0 +1,4 @@
+
+php:S101"mRename class "WP_Background_Process_Astra_Site_Importer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œùàÿ
+c	php:S11926"NDefine a constant instead of duplicating this literal "Inside Batch " 4 times.(¿¤Ì½
+z	php:S1192-"`Define a constant instead of duplicating this literal "astra-sites-batch-status-string" 7 times.(‡¯ıØøÿÿÿÿ

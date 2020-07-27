@@ -1,0 +1,11 @@
+
+_	php:S1192½"IDefine a constant instead of duplicating this literal "latitude" 9 times.(ßüÕŸ
+o	php:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(•ôŞ¸ûÿÿÿÿ
+|	php:S1488¤"fImmediately return this expression instead of assigning it to the temporary variable "$response_body".(ºÉ†Ù
+v	php:S1192"[Define a constant instead of duplicating this literal "upcoming events day format" 4 times.(¤çÆÄşÿÿÿÿ
+g	php:S1192"LDefine a constant instead of duplicating this literal "description" 3 times.(…’Æşÿÿÿÿ
+b	php:S1192w"HDefine a constant instead of duplicating this literal "events" 13 times.(ãï›Êûÿÿÿÿ
+pphp:S101"WRename class "WP_Community_Events" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¢¬½õûÿÿÿÿ
+i	php:S3776X"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(×èŠ™
+`	php:S1192½"JDefine a constant instead of duplicating this literal "longitude" 9 times.(ßüÕŸ
+c	php:S1192w"IDefine a constant instead of duplicating this literal "location" 8 times.(ãï›Êûÿÿÿÿ

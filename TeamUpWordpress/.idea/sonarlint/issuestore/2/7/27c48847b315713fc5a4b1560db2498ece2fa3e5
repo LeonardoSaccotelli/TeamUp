@@ -1,0 +1,42 @@
+
+e	php:S1142ˆ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(÷‹Éá
+b	php:S1192¡"LDefine a constant instead of duplicating this literal "properties" 13 times.(ú’ôÊ
+[	php:S1192×"FDefine a constant instead of duplicating this literal "sizes" 4 times.(î¬‡R
+g	php:S1192Ç"LDefine a constant instead of duplicating this literal "content_md5" 4 times.(­¿¡ùÿÿÿÿ
+e	php:S1192Û"JDefine a constant instead of duplicating this literal "mime-type" 3 times.(‚…ı¿ûÿÿÿÿ
+_	php:S1192´"IDefine a constant instead of duplicating this literal "rendered" 4 times.(¯Ç÷’
+b	php:S1192k"HDefine a constant instead of duplicating this literal "status" 21 times.(œĞ‘Êûÿÿÿÿ
+_	php:S1192î"IDefine a constant instead of duplicating this literal "tmp_name" 3 times.(íÖË¿
+d	php:S1192"IDefine a constant instead of duplicating this literal "alt_text" 7 times.(ïú¸¼üÿÿÿÿ
+e	php:S1142´"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¼òôò
+\	php:S1192("GDefine a constant instead of duplicating this literal "action" 3 times.(É“õÎ
+a	php:S1192í"FDefine a constant instead of duplicating this literal "error" 5 times.(ı°ûÿÿÿÿ
+j	php:S1142Ñ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ø¿èêûÿÿÿÿ
+Qphp:S131æ"7Add a "case default" clause to this "switch" statement.(”‡ãûÿÿÿÿ
+j	php:S1192"TDefine a constant instead of duplicating this literal "missing_image_sizes" 3 times.(ùÉÏ€
+a	php:S1192ù"FDefine a constant instead of duplicating this literal "title" 5 times.(ü¸œ˜üÿÿÿÿ
+d	php:S1192ı"IDefine a constant instead of duplicating this literal "caption" 12 times.(ã­«¼úÿÿÿÿ
+g	php:S1192µ"LDefine a constant instead of duplicating this literal "arg_options" 3 times.(­åŸ×øÿÿÿÿ
+r	php:S1192Å"\Define a constant instead of duplicating this literal "wp-admin/includes/image.php" 4 times.(²Û”¸
+c	php:S1192Ú"HDefine a constant instead of duplicating this literal "default" 3 times.(ò»¯‡ûÿÿÿÿ
+b	php:S1192¼"GDefine a constant instead of duplicating this literal "object" 3 times.(¢Úêúÿÿÿÿ
+f	php:S1192æ"KDefine a constant instead of duplicating this literal "source_url" 5 times.(ÛÒíúÿÿÿÿ
+w	php:S1488Ø"aImmediately return this expression instead of assigning it to the temporary variable "$response".(»ˆ¶
+E	php:S1481³"*Remove this unused "$type" local variable.(ãø¼‹úÿÿÿÿ
+e	php:S1192I"KDefine a constant instead of duplicating this literal "mime_type" 10 times.(×û¤Øşÿÿÿÿ
+vphp:S101"bRename class "WP_REST_Attachments_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Íõ­
+]	php:S1192@"HDefine a constant instead of duplicating this literal "inherit" 3 times.(¨›
+b	php:S1192%"MDefine a constant instead of duplicating this literal "description" 24 times.(ïÒ€¬
+e	php:S1142÷"OReduce the number of returns of this function 5, down to the maximum allowed 3.(à†Õ
+h	php:S1301æ"MReplace this "switch" statement with "if" statements to increase readability.(”‡ãûÿÿÿÿ
+e	php:S1142¤"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ÿ½ÂÅ
+b	php:S1192)"HDefine a constant instead of duplicating this literal "string" 12 times.(Şåáßúÿÿÿÿ
+d	php:S1192Ñ"NDefine a constant instead of duplicating this literal "media_details" 9 times.(úæşŠ
+h	php:S1192¶"RDefine a constant instead of duplicating this literal "sanitize_callback" 3 times.(°íæ˜
+\	php:S1192´"FDefine a constant instead of duplicating this literal "embed" 7 times.(ø®Éœ
+o	php:S1192"YDefine a constant instead of duplicating this literal "_wp_attachment_image_alt" 3 times.(à‚é¦
+d	php:S1142`"OReduce the number of returns of this function 4, down to the maximum allowed 3.(É“á‚
+o	php:S3776«"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(›”’àıÿÿÿÿ
+_	php:S1192Ì"IDefine a constant instead of duplicating this literal "readonly" 7 times.(åúÆÖ
+_	php:S1192E"KDefine a constant instead of duplicating this literal "media_type" 7 times.(Ğ•
+_	php:S1192°"IDefine a constant instead of duplicating this literal "context" 18 times.(Ÿ¾Ú

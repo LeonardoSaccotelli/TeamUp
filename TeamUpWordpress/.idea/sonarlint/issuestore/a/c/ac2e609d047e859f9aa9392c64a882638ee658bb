@@ -1,0 +1,6 @@
+
+qphp:S101"]Rename class "Walker_Category_Checklist" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™è•™
+c	php:S1192"IDefine a constant instead of duplicating this literal "category" 4 times.(ÏÃ¹ãúÿÿÿÿ
+I	php:S1135"4Complete the task associated to this "TODO" comment.(äÒÐÚ
+c	php:S1192W"NDefine a constant instead of duplicating this literal "selected_cats" 5 times.(¶¹ÐÁ
+g	php:S1192T"MDefine a constant instead of duplicating this literal "popular_cats" 4 times.(ëšÈ½þÿÿÿÿ

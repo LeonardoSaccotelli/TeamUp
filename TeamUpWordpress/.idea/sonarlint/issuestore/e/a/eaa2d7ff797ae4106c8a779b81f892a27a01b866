@@ -1,0 +1,142 @@
+
+c	php:S1192/"IDefine a constant instead of duplicating this literal "post_id" 22 times.(™ô£çúÿÿÿÿ
+c	php:S1192Ê"HDefine a constant instead of duplicating this literal "encoder" 3 times.(©§œÉùÿÿÿÿ
+b	php:S1192Ô"LDefine a constant instead of duplicating this literal "attachments" 3 times.(¼ïÄÃ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‰ÉÖ³
+ƒ	Web:S4645¥"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(ãõ§üÿÿÿÿ
+j	php:S3776î"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ïñœÄ
+a	php:S1192Ë"KDefine a constant instead of duplicating this literal "media-form" 7 times.(çéå­
+j	php:S3776È
+"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(º¯á
+l	php:S1192Ö"QDefine a constant instead of duplicating this literal "disable_captions" 3 times.(Š¿«İúÿÿÿÿ
+D	php:S1172º".Remove the unused function parameter "$title".(úÊÀİ
+E	php:S1066˜"/Merge this if statement with the enclosing one.(Õ™Ü©
+J	php:S1066î"/Merge this if statement with the enclosing one.(’Şüÿÿÿÿ
+e	php:S1192ˆ
+"JDefine a constant instead of duplicating this literal "image_url" 3 times.(Œôè˜ıÿÿÿÿ
+t	php:S1192‚"YDefine a constant instead of duplicating this literal "_wp_attachment_image_alt" 4 times.(Ô²×ºüÿÿÿÿ
+^	php:S1192õ"HDefine a constant instead of duplicating this literal "bitrate" 6 times.(Ò»ÔŸ
+b	php:S1192Ø
+"GDefine a constant instead of duplicating this literal "value" 21 times.(×‘¼¼şÿÿÿÿ
+f	php:S1192¶"PDefine a constant instead of duplicating this literal "playtime_string" 4 times.(¬ãÑÉ
+J	php:S1066Ô"/Merge this if statement with the enclosing one.(°ãÆçúÿÿÿÿ
+_	php:S1192ä"IDefine a constant instead of duplicating this literal "filesize" 8 times.(•Ôá¼
+\	php:S1192Ç"FDefine a constant instead of duplicating this literal "album" 7 times.(úğ¥ì
+b	php:S1192ô"GDefine a constant instead of duplicating this literal "video" 19 times.(è˜†Öÿÿÿÿÿ
+g	php:S1192¬"QDefine a constant instead of duplicating this literal "Alternative Text" 3 times.(¢Ÿ§
+E	php:S1066¼"/Merge this if statement with the enclosing one.(“˜–
+a	php:S1192h"GDefine a constant instead of duplicating this literal "paged" 11 times.(¦Åõüøÿÿÿÿ
+]	php:S1192­	"GDefine a constant instead of duplicating this literal "input" 16 times.(Ñ—³Ñ
+j	php:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÖÔêİ
+j	php:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(œğôØ
+a	php:S1192Á"FDefine a constant instead of duplicating this literal "title" 9 times.(ıÜêâùÿÿÿÿ
+˜php:S138"~This function "get_media_item" has 207 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¢â·şşÿÿÿÿ
+\php:S107º"GThis function has 8 parameters, which is greater than the 7 authorized.(úÊÀİ
+j	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(‘å•à
+A	php:S1172°"+Remove the unused function parameter "$id".(ÒáÉÚ
+I	php:S1172™
+"3Remove the unused function parameter "$attachment".(ó±Ô¼
+a	php:S1192ñ"KDefine a constant instead of duplicating this literal "mime_type" 11 times.(‰ÿ™Ö
+c	php:S1192Ë"HDefine a constant instead of duplicating this literal "buttons" 3 times.(Ãı€ıÿÿÿÿ
+j	php:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(«ñ¨
+_	php:S1192á"IDefine a constant instead of duplicating this literal "comments" 6 times.(©ş°Ù
+a	php:S1192ú	"KDefine a constant instead of duplicating this literal "image-size" 5 times.(ÎôÏ•
+_	php:S1192ÿ"JDefine a constant instead of duplicating this literal "image_alt" 8 times.(æã€P
+p	php:S1192Ä"ZDefine a constant instead of duplicating this literal "attachment_fields_to_edit" 5 times.(›ğÀà
+Qphp:S131È"7Add a "case default" clause to this "switch" statement.(Æùë„şÿÿÿÿ
+a	php:S1192à"FDefine a constant instead of duplicating this literal "id3v2" 3 times.(Õîöôûÿÿÿÿ
+e	php:S1142Î"OReduce the number of returns of this function 5, down to the maximum allowed 3.(«ñ¨
+{	php:S1192–"`Define a constant instead of duplicating this literal "<span class="required">*</span>" 5 times.(Ôæó¾úÿÿÿÿ
+f	php:S1192é"KDefine a constant instead of duplicating this literal "menu_order" 7 times.(éºÆúüÿÿÿÿ
+\php:S107…"GThis function has 8 parameters, which is greater than the 7 authorized.(Ê°èÀ
+IWeb:TableWithoutCaptionCheckí" Add a description to this table.(İ“Œ‘
+d	php:S1192³"IDefine a constant instead of duplicating this literal "in_modal" 4 times.(€ÚÊ£úÿÿÿÿ
+_	php:S1192Ï"IDefine a constant instead of duplicating this literal "matroska" 5 times.(…üøÂ
+d	php:S1192¥"NDefine a constant instead of duplicating this literal "upload_notice" 3 times.(óá§«
+i	php:S1192İ"SDefine a constant instead of duplicating this literal " checked='checked'" 3 times.(Ø¨îÏ
+_	php:S1192ã
+"IDefine a constant instead of duplicating this literal "textarea" 3 times.(÷å¡È
+\	php:S1192¯"FDefine a constant instead of duplicating this literal "error" 6 times.(àæı
+c	php:S1192á"HDefine a constant instead of duplicating this literal "height" 10 times.(îÏÆÄÿÿÿÿÿ
+b	php:S1192“"GDefine a constant instead of duplicating this literal "_final" 4 times.(îÛ·ƒúÿÿÿÿ
+]	php:S1192¡"GDefine a constant instead of duplicating this literal "delete" 3 times.(›ªœÃ
+]	php:S1192…"GDefine a constant instead of duplicating this literal "medium" 5 times.(Ê°èÀ
+f	php:S1192ô"QDefine a constant instead of duplicating this literal "length_formatted" 3 times.(€İ¯y
+4php:S125ì"Remove this commented out code.(µ—àá
+z	php:S1488Ä"dImmediately return this expression instead of assigning it to the temporary variable "$form_fields".(›ğÀà
+j	php:S3776é"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(€œ®²
+m Web:TableHeaderHasIdOrScopeCheckñ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼íŞÈøÿÿÿÿ
+d	php:S1192â"IDefine a constant instead of duplicating this literal "tmp_name" 4 times.(ûĞ—Ñùÿÿÿÿ
+c	php:S1192ö"HDefine a constant instead of duplicating this literal "post_ID" 4 times.(Å úÙøÿÿÿÿ
+e	php:S1192Ø"JDefine a constant instead of duplicating this literal "quicktime" 3 times.(ìÄ×µıÿÿÿÿ
+f	php:S1192í"KDefine a constant instead of duplicating this literal "media_meta" 3 times.(ñµÌ¨ûÿÿÿÿ
+b	php:S1192¬	"GDefine a constant instead of duplicating this literal "label" 15 times.(¸€ñøÿÿÿÿ
+g	php:S1192"LDefine a constant instead of duplicating this literal "post_title" 14 times.(§±áêÿÿÿÿÿ
+a	php:S1192×
+"FDefine a constant instead of duplicating this literal "Title" 3 times.(ªõ´âıÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 88 to the 15 allowed.(¢â·şşÿÿÿÿ
+B	php:S1172º",Remove the unused function parameter "$url".(úÊÀİ
+h Web:TableHeaderHasIdOrScopeCheckï";Add either an 'id' or a 'scope' attribute to this <th> tag.(à¦‘ö
+b	php:S1192Â"LDefine a constant instead of duplicating this literal "fileformat" 10 times.(êè“
+]	php:S1192î"GDefine a constant instead of duplicating this literal "attach" 3 times.(ïñœÄ
+b	php:S1192ã"GDefine a constant instead of duplicating this literal "length" 3 times.(¾¦–Ëøÿÿÿÿ
+e	php:S1192ù"JDefine a constant instead of duplicating this literal "thumbnail" 4 times.(ëÙÄşÿÿÿÿ
+a	php:S1192"KDefine a constant instead of duplicating this literal "extra_rows" 6 times.(À–æÃ
+l	php:S1192²"QDefine a constant instead of duplicating this literal "playtime_seconds" 4 times.(Öï‹»ıÿÿÿÿ
+a	php:S1192¥"FDefine a constant instead of duplicating this literal "codec" 4 times.(‰ ºûÿÿÿÿ
+C	php:S1172º"-Remove the unused function parameter "$size".(úÊÀİ
+h	php:S1301‘"MReplace this "switch" statement with "if" statements to increase readability.(á«÷øÿÿÿÿ
+b	php:S1192ô"GDefine a constant instead of duplicating this literal "audio" 12 times.(è˜†Öÿÿÿÿÿ
+_	php:S1192ù"IDefine a constant instead of duplicating this literal "uploader" 4 times.(åî€¾
+i	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(®€Îi
+\	php:S1192Ş"GDefine a constant instead of duplicating this literal "hidden" 3 times.( å¥
+b	php:S1192á"GDefine a constant instead of duplicating this literal "width" 11 times.(îÏÆÄÿÿÿÿÿ
+k	php:S1192“"PDefine a constant instead of duplicating this literal "GETID3_TEMP_DIR" 4 times.(ÌçŸ¦ùÿÿÿÿ
+l	php:S1192ö"VDefine a constant instead of duplicating this literal "media_upload_form_url" 4 times.(Ï‚Û¦
+\	php:S1192é
+"FDefine a constant instead of duplicating this literal "helps" 7 times.(é‚ÛØ
+e	php:S1192Ù"JDefine a constant instead of duplicating this literal "edit_post" 4 times.(ÊáòŸûÿÿÿÿ
+H	php:S1172ì	"-Remove the unused function parameter "$post".(×İ›úÿÿÿÿ
+j	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ş‹ƒ•
+‚	php:S1192•"lDefine a constant instead of duplicating this literal "media_post_single_attachment_fields_to_edit" 3 times.(­ãÕô
+C	php:S1172ù	"-Remove the unused function parameter "$post".(ÊûœÕ
+E	php:S1066¨"/Merge this if statement with the enclosing one.(µ¨¤Ù
+b	php:S1192ÿ"GDefine a constant instead of duplicating this literal "offset" 3 times.(°î›õÿÿÿÿÿ
+g	php:S1192Œ"LDefine a constant instead of duplicating this literal "post_parent" 6 times.(ÊöÍóûÿÿÿÿ
+]	php:S1192Ç"GDefine a constant instead of duplicating this literal "artist" 8 times.(úğ¥ì
+h	php:S1192°"MDefine a constant instead of duplicating this literal "upload_error" 6 times.(Âç±ıÿÿÿÿ
+y	php:S1192–"^Define a constant instead of duplicating this literal "Required fields are marked %s" 3 times.(Ôæó¾úÿÿÿÿ
+]	php:S1192"HDefine a constant instead of duplicating this literal "gallery" 7 times.(ôÑÜÜ
+s	php:S1488¦"]Immediately return this expression instead of assigning it to the temporary variable "$html".(”µã‘
+l	php:S1192¡"QDefine a constant instead of duplicating this literal "Insert into Post" 3 times.(ÏıŞşÿÿÿÿ
+B	php:S1172º",Remove the unused function parameter "$alt".(úÊÀİ
+^	php:S1192Š"HDefine a constant instead of duplicating this literal "errors" 15 times.(™ßÛæ
+i	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(çÇ˜A
+j	php:S1142Ô"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ÿ¤“¸şÿÿÿÿ
+b	php:S1192å"GDefine a constant instead of duplicating this literal "image" 14 times.(ÉØ¬ùÿÿÿÿ
+4php:S125š"Remove this commented out code.(µ—àá
+x	php:S1488„"]Immediately return this expression instead of assigning it to the temporary variable "$html".(îêµÕúÿÿÿÿ
+b	php:S1192à	"LDefine a constant instead of duplicating this literal "</textarea>" 3 times.(ºÉÚ²
+o	php:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(æÏÇ úÿÿÿÿ
+a	php:S1192¤"KDefine a constant instead of duplicating this literal "dataformat" 4 times.(Ëó¯¤
+^	php:S1192"HDefine a constant instead of duplicating this literal "caption" 4 times.(…ÆÂŞ
+_	php:S1192¨"IDefine a constant instead of duplicating this literal "required" 9 times.(×üš
+NWeb:TableWithoutCaptionCheck" Add a description to this table.(Ø‘ãÍûÿÿÿÿ
+h	php:S1192”"MDefine a constant instead of duplicating this literal "bitrate_mode" 5 times.(°›Ó…øÿÿÿÿ
+h	php:S1192×"RDefine a constant instead of duplicating this literal "created_timestamp" 4 times.(ŠÁŠ
+h	php:S1192"MDefine a constant instead of duplicating this literal "post_excerpt" 7 times.(úÙ•œùÿÿÿÿ
+C	php:S1172‡
+"-Remove the unused function parameter "$post".(Ù²øú
+j	php:S1192ú"ODefine a constant instead of duplicating this literal " html-uploader" 4 times.(ù±â­ıÿÿÿÿ
+d	php:S1192m"JDefine a constant instead of duplicating this literal "<a href='" 4 times.(™úÓÖşÿÿÿÿ
+E	php:S1172°"/Remove the unused function parameter "$errors".(ÒáÉÚ
+J	php:S1066›
+"/Merge this if statement with the enclosing one.(šíéæøÿÿÿÿ
+e	php:S1192i"PDefine a constant instead of duplicating this literal "post_mime_type" 14 times.(¾ªù
+h	php:S1192"MDefine a constant instead of duplicating this literal "post_content" 9 times.(×ÏÕøÿÿÿÿ
+i	php:S1192ù"SDefine a constant instead of duplicating this literal " checked="checked"" 4 times.(ÛÂÃ³
+g	php:S1192¡"QDefine a constant instead of duplicating this literal "Save all changes" 3 times.(÷äâº
+a	php:S1192Š"FDefine a constant instead of duplicating this literal "align" 8 times.(¼‰ÙÃûÿÿÿÿ
+o	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(É»ÌÊûÿÿÿÿ
+_	php:S1192"IDefine a constant instead of duplicating this literal "lossless" 3 times.(ı›‹à
+\	php:S1192Œ"FDefine a constant instead of duplicating this literal "media" 4 times.(Åœöè

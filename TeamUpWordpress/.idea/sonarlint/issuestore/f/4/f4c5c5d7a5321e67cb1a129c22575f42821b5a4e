@@ -1,0 +1,7 @@
+
+a	php:S1192+"LDefine a constant instead of duplicating this literal "_pm_who_can" 3 times.(Õ¹Íš
+L	php:S1172P"7Remove the unused function parameter "$shortcode_args".(¨£İÁ
+b	php:S1192"MDefine a constant instead of duplicating this literal "um-messaging" 6 times.(ÚÙŞ
+f	php:S1192"LDefine a constant instead of duplicating this literal "_pm_blocked" 3 times.(óåË§şÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+r	php:S1488Q"]Immediately return this expression instead of assigning it to the temporary variable "$args".(Å›Ãë

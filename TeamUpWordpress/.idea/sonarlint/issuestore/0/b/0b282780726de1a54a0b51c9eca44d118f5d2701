@@ -1,0 +1,20 @@
+
+b	php:S1192"MDefine a constant instead of duplicating this literal "bitrate_mode" 3 times.(ˆÜó²
+_	php:S1192€"IDefine a constant instead of duplicating this literal "channels" 3 times.(Šå°™
+j	php:S1142û"OReduce the number of returns of this function 9, down to the maximum allowed 3.(óîÔ´ÿÿÿÿÿ
+c	php:S1301Ã"MReplace this "switch" statement with "if" statements to increase readability.(Ïø÷ş
+`	php:S1192|"LDefine a constant instead of duplicating this literal "sample_rate" 3 times.(è¥‡s
+Lphp:S131Ã"7Add a "case default" clause to this "switch" statement.(Ïø÷ş
+gphp:S101"NRename class "getid3_dts" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(áˆäáÿÿÿÿÿ
+c	php:S1192b"IDefine a constant instead of duplicating this literal "bitrate" 10 times.(Æï¡ûÿÿÿÿ
+c	php:S1192~"IDefine a constant instead of duplicating this literal "lossless" 4 times.(œÏ×ñøÿÿÿÿ
+^	php:S1192Ó"HDefine a constant instead of duplicating this literal "invalid" 7 times.(á°è±
+[	php:S1192ƒ"FDefine a constant instead of duplicating this literal "audio" 7 times.(Šë‰x
+o	php:S1192w"UDefine a constant instead of duplicating this literal "dialog_normalization" 3 times.(Ó³¯úøÿÿÿÿ
+\	php:S1192]"GDefine a constant instead of duplicating this literal "flags" 16 times.(ÆÁì­
+Qphp:S131ü"7Add a "case default" clause to this "switch" statement.(úÊ©Ÿşÿÿÿÿ
+Kphp:S131K"7Add a "case default" clause to this "switch" statement.(§¨‰²
+i	php:S1192`"TDefine a constant instead of duplicating this literal "channel_arrangement" 4 times.(­Ş›ÿ
+j	php:S1192s"PDefine a constant instead of duplicating this literal "bits_per_sample" 5 times.(ïíÆ÷ıÿÿÿÿ
+g	php:S11921"MDefine a constant instead of duplicating this literal "avdataoffset" 3 times.(ß†·®üÿÿÿÿ
+rphp:S115"^Rename this constant "syncword" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(·†™Á

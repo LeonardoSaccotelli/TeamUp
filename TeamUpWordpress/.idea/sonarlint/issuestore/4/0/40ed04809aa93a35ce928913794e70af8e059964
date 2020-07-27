@@ -1,0 +1,13 @@
+
+C	php:S1172".Remove the unused function parameter "$limit".(«Ï®—
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+\	php:S1192-"HDefine a constant instead of duplicating this literal "privacy" 3 times.(ëí“V
+e	php:S11922"KDefine a constant instead of duplicating this literal "um-groups" 11 times.(±•İøÿÿÿÿ
+n	php:S1192"YDefine a constant instead of duplicating this literal "um_groups_users_per_page" 3 times.(ø¦ó
+d	php:S1192)"JDefine a constant instead of duplicating this literal "load_more" 4 times.(«•šºşÿÿÿÿ
+H	php:S1172|"3Remove the unused function parameter "$has_joined".(®§’½
+[	php:S11921"FDefine a constant instead of duplicating this literal "menus" 4 times.(ÁÓêŠ
+`	php:S1192"KDefine a constant instead of duplicating this literal "group_role" 3 times.(ø›ËŸ
+^	php:S1192+"IDefine a constant instead of duplicating this literal "group_id" 6 times.(è¤
+B	php:S1172|"-Remove the unused function parameter "$args".(®§’½
+a	php:S1192"GDefine a constant instead of duplicating this literal "offset" 3 times.(²¡µÕøÿÿÿÿ

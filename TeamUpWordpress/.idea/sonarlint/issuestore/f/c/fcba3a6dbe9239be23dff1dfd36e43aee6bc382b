@@ -1,0 +1,39 @@
+
+\	php:S1192Ó"FDefine a constant instead of duplicating this literal "title" 7 times.(™åï
+c	php:S1192ì"HDefine a constant instead of duplicating this literal "include" 6 times.(Ù’†”üÿÿÿÿ
+b	php:S1192«"GDefine a constant instead of duplicating this literal "author" 3 times.(ï–øøøÿÿÿÿ
+]	php:S1192±"GDefine a constant instead of duplicating this literal "format" 4 times.(äÇ…
+d	php:S1192»"IDefine a constant instead of duplicating this literal "modified" 3 times.(Üşñ©üÿÿÿÿ
+tphp:S101"`Rename class "WP_REST_Revisions_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒÿ¤ı
+^	php:S1192ã"HDefine a constant instead of duplicating this literal "excerpt" 5 times.(ıÍŒº
+^	php:S1192"HDefine a constant instead of duplicating this literal "status" 11 times.(š³ÿò
+o	php:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(‰î×Ïûÿÿÿÿ
+j	php:S1192ú"ODefine a constant instead of duplicating this literal "posts_per_page" 4 times.(ÍöÚñøÿÿÿÿ
+n	php:S1192"SDefine a constant instead of duplicating this literal "rest_cannot_delete" 3 times.(Õ¾şãşÿÿÿÿ
+]	php:S1192M"HDefine a constant instead of duplicating this literal "parent" 13 times.(’¶ñô
+b	php:S1192o"HDefine a constant instead of duplicating this literal "default" 8 times.(²ÒÄüÿÿÿÿ
+d	php:S1192³"IDefine a constant instead of duplicating this literal "date_gmt" 3 times.(†îñ‰şÿÿÿÿ
+`	php:S1192±"JDefine a constant instead of duplicating this literal "date-time" 4 times.(äÇ…
+b	php:S1192¨"LDefine a constant instead of duplicating this literal "properties" 13 times.( öÔ
+j	php:S1142Ü"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‰î×Ïûÿÿÿÿ
+]	php:S1192S"HDefine a constant instead of duplicating this literal "methods" 3 times.(ŸÊşµ
+b	php:S1192°"GDefine a constant instead of duplicating this literal "string" 8 times.(Şåáßúÿÿÿÿ
+a	php:S1192ü"FDefine a constant instead of duplicating this literal "order" 4 times.(óÿ™ëúÿÿÿÿ
+\	php:S1192¬"FDefine a constant instead of duplicating this literal "embed" 5 times.(ø®Éœ
+^	php:S1192Ú"HDefine a constant instead of duplicating this literal "content" 5 times.(†õ®
+_	php:S1192Í"IDefine a constant instead of duplicating this literal "revision" 3 times.(Øõô‡
+a	php:S1192†"FDefine a constant instead of duplicating this literal "paged" 3 times.(´Œ€üÿÿÿÿ
+c	php:S1192o"IDefine a constant instead of duplicating this literal "context" 13 times.(²ÒÄüÿÿÿÿ
+d	php:S1192Î"IDefine a constant instead of duplicating this literal "rendered" 4 times.(…´‘½üÿÿÿÿ
+[	php:S1192w"FDefine a constant instead of duplicating this literal "force" 3 times.(ÛÈˆŞ
+b	php:S1192N"MDefine a constant instead of duplicating this literal "description" 18 times.(î“™³
+j	php:S1117š"TRename "$parent_post_type" which has the same name as the field declared at line 25.(¿’¦ã
+d	php:S1192ã"IDefine a constant instead of duplicating this literal "orderby" 16 times.(»×ÉŒøÿÿÿÿ
+e	php:S1142Ã"OReduce the number of returns of this function 4, down to the maximum allowed 3.(®Š»Ü
+z	php:S1192N"eDefine a constant instead of duplicating this literal "The ID for the parent of the object." 3 times.(î“™³
+n	php:S1192U"TDefine a constant instead of duplicating this literal "permission_callback" 3 times.(Õïäìıÿÿÿÿ
+h	php:S1192¿"MDefine a constant instead of duplicating this literal "modified_gmt" 3 times.(ÛÙµıÿÿÿÿ
+]	php:S1192ƒ"GDefine a constant instead of duplicating this literal "offset" 6 times.(¯…ßÄ
+\	php:S1192O"HDefine a constant instead of duplicating this literal "integer" 9 times.(Ò†Ö1
+c	php:S1192T"IDefine a constant instead of duplicating this literal "callback" 3 times.(Çƒöûıÿÿÿÿ
+j	php:S1142”"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ˆÁçıøÿÿÿÿ

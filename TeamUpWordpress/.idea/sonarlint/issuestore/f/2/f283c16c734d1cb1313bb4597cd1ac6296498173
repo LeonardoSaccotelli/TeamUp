@@ -1,0 +1,37 @@
+
+p	php:S1192("VDefine a constant instead of duplicating this literal "current_user_password" 5 times.(åÄññüÿÿÿÿ
+H	php:S1172“"-Remove the unused function parameter "$args".(†Œôÿùÿÿÿÿ
+E	php:S1066À"/Merge this if statement with the enclosing one.(†½¤»
+G	php:S1172	"-Remove the unused function parameter "$args".(ñ—À÷øÿÿÿÿ
+p	php:S1192*"VDefine a constant instead of duplicating this literal "confirm_user_password" 4 times.(à¯üòùÿÿÿÿ
+d	php:S1192)"ODefine a constant instead of duplicating this literal "user_password" 14 times.(ÊÊ®ˆ
+DWeb:BoldAndItalicTagsCheckï"Replace this <i> tag by <em>.(Ùƒ¶®
+j	php:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(¦Â÷é
+`	php:S1192`"KDefine a constant instead of duplicating this literal "user_email" 9 times.(Ö£ë¼
+y	php:S1192ö"^Define a constant instead of duplicating this literal "um_after_user_account_updated" 3 times.(ÓËõÿıÿÿÿÿ
+g	php:S1192"QDefine a constant instead of duplicating this literal "hide_in_members" 11 times.(Û§Ú‚
+b	php:S1192‘"LDefine a constant instead of duplicating this literal "post_status" 4 times.(†®ƒÒ
+]	php:S1192M"HDefine a constant instead of duplicating this literal "account" 4 times.(ƒÑÔ¿
+t	php:S1192"ZDefine a constant instead of duplicating this literal "This is not your password" 3 times.(ü·ä“şÿÿÿÿ
+K	php:S1172Ø"0Remove the unused function parameter "$user_id".(ãÖÍıÿÿÿÿ
+k	php:S1192"QDefine a constant instead of duplicating this literal "ultimate-member" 46 times.(‘¿×›øÿÿÿÿ
+`	php:S1192©"JDefine a constant instead of duplicating this literal "user_pass" 3 times.(„„ì‰
+C	php:S1172ä"-Remove the unused function parameter "$args".(Ùˆ£´
+n	php:S3776	"TRefactor this function to reduce its Cognitive Complexity from 97 to the 15 allowed.(ñ—À÷øÿÿÿÿ
+c	php:S1192&"IDefine a constant instead of duplicating this literal "password" 5 times.(ä´‡Çÿÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "delete" 3 times.(¤ìşîûÿÿÿÿ
+_	php:S1192"KDefine a constant instead of duplicating this literal "user_login" 7 times.(¡‡O
+DWeb:BoldAndItalicTagsCheck­"Replace this <i> tag by <em>.(Ùƒ¶®
+e	php:S1192X"KDefine a constant instead of duplicating this literal "first_name" 3 times.(Şì—ˆûÿÿÿÿ
+e	php:S1192ï"ODefine a constant instead of duplicating this literal "request_action" 3 times.(ıƒÉ
+d	php:S1192\"JDefine a constant instead of duplicating this literal "last_name" 3 times.(á”˜÷şÿÿÿÿ
+E	php:S1066€"/Merge this if statement with the enclosing one.(Êíğø
+K	php:S1172¿"0Remove the unused function parameter "$changed".(âÆ‡øÿÿÿÿ
+K	php:S1172Ø"0Remove the unused function parameter "$changed".(ãÖÍıÿÿÿÿ
+e	php:S1192"PDefine a constant instead of duplicating this literal "_um_account_tab" 8 times.(´×ÏÈ
+DWeb:BoldAndItalicTagsCheckœ"Replace this <i> tag by <em>.(Ê¨­Ò
+DWeb:BoldAndItalicTagsCheckØ"Replace this <i> tag by <em>.(Ê¨­Ò
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+Î	php:S1192’"²Define a constant instead of duplicating this literal "A confirmation email has been sent to your email. Click the link within the email to confirm your export request." 3 times.(Ü¬èìÿÿÿÿÿ
+K	php:S1172Ë"0Remove the unused function parameter "$changed".(‚ñ¶ùøÿÿÿÿ
+k	php:S1192"VDefine a constant instead of duplicating this literal "single_user_password" 10 times.(ç¸§´

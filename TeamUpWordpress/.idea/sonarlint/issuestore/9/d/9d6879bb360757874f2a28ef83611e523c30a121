@@ -1,0 +1,10 @@
+
+c	php:S1192@"IDefine a constant instead of duplicating this literal "required" 5 times.(ÑÉÍ™şÿÿÿÿ
+d	php:S1192>"ODefine a constant instead of duplicating this literal "Filter Control" 6 times.(³ÓÊ
+pphp:S101"\Rename class "Group_Control_Css_Filter" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(›ÒÅŞ
+f	php:S1192S"LDefine a constant instead of duplicating this literal "render_type" 5 times.(¿ĞÜëüÿÿÿÿ
+[	php:S1192A"FDefine a constant instead of duplicating this literal "range" 5 times.(÷¦ç£
+_	php:S1192>"JDefine a constant instead of duplicating this literal "elementor" 6 times.(³ÓÊ
+d	php:S1192^"JDefine a constant instead of duplicating this literal "separator" 4 times.(şÄĞãøÿÿÿÿ
+b	php:S1192H"HDefine a constant instead of duplicating this literal "default" 5 times.(ªÜØ£ÿÿÿÿÿ
+[	php:S1192>"FDefine a constant instead of duplicating this literal "label" 5 times.(³ÓÊ

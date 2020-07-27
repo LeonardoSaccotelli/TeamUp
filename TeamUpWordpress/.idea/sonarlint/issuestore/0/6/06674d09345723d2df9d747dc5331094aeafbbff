@@ -1,0 +1,11 @@
+
+c	php:S1192ç"MDefine a constant instead of duplicating this literal "innerBlocks" 11 times.(í•Œ 
+o	php:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Â‡”ÿÿÿÿÿ
+`	php:S1192ï"JDefine a constant instead of duplicating this literal "blockName" 7 times.(ñÆ™Ë
+g	php:S1192"LDefine a constant instead of duplicating this literal "the_content" 7 times.(Çà¾úÿÿÿÿ
+X	php:S1788¿"BMove arguments "$block_name" after arguments without default value(ÀŞÃ
+	php:S1488Ÿ"kImmediately return this expression instead of assigning it to the temporary variable "$encoded_attributes".(Ø”Õ²
+\	php:S1192ê"FDefine a constant instead of duplicating this literal "attrs" 8 times.(¸šğë
+q	php:S1192 "VDefine a constant instead of duplicating this literal "_restore_wpautop_hook" 3 times.(òœ»„ıÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "wpautop" 3 times.(Çà¾úÿÿÿÿ
+^	php:S1192@"IDefine a constant instead of duplicating this literal "<!-- wp:" 3 times.(Èİá 

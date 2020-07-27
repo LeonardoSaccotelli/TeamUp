@@ -1,0 +1,51 @@
+
+^	php:S1192ú	"IDefine a constant instead of duplicating this literal "preserve" 4 times.(–ïÍ\
+a	php:S1192‘	"FDefine a constant instead of duplicating this literal "class" 3 times.(ã¾®úÿÿÿÿ
+j	php:S3776›"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(šÏ’ú
+_	php:S1192ó	"IDefine a constant instead of duplicating this literal "exclude" 10 times.(äüÁ¾
+˜php:S138Ş"~This function "get_body_class" has 190 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(±Ô·¤ùÿÿÿÿ
+m	php:S1192Ô"WDefine a constant instead of duplicating this literal "post_password_required" 3 times.(áú 
+l	php:S1192’	"QDefine a constant instead of duplicating this literal "show_option_none" 3 times.(½Éêàúÿÿÿÿ
+m	php:S1192…"RDefine a constant instead of duplicating this literal "custom-background" 3 times.(ğı…Ñıÿÿÿÿ
+N	php:S3801*"4Refactor this function to use "return" consistently.(ª£Áúÿÿÿÿ
+`	php:S1192¥"JDefine a constant instead of duplicating this literal "separator" 3 times.(¥”ğø
+j	php:S3776æ
+"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(°¡°ß
+a	php:S1192"FDefine a constant instead of duplicating this literal "pages" 4 times.(û®ÄÀûÿÿÿÿ
+c	php:S1192–"NDefine a constant instead of duplicating this literal "preview_nonce" 3 times.(½ÍÌ
+^	php:S1192ã"HDefine a constant instead of duplicating this literal "default" 3 times.(°ñ
+E	php:S1066ã"/Merge this if statement with the enclosing one.(°ñ
+e	php:S1142Ó"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Å –«
+a	php:S1192‹	"FDefine a constant instead of duplicating this literal "depth" 4 times.(­Íïèøÿÿÿÿ
+[	php:S1192S"FDefine a constant instead of duplicating this literal "after" 8 times.(õ•›É
+[	php:S1192€"FDefine a constant instead of duplicating this literal "width" 3 times.(Æº5
+B	php:S1481ü
+"'Remove this unused "$t" local variable.(áÏùÿÿÿÿ
+a	php:S1192¢"KDefine a constant instead of duplicating this literal "link_after" 7 times.(ï§µ¯
+a	php:S1192ê
+"KDefine a constant instead of duplicating this literal "menu_class" 3 times.(¸ıÊ¿
+i	php:S1192Ê"SDefine a constant instead of duplicating this literal "wp_link_pages_link" 3 times.(šƒÁè
+d	php:S1192ô	"IDefine a constant instead of duplicating this literal "title_li" 5 times.(Æ†ßˆÿÿÿÿÿ
+o	php:S3776”"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÖÅ“³şÿÿÿÿ
+o	php:S3776á"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(˜éÛ™ùÿÿÿÿ
+]	php:S1192û	"GDefine a constant instead of duplicating this literal "walker" 6 times.(”‘Œ
+d	php:S1192ê"IDefine a constant instead of duplicating this literal "esc_attr" 3 times.(™£Ïâıÿÿÿÿ
+^	php:S1192é
+"HDefine a constant instead of duplicating this literal "menu_id" 3 times.(ŒÜ¡
+]	php:S1192»"GDefine a constant instead of duplicating this literal "number" 3 times.(‰âÅ‚
+\	php:S1192€"GDefine a constant instead of duplicating this literal "height" 3 times.(Æº5
+j	php:S3776í	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ú…´À
+_	php:S1192–"IDefine a constant instead of duplicating this literal "revision" 3 times.(¹€³Ä
+g	php:S1192¡"LDefine a constant instead of duplicating this literal "link_before" 7 times.(­é±™şÿÿÿÿ
+p	php:S3776Ş"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(±Ô·¤ùÿÿÿÿ
+b	php:S1192ú	"MDefine a constant instead of duplicating this literal "item_spacing" 9 times.(–ïÍ\
+a	php:S1192ş"KDefine a constant instead of duplicating this literal "attachment" 3 times.(ÙÇ¡
+\	php:S1192ğ
+"FDefine a constant instead of duplicating this literal "</ul>" 3 times.(é¸£–
+`	php:S1192–"KDefine a constant instead of duplicating this literal "preview_id" 3 times.(½ÍÌ
+I	php:S3801P"4Refactor this function to use "return" consistently.(¡—ÒŸ
+^	php:S1192€
+"HDefine a constant instead of duplicating this literal "discard" 3 times.(æ¡Áû
+a	php:S1192R"GDefine a constant instead of duplicating this literal "before" 8 times.(ÆÚêĞùÿÿÿÿ
+l	php:S1192“	"VDefine a constant instead of duplicating this literal "show_option_no_change" 3 times.(Êàó
+e	php:S1192“"JDefine a constant instead of duplicating this literal "show_home" 5 times.(ÔïÍòûÿÿÿÿ

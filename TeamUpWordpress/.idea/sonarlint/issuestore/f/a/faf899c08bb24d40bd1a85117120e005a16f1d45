@@ -1,0 +1,27 @@
+
+e	php:S1142¦"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‘µ€µ
+a	php:S1192m"LDefine a constant instead of duplicating this literal "destination" 3 times.(ê½ş
+e	php:S1117Ÿ"JRename "$result" which has the same name as the field declared at line 31.(ÕëÀ÷ùÿÿÿÿ
+h	php:S1192o"NDefine a constant instead of duplicating this literal "clear_working" 3 times.(»‚ÈÎÿÿÿÿÿ
+q	php:S1192g"WDefine a constant instead of duplicating this literal "wp_clean_plugins_cache" 4 times.(Æš¤ûüÿÿÿÿ
+d	php:S1142—"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ù–¤
+g	php:S1192³"LDefine a constant instead of duplicating this literal "bad_request" 4 times.(•¯éœüÿÿÿÿ
+gphp:S101"SRename class "Plugin_Upgrader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‚øî¥
+t	php:S1192g"ZDefine a constant instead of duplicating this literal "upgrader_process_complete" 5 times.(Æš¤ûüÿÿÿÿ
+j	php:S1142É"OReduce the number of returns of this function 4, down to the maximum allowed 3.(†ÿë¬ÿÿÿÿÿ
+l	php:S1192n"RDefine a constant instead of duplicating this literal "clear_destination" 3 times.(Îòùÿÿÿÿ
+b	php:S1192q"HDefine a constant instead of duplicating this literal "plugin" 13 times.(óÏ¹»şÿÿÿÿ
+I	php:S1135ÿ"4Complete the task associated to this "TODO" comment.(ÚŠ©
+g	php:S11925"RDefine a constant instead of duplicating this literal "remove_old_failed" 3 times.(Òæÿ±
+v	php:S1192«"[Define a constant instead of duplicating this literal "upgrader_clear_destination" 4 times.(ü¡½Ûıÿÿÿÿ
+m	php:S1192«"RDefine a constant instead of duplicating this literal "delete_old_plugin" 4 times.(ü¡½Ûıÿÿÿÿ
+b	php:S1192l"HDefine a constant instead of duplicating this literal "package" 3 times.(á‚¼‡øÿÿÿÿ
+g	php:S1192Š"QDefine a constant instead of duplicating this literal "destination_name" 3 times.(ˆÌ¢
+d	php:S1142†"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¬ßÉ(
+\	php:S1192r"GDefine a constant instead of duplicating this literal "action" 3 times.(©¨œğ
+j	php:S1142í"OReduce the number of returns of this function 4, down to the maximum allowed 3.(€Çö×ùÿÿÿÿ
+`	php:S1192/"KDefine a constant instead of duplicating this literal "up_to_date" 4 times.(‡ñĞÔ
+g	php:S1192]"SDefine a constant instead of duplicating this literal "clear_update_cache" 8 times.(ß…ø(
+e	php:S1192p"KDefine a constant instead of duplicating this literal "hook_extra" 3 times.(Ó›üÍùÿÿÿÿ
+d	php:S1142İ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¦åÓ
+p	php:S1192©"UDefine a constant instead of duplicating this literal "upgrader_pre_install" 4 times.(şĞÆìøÿÿÿÿ

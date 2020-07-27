@@ -1,0 +1,23 @@
+
+wphp:S101"cRename class "ParagonIE_Sodium_Core32_BLAKE2b" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Î®–ë
+4php:S125â"Remove this commented out code.(ËìáÁ
+4php:S125ù"Remove this commented out code.(áÕõ½
+9php:S125ï"Remove this commented out code.(Æ§„»úÿÿÿÿ
+4php:S125"Remove this commented out code.(ì‡şÃ
+4php:S125¸"Remove this commented out code.(³ØŸÒ
+9php:S125›"Remove this commented out code.(Œ”£Œıÿÿÿÿ
+4php:S125·"Remove this commented out code.(áÕõ½
+4php:S125¡"Remove this commented out code.(¿é£Õ
+9php:S125Å"Remove this commented out code.(Ğ‘­íùÿÿÿÿ
+9php:S125"Remove this commented out code.(Ó¬éÒÿÿÿÿÿ
+4php:S125"Remove this commented out code.(¦²ß
+9php:S125¤"Remove this commented out code.(œ¤è«ûÿÿÿÿ
+o	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸Åèÿÿÿÿÿ
+9php:S125Â"Remove this commented out code.(Ğ‘­íùÿÿÿÿ
+4php:S125ú"Remove this commented out code.(³ØŸÒ
+9php:S125‡"Remove this commented out code.(Ğ‘­íùÿÿÿÿ
+9php:S125å"Remove this commented out code.(×¤¾Œÿÿÿÿÿ
+\php:S107Á"GThis function has 8 parameters, which is greater than the 7 authorized.(µ‘¯“
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+9php:S125“"Remove this commented out code.(Ä¬¾âşÿÿÿÿ
+9php:S125°"Remove this commented out code.(Æ§„»úÿÿÿÿ

@@ -1,0 +1,10 @@
+
+cphp:S101"ORename class "Walker_Page" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Áü¡¤
+c	php:S11928"IDefine a constant instead of duplicating this literal "preserve" 4 times.(¸÷ñıÿÿÿÿ
+A	php:S1481j"'Remove this unused "$n" local variable.(íèóıÿÿÿÿ
+g	php:S1192"LDefine a constant instead of duplicating this literal "link_before" 4 times.(‚©ç‰ûÿÿÿÿ
+B	php:S1481ã"'Remove this unused "$t" local variable.(áÏùÿÿÿÿ
+n	php:S3776g"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ûˆ«øøÿÿÿÿ
+I	php:S1135$"4Complete the task associated to this "TODO" comment.(åÅô†
+g	php:S11928"MDefine a constant instead of duplicating this literal "item_spacing" 8 times.(¸÷ñıÿÿÿÿ
+f	php:S1192Ÿ"KDefine a constant instead of duplicating this literal "link_after" 4 times.(ÊÖñ…ÿÿÿÿÿ

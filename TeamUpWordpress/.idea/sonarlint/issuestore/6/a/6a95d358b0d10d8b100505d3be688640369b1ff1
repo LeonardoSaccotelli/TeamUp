@@ -1,0 +1,69 @@
+
+?	php:S1481Ì
+")Remove this unused "$req" local variable.(ğ“õ
+O	php:S3801ó"4Refactor this function to use "return" consistently.(¤ù³øÿÿÿÿ
+o	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(š¬Å»ıÿÿÿÿ
+b	php:S1192ı"GDefine a constant instead of duplicating this literal "before" 4 times.(ÆÚêĞùÿÿÿÿ
+`	php:S1192õ"JDefine a constant instead of duplicating this literal "add_below" 4 times.(š”æ¶
+J	php:S3801æ"4Refactor this function to use "return" consistently.(ÒÒ½ò
+a	php:S1192ö"KDefine a constant instead of duplicating this literal "respond_id" 6 times.(âÄûÉ
+–php:S138æ"|This function "comment_form" has 207 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ì¹üìúÿÿÿÿ
+\	php:S1192ş"FDefine a constant instead of duplicating this literal "after" 4 times.(õ•›É
+p	php:S1192£"UDefine a constant instead of duplicating this literal "comment_registration" 3 times.(¸»¿©ûÿÿÿÿ
+_	php:S1192¬"IDefine a constant instead of duplicating this literal "#respond" 3 times.(Ë„©Î
+Q	php:S1481ã"6Remove this unused "$comments_by_type" local variable.(ë¦Ÿ¡ıÿÿÿÿ
+a	php:S1192ü"FDefine a constant instead of duplicating this literal "depth" 3 times.(­Íïèøÿÿÿÿ
+]	php:S1192ı"GDefine a constant instead of duplicating this literal "submit" 3 times.(æÎ‘Í
+n	php:S1192ô
+"SDefine a constant instead of duplicating this literal "include_unapproved" 7 times.(ï›ËÊÿÿÿÿÿ
+k	php:S1192İ
+"UDefine a constant instead of duplicating this literal "comment_author_email" 3 times.(Á‚Ö
+h	php:S1192î
+"MDefine a constant instead of duplicating this literal "hierarchical" 4 times.(§§ÔÊşÿÿÿÿ
+a	php:S1192ú"KDefine a constant instead of duplicating this literal "login_text" 4 times.(€ñïÈ
+j	php:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 91 to the 15 allowed.(ÒÒ½ò
+^	php:S1192ç
+"HDefine a constant instead of duplicating this literal "approve" 3 times.(™ê‚©
+o	php:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ì¹üìúÿÿÿÿ
+^	php:S1192è
+"HDefine a constant instead of duplicating this literal "post_id" 3 times.(™ƒ°Å
+O	php:S1481×
+"4Remove this unused "$comment_author" local variable.(Ö¾Õôÿÿÿÿÿ
+c	php:S1192Õ"HDefine a constant instead of duplicating this literal "comment" 8 times.(×éš·ûÿÿÿÿ
+h	php:S1192å"RDefine a constant instead of duplicating this literal "comments_per_page" 5 times.(Ôıñ€
+a	php:S1192¾"KDefine a constant instead of duplicating this literal "replytocom" 7 times.(Ÿÿåà
+m	php:S1192ù"RDefine a constant instead of duplicating this literal "reverse_top_level" 3 times.(ºƒˆ¦øÿÿÿÿ
+q	php:S1192ü"VDefine a constant instead of duplicating this literal "default_comments_page" 6 times.(›§Ğäşÿÿÿÿ
+a	php:S1192û"FDefine a constant instead of duplicating this literal "html5" 5 times.(¿÷ÏŠùÿÿÿÿ
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(½ŸÅôøÿÿÿÿ
+]	php:S1192ˆ"GDefine a constant instead of duplicating this literal "offset" 3 times.(üÎ˜
+E	php:S1066ß"/Merge this if statement with the enclosing one.(È«°®
+p	php:S1192ò"UDefine a constant instead of duplicating this literal "comment_notes_before" 3 times.(œ›Áéÿÿÿÿÿ
+c	php:S1192±"HDefine a constant instead of duplicating this literal "cookies" 4 times.(áƒÂŒûÿÿÿÿ
+c	php:S1192à"HDefine a constant instead of duplicating this literal "http://" 3 times.(¦ü§ıÿÿÿÿ
+`	php:S1192Ö"JDefine a constant instead of duplicating this literal "per_page" 16 times.(†¨Ü»
+o	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(—ÉŒÉüÿÿÿÿ
+b	php:S1192Ø"GDefine a constant instead of duplicating this literal "cpage" 15 times.(¤ÎÉ‚şÿÿÿÿ
+P	php:S1481İ
+":Remove this unused "$comment_author_email" local variable.(Á‚Ö
+b	php:S1192ğ"GDefine a constant instead of duplicating this literal "walker" 3 times.(”Çñ«şÿÿÿÿ
+j	php:S3776Á
+"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(Õ¹îò
+S	php:S1481â
+"8Remove this unused "$comment_author_url" local variable.(¨‰è–şÿÿÿÿ
+a	php:S1192’"FDefine a constant instead of duplicating this literal "email" 4 times.(ó¤Ô¹úÿÿÿÿ
+b	php:S1192ê"GDefine a constant instead of duplicating this literal "newest" 4 times.(¨ÜÏÓÿÿÿÿÿ
+z	php:S1488Ç"_Immediately return this expression instead of assigning it to the temporary variable "$return".(Ç¼åˆüÿÿÿÿ
+]	php:S1192ç
+"GDefine a constant instead of duplicating this literal "status" 5 times.(™ê‚©
+j	php:S1142ó"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¤ù³øÿÿÿÿ
+c	php:S1192å
+"HDefine a constant instead of duplicating this literal "orderby" 5 times.(ÿœÜùıÿÿÿÿ
+`	php:S1192×"JDefine a constant instead of duplicating this literal "max_depth" 9 times.(Ï¼¾‚
+f	php:S1192÷"KDefine a constant instead of duplicating this literal "reply_text" 4 times.(ÀÌÄ™ûÿÿÿÿ
+d	php:S1192ä"NDefine a constant instead of duplicating this literal "page_comments" 4 times.(é½Ò‚
+]	php:S1192¾"GDefine a constant instead of duplicating this literal "fields" 8 times.(©ìôà
+e	php:S1142æ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ÒÒ½ò
+a	php:S1192û"FDefine a constant instead of duplicating this literal "xhtml" 3 times.(¿÷ÏŠùÿÿÿÿ
+i	php:S1192I"ODefine a constant instead of duplicating this literal "comment_author" 3 times.(Å¦™‡úÿÿÿÿ
+b	php:S1192Å"GDefine a constant instead of duplicating this literal "format" 6 times.(“Û®úÿÿÿÿ

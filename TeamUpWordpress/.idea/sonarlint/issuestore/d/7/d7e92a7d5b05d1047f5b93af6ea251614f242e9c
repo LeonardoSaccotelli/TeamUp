@@ -1,0 +1,12 @@
+
+p	php:S1192R"VDefine a constant instead of duplicating this literal "display_plugins_table" 6 times.(Æ¥ñúÿÿÿÿ
+n	php:S11928"TDefine a constant instead of duplicating this literal "update_home_siteurl" 3 times.(”Šüáşÿÿÿÿ
+d	php:S1192"ODefine a constant instead of duplicating this literal "get_media_item" 4 times.(ğ¹æ
+c	php:S1192g"NDefine a constant instead of duplicating this literal "admin_notices" 8 times.(ñƒú
+m	php:S1192"XDefine a constant instead of duplicating this literal "wp_media_upload_handler" 4 times.(æÒ¥÷
+t	php:S1192~"ZDefine a constant instead of duplicating this literal "upgrader_process_complete" 4 times.(ì­¶¾ùÿÿÿÿ
+e	php:S1192+"KDefine a constant instead of duplicating this literal "admin_head" 4 times.(ğÖıÆüÿÿÿÿ
+e	php:S1192)"KDefine a constant instead of duplicating this literal "admin_init" 4 times.(ƒ£Îüÿÿÿÿ
+h	php:S1192@"SDefine a constant instead of duplicating this literal "heartbeat_received" 3 times.(¥ˆßé
+s	php:S1192="^Define a constant instead of duplicating this literal "update_option_new_admin_email" 3 times.(‚¥å¶
+u	php:S1192Š"ZDefine a constant instead of duplicating this literal "WP_Privacy_Policy_Content" 4 times.(¦ıñ”ıÿÿÿÿ

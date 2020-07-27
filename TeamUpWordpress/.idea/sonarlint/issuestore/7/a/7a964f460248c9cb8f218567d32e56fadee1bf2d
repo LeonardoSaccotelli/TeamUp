@@ -1,0 +1,18 @@
+
+_	php:S1192"IDefine a constant instead of duplicating this literal "operator" 9 times.(üØáƒ
+o	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾ëøûÿÿÿÿ
+`	php:S1192‹"JDefine a constant instead of duplicating this literal "taxonomy" 11 times.(ûòş¶
+dphp:S101"PRename class "WP_Tax_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŸâäÅ
+b	php:S1192"GDefine a constant instead of duplicating this literal "field" 11 times.(¾•Ô±ÿÿÿÿÿ
+\	php:S1192¨"FDefine a constant instead of duplicating this literal "alias" 3 times.(´½™
+o	php:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(í‚ş©ûÿÿÿÿ
+j	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¹ìÚ
+d	php:S1192s"JDefine a constant instead of duplicating this literal "relation" 10 times.(áÃ”Äıÿÿÿÿ
+b	php:S1192Œ"GDefine a constant instead of duplicating this literal "terms" 18 times.(ß‚Áÿüÿÿÿÿ
+e	php:S1142ÿ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¹ìÚ
+`	php:S1117‘"KRename "$queries" which has the same name as the field declared at line 32.(ÿË
+g	php:S1117¿"LRename "$relation" which has the same name as the field declared at line 40.(×ë±øøÿÿÿÿ
+[	php:S11922"GDefine a constant instead of duplicating this literal "where" 21 times.(üÌ½C
+f	php:S1192£"QDefine a constant instead of duplicating this literal "term_taxonomy_id" 4 times.(ùÅÚQ
+g	php:S1192"QDefine a constant instead of duplicating this literal "include_children" 4 times.(¼ë“Õ
+e	php:S1142Ñ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¶´İ’

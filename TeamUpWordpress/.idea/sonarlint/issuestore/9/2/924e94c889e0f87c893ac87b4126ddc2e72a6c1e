@@ -1,0 +1,7 @@
+
+G	php:S1172å",Remove the unused function parameter "$val".(ƒ»ðºþÿÿÿÿ
+cphp:S101"ORename class "WP_Importer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¼»Êú
+E	php:S1066ð"/Merge this if statement with the enclosing one.(íÀáÑ
+o	php:S3776›"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(®ºù‘úÿÿÿÿ
+E	php:S1066ž"/Merge this if statement with the enclosing one.(¤Ù†×
+4php:S125Œ"Remove this commented out code.(­ÚßÀ

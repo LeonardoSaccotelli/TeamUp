@@ -1,0 +1,36 @@
+
+K	php:S1144º"6Remove this unused private "_dispatch_request" method.(×Ù¤
+c	php:S1192®"HDefine a constant instead of duplicating this literal "message" 3 times.(æûŒâüÿÿÿÿ
+o	php:S1192Ô"TDefine a constant instead of duplicating this literal "limit_response_size" 3 times.(¡şàÿÿÿÿÿ
+\	php:S1192ı"FDefine a constant instead of duplicating this literal "proxy" 4 times.(Î¨¹Œ
+e	php:S1142ù"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ß¥™ö
+_	php:S1192Ì"IDefine a constant instead of duplicating this literal "cookies" 13 times.(›Œ¦
+]	php:S1192’"GDefine a constant instead of duplicating this literal "scheme" 3 times.(äÔ‰ø
+^	php:S1192¡"HDefine a constant instead of duplicating this literal "timeout" 3 times.(Æôª
+c	php:S1192
+"IDefine a constant instead of duplicating this literal "Requests" 5 times.(ŞÊèŞüÿÿÿÿ
+h	php:S1192ë"MDefine a constant instead of duplicating this literal "_redirection" 3 times.(€¢—ûÿÿÿÿ
+]	php:S1192ä"GDefine a constant instead of duplicating this literal "verify" 4 times.(æÓí•
+o	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê¸—ûÿÿÿÿ
+H	php:S1172æ"-Remove the unused function parameter "$data".(ÎŞãçûÿÿÿÿ
+b	php:S1192«"LDefine a constant instead of duplicating this literal "redirection" 6 times.(Èñ¹ô
+j	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(«ƒ“è
+\	php:S1192Ä"FDefine a constant instead of duplicating this literal "hooks" 3 times.(ëğ„ä
+j	php:S1142ª"OReduce the number of returns of this function 5, down to the maximum allowed 3.(µÍÄûÿÿÿÿ
+E	php:S1066”"/Merge this if statement with the enclosing one.(Ã¦˜û
+^	php:S1192Ë"IDefine a constant instead of duplicating this literal "headers" 14 times.(ıÜú-
+K	php:S1172æ"0Remove the unused function parameter "$headers".(ÎŞãçûÿÿÿÿ
+dphp:S101"KRename class "WP_Http" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ğ¥¥ûÿÿÿÿ
+j	php:S1142Û"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¯Èì„ùÿÿÿÿ
+j	php:S1192•"ODefine a constant instead of duplicating this literal "http_api_debug" 5 times.(ñÀ¥¾øÿÿÿÿ
+d	php:S1192Ó"IDefine a constant instead of duplicating this literal "filename" 7 times.(ø ’úıÿÿÿÿ
+b	php:S1192—"GDefine a constant instead of duplicating this literal "method" 9 times.(ÇÂ–Òıÿÿÿÿ
+o	php:S1192“"TDefine a constant instead of duplicating this literal "http_request_failed" 4 times.(ÓİÅƒøÿÿÿÿ
+e	php:S1142•"OReduce the number of returns of this function 7, down to the maximum allowed 3.(«ƒ“è
+L	php:S1172æ"1Remove the unused function parameter "$location".(ÎŞãçûÿÿÿÿ
+d	php:S1192Ê"IDefine a constant instead of duplicating this literal "blocking" 5 times.(•²Œõÿÿÿÿÿ
+]	php:S1192Ò"GDefine a constant instead of duplicating this literal "stream" 3 times.(×ìˆÁ
+o	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µÍÄûÿÿÿÿ
+d	php:S1192‘"NDefine a constant instead of duplicating this literal "http_response" 4 times.(×åßà
+n	php:S1192É"SDefine a constant instead of duplicating this literal "reject_unsafe_urls" 3 times.(ùÌ„¬øÿÿÿÿ
+e	php:S1192•"JDefine a constant instead of duplicating this literal "response" 10 times.(ñÀ¥¾øÿÿÿÿ

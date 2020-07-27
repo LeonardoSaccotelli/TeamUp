@@ -1,0 +1,94 @@
+
+b	php:S1192ÿ"GDefine a constant instead of duplicating this literal "-field" 6 times.(²½÷ÿÿÿÿÿ
+y	php:S1488À"^Immediately return this expression instead of assigning it to the temporary variable "$value".(Ë˜÷“ıÿÿÿÿ
+i	php:S3776²"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(ûÚê
+d	php:S1192‡"IDefine a constant instead of duplicating this literal "render_" 12 times.(’î¾ûÿÿÿÿ
+s	php:S1488Ã"]Immediately return this expression instead of assigning it to the temporary variable "$html".(¦ÚÄ¦
+c	php:S1192Ä"HDefine a constant instead of duplicating this literal "columns" 3 times.(ƒ—âÿÿÿÿÿ
+Jphp:S121¹"0Add curly braces around the nested statement(s).(ÿ–¶Æøÿÿÿÿ
+x	php:S1488Ÿ
+"]Immediately return this expression instead of assigning it to the temporary variable "$html".(µÍ¼çûÿÿÿÿ
+Jphp:S121©"0Add curly braces around the nested statement(s).(­î’ùÿÿÿÿ
+e	php:S1192z"KDefine a constant instead of duplicating this literal "prefix_id" 88 times.(»ò¢ùÿÿÿÿ
+o	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÕŠüÈÿÿÿÿÿ
+n	php:S3776j"TRefactor this function to reduce its Cognitive Complexity from 93 to the 15 allowed.(«€Äßûÿÿÿÿ
+_	php:S1192Ù"JDefine a constant instead of duplicating this literal "field_id" 20 times.(€ìÙd
+\	php:S1192¯"FDefine a constant instead of duplicating this literal "items" 3 times.(øü¹
+x	php:S1488 "]Immediately return this expression instead of assigning it to the temporary variable "$html".(º¾Šáıÿÿÿÿ
+h	php:S1192‘"MDefine a constant instead of duplicating this literal "description" 12 times.(ÿ–¶Æøÿÿÿÿ
+c	php:S1192Ñ"HDefine a constant instead of duplicating this literal "sorting" 4 times.(ü±“—úÿÿÿÿ
+Jphp:S121ç"0Add curly braces around the nested statement(s).(ÿ–¶Æøÿÿÿÿ
+j	php:S1192ÿ"ODefine a constant instead of duplicating this literal "um-long-field" 16 times.(²½÷ÿÿÿÿÿ
+J	php:S1481ƒ
+"/Remove this unused "$data_attr" local variable.(Ä˜ú¸şÿÿÿÿ
+j	php:S1142Í"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Åú¹ûÿÿÿÿ
+a	php:S1192ï"KDefine a constant instead of duplicating this literal "upgrade_cb" 5 times.(õîÖÚ
+o	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¬Ÿ£Øûÿÿÿÿ
+\	php:S1192="GDefine a constant instead of duplicating this literal "class" 42 times.(î‚…í
+Jphp:S121Ñ"0Add curly braces around the nested statement(s).(ÿ–¶Æøÿÿÿÿ
+Jphp:S121ü"0Add curly braces around the nested statement(s).(ÿ–¶Æøÿÿÿÿ
+x	php:S1488§"]Immediately return this expression instead of assigning it to the temporary variable "$html".(„·¥üÿÿÿÿ
+hphp:S101"ORename class "Admin_Forms" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Óº‘¦ÿÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+MWeb:TableWithoutCaptionCheckJ" Add a description to this table.(™Ø«­úÿÿÿÿ
+i	php:S1192ä"NDefine a constant instead of duplicating this literal "textarea_rows" 4 times.(èæ×²üÿÿÿÿ
+c	php:S1192Ú"HDefine a constant instead of duplicating this literal "id_attr" 4 times.(ĞôáÒúÿÿÿÿ
+c	php:S1192Ş"HDefine a constant instead of duplicating this literal " data-" 19 times.(ºõÏ®ıÿÿÿÿ
+d	php:S1192«"IDefine a constant instead of duplicating this literal "options" 16 times.(–Ê—•ûÿÿÿÿ
+x	php:S1488¾"]Immediately return this expression instead of assigning it to the temporary variable "$html".(¨½Àùüÿÿÿÿ
+^	php:S1192Ä	"HDefine a constant instead of duplicating this literal "default" 9 times.(øÙ—Ù
+x	php:S1488˜"]Immediately return this expression instead of assigning it to the temporary variable "$html".(Ÿš÷Íûÿÿÿÿ
+x	php:S1488ó"]Immediately return this expression instead of assigning it to the temporary variable "$html".(Ÿš÷Íûÿÿÿÿ
+x	php:S1488È"]Immediately return this expression instead of assigning it to the temporary variable "$html".(ş¢Ç¼úÿÿÿÿ
+g	php:S1192³"QDefine a constant instead of duplicating this literal "<option value="" 11 times.(Üéœƒ
+a	php:S11929"GDefine a constant instead of duplicating this literal "fields" 3 times.(É‚ì•ÿÿÿÿÿ
+x	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$html".(±şÎ‹ùÿÿÿÿ
+]	php:S1192‰"GDefine a constant instead of duplicating this literal "Remove" 8 times.(””şŠ
+o	php:S3776Ú
+"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ç«Éíÿÿÿÿÿ
+¦	php:S1192‚"Define a constant instead of duplicating this literal ":&nbsp;<input type=\"text\" name=\"um_metadata[_um_sorting_fields][other_data][" 4 times.(ß‰ˆg
+s	php:S1488æ"]Immediately return this expression instead of assigning it to the temporary variable "$html".(˜º×İ
+•	php:S1192Ò"zDefine a constant instead of duplicating this literal "<div class="um-admin-clear"></div><p class="description">" 3 times.(õÛÜ†şÿÿÿÿ
+b	php:S1192”"GDefine a constant instead of duplicating this literal "</div>" 3 times.(áõßşÿÿÿÿ
+a	php:S1192p"GDefine a constant instead of duplicating this literal "value" 12 times.(¾çÑùÿÿÿÿ
+g	php:S1192‰"QDefine a constant instead of duplicating this literal "</a></span></li>" 5 times.(””şŠ
+Jphp:S121‘"0Add curly braces around the nested statement(s).(ÿ–¶Æøÿÿÿÿ
+n	php:S1192ƒ"SDefine a constant instead of duplicating this literal " um-admin-drag-fld" 4 times.(¹­„çÿÿÿÿÿ
+_	php:S1192ã"IDefine a constant instead of duplicating this literal " name="" 19 times.(€ÜéÎ
+a	php:S1192"FDefine a constant instead of duplicating this literal "multi" 3 times.(ÿ›ôüÿÿÿÿ
+a	php:S1192³"KDefine a constant instead of duplicating this literal "</option>" 11 times.(Üéœƒ
+	php:S1448"gClass "Admin_Forms" has 29 methods, which is greater than 20 authorized. Split it into smaller classes.(Óº‘¦ÿÿÿÿÿ
+d	php:S1192æ"IDefine a constant instead of duplicating this literal " value="" 9 times.(Ä•èíÿÿÿÿÿ
+x	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$html".(¥êéœúÿÿÿÿ
+Jphp:S121¦"0Add curly braces around the nested statement(s).(ÿ–¶Æøÿÿÿÿ
+q	php:S1192Ä"[Define a constant instead of duplicating this literal "<tr class="um-forms-line" " 3 times.(‡‰ßö
+j	php:S3776´	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ôëû‰
+n	php:S1192’"XDefine a constant instead of duplicating this literal "<p class="description">" 3 times.(Œì§
+a	php:S1192Ô"KDefine a constant instead of duplicating this literal "</td></tr>" 3 times.(Ğ×ú
+J	php:S1481†"/Remove this unused "$data_attr" local variable.(Ä˜ú¸şÿÿÿÿ
+?	Web:S5256J"%Add "<th>" headers to this "<table>".(™Ø«­úÿÿÿÿ
+s	php:S1488Ÿ"]Immediately return this expression instead of assigning it to the temporary variable "$html".(ìÛÜô
+r	php:S1488ì"]Immediately return this expression instead of assigning it to the temporary variable "$html".(ĞªØ
+a	php:S1192C"GDefine a constant instead of duplicating this literal "hidden" 3 times.(Úâ–ıÿÿÿÿ
+x	php:S1488Ç"]Immediately return this expression instead of assigning it to the temporary variable "$html".(ãñ¿Åùÿÿÿÿ
+x	php:S1488Å
+"]Immediately return this expression instead of assigning it to the temporary variable "$html".(æœë·ûÿÿÿÿ
+ƒ	php:S1192ƒ"hDefine a constant instead of duplicating this literal "<li class="um-multi-selects-option-line" 4 times.(¹­„çÿÿÿÿÿ
+o	php:S1192Ö"YDefine a constant instead of duplicating this literal " class="um-forms-field " 15 times.(‡×¨
+o	php:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ı­Àûÿÿÿÿ
+p	php:S1192‹"UDefine a constant instead of duplicating this literal "show_default_number" 16 times.(˜Ò¿ÿÿÿÿÿÿ
+x	php:S1488©	"]Immediately return this expression instead of assigning it to the temporary variable "$html".(½î°¶ùÿÿÿÿ
+j	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ç°ô‡
+l	php:S1192¾"QDefine a constant instead of duplicating this literal "ultimate-member" 19 times.(ÊÓª´ûÿÿÿÿ
+]	php:S1192Ó"GDefine a constant instead of duplicating this literal " id="" 24 times.(çŠ—Ø
+x	php:S1488é	"]Immediately return this expression instead of assigning it to the temporary variable "$html".(ÜÎ•şÿÿÿÿ
+d	php:S1192¢"IDefine a constant instead of duplicating this literal "add_text" 4 times.(º¾Šáıÿÿÿÿ
+Jphp:S121¬
+"0Add curly braces around the nested statement(s).(­î’ùÿÿÿÿ
+}	php:S1192…"gDefine a constant instead of duplicating this literal "<div class="form-field um-forms-line" " 3 times.(œ˜–¹
+	php:S1192…"‚Define a constant instead of duplicating this literal "<span class="um-field-icon"><i class="um-faicon-sort"></i></span>" 4 times.(–çôçÿÿÿÿÿ
+j	php:S1192"ODefine a constant instead of duplicating this literal " placeholder="" 5 times.(ôä•…ıÿÿÿÿ
+x	php:S1488è"]Immediately return this expression instead of assigning it to the temporary variable "$html".(Â«›ûûÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "placeholder" 10 times.(ôä•…ıÿÿÿÿ
+o	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ˆÃ¦Ùşÿÿÿÿ
+x	php:S1488¢"]Immediately return this expression instead of assigning it to the temporary variable "$html".(º¾Šáıÿÿÿÿ

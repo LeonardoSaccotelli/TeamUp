@@ -1,0 +1,70 @@
+
+j	php:S1192ı"ODefine a constant instead of duplicating this literal "admin_settings" 3 times.(òëÍ™üÿÿÿÿ
+^	php:S1192±	"HDefine a constant instead of duplicating this literal "profile" 3 times.(ÀÍ¤
+b	php:S1192é"LDefine a constant instead of duplicating this literal "admin_users" 3 times.(ÆÏÊ˜
+c	php:S1192³"HDefine a constant instead of duplicating this literal "enqueue" 3 times.(êƒù†şÿÿÿÿ
+c	php:S1192‘"MDefine a constant instead of duplicating this literal "admin_forms_" 3 times.(‡Ø€ø
+]	php:S1192†"GDefine a constant instead of duplicating this literal "mobile" 3 times.(Ûøâ—
+o	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾Ïóùÿÿÿÿ
+d	php:S1192ö"NDefine a constant instead of duplicating this literal "admin_builder" 3 times.(¦¯Ñˆ
+c	php:S1192Û	"HDefine a constant instead of duplicating this literal "builtin" 3 times.(†ÀÆ…úÿÿÿÿ
+_	php:S1192÷	"IDefine a constant instead of duplicating this literal "uploader" 3 times.(ó´èş
+_	php:S1192¥"IDefine a constant instead of duplicating this literal "register" 3 times.(ÙÄõ
+a	php:S1192û"FDefine a constant instead of duplicating this literal "setup" 3 times.(¦†ÿÿÿÿÿ
+H	php:S1135<"4Complete the task associated to this "TODO" comment.(šƒX
+a	php:S1192 
+"KDefine a constant instead of duplicating this literal "permalinks" 3 times.(¹‹‘ÿ
+i	php:S1192¸"NDefine a constant instead of duplicating this literal "plugin_check" 18 times.(•ûã¯şÿÿÿÿ
+]	php:S1192È"GDefine a constant instead of duplicating this literal "config" 3 times.(¯°»­
+c	php:S1192Ï"HDefine a constant instead of duplicating this literal "account" 3 times.(ºŠı—ûÿÿÿÿ
+g	php:S1192È"QDefine a constant instead of duplicating this literal "member_directory" 4 times.(ÜßŞú
+d	php:S1192¶"NDefine a constant instead of duplicating this literal "theme_updater" 3 times.(ÔŞÆ•
+h	php:S1192º"MDefine a constant instead of duplicating this literal "dependencies" 3 times.(ı“”Œÿÿÿÿÿ
+c	php:S1192í"HDefine a constant instead of duplicating this literal "rewrite" 3 times.(“”Ÿşÿÿÿÿÿ
+k	php:S1192"VDefine a constant instead of duplicating this literal "external_integrations" 3 times.(úËíK
+f	php:S1192 "KDefine a constant instead of duplicating this literal "admin_gdpr" 3 times.(ÁšÒµøÿÿÿÿ
+]	php:S1192ƒ"GDefine a constant instead of duplicating this literal "common" 3 times.(äˆ
+i	php:S1192ğ"NDefine a constant instead of duplicating this literal "admin_navmenu" 3 times.(‚Íü½ûÿÿÿÿ
+_	php:S1192İ"IDefine a constant instead of duplicating this literal "password" 3 times.(ñ°ÇÑ
+a	php:S1192•	"FDefine a constant instead of duplicating this literal "roles" 3 times.(¹¦€áÿÿÿÿÿ
+d	php:S1192Í	"IDefine a constant instead of duplicating this literal "datetime" 3 times.(Ú—¬úúÿÿÿÿ
+f	php:S1192ã"KDefine a constant instead of duplicating this literal "admin_menu" 3 times.(ø”è‚øÿÿÿÿ
+e	php:S1192"PDefine a constant instead of duplicating this literal "ultimate-member" 4 times.(­é­T
+e	php:S1192‰"JDefine a constant instead of duplicating this literal "fonticons" 3 times.(Š¿Ü©üÿÿÿÿ
+a	php:S1192"FDefine a constant instead of duplicating this literal "admin" 4 times.(óÆ‰ÿüÿÿÿÿ
+4php:S125Œ"Remove this commented out code.(Àü›Õ
+i	php:S1192Â"NDefine a constant instead of duplicating this literal "admin_columns" 3 times.(ñ¼¥Ùÿÿÿÿÿ
+d	php:S1192Š"NDefine a constant instead of duplicating this literal "admin_upgrade" 3 times.(Ô¡Ñ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+L	php:S1185¯"6Remove this method "__construct" to simply inherit it.(¨ÿ—¦
+]	php:S1192Î
+"GDefine a constant instead of duplicating this literal "logout" 3 times.(Öİ ª
+x	php:S1448*"^Class "UM" has 76 methods, which is greater than 20 authorized. Split it into smaller classes.(†èóüÿÿÿÿ
+d	php:S1192Ï"NDefine a constant instead of duplicating this literal "admin_enqueue" 3 times.(Õƒ€•
+n	php:S1848Á"XEither remove this useless object instantiation of class "um\core\AJAX_Common" or use it(ºæ‹—
+^	php:S1192À
+"HDefine a constant instead of duplicating this literal "members" 3 times.(ù®Ô²
+]	php:S1192ù"GDefine a constant instead of duplicating this literal "fields" 3 times.(‹İª¾
+\	php:S1192Ü
+"FDefine a constant instead of duplicating this literal "modal" 3 times.(²Ü‚
+e	php:S1192ø
+"JDefine a constant instead of duplicating this literal "templates" 3 times.(¯Íî©ÿÿÿÿÿ
+`	php:S1192•"JDefine a constant instead of duplicating this literal "multisite" 3 times.(ªÈ²¸
+_	php:S1192Ù"IDefine a constant instead of duplicating this literal "rest_api" 5 times.(¥Ó­ï
+a	php:S1192Á"KDefine a constant instead of duplicating this literal "shortcodes" 3 times.(Ò‹ÉÂ
+f	php:S1192£	"KDefine a constant instead of duplicating this literal "user_posts" 3 times.(à™ïûÿÿÿÿ
+a	php:S1192—"FDefine a constant instead of duplicating this literal "login" 3 times.(»Éó‰şÿÿÿÿ
+l	php:S1192É"QDefine a constant instead of duplicating this literal "admin_ajax_hooks" 3 times.(‰÷‡şÿÿÿÿ
+q	php:S1192Ÿ"VDefine a constant instead of duplicating this literal "admin_forms_settings_" 3 times.(İ¤÷‹ıÿÿÿÿ
+a	php:S1192„
+"KDefine a constant instead of duplicating this literal "validation" 3 times.(ıüÒš
+e	php:S1192ƒ"ODefine a constant instead of duplicating this literal "admin_dragdrop" 3 times.(¿¤‘
+a	php:S1192¿	"FDefine a constant instead of duplicating this literal "query" 3 times.(ÛÏ…’ûÿÿÿÿ
+\	php:S1192‘"FDefine a constant instead of duplicating this literal "class" 6 times.(‡Ø€ø
+e	php:S1192ª"ODefine a constant instead of duplicating this literal "plugin_updater" 3 times.(˜ƒÍ‡
+a	php:S1192¬"KDefine a constant instead of duplicating this literal "extensions" 3 times.(”•Èš
+\	php:S1192é	"FDefine a constant instead of duplicating this literal "files" 3 times.(§”ˆâ
+d	php:S1192Ü"NDefine a constant instead of duplicating this literal "admin_metabox" 3 times.(²ó–‘
+\	php:S1192’
+"GDefine a constant instead of duplicating this literal "access" 3 times.(¸Øş`
+c	php:S1192"HDefine a constant instead of duplicating this literal "options" 3 times.(ºŞ©àşÿÿÿÿ

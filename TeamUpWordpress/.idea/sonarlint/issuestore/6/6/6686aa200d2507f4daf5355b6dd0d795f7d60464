@@ -1,0 +1,258 @@
+
+Ephp:S121ü"0Add curly braces around the nested statement(s).(°¼×ª
+j	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÄÇÀÜ
+Jphp:S121Ü"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121Y"0Add curly braces around the nested statement(s).(¦òåÚ
+Ephp:S121´"0Add curly braces around the nested statement(s).(á¯Ã§
+F	php:S1172»"0Remove the unused function parameter "$matches".(†ı¦ñ
+Jphp:S121®"0Add curly braces around the nested statement(s).(Äè§¶ùÿÿÿÿ
+Jphp:S121ª"0Add curly braces around the nested statement(s).(˜Õëıÿÿÿÿ
+F	php:S1172Î"0Remove the unused function parameter "$matches".(Ğ…ãê
+M	php:S1172«"2Remove the unused function parameter "$limitnext".(›¶ŠŸıÿÿÿÿ
+K	php:S1172ß"0Remove the unused function parameter "$blog_id".(ı¾µùÿÿÿÿ
+e	php:S1192•"JDefine a constant instead of duplicating this literal "<a href="" 3 times.(Ô„´Üøÿÿÿÿ
+{	php:S1488"aImmediately return this expression instead of assigning it to the temporary variable "$postdata".(ĞÜ»©ùÿÿÿÿ
+Jphp:S121ô"0Add curly braces around the nested statement(s).(èã÷şüÿÿÿÿ
+a	php:S1192ÿ"FDefine a constant instead of duplicating this literal "limit" 4 times.(úø“Âıÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(·ŠÓğ
+O	php:S1135é	"4Complete the task associated to this "TODO" comment.(¥Äˆ«øÿÿÿÿ
+Jphp:S121£"0Add curly braces around the nested statement(s).(÷ñÕ¦ùÿÿÿÿ
+Jphp:S121µ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+b	php:S1192í"GDefine a constant instead of duplicating this literal "%title" 6 times.(ıÆ„€øÿÿÿÿ
+Ephp:S121È"0Add curly braces around the nested statement(s).(¶¹Õä
+L	php:S1172•"1Remove the unused function parameter "$extended".(®û÷éüÿÿÿÿ
+d	php:S1192ƒ"IDefine a constant instead of duplicating this literal "' href='" 3 times.(Êİêòùÿÿÿÿ
+e	php:S1142è"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‡ÚÎ¾
+b	php:S1192ì"LDefine a constant instead of duplicating this literal "sort_column" 3 times.(æ»
+_	php:S1192¢"IDefine a constant instead of duplicating this literal "meta_key" 3 times.(Æ±Àœ
+D	php:S1172¦".Remove the unused function parameter "$width".(»Ã’ö
+Ephp:S121µ"0Add curly braces around the nested statement(s).(‰é©÷
+Jphp:S121Ÿ"0Add curly braces around the nested statement(s).(À—£‰şÿÿÿÿ
+a	php:S1192”"FDefine a constant instead of duplicating this literal "4.3.0" 7 times.(ÚßÎ§úÿÿÿÿ
+[	php:S1192Ê"FDefine a constant instead of duplicating this literal "4.7.0" 5 times.(Œ¹İi
+Jphp:S121˜"0Add curly braces around the nested statement(s).(ú•Ëşÿÿÿÿ
+O	php:S3801í"4Refactor this function to use "return" consistently.(ıÆ„€øÿÿÿÿ
+f	php:S1192"PDefine a constant instead of duplicating this literal "get_bookmarks()" 6 times.(øˆµÀ
+^	php:S1192¢"HDefine a constant instead of duplicating this literal "user_id" 3 times.(Æ±Àœ
+Ephp:S121«"0Add curly braces around the nested statement(s).(ŒÅâë
+Jphp:S121°"0Add curly braces around the nested statement(s).(ü–êüÿÿÿÿ
+Lphp:S131ö"7Add a "case default" clause to this "switch" statement.(å ºó
+Ephp:S121ø"0Add curly braces around the nested statement(s).(í»¨¥
+\php:S107·"GThis function has 9 parameters, which is greater than the 7 authorized.(³¾Û
+Ephp:S121¬"0Add curly braces around the nested statement(s).(Ë²ÕŠ
+]	php:S1192‰"GDefine a constant instead of duplicating this literal "2.0.0" 12 times.(Ÿ–×ª
+F	php:S1172·"+Remove the unused function parameter "$fp".(úö “øÿÿÿÿ
+Ephp:S121Ã"0Add curly braces around the nested statement(s).(°‹‹Æ
+Jphp:S121"0Add curly braces around the nested statement(s).(Ì”Îâşÿÿÿÿ
+b	php:S1192ì"LDefine a constant instead of duplicating this literal "optioncount" 4 times.(æ»
+a	php:S1192§"FDefine a constant instead of duplicating this literal "4.4.0" 3 times.(ÿü¦Àüÿÿÿÿ
+C	php:S1172¦"-Remove the unused function parameter "$text".(»Ã’ö
+†	php:S4144Î"pUpdate this method so that its implementation is not identical to "_preview_theme_template_filter" on line 3488.(Ğ…ãê
+b	php:S1192‹"GDefine a constant instead of duplicating this literal "noname" 3 times.(—‹›ßÿÿÿÿÿ
+b	php:S1192ƒ"GDefine a constant instead of duplicating this literal "' />\n" 3 times.(Êİêòùÿÿÿÿ
+Ephp:S121ï"0Add curly braces around the nested statement(s).(”åö°
+j	php:S4144å"TUpdate this method so that its implementation is not identical to "_c" on line 1748.(Û¦Ñ§
+N	php:S1172Ø"3Remove the unused function parameter "$deprecated".(î¡ıÎûÿÿÿÿ
+bphp:S107ç"HThis function has 18 parameters, which is greater than the 7 authorized.(è¤ıÓşÿÿÿÿ
+j	php:S1142×"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Û®ÁÓøÿÿÿÿ
+J	php:S3801œ"4Refactor this function to use "return" consistently.(ÄÇÀÜ
+Jphp:S121ë"0Add curly braces around the nested statement(s).(£©ĞÂşÿÿÿÿ
+E	php:S1066Â"/Merge this if statement with the enclosing one.(ÎšÀú
+G	php:S1172Â	"1Remove the unused function parameter "$no_cache".(±‘Ó®
+bphp:S107‹"HThis function has 10 parameters, which is greater than the 7 authorized.(—‹›ßÿÿÿÿÿ
+Jphp:S121ú"0Add curly braces around the nested statement(s).(½»®Òıÿÿÿÿ
+?	php:S1125Ç")Remove the literal "false" boolean value.(‹ŸÂÊ
+v	php:S1488»"`Immediately return this expression instead of assigning it to the temporary variable "$content".(¼şº‡
+D	php:S1172¦".Remove the unused function parameter "$count".(»Ã’ö
+Jphp:S121«"0Add curly braces around the nested statement(s).(Ó´Ã™ùÿÿÿÿ
+Jphp:S121ó"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121Â"0Add curly braces around the nested statement(s).(ÎšÀú
+Jphp:S121Ó"0Add curly braces around the nested statement(s).(¸»ÿóşÿÿÿÿ
+\	php:S1192†"FDefine a constant instead of duplicating this literal "order" 4 times.(‘½Œ
+\	php:S1192Ã"FDefine a constant instead of duplicating this literal "3.1.0" 3 times.(ó¼–“
+Jphp:S121¸"0Add curly braces around the nested statement(s).(ëş½áûÿÿÿÿ
+Jphp:S121Á"0Add curly braces around the nested statement(s).(ì›şÿÿÿÿ
+d	php:S1192ÿ"IDefine a constant instead of duplicating this literal "category" 5 times.(úø“Âıÿÿÿÿ
+Ephp:S121Î"0Add curly braces around the nested statement(s).(§£Ü²
+Jphp:S121ì	"0Add curly braces around the nested statement(s).(Ü¬ù­ıÿÿÿÿ
+Ephp:S121Ğ"0Add curly braces around the nested statement(s).(§¦Ú
+Jphp:S121Ò"0Add curly braces around the nested statement(s).(®Ñ˜÷ùÿÿÿÿ
+Ephp:S121…"0Add curly braces around the nested statement(s).(£¿ë¦
+Jphp:S121’"0Add curly braces around the nested statement(s).(ÇœÚÈşÿÿÿÿ
+Ephp:S121º"0Add curly braces around the nested statement(s).(”õòÚ
+Ephp:S121ƒ"0Add curly braces around the nested statement(s).(®–…Ø
+_	php:S1192®"IDefine a constant instead of duplicating this literal "title_li" 3 times.(²äƒ÷
+Jphp:S121ƒ"0Add curly braces around the nested statement(s).(ÆŠ©şÿÿÿÿ
+Ephp:S121Á"0Add curly braces around the nested statement(s).(á±Äµ
+a	php:S1192ì"KDefine a constant instead of duplicating this literal "sort_order" 3 times.(æ»
+C	php:S1172»"-Remove the unused function parameter "$attr".(†ı¦ñ
+F	php:S1172¦"+Remove the unused function parameter "$fp".(üÓ±ùÿÿÿÿ
+F	php:S1172ò"0Remove the unused function parameter "$blog_id".(â€…´
+Jphp:S121ó"0Add curly braces around the nested statement(s).(¨Õƒ„ûÿÿÿÿ
+i	php:S1192‘"NDefine a constant instead of duplicating this literal "link_category" 3 times.(äÏ€¡ÿÿÿÿÿ
+Ephp:S121¡"0Add curly braces around the nested statement(s).(ê¦…á
+Ephp:S121Ê"0Add curly braces around the nested statement(s).(êÁ¶
+Fphp:S836™"2Review the data-flow - use of uninitialized value.(ßÁŸ2
+Jphp:S121Ò"0Add curly braces around the nested statement(s).(ãº½Ñùÿÿÿÿ
+[	php:S1126ù"EReplace this "if-then-else" statement by a single "return" statement.(âáÅå
+G	php:S1172‡"2Remove the unused function parameter "$limitprev".(Æ¬Š}
+d	php:S1142Œ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(÷¨b
+Ephp:S121Ç"0Add curly braces around the nested statement(s).(‹ŸÂÊ
+Jphp:S121è"0Add curly braces around the nested statement(s).(”œ¯ ÿÿÿÿÿ
+\php:S107œ"GThis function has 9 parameters, which is greater than the 7 authorized.(ÙÅ·²
+a	php:S1192§"FDefine a constant instead of duplicating this literal "after" 4 times.(É…ÍĞøÿÿÿÿ
+a	php:S1192ì"KDefine a constant instead of duplicating this literal "hide_empty" 3 times.(æ»
+Ephp:S121Ñ"0Add curly braces around the nested statement(s).(—¯ûù
+Jphp:S121á"0Add curly braces around the nested statement(s).(æä÷•üÿÿÿÿ
+Jphp:S121…"0Add curly braces around the nested statement(s).(É£Ü€şÿÿÿÿ
+O	php:S3801½"4Refactor this function to use "return" consistently.(³Š©ºûÿÿÿÿ
+C	php:S1172¦"-Remove the unused function parameter "$file".(»Ã’ö
+]	php:S1192¢"GDefine a constant instead of duplicating this literal "3.0.0" 12 times.(ÿÑÉì
+`	php:S1126ñ"EReplace this "if-then-else" statement by a single "return" statement.(¾÷µøÿÿÿÿ
+Jphp:S121É"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121ğ	"0Add curly braces around the nested statement(s).(Ì¬´O
+b	php:S1192–"LDefine a constant instead of duplicating this literal "error_log()" 3 times.(ç’¬ù
+J	php:S1172º"/Remove the unused function parameter "$action".(õØ”êøÿÿÿÿ
+Jphp:S121‡"0Add curly braces around the nested statement(s).(Ğ’òüÿÿÿÿ
+n	php:S1192Í"SDefine a constant instead of duplicating this literal "current_user_can()" 9 times.(Ğò­øÿÿÿÿ
+Jphp:S121ã"0Add curly braces around the nested statement(s).(ÑòÈóùÿÿÿÿ
+b	php:S1192–"GDefine a constant instead of duplicating this literal "3.3.0" 11 times.(Ë›˜Ûıÿÿÿÿ
+Jphp:S121¼"0Add curly braces around the nested statement(s).(¾áêéşÿÿÿÿ
+Dphp:S121Å"0Add curly braces around the nested statement(s).(ŞÈ‡[
+Jphp:S121ü"0Add curly braces around the nested statement(s).(®Ñ˜÷ùÿÿÿÿ
+Jphp:S121Ô"0Add curly braces around the nested statement(s).(²ÿ¿‹ùÿÿÿÿ
+C	php:S1172•"-Remove the unused function parameter "$mode".(Îì§Ş
+s	php:S1488˜"]Immediately return this expression instead of assigning it to the temporary variable "$text".(ÊØ»€
+G	php:S1172•"1Remove the unused function parameter "$filename".(Îì§Ş
+j	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(îê¡ğ
+Jphp:S121¥"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121Ú"0Add curly braces around the nested statement(s).(ã‹ÓŠ
+e	php:S1192—"JDefine a constant instead of duplicating this literal "the_title" 4 times.(¾èîÒûÿÿÿÿ
+Jphp:S121‹"0Add curly braces around the nested statement(s).(Äè§¶ùÿÿÿÿ
+E	php:S1172Ù"/Remove the unused function parameter "$blogid".(ãÂÔİ
+Ephp:S121«"0Add curly braces around the nested statement(s).(ê¦…á
+Jphp:S121“"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+F	php:S1172Ç"+Remove the unused function parameter "$id".(Ó®–¾øÿÿÿÿ
+Jphp:S121¦"0Add curly braces around the nested statement(s).(ø‰¿Øúÿÿÿÿ
+Jphp:S121Õ"0Add curly braces around the nested statement(s).(­ëüÿÿÿÿ
+J	php:S1172Ì"4Remove the unused function parameter "$category_id".(‰´§õ
+b	php:S1192‹"GDefine a constant instead of duplicating this literal "<br />" 9 times.(—‹›ßÿÿÿÿÿ
+Jphp:S121ñ"0Add curly braces around the nested statement(s).(¾÷µøÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(„²ª¬
+Jphp:S121ò"0Add curly braces around the nested statement(s).(ış×Ìÿÿÿÿÿ
+c	php:S1192ÿ"HDefine a constant instead of duplicating this literal "orderby" 6 times.(úø“Âıÿÿÿÿ
+Ephp:S121‚"0Add curly braces around the nested statement(s).(¶¢…Æ
+Jphp:S121¯"0Add curly braces around the nested statement(s).(«ÇûÇûÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+E	php:S1172¦"/Remove the unused function parameter "$height".(»Ã’ö
+Jphp:S121ş"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121‰"0Add curly braces around the nested statement(s).(ãÇµìüÿÿÿÿ
+Jphp:S121­"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+‹	php:S4144®"pUpdate this method so that its implementation is not identical to "_preview_theme_template_filter" on line 3488.(ÄÇÜ’ûÿÿÿÿ
+j	php:S1192ø"ODefine a constant instead of duplicating this literal "wp_list_sort()" 3 times.(ÌÿÀøÿÿÿÿ
+Jphp:S121Ö"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121”"0Add curly braces around the nested statement(s).(Œ­í
+^	php:S1192½"HDefine a constant instead of duplicating this literal "display" 7 times.(Ş®’Ä
+M	php:S1172•"2Remove the unused function parameter "$tab_index".(®û÷éüÿÿÿÿ
+\	php:S1192ø"FDefine a constant instead of duplicating this literal "2.9.0" 5 times.(×½‚Î
+Jphp:S121Ô"0Add curly braces around the nested statement(s).(İÊŠÔşÿÿÿÿ
+Ephp:S121–"0Add curly braces around the nested statement(s).(¦òåÚ
+Ephp:S121¨"0Add curly braces around the nested statement(s).(”®—Ë
+j	php:S1192¤"TDefine a constant instead of duplicating this literal "wp_list_bookmarks()" 3 times.(ñášÉ
+a	php:S1192•"FDefine a constant instead of duplicating this literal "title" 4 times.(®û÷éüÿÿÿÿ
+Jphp:S121´"0Add curly braces around the nested statement(s).(®Ñ˜÷ùÿÿÿÿ
+\	php:S1192¹
+"FDefine a constant instead of duplicating this literal "login" 3 times.(Å¨œè
+Jphp:S121ö"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121¤"0Add curly braces around the nested statement(s).(¡µØ…
+]	php:S1192"GDefine a constant instead of duplicating this literal "2.1.0" 24 times.(øˆµÀ
+y	php:S1488Ê"^Immediately return this expression instead of assigning it to the temporary variable "$users".(µË÷·şÿÿÿÿ
+Ephp:S121Ê"0Add curly braces around the nested statement(s).(—¥‚º
+\	php:S1192à"FDefine a constant instead of duplicating this literal "2.5.0" 8 times.(¯úÕ™
+Jphp:S121°"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121À"0Add curly braces around the nested statement(s).(Û¶î„ÿÿÿÿÿ
+Jphp:S121¨"0Add curly braces around the nested statement(s).(²ÂÛÇüÿÿÿÿ
+F	php:S1172»"0Remove the unused function parameter "$rawattr".(†ı¦ñ
+Ephp:S121Ì"0Add curly braces around the nested statement(s).(ÕÚ¡‰
+Ephp:S121Û"0Add curly braces around the nested statement(s).(á¯Ã§
+Jphp:S121Ş"0Add curly braces around the nested statement(s).(Ø¦î¬şÿÿÿÿ
+Jphp:S121õ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+j	php:S1142›"OReduce the number of returns of this function 4, down to the maximum allowed 3.(½êØêøÿÿÿÿ
+i	php:S1192®"NDefine a constant instead of duplicating this literal "|[^a-z0-9_]|i" 3 times.(‹±„Ñıÿÿÿÿ
+J	php:S1135“"4Complete the task associated to this "TODO" comment.(øŸŠé
+Jphp:S121ç"0Add curly braces around the nested statement(s).(‹ŒúÖÿÿÿÿÿ
+Ephp:S121’"0Add curly braces around the nested statement(s).(‰é©÷
+Ephp:S121³"0Add curly braces around the nested statement(s).(ÅÓ…
+r	php:S1488¬"]Immediately return this expression instead of assigning it to the temporary variable "$text".(ÜÊ®p
+B	php:S1172»",Remove the unused function parameter "$url".(†ı¦ñ
+Ephp:S121‹"0Add curly braces around the nested statement(s).(ÿ¦İš
+\php:S107¥"HThis function has 10 parameters, which is greater than the 7 authorized.(æ•›~
+Jphp:S121Ü"0Add curly braces around the nested statement(s).(üÒÁúÿÿÿÿÿ
+e	php:S1142£"OReduce the number of returns of this function 5, down to the maximum allowed 3.(œé¢²
+Jphp:S121»"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+?	php:S1125Ù")Remove the literal "false" boolean value.(‹ŸÂÊ
+Jphp:S121Á"0Add curly braces around the nested statement(s).(¹ë…Âşÿÿÿÿ
+Ephp:S121¤"0Add curly braces around the nested statement(s).(œÅîİ
+]	php:S1192È"GDefine a constant instead of duplicating this literal "method" 3 times.(•öÈõ
+j	php:S1142é"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¦äùçÿÿÿÿÿ
+Jphp:S121Í"0Add curly braces around the nested statement(s).(Çôúşÿÿÿÿ
+]	php:S1192Ò	"GDefine a constant instead of duplicating this literal "2.8.0" 37 times.(ô×…Ú
+K	php:S1172•"0Remove the unused function parameter "$prev_id".(®û÷éüÿÿÿÿ
+O	php:S1172ß"4Remove the unused function parameter "$category_id".(ı¾µùÿÿÿÿ
+Ephp:S121×"0Add curly braces around the nested statement(s).(äëÒ‚
+c	php:S1192Ô"HDefine a constant instead of duplicating this literal "default" 3 times.(€Ğ­ëÿÿÿÿÿ
+Jphp:S121ñ"0Add curly braces around the nested statement(s).(õÏı½øÿÿÿÿ
+Jphp:S121Ş"0Add curly braces around the nested statement(s).(Œ´ÿ øÿÿÿÿ
+Jphp:S121‘"0Add curly braces around the nested statement(s).(‚åÎäøÿÿÿÿ
+Q	php:S1172Â	";Remove the unused function parameter "$include_unapproved".(±‘Ó®
+Ephp:S121å	"0Add curly braces around the nested statement(s).(­ñ‘ã
+€	php:S4144Ç"eUpdate this method so that its implementation is not identical to "user_can_delete_post" on line 270.(§äî×üÿÿÿÿ
+Ephp:S121·"0Add curly braces around the nested statement(s).(ğêñÅ
+Jphp:S121ó"0Add curly braces around the nested statement(s).(‚æàüÿÿÿÿ
+Dphp:S121ü"0Add curly braces around the nested statement(s).(´ğğK
+Jphp:S121«"0Add curly braces around the nested statement(s).(Ì Å«úÿÿÿÿ
+Dphp:S121ÿ"0Add curly braces around the nested statement(s).( Øöh
+]php:S107œ"HThis function has 11 parameters, which is greater than the 7 authorized.(ÄÇÀÜ
+Ephp:S121¶"0Add curly braces around the nested statement(s).(á±Äµ
+Ephp:S121Ï"0Add curly braces around the nested statement(s).(¥ŞÏç
+Ephp:S121ª"0Add curly braces around the nested statement(s).(û†Ñ
+Ephp:S121„"0Add curly braces around the nested statement(s).(ºÌªË
+Ephp:S121±"0Add curly braces around the nested statement(s).(Ô°‹ª
+Jphp:S121î"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121¯"0Add curly braces around the nested statement(s).(²ÿ¿‹ùÿÿÿÿ
+]	php:S1192–"GDefine a constant instead of duplicating this literal "3.4.0" 14 times.(ç’¬ù
+a	php:S1192¢"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(Æ±Àœ
+b	php:S1192ù"GDefine a constant instead of duplicating this literal "Author" 3 times.(ÂÂæüÿÿÿÿ
+H	php:S1172Ú"-Remove the unused function parameter "$post".(Ê†ëÍúÿÿÿÿ
+Jphp:S121Ë"0Add curly braces around the nested statement(s).(ĞƒÕŠÿÿÿÿÿ
+J	php:S1172ë"/Remove the unused function parameter "$blogid".(›„Ñôùÿÿÿÿ
+a	php:S1192É"FDefine a constant instead of duplicating this literal "3.5.0" 7 times.(ÈÚæìÿÿÿÿÿ
+\	php:S1192Á"FDefine a constant instead of duplicating this literal "4.9.0" 3 times.(Òô’
+J	php:S1135—"4Complete the task associated to this "TODO" comment.(×À€¸
+Ephp:S121ô"0Add curly braces around the nested statement(s).(¦òåÚ
+Jphp:S121·"0Add curly braces around the nested statement(s).(ˆ¬•‚ıÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(Ë²ÕŠ
+Jphp:S121ë"0Add curly braces around the nested statement(s).(ä¿¬Øûÿÿÿÿ
+Ephp:S121Ù"0Add curly braces around the nested statement(s).(‹ŸÂÊ
+Jphp:S121±"0Add curly braces around the nested statement(s).(†Úøëüÿÿÿÿ
+{	php:S1488‰
+"`Immediately return this expression instead of assigning it to the temporary variable "$cat_ids".(Õ¿Ø›ÿÿÿÿÿ
+Ephp:S121–"0Add curly braces around the nested statement(s).(ôÉŒâ
+Dphp:S121Ñ"0Add curly braces around the nested statement(s).(èÏ®^
+Jphp:S121ì"0Add curly braces around the nested statement(s).(¯şŒ¥úÿÿÿÿ
+\	php:S1192€"FDefine a constant instead of duplicating this literal "4.5.0" 4 times.(‰õ¯¹
+Ephp:S121ˆ	"0Add curly braces around the nested statement(s).(¦òåÚ
+b	php:S1192ì"LDefine a constant instead of duplicating this literal "optiondates" 3 times.(æ»
+Jphp:S121»"0Add curly braces around the nested statement(s).(ÖÚ›Âüÿÿÿÿ
+Lphp:S131í"7Add a "case default" clause to this "switch" statement.(å ºó
+\	php:S1192‡
+"FDefine a constant instead of duplicating this literal "4.0.0" 3 times.(œ–±À
+H	php:S1172÷"2Remove the unused function parameter "$more_file".(œ›—ˆ
+Jphp:S121Î"0Add curly braces around the nested statement(s).(ÇœÚÈşÿÿÿÿ
+F	php:S1172Ì"0Remove the unused function parameter "$blog_id".(‰´§õ
+Ephp:S121¹"0Add curly braces around the nested statement(s).(ÀÙÇš
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "before" 4 times.(ÆÚêĞùÿÿÿÿ
+Ephp:S121¹"0Add curly braces around the nested statement(s).(ôÉŒâ
+Jphp:S121ó"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121å"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+e	php:S1142¼"OReduce the number of returns of this function 6, down to the maximum allowed 3.(À™ª

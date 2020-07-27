@@ -1,0 +1,16 @@
+
+^	php:S1192„"IDefine a constant instead of duplicating this literal "discover" 3 times.(åÀ©x
+c	php:S1117«"MRename "$providers" which has the same name as the field declared at line 27.(Ä„Ê°
+y	php:S11925"_Define a constant instead of duplicating this literal "https://www.youtube.com/oembed" 3 times.(Œºš«ûÿÿÿÿ
+aphp:S101"MRename class "WP_oEmbed" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(çµŠ
+a	php:S1192}"GDefine a constant instead of duplicating this literal "remove" 5 times.(Ç´Ûáúÿÿÿÿ
+€	php:S1192q"fDefine a constant instead of duplicating this literal "https://www.someecards.com/v2/oembed/" 3 times.(õæÈ¦ùÿÿÿÿ
+d	php:S1142ì"OReduce the number of returns of this function 6, down to the maximum allowed 3.(†ßé
+G	php:S1172Õ",Remove the unused function parameter "$url".( ¢ÌÂşÿÿÿÿ
+	php:S1192\"sDefine a constant instead of duplicating this literal "https://www.facebook.com/plugins/post/oembed.json/" 8 times.(šÓ¢øÿÿÿÿ
+{	php:S1192g"fDefine a constant instead of duplicating this literal "https://read.amazon.com/kp/api/oembed" 3 times.(òÇÀ
+w	php:S1192D"cDefine a constant instead of duplicating this literal "https://publish.twitter.com/oembed" 6 times.(½•»w
+j	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(·è‘á
+}	php:S1192A"cDefine a constant instead of duplicating this literal "https://api.crowdsignal.com/oembed" 3 times.(º¦Œúÿÿÿÿ
+H	php:S1172Õ"-Remove the unused function parameter "$data".( ¢ÌÂşÿÿÿÿ
+o	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ú—¸êùÿÿÿÿ

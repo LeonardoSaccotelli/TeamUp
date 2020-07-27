@@ -1,0 +1,14 @@
+
+_	php:S1192+"JDefine a constant instead of duplicating this literal "theme_mod" 7 times.(ø¸¸Ú
+j	php:S1192ú"TDefine a constant instead of duplicating this literal "previewed_instances" 7 times.(»—Ò×
+o	php:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÛàÈÔøÿÿÿÿ
+j	php:S1142Ö"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÛàÈÔøÿÿÿÿ
+d	php:S1192Õ"IDefine a constant instead of duplicating this literal "autoload" 5 times.(Ø››Ûûÿÿÿÿ
+a	php:S1192ü"KDefine a constant instead of duplicating this literal "root_value" 8 times.(şıóË
+Š	php:S1448"pClass "WP_Customize_Setting" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(Ñëÿüÿÿÿÿ
+b	php:S1192Ğ"GDefine a constant instead of duplicating this literal "option" 7 times.(Ö©Úóıÿÿÿÿ
+O	php:S3801Ö"4Refactor this function to use "return" consistently.(ÛàÈÔøÿÿÿÿ
+a	php:S1117Ü"KRename "$default" which has the same name as the field declared at line 67.(è¤„
+o	php:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(³”£üÿÿÿÿ
+qphp:S101"XRename class "WP_Customize_Setting" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ñëÿüÿÿÿÿ
+p	php:S1192û"ZDefine a constant instead of duplicating this literal "preview_applied_instances" 4 times.(¯Ÿß°

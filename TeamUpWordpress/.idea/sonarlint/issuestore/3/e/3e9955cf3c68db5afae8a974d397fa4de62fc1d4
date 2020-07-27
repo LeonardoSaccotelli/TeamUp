@@ -1,0 +1,8 @@
+
+b	php:S1192a"MDefine a constant instead of duplicating this literal "Post format" 10 times.(¹Ğ½ˆ
+c	php:S1192N"IDefine a constant instead of duplicating this literal "standard" 3 times.(³ä²Íşÿÿÿÿ
+o	php:S3776é"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(•ßØšıÿÿÿÿ
+d	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ö†ƒú
+b	php:S1192"MDefine a constant instead of duplicating this literal "post_format" 15 times.(ùëŒ
+u	php:S1488`"`Immediately return this expression instead of assigning it to the temporary variable "$strings".(šñÏ‰
+c	php:S1192$"NDefine a constant instead of duplicating this literal "post-format-" 11 times.(øĞô¼

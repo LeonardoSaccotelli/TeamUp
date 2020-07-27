@@ -1,0 +1,46 @@
+
+]	php:S1192ó"GDefine a constant instead of duplicating this literal "center" 3 times.(àğÌç
+]	php:S1192ƒ"GDefine a constant instead of duplicating this literal "title" 27 times.(À§ÌŸ
+n	php:S1192«"XDefine a constant instead of duplicating this literal "_um_can_delete_everyone" 5 times.(ù¾ÑÊ
+\	php:S1192„"FDefine a constant instead of duplicating this literal "Login" 4 times.(œœÚ™
+d	php:S1192¯"NDefine a constant instead of duplicating this literal "redirect_home" 5 times.(íùˆß
+g	php:S1192¯"QDefine a constant instead of duplicating this literal "_um_after_logout" 5 times.(íùˆß
+g	php:S1192±"QDefine a constant instead of duplicating this literal "_um_can_view_all" 5 times.(“òıÚ
+a	php:S1192´"KDefine a constant instead of duplicating this literal "_um_status" 5 times.(Ûò–
+i	php:S1192Ş"NDefine a constant instead of duplicating this literal "Thanks,<br />" 9 times.(ÜÀÊ¶üÿÿÿÿ
+b	php:S1192h"HDefine a constant instead of duplicating this literal "members" 7 times.(Ó¬ ¾üÿÿÿÿ
+o	php:S1192©"YDefine a constant instead of duplicating this literal "_um_can_not_see_adminbar" 5 times.(áî¡
+h	php:S1192ß"MDefine a constant instead of duplicating this literal "{site_name}" 10 times.(¦È–«üÿÿÿÿ
+`	php:S1192c"FDefine a constant instead of duplicating this literal "login" 7 times.(—×ù†ÿÿÿÿÿ
+php:S138`"{This function "__construct" has 490 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¨ÿ—¦
+\	php:S1192ô"FDefine a constant instead of duplicating this literal "label" 3 times.(²Ğ
+f	php:S1192®"PDefine a constant instead of duplicating this literal "_um_after_login" 5 times.(ˆ€ã°
+d	php:S1192"IDefine a constant instead of duplicating this literal "_um_core" 4 times.(ğşˆşúÿÿÿÿ
+r	php:S1192­"WDefine a constant instead of duplicating this literal "_um_can_delete_profile" 5 times.(æÎ½“ıÿÿÿÿ
+g	php:S1192®"QDefine a constant instead of duplicating this literal "redirect_profile" 9 times.(ˆ€ã°
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+d	php:S1192…"IDefine a constant instead of duplicating this literal "Register" 4 times.(Ìßñûÿÿÿÿ
+b	php:S1192³"LDefine a constant instead of duplicating this literal "admin_email" 3 times.(…±‡
+b	php:S1192d"HDefine a constant instead of duplicating this literal "profile" 5 times.(“Ó®Õûÿÿÿÿ
+k	php:S1192ª"VDefine a constant instead of duplicating this literal "_um_can_edit_everyone" 5 times.(àâ­^
+_	php:S1192Ö"IDefine a constant instead of duplicating this literal "subject" 14 times.(³ôïÖ
+u	php:S1192×"_Define a constant instead of duplicating this literal "Hi {display_name},<br /><br />" 9 times.(¶ûæÈ
+d	php:S1192"IDefine a constant instead of duplicating this literal "_um_mode" 4 times.(¤­Æşÿÿÿÿ
+m	php:S1192"RDefine a constant instead of duplicating this literal "_um_custom_fields" 3 times.(ÕşìÓøÿÿÿÿ
+`	php:S1192á"KDefine a constant instead of duplicating this literal "recipient" 13 times.(Åİ³Z
+s	php:S1192²"]Define a constant instead of duplicating this literal "_um_can_make_private_profile" 5 times.(šÇË’
+h	php:S1192Í"MDefine a constant instead of duplicating this literal "profile_tab_" 3 times.(Êøı¼ÿÿÿÿÿ
+J	php:S1135‘"4Complete the task associated to this "TODO" comment.(ºúî
+c	php:S1192b"IDefine a constant instead of duplicating this literal "register" 7 times.(ÌŒªÛşÿÿÿÿ
+\	php:S1192æ"FDefine a constant instead of duplicating this literal "admin" 4 times.(ÓÈ¸Ø
+g	php:S1192ƒ"QDefine a constant instead of duplicating this literal "ultimate-member" 52 times.(À§ÌŸ
+c	php:S1192à"MDefine a constant instead of duplicating this literal "description" 13 times.(ƒ³¯Ñ
+j	php:S1192â"ODefine a constant instead of duplicating this literal "default_active" 8 times.(ô‰êÂøÿÿÿÿ
+m	php:S1192¨"WDefine a constant instead of duplicating this literal "_um_can_access_wpadmin" 5 times.(­ƒÇô
+ 	php:S1192İ"‰Define a constant instead of duplicating this literal "If you have any problems, please contact us at {admin_email}<br /><br />" 4 times.(ìââ
+p	php:S1192¬"UDefine a constant instead of duplicating this literal "_um_can_edit_profile" 5 times.(¼Ó‘¼ûÿÿÿÿ
+p	php:S1192°"UDefine a constant instead of duplicating this literal "_um_default_homepage" 5 times.(„Óä³ùÿÿÿÿ
+d	php:S1117‚"NRename "$core_pages" which has the same name as the field declared at line 36.(­Ëú¦
+p	php:S1192µ"UDefine a constant instead of duplicating this literal "_um_auto_approve_act" 5 times.(‡À±¶úÿÿÿÿ
+z	php:S1192³"_Define a constant instead of duplicating this literal "_um_can_access_private_profile" 5 times.(ÈùÏ“ûÿÿÿÿ
+_	php:S1192´"IDefine a constant instead of duplicating this literal "approved" 5 times.(Ûò–

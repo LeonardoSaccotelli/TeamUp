@@ -1,0 +1,25 @@
+
+sphp:S101"ZRename class "WP_Bootstrap_Navwalker" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‚¾ëÉÿÿÿÿÿ
+DWeb:BoldAndItalicTagsCheckÜ"Replace this <i> tag by <em>.(”»« 
+o	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿª¾…ıÿÿÿÿ
+E	php:S1109¬"/Move this closing curly brace to the next line.(ıÂıŠ
+o	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(©ûªØÿÿÿÿÿ
+g	php:S1192¨"QDefine a constant instead of duplicating this literal "dropdown-divider" 5 times.(¼Ü »
+E	php:S1109¨"/Move this closing curly brace to the next line.(ããÌÚ
+s%Web:ItemTagNotWithinContainerTagCheck’"<Surround this <li> item tag by a <ul> or <ol> container one.(©ùÓôÿÿÿÿÿ
+E	php:S1109Õ"/Move this closing curly brace to the next line.(Ùè£º
+i	php:S3776R"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(æˆ§
+b	php:S1871"MThis branch's code block is the same as the block for the branch on line 381.(€Îâo
+\	php:S1192˜"FDefine a constant instead of duplicating this literal " id="" 3 times.(çé¡È
+J	php:S1109Ó"/Move this closing curly brace to the next line.(ã«ë˜øÿÿÿÿ
+<	php:S1481U"'Remove this unused "$n" local variable.(ù¿ø
+h	php:S1871Š"MThis branch's code block is the same as the block for the branch on line 390.(âËöØûÿÿÿÿ
+U	php:S1226—"@Introduce a new variable instead of reusing the parameter "$id".(Õ©¦H
+IWeb:BoldAndItalicTagsCheck×"Replace this <i> tag by <em>.(’¤ŒÕÿÿÿÿÿ
+n	php:S1192ª"SDefine a constant instead of duplicating this literal "dropdown-item-text" 5 times.(‡ñù¸ÿÿÿÿÿ
+]	php:S11921"IDefine a constant instead of duplicating this literal " class="" 4 times.(áÊ„F
+f	php:S1192¦"PDefine a constant instead of duplicating this literal "dropdown-header" 5 times.(§Óö
+^	php:S1192ò"HDefine a constant instead of duplicating this literal "sr-only" 3 times.(··¯ç
+b	php:S1192Ÿ"GDefine a constant instead of duplicating this literal "target" 3 times.(æ­˜Ôøÿÿÿÿ
+s%Web:ItemTagNotWithinContainerTagCheckš"<Surround this <li> item tag by a <ul> or <ol> container one.(îäşéøÿÿÿÿ
+a	php:S1192¦"FDefine a constant instead of duplicating this literal "class" 4 times.(´¼ïıÿÿÿÿ

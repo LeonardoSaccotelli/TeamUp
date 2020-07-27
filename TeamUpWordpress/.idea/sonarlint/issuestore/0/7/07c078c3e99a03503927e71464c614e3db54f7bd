@@ -1,0 +1,10 @@
+
+\	php:S1192r"GDefine a constant instead of duplicating this literal "number" 3 times.(‚É
+]	php:S1192W"HDefine a constant instead of duplicating this literal "columns" 3 times.(Ø«©Š
+c	php:S1192‚"HDefine a constant instead of duplicating this literal "boolean" 3 times.(¦Õ¬üşÿÿÿÿ
+a	php:S1192k"GDefine a constant instead of duplicating this literal "string" 4 times.(Şåáßúÿÿÿÿ
+_	php:S1192["JDefine a constant instead of duplicating this literal "className" 3 times.(Ç…Ù²
+]	php:S1192s"HDefine a constant instead of duplicating this literal "default" 8 times.(ûÎóğ
+a	php:S1192S"LDefine a constant instead of duplicating this literal "blockLayout" 4 times.(ÀÆ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ğñúşÿÿÿÿ
+[	php:S1192O"FDefine a constant instead of duplicating this literal "align" 3 times.(Î¥¸©

@@ -1,0 +1,12 @@
+
+d	php:S1117ç"IRename "$value" which has the same name as the field declared at line 28.(ôóÕ…ùÿÿÿÿ
+\	php:S1192Š"GDefine a constant instead of duplicating this literal "domain" 5 times.(ƒÄïk
+lphp:S101"SRename class "Requests_Cookie" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÂÛÕæøÿÿÿÿ
+]	php:S1192d"HDefine a constant instead of duplicating this literal "max-age" 3 times.(õóéÈ
+d	php:S1192K"JDefine a constant instead of duplicating this literal "host-only" 4 times.(ŞÙå²üÿÿÿÿ
+j	php:S1142º"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ö˜õùÿÿÿÿ
+j	php:S1142‰"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ÿ‚åÿÿÿÿÿ
+e	php:S1142ş"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ÑıØ
+i	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼åâ5
+j	php:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÑıØ
+]	php:S1192i"HDefine a constant instead of duplicating this literal "expires" 3 times.(ªÉŒ€

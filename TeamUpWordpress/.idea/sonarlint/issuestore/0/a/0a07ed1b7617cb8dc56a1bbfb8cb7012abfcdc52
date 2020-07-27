@@ -1,0 +1,4 @@
+
+d	php:S1192*"JDefine a constant instead of duplicating this literal "elementor" 5 times.(‘ßâŠøÿÿÿÿ
+b	php:S1192"HDefine a constant instead of duplicating this literal "sidebar" 4 times.(ƒèžãüÿÿÿÿ
+kphp:S101"RRename class "Widget_Sidebar" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‰é‡ªøÿÿÿÿ

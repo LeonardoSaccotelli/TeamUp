@@ -1,0 +1,13 @@
+
+nphp:S101"URename class "Reviews_Shortcode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ˆûğÔûÿÿÿÿ
+`	php:S11925"KDefine a constant instead of duplicating this literal "list_class" 3 times.(òè—º
+b	php:S1192'"HDefine a constant instead of duplicating this literal "orderby" 3 times.(¸ˆå²øÿÿÿÿ
+g	php:S11928"SDefine a constant instead of duplicating this literal "reviews-widget.php" 3 times.(ò²Ò:
+d	php:S1192&"ODefine a constant instead of duplicating this literal "_reviews_total" 4 times.(µ–ş°
+Z	php:S11926"FDefine a constant instead of duplicating this literal "users" 3 times.(€ˆá
+`	php:S1192:"KDefine a constant instead of duplicating this literal "um_reviews" 6 times.(ÏÒ©Ü
+^	php:S1192,"IDefine a constant instead of duplicating this literal "role__in" 3 times.(‚õÌÃ
+\	php:S1192"GDefine a constant instead of duplicating this literal "roles" 12 times.(×áß
+\	php:S1192"GDefine a constant instead of duplicating this literal "number" 9 times.(ÄÇ¦
+g	php:S1192T"MDefine a constant instead of duplicating this literal "_reviews_avg" 4 times.(‰Ë×Ñùÿÿÿÿ
+a	php:S1192$"GDefine a constant instead of duplicating this literal "fields" 3 times.(ü¬Åøÿÿÿÿ

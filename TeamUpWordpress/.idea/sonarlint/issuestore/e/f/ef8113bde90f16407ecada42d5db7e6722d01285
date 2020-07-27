@@ -1,0 +1,76 @@
+
+4php:S125"Remove this commented out code.(›òµ²
+e	php:S1142Ë	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ˆ©şà
+E	php:S1066Õ"/Merge this if statement with the enclosing one.(Óè×Í
+Ã	php:S1192†"¬Define a constant instead of duplicating this literal "This is not implemented, as it is not possible to implement Argon2i with acceptable performance in pure-PHP" 3 times.(ÊØ©ú
+	php:S1192×"uDefine a constant instead of duplicating this literal "Argument 2 must be CRYPTO_SECRETBOX_NONCEBYTES long." 6 times.(×µÎøÿÿÿÿ
+j	php:S1142Ä"OReduce the number of returns of this function 4, down to the maximum allowed 3.(²ØÅÒÿÿÿÿÿ
+e	php:S1142¤	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(â“ûª
+9php:S125à"Remove this commented out code.(±Ûš­ûÿÿÿÿ
+j	php:S1142ÿ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ïàöıÿÿÿÿ
+9php:S125 "Remove this commented out code.(¯ Üıÿÿÿÿ
+tphp:S101"[Rename class "ParagonIE_Sodium_Compat" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¢»ã’øÿÿÿÿ
+d	php:S1142ç"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Á€œ;
+a	php:S1192¼"LDefine a constant instead of duplicating this literal "aes-256-gcm" 3 times.(Ì¦@
+’	php:S1192ê"wDefine a constant instead of duplicating this literal "Key must be CRYPTO_AEAD_CHACHA20POLY1305_KEYBYTES long" 4 times.(»çïûÿÿÿÿ
+9php:S125—"Remove this commented out code.(ñïİ‘úÿÿÿÿ
+	php:S1192Ç"sDefine a constant instead of duplicating this literal "Argument 2 must be CRYPTO_BOX_PUBLICKEYBYTES long." 4 times.(–…Û»øÿÿÿÿ
+j	php:S1142º"OReduce the number of returns of this function 4, down to the maximum allowed 3.(­¡Öãøÿÿÿÿ
+j	php:S1142Ö"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ûÅÛ¾øÿÿÿÿ
+E	php:S1066"/Merge this if statement with the enclosing one.(ŞŒÀÄ
+J	php:S1066û"/Merge this if statement with the enclosing one.(Ğ¢Ö¼ıÿÿÿÿ
+e	php:S1142ü"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹ü“÷
+j	php:S1142´
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ƒÊİşüÿÿÿÿ
+j	php:S1142İ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(œÆ³©ıÿÿÿÿ
+j	php:S1142Ô
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ï¼èàùÿÿÿÿ
+e	php:S1142Ÿ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(å¦¡¡
+j	php:S1142¢"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‚º“‡şÿÿÿÿ
+d	php:S1142©"OReduce the number of returns of this function 4, down to the maximum allowed 3.(æòX
+j	php:S1142¬"OReduce the number of returns of this function 5, down to the maximum allowed 3.(÷ù´üÿÿÿÿ
+9php:S125Š"Remove this commented out code.(®—©ıÿÿÿÿ
+e	php:S1142Î"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¯¯üú
+9php:S125"Remove this commented out code.(Êûºÿúÿÿÿÿ
+d	php:S1142ó"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Œ¼¬\
+3php:S125Ø"Remove this commented out code.(üŸˆ
+J	php:S1066‚"/Merge this if statement with the enclosing one.(¿”šŠûÿÿÿÿ
+j	php:S1142¬"OReduce the number of returns of this function 4, down to the maximum allowed 3.(óÂÈ©ùÿÿÿÿ
+j	php:S1142Ñ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‡ùø´ıÿÿÿÿ
+Â	php:S1192–"«Define a constant instead of duplicating this literal "This is not implemented, as it is not possible to implement Scrypt with acceptable performance in pure-PHP" 3 times.(’¾®õ
+e	php:S1142®"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ôÎ‰¿
+4php:S125š"Remove this commented out code.(êôÍÄ
+J	php:S1066¾"/Merge this if statement with the enclosing one.(É‘ÿÜÿÿÿÿÿ
+4php:S125‹"Remove this commented out code.(²²±±
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Æª‡€ûÿÿÿÿ
+0	php:S3626"Remove this redundant jump.(ûÁİ…
+j	php:S1142Ğ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(şıÕùÿÿÿÿ
+e	php:S1142ò
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ö’Ë·
+j	php:S1142Ù"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Í¶®çûÿÿÿÿ
+e	php:S1142¿"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹Èë¯
+ˆ	php:S1192Ú"sDefine a constant instead of duplicating this literal "Argument 3 must be CRYPTO_SECRETBOX_KEYBYTES long." 5 times.(ëò¤
+j	php:S1142“"OReduce the number of returns of this function 4, down to the maximum allowed 3.(œ•öíùÿÿÿÿ
+e	php:S1142ˆ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(“É¼ï
+9php:S125Ú"Remove this commented out code.(”–‰ıÿÿÿÿ
+e	php:S1142å"OReduce the number of returns of this function 4, down to the maximum allowed 3.(·é‹Ä
+d	php:S1142Ù"OReduce the number of returns of this function 5, down to the maximum allowed 3.(°İ•K
+J	php:S1066µ"/Merge this if statement with the enclosing one.(âø´Òüÿÿÿÿ
+j	php:S1142Ë"OReduce the number of returns of this function 4, down to the maximum allowed 3.(´§µÿÿÿÿÿ
+e	php:S1142¨"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹Õİ
+9php:S125"Remove this commented out code.(›¶Î¢ıÿÿÿÿ
+®	php:S1192‚"’Define a constant instead of duplicating this literal "Unsupported key size. Must be at most CRYPTO_GENERICHASH_KEYBYTES_MAX bytes long." 3 times.(áÃäÀÿÿÿÿÿ
+j	php:S1142Á"OReduce the number of returns of this function 4, down to the maximum allowed 3.(™´çúÿÿÿÿ
+j	php:S1142•
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ôîùÿÿÿÿ
+^	php:S1192±"IDefine a constant instead of duplicating this literal "string" 135 times.(¬Îä0
+e	php:S1142•"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¡”ıœ
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(—ïæ÷ùÿÿÿÿ
+J	php:S1066õ"/Merge this if statement with the enclosing one.(Ú¹Óİıÿÿÿÿ
+e	php:S1142Ë"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Û‡È 
+	php:S1192¬	"sDefine a constant instead of duplicating this literal "Argument 1 must be CRYPTO_BOX_SECRETKEYBYTES long." 5 times.(Ğ•á£ùÿÿÿÿ
+	php:S1448"tClass "ParagonIE_Sodium_Compat" has 101 methods, which is greater than 20 authorized. Split it into smaller classes.(¢»ã’øÿÿÿÿ
+d	php:S1142‹	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ªÈ·#
+j	php:S1142¾"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¶øÙ½ÿÿÿÿÿ
+e	php:S1142ö	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ê¹ò™
+j	php:S1142ö"OReduce the number of returns of this function 4, down to the maximum allowed 3.(†®ÿÿÿÿÿ

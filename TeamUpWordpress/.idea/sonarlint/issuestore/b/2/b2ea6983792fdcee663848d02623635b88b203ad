@@ -1,0 +1,15 @@
+
+b	php:S1192Œ"GDefine a constant instead of duplicating this literal "status" 3 times.(¡ŸÄúÿÿÿÿ
+q	php:S1192€"[Define a constant instead of duplicating this literal "You must provide a user ID" 3 times.(Ùä‡
+`	php:S1192*"FDefine a constant instead of duplicating this literal "token" 3 times.(‡…âüÿÿÿÿ
+e	php:S1192È"ODefine a constant instead of duplicating this literal "account_status" 3 times.(ô¾ ö
+g	php:S1192€"QDefine a constant instead of duplicating this literal "ultimate-member" 10 times.(Ùä‡
+g	php:S1192Ì"LDefine a constant instead of duplicating this literal "cover_photo" 5 times.(áÿÅÄûÿÿÿÿ
+o	php:S3776â"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ßş‚ şÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "success" 4 times.(í–äÿÿÿÿÿ
+^php:S101"JRename class "API_v1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(á•ˆ
+\	php:S1192+"GDefine a constant instead of duplicating this literal "format" 3 times.(óÅ»µ
+\	php:S1192€"FDefine a constant instead of duplicating this literal "error" 6 times.(Ùä‡
+d	php:S1192É"IDefine a constant instead of duplicating this literal "original" 3 times.(£ØŞøÿÿÿÿ
+`	php:S11923"FDefine a constant instead of duplicating this literal "email" 3 times.(ùøìùıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ

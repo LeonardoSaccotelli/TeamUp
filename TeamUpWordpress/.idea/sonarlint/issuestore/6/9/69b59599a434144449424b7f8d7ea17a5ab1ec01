@@ -1,0 +1,36 @@
+
+uphp:S101"\Rename class "WP_REST_Terms_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯£Œµÿÿÿÿÿ
+n	php:S1192S"TDefine a constant instead of duplicating this literal "permission_callback" 5 times.(Õïäìıÿÿÿÿ
+o	php:S3776«"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(‰î×Ïûÿÿÿÿ
+e	php:S1142«"OReduce the number of returns of this function 6, down to the maximum allowed 3.(÷‹Éá
+a	php:S1192¹"FDefine a constant instead of duplicating this literal "order" 3 times.(»ñ­Èùÿÿÿÿ
+a	php:S1192Ÿ"FDefine a constant instead of duplicating this literal "embed" 5 times.(÷ñÏ¢ıÿÿÿÿ
+c	php:S1192à"HDefine a constant instead of duplicating this literal "parent" 18 times.(ßå¢şÿÿÿÿ
+e	php:S1142¯"OReduce the number of returns of this function 7, down to the maximum allowed 3.(¼òôò
+c	php:S1192º"HDefine a constant instead of duplicating this literal "orderby" 8 times.(‘ºçäúÿÿÿÿ
+[	php:S1192}"FDefine a constant instead of duplicating this literal "force" 3 times.(ÛÈˆŞ
+d	php:S1192Â"IDefine a constant instead of duplicating this literal "taxonomy" 7 times.(ó‘¨ûÿÿÿÿ
+b	php:S1192Ø"GDefine a constant instead of duplicating this literal "offset" 8 times.(óÂ«Œûÿÿÿÿ
+b	php:S1192o"HDefine a constant instead of duplicating this literal "default" 9 times.(²ÒÄüÿÿÿÿ
+]	php:S1192Q"HDefine a constant instead of duplicating this literal "methods" 5 times.(ŸÊşµ
+\	php:S1192ï"FDefine a constant instead of duplicating this literal "array" 3 times.(÷Áİş
+b	php:S1192ª"GDefine a constant instead of duplicating this literal "string" 8 times.(Şåáßúÿÿÿÿ
+b	php:S1117Ï"LRename "$taxonomy" which has the same name as the field declared at line 25.(‘—À÷
+^	php:S1192œ"HDefine a constant instead of duplicating this literal "status" 13 times.(ååÄ
+\	php:S1192g"HDefine a constant instead of duplicating this literal "integer" 9 times.(Ò†Ö1
+\	php:S1192–"FDefine a constant instead of duplicating this literal "count" 4 times.(åš·
+c	php:S1192¸"HDefine a constant instead of duplicating this literal "include" 4 times.(£“ƒÓúÿÿÿÿ
+m	php:S1192Ã"RDefine a constant instead of duplicating this literal "rest_term_invalid" 3 times.(î€Ã½øÿÿÿÿ
+d	php:S1142Á"OReduce the number of returns of this function 4, down to the maximum allowed 3.(—“
+_	php:S1192 "IDefine a constant instead of duplicating this literal "readonly" 4 times.(åúÆÖ
+c	php:S1192o"IDefine a constant instead of duplicating this literal "context" 17 times.(²ÒÄüÿÿÿÿ
+a	php:S1192ğ"FDefine a constant instead of duplicating this literal "items" 3 times.(ì¿©¸ûÿÿÿÿ
+]	php:S1192½"GDefine a constant instead of duplicating this literal "number" 4 times.(Ö˜œø
+c	php:S1192·"HDefine a constant instead of duplicating this literal "exclude" 3 times.(È×É¼ıÿÿÿÿ
+e	php:S1117Š"ORename "$total_terms" which has the same name as the field declared at line 49.(È«•
+b	php:S1117é"LRename "$taxonomy" which has the same name as the field declared at line 25.(‘—À÷
+e	php:S1142”"OReduce the number of returns of this function 4, down to the maximum allowed 3.(®Š»Ü
+b	php:S1192f"MDefine a constant instead of duplicating this literal "description" 26 times.(Ğ·¯
+b	php:S1192ç"LDefine a constant instead of duplicating this literal "properties" 10 times.(ú’ôÊ
+a	php:S1192¼"KDefine a constant instead of duplicating this literal "hide_empty" 3 times.(•ÆÛ
+c	php:S1192R"IDefine a constant instead of duplicating this literal "callback" 5 times.(Çƒöûıÿÿÿÿ

@@ -1,0 +1,84 @@
+
+_	php:S1871»"IThis case's code block is the same as the block for the case on line 693.(ö…¹ô
+j	php:S1142´"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¤Ûç›ùÿÿÿÿ
+~	php:S1192½	"cDefine a constant instead of duplicating this literal "signature_verification_unsupported" 3 times.(‘ééÚùÿÿÿÿ
+]	php:S1192É	"GDefine a constant instead of duplicating this literal "sodium" 5 times.(³³
+j	php:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÔáØà
+b	php:S1192ï"GDefine a constant instead of duplicating this literal "direct" 4 times.(Ì¦‡øøÿÿÿÿ
+k	php:S1192¦"UDefine a constant instead of duplicating this literal "incompatible_archive" 3 times.(æ«Ï
+Qphp:S131³"7Add a "case default" clause to this "switch" statement.(ˆ²ğìúÿÿÿÿ
+i	php:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ù¾·
+Y	php:S3358ü	"DExtract this nested ternary operation into an independent statement.(÷¹
+Z	php:S3358õ"DExtract this nested ternary operation into an independent statement.(¯€‹
+O	php:S1135Ú
+"4Complete the task associated to this "TODO" comment.(Ç‹Éûÿÿÿÿ
+c	php:S1192Á	"HDefine a constant instead of duplicating this literal "</span>" 5 times.(¿²¾×üÿÿÿÿ
+e	php:S1142µ	"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‘••¶
+y	php:S1192"cDefine a constant instead of duplicating this literal "Sorry, that file cannot be edited." 4 times.(¬§˜á
+_	php:S1192â"IDefine a constant instead of duplicating this literal "username" 9 times.(ß¿’»
+E	php:S1109†"/Move this closing curly brace to the next line.(”ÃÕ«
+g	php:S1192¦"QDefine a constant instead of duplicating this literal "wp_handle_upload" 5 times.(öû’
+Ÿphp:S138ë"‰This function "wp_edit_theme_plugin_file" has 204 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(µÒÑ×
+Z	php:S3358÷"DExtract this nested ternary operation into an independent statement.(´ê™¤
+d	php:S1192í"IDefine a constant instead of duplicating this literal "password" 6 times.(çÔ¦ûÿÿÿÿ
+e	php:S1192‡"JDefine a constant instead of duplicating this literal "filename" 10 times.(õ‡ê³ıÿÿÿÿ
+j	php:S1142ø
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÿêğ×ıÿÿÿÿ
+j	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 78 to the 15 allowed.(µÒÑ×
+e	php:S1142³"OReduce the number of returns of this function 4, down to the maximum allowed 3.(çıó
+9php:S125¸"Remove this commented out code.(¹¸úÄÿÿÿÿÿ
+f	php:S1142ë"PReduce the number of returns of this function 22, down to the maximum allowed 3.(µÒÑ×
+c	php:S1192°"HDefine a constant instead of duplicating this literal "message" 4 times.(ë£¨Âûÿÿÿÿ
+j	php:S1142õ"OReduce the number of returns of this function 7, down to the maximum allowed 3.(—ê­•üÿÿÿÿ
+_	php:S1192¦"IDefine a constant instead of duplicating this literal "tmp_name" 7 times.(öû’
+h	php:S1301³"MReplace this "switch" statement with "if" statements to increase readability.(ˆ²ğìúÿÿÿÿ
+9php:S125”"Remove this commented out code.(®Â¸ùÿÿÿÿ
+b	php:S1192»	"GDefine a constant instead of duplicating this literal "sha384" 3 times.(¾Ó‚Ìüÿÿÿÿ
+]	php:S1192"GDefine a constant instead of duplicating this literal "action" 6 times.(å¹ÑÇ
+j	php:S3776³"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(çıó
+j	php:S3776µ	"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(‘••¶
+_	php:S3358û"DExtract this nested ternary operation into an independent statement.(ñ‹ÿÀùÿÿÿÿ
+c	php:S1192ù"HDefine a constant instead of duplicating this literal "basedir" 3 times.(íâ¡¯şÿÿÿÿ
+~	php:S1192»	"cDefine a constant instead of duplicating this literal "sodium_crypto_sign_verify_detached" 3 times.(¾Ó‚Ìüÿÿÿÿ
+o	php:S1192Á	"TDefine a constant instead of duplicating this literal "<span class="code">" 5 times.(¿²¾×üÿÿÿÿ
+a	php:S1192ù"FDefine a constant instead of duplicating this literal "nonce" 3 times.(Ğ±ğ‘ûÿÿÿÿ
+Y	php:S3358Æ
+"DExtract this nested ternary operation into an independent statement.(÷¹
+a	php:S1192î"KDefine a constant instead of duplicating this literal "public_key" 8 times.(¿ö§É
+o	php:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(´î§ıÿÿÿÿ
+Â	php:S1192À	"¦Define a constant instead of duplicating this literal "The authenticity of %s could not be verified as signature verification is unavailable on this system." 3 times.(ÅŞ–úÿÿÿÿ
+J	php:S1066Ê"/Merge this if statement with the enclosing one.(ú®üÌùÿÿÿÿ
+g	php:S1192€"QDefine a constant instead of duplicating this literal "connection_type" 13 times.(Å–òî
+o	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(¤Ûç›ùÿÿÿÿ
+O	php:S3801ò"4Refactor this function to use "return" consistently.(ş¤†Íÿÿÿÿÿ
+Y	php:S3358Ú	"DExtract this nested ternary operation into an independent statement.(÷¹
+d	php:S11925"JDefine a constant instead of duplicating this literal "style.css" 3 times.(ØòâËùÿÿÿÿ
+b	php:S1192ï"LDefine a constant instead of duplicating this literal "private_key" 8 times.(İª
+Z	php:S3358ö"DExtract this nested ternary operation into an independent statement.(òÜ–¯
+a	php:S1940­"FUse the opposite operator '<=' instead and remove complement operator.(ÊŞ±¿ıÿÿÿÿ
+C	php:S1172Ò"-Remove the unused function parameter "$file".(î—‚À
+q	php:S1192‹"\Define a constant instead of duplicating this literal "Could not create directory." 3 times.(Ãİñk
+_	php:S1192÷"IDefine a constant instead of duplicating this literal "FTP_PASS" 4 times.(´ê™¤
+l	php:S1192Ú	"WDefine a constant instead of duplicating this literal "SODIUM_LIBRARY_VERSION" 3 times.(÷¹
+<	php:S1110Ü"!Remove these useless parentheses.(‰’½¾øÿÿÿÿ
+j	php:S1142ò"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ş¤†Íÿÿÿÿÿ
+^	php:S1192ª"HDefine a constant instead of duplicating this literal "timeout" 3 times.(®Ç«ı
+a	php:S1192"FDefine a constant instead of duplicating this literal "theme" 3 times.(ÿ¼±«úÿÿÿÿ
+e	php:S1192é"JDefine a constant instead of duplicating this literal "_fs_nonce" 3 times.(Éõáşÿÿÿÿ
+`	php:S1192Ó"JDefine a constant instead of duplicating this literal "__MACOSX/" 4 times.(€àÁã
+‡	php:S1488æ"lImmediately return this expression instead of assigning it to the temporary variable "$editable_extensions".(ûí³ şÿÿÿÿ
+Z	php:S3358ú"DExtract this nested ternary operation into an independent statement.(Æè§ª
+e	php:S1142Ï"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ÔáØà
+©php:S138´"This function "request_filesystem_credentials" has 164 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¤Ûç›ùÿÿÿÿ
+o	php:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(—ê­•üÿÿÿÿ
+d	php:S1142Ä"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Ù¾·
+e	php:S1192á"JDefine a constant instead of duplicating this literal "hostname" 15 times.(ı•ìúÿÿÿÿ
+o	php:S3776ø
+"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÿêğ×ıÿÿÿÿ
+k	php:S1192©"UDefine a constant instead of duplicating this literal "Could not copy file." 3 times.(Ô™Ÿä
+b	php:S1192Ó"GDefine a constant instead of duplicating this literal "error" 10 times.(öˆª«øÿÿÿÿ
+o	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÛòÃÿÿÿÿÿ
+]	php:S1192€"GDefine a constant instead of duplicating this literal "plugin" 3 times.(ƒê÷®
+j	php:S1142Á"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ÛòÃÿÿÿÿÿ
+}	php:S1192Ú	"hDefine a constant instead of duplicating this literal "ParagonIE_Sodium_Compat::VERSION_STRING" 3 times.(÷¹
+o	php:S3776„"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¥¹ÛÔøÿÿÿÿ

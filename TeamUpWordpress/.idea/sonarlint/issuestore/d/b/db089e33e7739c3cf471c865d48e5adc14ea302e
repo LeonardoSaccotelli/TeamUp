@@ -1,0 +1,4 @@
+
+vphp:S101"bRename class "WP_Customize_Date_Time_Control" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îöíŒ
+„	php:S1488“"iImmediately return this expression instead of assigning it to the temporary variable "$formatted_offset".(Ó¢Üùÿÿÿÿ
+b	php:S1192°"LDefine a constant instead of duplicating this literal "description" 4 times.(¿ıœ‹

@@ -1,0 +1,4 @@
+
+lphp:S101"XRename class "WP_Customize_Section" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äŒ«¡
+u	php:S1488Ò"_Immediately return this expression instead of assigning it to the temporary variable "$active".(¼ŠŠ¦
+n%Web:ItemTagNotWithinContainerTagCheckä"<Surround this <li> item tag by a <ul> or <ol> container one.(Ó˜Ø¤

@@ -1,0 +1,25 @@
+
+hphp:S101"TRename class "Widget_Image_Box" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(íŒ€É
+]	php:S1192£"HDefine a constant instead of duplicating this literal "options" 4 times.(ò–»6
+[	php:S1192›"FDefine a constant instead of duplicating this literal "class" 3 times.(êïğr
+HWeb:ImgWithoutAltCheckà"%Add an "alt" attribute to this image.(ëäÅ‘
+\	php:S1192W"GDefine a constant instead of duplicating this literal "label" 25 times.(“Ã®Î
+b	php:S1192™"GDefine a constant instead of duplicating this literal "before" 3 times.(¾†üÿÿÿÿÿ
+	php:S1192¤"iDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-image-box-img img" 3 times.(•ÜĞÓ
+e	php:S1192s"KDefine a constant instead of duplicating this literal "title_text" 7 times.(‰šüÿÿÿÿ
+w	php:S1192î"aDefine a constant instead of duplicating this literal "margin-bottom: {{SIZE}}{{UNIT}};" 3 times.(›³Â
+a	php:S1192a"GDefine a constant instead of duplicating this literal "active" 4 times.(Ğÿ‰’şÿÿÿÿ
+\	php:S1192H"GDefine a constant instead of duplicating this literal "image" 11 times.(ìÿ³³
+œphp:S138S"‚This function "_register_controls" has 394 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+k	php:S1192‘"PDefine a constant instead of duplicating this literal "hover_animation" 3 times.(×À³×úÿÿÿÿ
+a	php:S1192{"LDefine a constant instead of duplicating this literal "placeholder" 3 times.(Ê’§
+\	php:S1192¥"FDefine a constant instead of duplicating this literal "title" 8 times.(Šô×
+]	php:S1192Í"GDefine a constant instead of duplicating this literal "scheme" 4 times.(¡ŠËÆ
+e	php:S1192ë"JDefine a constant instead of duplicating this literal "selectors" 9 times.(Ú‘›æúÿÿÿÿ
+d	php:S1192n"JDefine a constant instead of duplicating this literal "separator" 5 times.(şÄĞãøÿÿÿÿ
+\	php:S1192å"FDefine a constant instead of duplicating this literal "range" 6 times.(÷¦ç£
+g	php:S1192"QDefine a constant instead of duplicating this literal "description_text" 7 times.(½¢–ˆ
+]	php:S1192`"HDefine a constant instead of duplicating this literal "dynamic" 4 times.(Ï­ıñ
+e	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 41 times.(çûãùÿÿÿÿ
+c	php:S1192c"IDefine a constant instead of duplicating this literal "default" 13 times.(ªÜØ£ÿÿÿÿÿ
+_	php:S1192¤"IDefine a constant instead of duplicating this literal "selector" 4 times.(•ÜĞÓ

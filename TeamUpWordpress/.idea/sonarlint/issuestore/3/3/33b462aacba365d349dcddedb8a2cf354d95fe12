@@ -1,0 +1,105 @@
+
+O	php:S1135È"4Complete the task associated to this "TODO" comment.(¡·°¼ùÿÿÿÿ
+Qphp:S131›"7Add a "case default" clause to this "switch" statement.(æåÇ½ıÿÿÿÿ
+d	php:S1192Ò"IDefine a constant instead of duplicating this literal "Language" 3 times.(ËäÊ›ûÿÿÿÿ
+a	php:S1192ä"FDefine a constant instead of duplicating this literal "mpeg4" 3 times.(Éú Ôøÿÿÿÿ
+c	php:S1301ö"MReplace this "switch" statement with "if" statements to increase readability.(¾£‘ş
+c	php:S1192ò
+"HDefine a constant instead of duplicating this literal "TagName" 3 times.(†ÿÇîşÿÿÿÿ
+g	php:S1192 "LDefine a constant instead of duplicating this literal "DisplayUnit" 3 times.(Çÿ¶ùÿÿÿÿ
+\	php:S1192©"FDefine a constant instead of duplicating this literal "codec" 3 times.(á‹×Û
+d	php:S1192ƒ"IDefine a constant instead of duplicating this literal "Duration" 3 times.(›´í²úÿÿÿÿ
+e	php:S1192"JDefine a constant instead of duplicating this literal "matroska" 49 times.(ÎÚÒ„úÿÿÿÿ
+J	php:S1066Ê	"/Merge this if statement with the enclosing one.(ÎÚÒ„úÿÿÿÿ
+h	php:S1192ñ"MDefine a constant instead of duplicating this literal "FileMimeType" 3 times.(ÉæŞ÷ÿÿÿÿÿ
+j	php:S1192§"ODefine a constant instead of duplicating this literal "PixelCropRight" 3 times.(¹º¾£ıÿÿÿÿ
+D	php:S1481‚")Remove this unused "$key" local variable.(é½îÿÿÿÿÿ
+h	php:S1192Ğ"RDefine a constant instead of duplicating this literal "SamplingFrequency" 3 times.(Æè–ó
+[php:S112•
+"FDefine and throw a dedicated exception instead of using a generic one.(‹ú–Ø
+‘php:S138õ"wThis function "Analyze" has 200 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(©šÛÏşÿÿÿÿ
+“php:S138†"yThis function "parseEBML" has 579 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‰‚Œãøÿÿÿÿ
+J	php:S1066Ë	"/Merge this if statement with the enclosing one.(™‡ãŸÿÿÿÿÿ
+h	php:S1301Î"MReplace this "switch" statement with "if" statements to increase readability.(Ğ€éüÿÿÿÿ
+b	php:S1192Ÿ"LDefine a constant instead of duplicating this literal "PixelHeight" 3 times.(¡¹½Ã
+c	php:S1192±"MDefine a constant instead of duplicating this literal "TrackNumber" 10 times.(ÄŞ™
+O	php:S1135Õ"4Complete the task associated to this "TODO" comment.(ê¥÷áùÿÿÿÿ
+i	php:S1192å"SDefine a constant instead of duplicating this literal "track_data_offsets" 8 times.(£á“¢
+i	php:S1192¦"NDefine a constant instead of duplicating this literal "PixelCropLeft" 3 times.(ÒÔ­–ùÿÿÿÿ
+i	php:S1192¢"NDefine a constant instead of duplicating this literal "DisplayHeight" 3 times.(¥œ©öúÿÿÿÿ
+p	php:S3776†"URefactor this function to reduce its Cognitive Complexity from 535 to the 15 allowed.(‰‚Œãøÿÿÿÿ
+d	php:S1192ò"IDefine a constant instead of duplicating this literal "FileName" 3 times.(•–Šúøÿÿÿÿ
+_	php:S1192Ñ"IDefine a constant instead of duplicating this literal "Channels" 3 times.(ó„¾ 
+e	php:S1192Ú"JDefine a constant instead of duplicating this literal "quicktime" 3 times.(Àä¼¥úÿÿÿÿ
+9php:S125Ş"Remove this commented out code.(º•ù“øÿÿÿÿ
+mphp:S101Ø"SRename class "getid3_matroska" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹¶Ø¤şÿÿÿÿ
+M	php:S1481ñ
+"2Remove this unused "$SimpleTagKey" local variable.(¿Ñ”äùÿÿÿÿ
+c	php:S1301«"MReplace this "switch" statement with "if" statements to increase readability.(¾£‘ş
+d	php:S1192Ó"IDefine a constant instead of duplicating this literal "BitDepth" 4 times.(ÃÀŠúÿÿÿÿ
+`	php:S1192Â"JDefine a constant instead of duplicating this literal "target_id" 4 times.(¯†Â¬
+g	php:S1192­"LDefine a constant instead of duplicating this literal "tracknumber" 4 times.(—…ÑÇüÿÿÿÿ
+4php:S125µ"Remove this commented out code.(¤¹Íñ
+e	php:S1192ğ
+"JDefine a constant instead of duplicating this literal "SimpleTag" 4 times.(±Ã†’ıÿÿÿÿ
+h	php:S1301	"MReplace this "switch" statement with "if" statements to increase readability.(Ğ€éüÿÿÿÿ
+l	php:S1192È"QDefine a constant instead of duplicating this literal "lace_frames_size" 5 times.(¡·°¼ùÿÿÿÿ
+g	php:S1192˜"LDefine a constant instead of duplicating this literal "FlagDefault" 3 times.(ÑÆ¸øÿÿÿÿ
+c	php:S1192˜"HDefine a constant instead of duplicating this literal "default" 3 times.(ÑÆ¸øÿÿÿÿ
+a	php:S1192"KDefine a constant instead of duplicating this literal "PixelWidth" 3 times.(õ†ò´
+J	php:S1109Ë"/Move this closing curly brace to the next line.(ÅÏÃ”ıÿÿÿÿ
+b	php:S1192²"GDefine a constant instead of duplicating this literal "flags" 10 times.(“ÄÜ”üÿÿÿÿ
+a	php:S1192Ì"FDefine a constant instead of duplicating this literal "video" 5 times.(›Ã¸¿úÿÿÿÿ
+h	php:S1301â"MReplace this "switch" statement with "if" statements to increase readability.(¤®©‰ıÿÿÿÿ
+J	php:S1135Ö"4Complete the task associated to this "TODO" comment.(ô‡ıÖ
+x	php:S1192æ"]Define a constant instead of duplicating this literal "Unable to parse audio data [" 4 times.(ê¤©Ïúÿÿÿÿ
+c	php:S1301˜"MReplace this "switch" statement with "if" statements to increase readability.(¾£‘ş
+c	php:S1192¯"MDefine a constant instead of duplicating this literal "CodecPrivate" 7 times.(âİ 
+g	php:S1192—"LDefine a constant instead of duplicating this literal "dataformat" 10 times.(©éñÀùÿÿÿÿ
+c	php:S1301è"MReplace this "switch" statement with "if" statements to increase readability.(¾£‘ş
+_	php:S1192ğ"IDefine a constant instead of duplicating this literal "id_name" 77 times.(™ñÒ›
+_	php:S3358â"DExtract this nested ternary operation into an independent statement.(„ˆ€Úùÿÿÿÿ
+F	php:S1751½"1Refactor this loop to do more than one iteration.(şöê{
+h	php:S1192¡"MDefine a constant instead of duplicating this literal "DisplayWidth" 3 times.(‚ûÖÀıÿÿÿÿ
+i	php:S1192…"NDefine a constant instead of duplicating this literal "TimecodeScale" 3 times.(ÓóÁüÿÿÿÿ
+c	php:S1192“"HDefine a constant instead of duplicating this literal "tracks" 16 times.(™‡ãŸÿÿÿÿÿ
+^	php:S1192ù"HDefine a constant instead of duplicating this literal "doctype" 3 times.(«Š•
+i	php:S1192±"SDefine a constant instead of duplicating this literal "track_codec_parsed" 4 times.(ÄŞ™
+c	php:S1192"HDefine a constant instead of duplicating this literal "warning" 4 times.(–ïåÁøÿÿÿÿ
+f	php:S1192¨"PDefine a constant instead of duplicating this literal "DefaultDuration" 3 times.(É¤É¡
+php:S138ô"zThis function "EBMLidName" has 196 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(òé¿*
+b	php:S1192"GDefine a constant instead of duplicating this literal "header" 4 times.(÷óõâıÿÿÿÿ
+c	php:S1192—"HDefine a constant instead of duplicating this literal "CodecID" 7 times.(©éñÀùÿÿÿÿ
+]	php:S1192€"GDefine a constant instead of duplicating this literal "audio" 11 times.(”™Í£
+c	php:S1301º"MReplace this "switch" statement with "if" statements to increase readability.(¤ÈÆ
+h	php:S1301›"MReplace this "switch" statement with "if" statements to increase readability.(æåÇ½ıÿÿÿÿ
+h	php:S1301«"MReplace this "switch" statement with "if" statements to increase readability.(“ï°‰üÿÿÿÿ
+a	php:S1192‹"FDefine a constant instead of duplicating this literal "error" 4 times.(‹€ÿŞøÿÿÿÿ
+d	php:S1192ñ"IDefine a constant instead of duplicating this literal "FileData" 3 times.(ÉæŞ÷ÿÿÿÿÿ
+J	php:S1066Ì	"/Merge this if statement with the enclosing one.(ËË¬’şÿÿÿÿ
+d	php:S1192ò"IDefine a constant instead of duplicating this literal "comments" 3 times.(•–Šúøÿÿÿÿ
+f	php:S1192¤"PDefine a constant instead of duplicating this literal "PixelCropBottom" 3 times.(ÍƒÌœ
+`	php:S1192©"JDefine a constant instead of duplicating this literal "CodecName" 5 times.(á‹×Û
+g	php:S1192ï"LDefine a constant instead of duplicating this literal "attachments" 4 times.(Ï¬Ğãÿÿÿÿÿ
+c	php:S1192ï"MDefine a constant instead of duplicating this literal "avdataoffset" 3 times.(õÅ´
+9php:S125³"Remove this commented out code.(ƒÑîÕÿÿÿÿÿ
+h	php:S1192¥"MDefine a constant instead of duplicating this literal "PixelCropTop" 3 times.(Ğ«¯Ğÿÿÿÿÿ
+`	php:S1192ù"JDefine a constant instead of duplicating this literal "mime_type" 4 times.(«Š•
+b	php:S1192¹"GDefine a constant instead of duplicating this literal "lacing" 6 times.(ááŞ†şÿÿÿÿ
+b	php:S1301Ä"MReplace this "switch" statement with "if" statements to increase readability.(’£Ÿ#
+c	php:S1192Ì"HDefine a constant instead of duplicating this literal "streams" 9 times.(›Ã¸¿úÿÿÿÿ
+3php:S125¤"Remove this commented out code.(†©Ôt
+p	php:S3776õ"URefactor this function to reduce its Cognitive Complexity from 264 to the 15 allowed.(©šÛÏşÿÿÿÿ
+3php:S125¶"Remove this commented out code.(¸Ôv
+e	php:S1192ò
+"JDefine a constant instead of duplicating this literal "TagString" 3 times.(†ÿÇîşÿÿÿÿ
+9php:S125Ü"Remove this commented out code.(ò› ‚øÿÿÿÿ
+<	php:S1110»"!Remove these useless parentheses.(®„¦®üÿÿÿÿ
+^	php:S1192ï"HDefine a constant instead of duplicating this literal "offset" 13 times.(õÅ´
+4php:S125¾"Remove this commented out code.(íÍõé
+`	php:S1192¯"JDefine a constant instead of duplicating this literal "flags_raw" 5 times.(¥ş’
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(üí„ûÿÿÿÿ
+Qphp:S131«"7Add a "case default" clause to this "switch" statement.(“ï°‰üÿÿÿÿ
+c	php:S1192®"HDefine a constant instead of duplicating this literal "segment" 3 times.(óº´–üÿÿÿÿ
+=	php:S1481ğ"'Remove this unused "$i" local variable.(ÏŞ®ú
+c	php:S1192ñ"HDefine a constant instead of duplicating this literal "length" 12 times.(â±Ìšÿÿÿÿÿ

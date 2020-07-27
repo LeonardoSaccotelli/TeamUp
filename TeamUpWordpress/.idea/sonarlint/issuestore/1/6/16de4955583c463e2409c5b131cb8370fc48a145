@@ -1,0 +1,71 @@
+
+t	php:S1192™"^Define a constant instead of duplicating this literal "_wpnonce-custom-header-upload" 4 times.(šœ£Š
+B	Web:S5257ø",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+b	php:S1192­"LDefine a constant instead of duplicating this literal "header-text" 4 times.(¼Âø˜
+3	Web:S5258ı"Remove this "th" element(º£•ßüÿÿÿÿ
+o	php:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(Î·Ÿ¼şÿÿÿÿ
+j	php:S1192³"ODefine a constant instead of duplicating this literal "attachment_id" 17 times.(ÇŞüŞøÿÿÿÿ
+k	php:S1192‡"VDefine a constant instead of duplicating this literal "Something went wrong." 3 times.(œš‘(
+j	php:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢½ê
+[	php:S1192‡"FDefine a constant instead of duplicating this literal "</h1>" 3 times.(œš‘(
+^	php:S1192£"HDefine a constant instead of duplicating this literal "uploads" 5 times.(õµÇò
+~	php:S1192Õ
+"hDefine a constant instead of duplicating this literal "_wp_attachment_custom_header_last_used_" 4 times.(ˆóÔÖ
+3	Web:S5258Ì"Remove this "th" element(¤¶•ùüÿÿÿÿ
+.	Web:S5258¥"Remove this "th" element(ÏÕ–é
+]	php:S1192b"HDefine a constant instead of duplicating this literal "content" 3 times.(ïÌšŒ
+pphp:S101"WRename class "Custom_Image_Header" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©ïº”ûÿÿÿÿ
+h	php:S1192±"MDefine a constant instead of duplicating this literal "flex-height" 10 times.(«ÉÄ‹úÿÿÿÿ
+a	php:S1192w"LDefine a constant instead of duplicating this literal "Header Text" 3 times.(ÿ©Ô’
+`	php:S1192a"FDefine a constant instead of duplicating this literal "title" 3 times.(Ú¢²ºüÿÿÿÿ
+B	Web:S5257ƒ",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+u	php:S1488Í	"_Immediately return this expression instead of assigning it to the temporary variable "$object".(é™âÂ
+php:S138Ö"vThis function "step_1" has 159 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Î·Ÿ¼şÿÿÿÿ
+`	php:S1192¨"JDefine a constant instead of duplicating this literal "max-width" 4 times.(ÁˆÊ°
+i	php:S1192Ñ"SDefine a constant instead of duplicating this literal "default-text-color" 5 times.(ÎÄº¯
+6	php:S1110ª"!Remove these useless parentheses.(çéá
+.	Web:S5258Ã"Remove this "th" element(äœºÈ
+u	php:S1192Õ"_Define a constant instead of duplicating this literal "_wpnonce-custom-header-options" 6 times.(À—ëæ
+e	php:S1192³"JDefine a constant instead of duplicating this literal "</strong>" 4 times.(“â³Äûÿÿÿÿ
+u	php:S1192¿"ZDefine a constant instead of duplicating this literal "wp_create_file_in_uploads" 4 times.(Ä–Ã…ùÿÿÿÿ
+[	php:S1192…
+"FDefine a constant instead of duplicating this literal "nonce" 3 times.(Ùªûm
+e	php:S1142µ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ó‡ Š
+.	Web:S5258²"Remove this "th" element(Îü‚¡
+B	php:S1481ş",Remove this unused "$header" local variable.(İ°ØÆ
+E	php:S1481š"*Remove this unused "$type" local variable.(‹¬´œúÿÿÿÿ
+d	php:S1192³"IDefine a constant instead of duplicating this literal "<strong>" 4 times.(“â³Äûÿÿÿÿ
+{	php:S1192Æ"`Define a constant instead of duplicating this literal "_wp_attachment_is_custom_header" 3 times.(¸Ÿ·Ûıÿÿÿÿ
+l	php:S1192Î"VDefine a constant instead of duplicating this literal "create-new-attachment" 3 times.(Äöİœ
+h	php:S1192±"MDefine a constant instead of duplicating this literal "header_image" 5 times.(À§¹µıÿÿÿÿ
+e	php:S1192Ê"JDefine a constant instead of duplicating this literal "dst_width" 7 times.(³—¼Áşÿÿÿÿ
+’	php:S1192Æ"|Define a constant instead of duplicating this literal "Image could not be processed. Please go back and try again." 3 times.(•œÜ
+B	Web:S5257À",Replace this layout table with a CSS layout.(ÿ¹ËŞ
+1	php:S3626ñ"Remove this redundant jump.(ûÁİ…
+^	php:S1192›"HDefine a constant instead of duplicating this literal "default" 4 times.(ğÇ·ˆ
+m	php:S1192È"RDefine a constant instead of duplicating this literal "header_image_data" 5 times.(äëÌÌüÿÿÿÿ
+a	php:S1192É"KDefine a constant instead of duplicating this literal "dst_height" 7 times.(ö€‚Ã
+f	php:S1192à"KDefine a constant instead of duplicating this literal "text-color" 5 times.(¢”¢¦şÿÿÿÿ
+d	php:S1192¯"IDefine a constant instead of duplicating this literal "alt_text" 3 times.(‡Óºàùÿÿÿÿ
+j	php:S1142É"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÍÎ…óÿÿÿÿÿ
+l	php:S1192Õ"VDefine a constant instead of duplicating this literal "custom-header-options" 6 times.(À—ëæ
+m	php:S1192I"SDefine a constant instead of duplicating this literal "edit_theme_options" 6 times.(Ëªàğûÿÿÿÿ
+g	php:S1192Ó	"LDefine a constant instead of duplicating this literal "post_parent" 5 times.(ğ–”‘üÿÿÿÿ
+g	php:S1192±"LDefine a constant instead of duplicating this literal "flex-width" 11 times.(«ÉÄ‹úÿÿÿÿ
+a	php:S1192¹"FDefine a constant instead of duplicating this literal "oitar" 5 times.(¯½ÿ‘ıÿÿÿÿ
+i	php:S1192î"NDefine a constant instead of duplicating this literal "skip-cropping" 4 times.(ÊÒóêúÿÿÿÿ
+t	php:S1192š"YDefine a constant instead of duplicating this literal "custom-header-crop-image" 3 times.(”ÂõÖúÿÿÿÿ
+b	php:S1192˜"GDefine a constant instead of duplicating this literal "width" 25 times.(¥ïĞîÿÿÿÿÿ
+i	php:S1192®"NDefine a constant instead of duplicating this literal "default-image" 3 times.(—÷÷ªıÿÿÿÿ
+k	php:S1192™"UDefine a constant instead of duplicating this literal "custom-header-upload" 4 times.(šœ£Š
+E	php:S1481š"*Remove this unused "$attr" local variable.(‹¬´œúÿÿÿÿ
+B	php:S1481¤"'Remove this unused "$k" local variable.(ïıÕŞùÿÿÿÿ
+i	php:S1192I"ODefine a constant instead of duplicating this literal "custom-header" 64 times.(Ëªàğûÿÿÿÿ
+i	php:S1192Œ"NDefine a constant instead of duplicating this literal "thumbnail_url" 5 times.(ËãêÜÿÿÿÿÿ
+^	php:S1192™"HDefine a constant instead of duplicating this literal "height" 24 times.(¢ìş
+e	php:S1192³"JDefine a constant instead of duplicating this literal "%d pixels" 4 times.(“â³Äûÿÿÿÿ
+‰	php:S1448"oClass "Custom_Image_Header" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(©ïº”ûÿÿÿÿ
+3	Web:S5258‡"Remove this "th" element(¤¢Ñ¦úÿÿÿÿ
+g	php:S1192â"QDefine a constant instead of duplicating this literal "header_textcolor" 3 times.(´‡ƒã
+3	Web:S5258”"Remove this "th" element(¸…å«ùÿÿÿÿ
+3	Web:S5258¥"Remove this "th" element(½Çäûÿÿÿÿ

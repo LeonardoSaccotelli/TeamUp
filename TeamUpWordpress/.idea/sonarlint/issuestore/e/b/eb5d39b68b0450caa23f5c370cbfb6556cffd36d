@@ -1,0 +1,69 @@
+
+a	php:S1192‡"FDefine a constant instead of duplicating this literal "value" 3 times.(Ó“ª§úÿÿÿÿ
+d	php:S1192."JDefine a constant instead of duplicating this literal "user_pass" 3 times.(Õ¯Ñ—ıÿÿÿÿ
+E	php:S1066á"/Merge this if statement with the enclosing one.(„ö‘÷
+c	php:S1192~"IDefine a constant instead of duplicating this literal "verified" 5 times.(Ò”‡ úÿÿÿÿ
+_	php:S1192Ä"IDefine a constant instead of duplicating this literal "rejected" 3 times.(éøÀÜ
+t	php:S1192E"`Define a constant instead of duplicating this literal "profile_form_additional_section" 3 times.(åé
+?	php:S1125¯")Remove the literal "false" boolean value.(‰Ë‹ë
+NWeb:TableWithoutCaptionCheck‚" Add a description to this table.(åÜ„ßÿÿÿÿÿ
+a	php:S1192-"LDefine a constant instead of duplicating this literal "user_email" 11 times.(ˆÏœè
+8php:S125N"Remove this commented out code.(É–Ûûÿÿÿÿ
+K	php:S1172º"0Remove the unused function parameter "$meta_id".(şĞœÔüÿÿÿÿ
+K	php:S1172‡"0Remove the unused function parameter "$changes".(ŒšÌøÿÿÿÿ
+l	php:S1192Ô"QDefine a constant instead of duplicating this literal "ultimate-member" 11 times.(ûù¥òÿÿÿÿÿ
+o	php:S1192r"ZDefine a constant instead of duplicating this literal "synced_gravatar_hashed_id" 8 times.(õ¹¨–
+\	php:S1192ƒ"GDefine a constant instead of duplicating this literal "fields" 6 times.(Èç 
+q	php:S1192Œ"VDefine a constant instead of duplicating this literal "awaiting_admin_review" 4 times.(ı™‡Ñüÿÿÿÿ
+3php:S125A"Remove this commented out code.(ğÛ‚ï
+d	php:S1192Š"NDefine a constant instead of duplicating this literal "use_gravatars" 4 times.(°£âù
+?	php:S1125Û")Remove the literal "false" boolean value.(‚”Ÿ’
+e	php:S1192r"PDefine a constant instead of duplicating this literal "account_status" 24 times.(õ¹¨–
+b	php:S11929"MDefine a constant instead of duplicating this literal "remove_cache" 6 times.(öş
+_	php:S1192Å"IDefine a constant instead of duplicating this literal "wp_roles" 3 times.(›ôÌ»
+z	php:S1448"`Class "User" has 53 methods, which is greater than 20 authorized. Split it into smaller classes.(â•üıÿÿÿÿ
+d	php:S1192r"ODefine a constant instead of duplicating this literal "profile_photo" 15 times.(õ¹¨–
+a	php:S1192r"LDefine a constant instead of duplicating this literal "cover_photo" 8 times.(õ¹¨–
+F	php:S1172q"1Remove the unused function parameter "$meta_ids".(¶²Ä¶
+m Web:TableHeaderHasIdOrScopeCheck…";Add either an 'id' or a 'scope' attribute to this <th> tag.(ú‚ÇÙùÿÿÿÿ
+l	php:S1192ş"VDefine a constant instead of duplicating this literal "um_cached_users_queue" 4 times.(æå
+m	php:S1192Ç"RDefine a constant instead of duplicating this literal "add-existing-user" 3 times.(ÿê•¿ıÿÿÿÿ
+s	php:S1488ø"]Immediately return this expression instead of assigning it to the temporary variable "$bool".(ß¨¦Æ
+?	php:S1125Ÿ")Remove the literal "false" boolean value.(‰Ë‹ë
+E	php:S1172Ô"/Remove the unused function parameter "$result".(—µ¯¨
+j	php:S1142×"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¦¸Àİıÿÿÿÿ
+J	php:S1066Û"/Merge this if statement with the enclosing one.(àºÓˆøÿÿÿÿ
+J	php:S1066ğ"/Merge this if statement with the enclosing one.(àºÓˆøÿÿÿÿ
+_	php:S1192Ú"IDefine a constant instead of duplicating this literal "um_roles" 3 times.(±¡Í
+{	php:S1488“"`Immediately return this expression instead of assigning it to the temporary variable "$content".(¥àƒ¢ùÿÿÿÿ
+e	php:S1192r"PDefine a constant instead of duplicating this literal "hide_in_members" 8 times.(õ¹¨–
+w	php:S1192‡"\Define a constant instead of duplicating this literal "awaiting_email_confirmation" 3 times.(Ó“ª§úÿÿÿÿ
+o	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(şĞœÔüÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+a	php:S1192„"KDefine a constant instead of duplicating this literal "meta_query" 4 times.(êÉ¹Ï
+9php:S125"Remove this commented out code.(¯¶Û¥ıÿÿÿÿ
+s	php:S1192w"YDefine a constant instead of duplicating this literal "um_member_directory_data" 4 times.(ˆ£ÿ´ıÿÿÿÿ
+Lphp:S131‚"7Add a "case default" clause to this "switch" statement.(„ûîí
+^	php:S1192z"IDefine a constant instead of duplicating this literal "approved" 9 times.(—»‹
+j	php:S1192¶
+"TDefine a constant instead of duplicating this literal "account_secret_hash" 3 times.(°Îƒ‹
+b	php:S1192r"MDefine a constant instead of duplicating this literal "_um_verified" 4 times.(õ¹¨–
+b	php:S11920"MDefine a constant instead of duplicating this literal "display_name" 3 times.(ß€÷Ú
+E	php:S1066€"/Merge this if statement with the enclosing one.(ØïŞ®
+`	php:S1192»"KDefine a constant instead of duplicating this literal "user_login" 3 times.(¶İˆ=
+j	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(®é
+j	php:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ş‘Æ¬
+…	php:S4144é"jUpdate this method so that its implementation is not identical to "add_um_role_existing_user" on line 340.(¡—œ—ûÿÿÿÿ
+4php:S125"Remove this commented out code.(ü§Òà
+e	php:S1192¶"ODefine a constant instead of duplicating this literal "permalink_base" 3 times.(Õıµª
+c	php:S1192ˆ"HDefine a constant instead of duplicating this literal "compare" 3 times.(¤“øíıÿÿÿÿ
+o	php:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ï¢Æ½ùÿÿÿÿ
+d	php:S1142ÿ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(§öÔ 
+I	php:S1172q"4Remove the unused function parameter "$_meta_value".(¶²Ä¶
+o	php:S3776×"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦¸Àİıÿÿÿÿ
+_	php:S1192Ú"IDefine a constant instead of duplicating this literal "um-role" 13 times.(ØïŞ®
+j	php:S1192Õ"TDefine a constant instead of duplicating this literal "account_status_name" 5 times.(„½ì
+j	php:S1192r"UDefine a constant instead of duplicating this literal "synced_profile_photo" 6 times.(õ¹¨–
+c	php:S1192/"NDefine a constant instead of duplicating this literal "user_password" 3 times.(œ·‡û
+x	php:S1488Ş"bImmediately return this expression instead of assigning it to the temporary variable "$find_user".(ì¨è
+Lphp:S131Ì"7Add a "case default" clause to this "switch" statement.(„ûîí

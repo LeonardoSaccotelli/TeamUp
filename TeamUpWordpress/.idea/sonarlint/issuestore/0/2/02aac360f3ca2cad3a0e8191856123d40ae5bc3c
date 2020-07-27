@@ -1,0 +1,39 @@
+
+Lphp:S131á"7Add a "case default" clause to this "switch" statement.(œÆö‹
+d	php:S1192²"NDefine a constant instead of duplicating this literal "no_found_rows" 3 times.(—øÀ
+]	php:S1192À"GDefine a constant instead of duplicating this literal "mature" 4 times.(Ğ”°“
+]	php:S1192%"HDefine a constant instead of duplicating this literal "groupby" 6 times.(Ÿô¨ì
+h	php:S1192¯"MDefine a constant instead of duplicating this literal "site__not_in" 4 times.(òÅûÑûÿÿÿÿ
+–php:S138‘"|This function "get_site_ids" has 177 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(å¼ĞÖùÿÿÿÿ
+f	php:S1192¹"KDefine a constant instead of duplicating this literal "domain__in" 4 times.(ğø¡øÿÿÿÿ
+d	php:S1192Ä"IDefine a constant instead of duplicating this literal "lang__in" 4 times.(¯î¼­øÿÿÿÿ
+c	php:S1192Â"HDefine a constant instead of duplicating this literal "deleted" 4 times.(§°àÚúÿÿÿÿ
+a	php:S1192$"GDefine a constant instead of duplicating this literal "where" 29 times.(Õ‹ÎÇıÿÿÿÿ
+e	php:S1192Ç"ODefine a constant instead of duplicating this literal "search_columns" 3 times.(†èó
+\	php:S1192È"FDefine a constant instead of duplicating this literal "count" 5 times.(ê’‚â
+c	php:S1192&"IDefine a constant instead of duplicating this literal "orderby" 12 times.(Øğ‘Ëøÿÿÿÿ
+e	php:S1192º"ODefine a constant instead of duplicating this literal "domain__not_in" 4 times.(¶ŠÊ„
+a	php:S1192""GDefine a constant instead of duplicating this literal "select" 3 times.(ÓÂÅøÿÿÿÿ
+a	php:S1192'"GDefine a constant instead of duplicating this literal "limits" 6 times.(ÁŸÜ¤ùÿÿÿÿ
+_	php:S1192¼"IDefine a constant instead of duplicating this literal "path__in" 4 times.(çÒí¹
+]	php:S1192¬"GDefine a constant instead of duplicating this literal "fields" 6 times.(æßÙÚ
+g	php:S1192¶"LDefine a constant instead of duplicating this literal "network__in" 7 times.(Ûè›èùÿÿÿÿ
+\	php:S1192¸"GDefine a constant instead of duplicating this literal "domain" 7 times.(õ‰˜}
+a	php:S1192Ã"FDefine a constant instead of duplicating this literal "sites" 3 times.(¿¥ò…üÿÿÿÿ
+]	php:S1192¾"GDefine a constant instead of duplicating this literal "public" 4 times.(‚‚÷—
+a	php:S1192Î"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(”Û¼é
+i	php:S1117Ñ"NRename "$date_query" which has the same name as the field declared at line 64.(¶ˆ»¸ùÿÿÿÿ
+e	php:S1142‹"OReduce the number of returns of this function 4, down to the maximum allowed 3.(É™âß
+o	php:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(å¼ĞÖùÿÿÿÿ
+]	php:S1192Æ"GDefine a constant instead of duplicating this literal "search" 5 times.(µÌ”½
+a	php:S1192"FDefine a constant instead of duplicating this literal "alias" 4 times.(“Ñ¨¿ûÿÿÿÿ
+b	php:S1192°"GDefine a constant instead of duplicating this literal "number" 5 times.(«—“çùÿÿÿÿ
+h	php:S1192½"MDefine a constant instead of duplicating this literal "path__not_in" 4 times.(ì’“Éıÿÿÿÿ
+ephp:S101"QRename class "WP_Site_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­Äµ„
+d	php:S1192®"IDefine a constant instead of duplicating this literal "site__in" 7 times.(¸¹ı‡øÿÿÿÿ
+h	php:S1192Å"MDefine a constant instead of duplicating this literal "lang__not_in" 4 times.(Ø‚êùÿÿÿÿ
+f	php:S1192·"PDefine a constant instead of duplicating this literal "network__not_in" 4 times.(Ÿü¹™
+c	php:S1192Ã"HDefine a constant instead of duplicating this literal "lang_id" 4 times.(‡Æ»Ûıÿÿÿÿ
+d	php:S1192¿"IDefine a constant instead of duplicating this literal "archived" 4 times.(†”½óıÿÿÿÿ
+f	php:S1192µ"KDefine a constant instead of duplicating this literal "network_id" 4 times.(æ—Ÿˆøÿÿÿÿ
+a	php:S1192É"KDefine a constant instead of duplicating this literal "date_query" 3 times.(ÅÖ÷

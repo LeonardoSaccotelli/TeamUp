@@ -1,0 +1,9 @@
+
+HWeb:BoldAndItalicTagsCheck~"Replace this <i> tag by <em>.(ÕÉ¹øøÿÿÿÿ
+Dphp:S121>"0Add curly braces around the nested statement(s).(ùÛ¯Ê
+j	php:S1192"PDefine a constant instead of duplicating this literal "conversation_id" 3 times.(±®õ«üÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+CWeb:BoldAndItalicTagsCheckE"Replace this <i> tag by <em>.(å­ÓÕ
+b	php:S1192:"MDefine a constant instead of duplicating this literal "display_name" 4 times.(Ñº†­
+«	php:S2681>"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(ùÛ¯Ê
+b	php:S1192:"MDefine a constant instead of duplicating this literal "um-messaging" 3 times.(Ñº†­

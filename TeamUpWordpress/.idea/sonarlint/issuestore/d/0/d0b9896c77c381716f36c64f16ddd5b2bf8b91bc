@@ -1,0 +1,54 @@
+
+o	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ìéşŒúÿÿÿÿ
+]	php:S1192»"GDefine a constant instead of duplicating this literal "offset" 4 times.(¸¥´
+m	php:S1192´"RDefine a constant instead of duplicating this literal "show_in_nav_menus" 4 times.(¨©­üÿÿÿÿ
+e	php:S1192Ï"JDefine a constant instead of duplicating this literal "object_id" 4 times.(Ñ¢Şáøÿÿÿÿ
+`	php:S1192Ğ"JDefine a constant instead of duplicating this literal "nav_menus" 6 times.(úï¯–
+l	php:S1192B"WDefine a constant instead of duplicating this literal "customize_preview_init" 3 times.(³ã™â
+php:S138·"‚This function "customize_register" has 184 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(³€ˆŸıÿÿÿÿ
+f	php:S1192Œ"KDefine a constant instead of duplicating this literal "post_type" 14 times.(ñÕÙÎøÿÿÿÿ
+v	php:S1488ï"`Immediately return this expression instead of assigning it to the temporary variable "$content".(û›Øö
+c	php:S1192Ë"HDefine a constant instead of duplicating this literal "charset" 5 times.(çä–şÿÿÿÿ
+b	php:S1192ß"LDefine a constant instead of duplicating this literal "postMessage" 8 times.(ï”¡
+`	php:S1192’"JDefine a constant instead of duplicating this literal "transport" 6 times.(ô¼
+\	php:S1192€"FDefine a constant instead of duplicating this literal "panel" 3 times.(¡×Ò¦
+n	php:S1192­"XDefine a constant instead of duplicating this literal "nav_menus_created_posts" 4 times.(Ù„ˆ¶
+e	php:S1192»"ODefine a constant instead of duplicating this literal "posts_per_page" 3 times.(îâ™Õ
+`	php:S1192d"KDefine a constant instead of duplicating this literal "item_types" 3 times.(ºùø
+n	php:S3776["TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸Ù¿ùÿÿÿÿ
+o	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(³€ˆŸıÿÿÿÿ
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ñÕÙÎøÿÿÿÿ
+]	php:S1192Ş
+"GDefine a constant instead of duplicating this literal "walker" 3 times.(’áĞ
+b	php:S1192Û
+"LDefine a constant instead of duplicating this literal "fallback_cb" 3 times.(¥Ä‹û
+j	php:S1192R"PDefine a constant instead of duplicating this literal "customize-menus" 5 times.(÷ÔõÙÿÿÿÿÿ
+n	php:S1192‘"SDefine a constant instead of duplicating this literal "nav_menu_locations" 3 times.(ñ—ò¢ûÿÿÿÿ
+j	php:S1192í
+"TDefine a constant instead of duplicating this literal "can_partial_refresh" 3 times.(èÈãÚ
+`	php:S1192€"JDefine a constant instead of duplicating this literal "args_hmac" 6 times.(õ’™
+a	php:S1192†"KDefine a constant instead of duplicating this literal "meta_input" 4 times.(¥Œô
+x	php:S1488İ"cImmediately return this expression instead of assigning it to the temporary variable "$item_types".(¥˜·
+e	php:S1192ƒ"JDefine a constant instead of duplicating this literal "post_name" 5 times.(æï¾Ñúÿÿÿÿ
+o	php:S1192ª"TDefine a constant instead of duplicating this literal "customize-nav-menus" 3 times.(Ä×ß¼ıÿÿÿÿ
+]	php:S1192f"HDefine a constant instead of duplicating this literal "object" 22 times.(«Ô¬Ç
+b	php:S1192™"GDefine a constant instead of duplicating this literal "title" 16 times.(‘ªåÓüÿÿÿÿ
+d	php:S1192Ó"IDefine a constant instead of duplicating this literal "taxonomy" 5 times.(ÿŸœ¥úÿÿÿÿ
+c	php:S1192´"HDefine a constant instead of duplicating this literal "objects" 3 times.(¨©­üÿÿÿÿ
+E	php:S1481¼"*Remove this unused "$slug" local variable.(¥„¬Éùÿÿÿÿ
+v	php:S1192‰"[Define a constant instead of duplicating this literal "_customize_draft_post_name" 3 times.(£°×”úÿÿÿÿ
+Œ	php:S1448"rClass "WP_Customize_Nav_Menus" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(â‰êÿÿÿÿÿ
+y	php:S1488Ÿ"^Immediately return this expression instead of assigning it to the temporary variable "$items".(õĞÄïüÿÿÿÿ
+g	php:S1192›"LDefine a constant instead of duplicating this literal "type_label" 11 times.(„ç¹ˆÿÿÿÿÿ
+h	php:S11927"SDefine a constant instead of duplicating this literal "edit_theme_options" 4 times.(ºˆ‡É
+^	php:S1192›"HDefine a constant instead of duplicating this literal "pagenum" 8 times.(ñö«ù
+f	php:S1192Î"KDefine a constant instead of duplicating this literal "auto-draft" 5 times.(îÖÖùÿÿÿÿ
+d	php:S1192ç"IDefine a constant instead of duplicating this literal "priority" 5 times.(ŠâÑÙıÿÿÿÿ
+p	php:S1192\"VDefine a constant instead of duplicating this literal "customize-menus-nonce" 3 times.(†Æâ¾øÿÿÿÿ
+g	php:S1192›"LDefine a constant instead of duplicating this literal "Custom Link" 3 times.(„ç¹ˆÿÿÿÿÿ
+f	php:S1192æ"KDefine a constant instead of duplicating this literal "post_title" 8 times.(Ñğúÿÿÿÿ
+b	php:S1192¦"GDefine a constant instead of duplicating this literal "params" 3 times.(Š‚Û™úÿÿÿÿ
+d	php:S1142ñ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ŞˆåW
+t	php:S1488ş"^Immediately return this expression instead of assigning it to the temporary variable "$items".( ¿¼æ
+sphp:S101"ZRename class "WP_Customize_Nav_Menus" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(â‰êÿÿÿÿÿ
+b	php:S1192º"LDefine a constant instead of duplicating this literal "post_status" 5 times.(¦—Êı

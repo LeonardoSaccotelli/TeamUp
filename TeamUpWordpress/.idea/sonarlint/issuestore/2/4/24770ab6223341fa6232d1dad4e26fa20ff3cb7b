@@ -1,0 +1,9 @@
+
+f	php:S1117œ"QRename "$switched_data" which has the same name as the field declared at line 72.(“Ü÷&
+z	php:S2761É"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(˜–Çúÿÿÿÿ
+]	php:S1192d"IDefine a constant instead of duplicating this literal "elements" 6 times.(—ó†
+E	php:S1066­"/Merge this if statement with the enclosing one.(É¨Áâ
+b	php:S1192à"LDefine a constant instead of duplicating this literal "original_id" 3 times.(ÿ”‹õ
+p	php:S1192“"UDefine a constant instead of duplicating this literal "_elementor_edit_mode" 3 times.(´ÃÙ×øÿÿÿÿ
+a	php:S1192´"KDefine a constant instead of duplicating this literal "authordata" 3 times.(¸¬„
+x	php:S1488"cImmediately return this expression instead of assigning it to the temporary variable "$plain_text".(âªù

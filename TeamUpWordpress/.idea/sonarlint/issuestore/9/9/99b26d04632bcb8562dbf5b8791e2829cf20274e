@@ -1,0 +1,24 @@
+
+O	php:S1135¿"4Complete the task associated to this "TODO" comment.(°Ëé£ÿÿÿÿÿ
+\	php:S1192_"GDefine a constant instead of duplicating this literal "5.12.0" 3 times.(¥Ç„
+h	php:S1192]"NDefine a constant instead of duplicating this literal "displayPrefix" 3 times.(ÜÜ÷™üÿÿÿÿ
+b	php:S1871"MThis branch's code block is the same as the block for the branch on line 412.(ıı©4
+c	php:S1192Å"HDefine a constant instead of duplicating this literal "library" 8 times.(´î¿ÿÿÿÿÿ
+d	php:S1192š"IDefine a constant instead of duplicating this literal "settings" 6 times.(ÊŞ“Êÿÿÿÿÿ
+p	php:S1192ß"UDefine a constant instead of duplicating this literal "Font Awesome Upgrade" 3 times.(’ÅßŠúÿÿÿÿ
+k	php:S1192Å"PDefine a constant instead of duplicating this literal "render_callback" 3 times.(´î¿ÿÿÿÿÿ
+`	php:S1192Y"FDefine a constant instead of duplicating this literal "label" 7 times.(Ã¡Ñûÿÿÿÿ
+r	php:S1192ß"WDefine a constant instead of duplicating this literal "fontawesome4_migration" 3 times.(’ÅßŠúÿÿÿÿ
+a	php:S1192a"GDefine a constant instead of duplicating this literal "native" 4 times.(ì§¿Óüÿÿÿÿ
+e	php:S1192Y"KDefine a constant instead of duplicating this literal "elementor" 22 times.(Ã¡Ñûÿÿÿÿ
+d	php:S1192`"JDefine a constant instead of duplicating this literal "fetchJson" 3 times.(’úáåûÿÿÿÿ
+\	php:S1192\"GDefine a constant instead of duplicating this literal "prefix" 3 times.(•å¦³
+a	php:S1192["LDefine a constant instead of duplicating this literal "fontawesome" 3 times.(¡¦¤•
+d	php:S1192^"JDefine a constant instead of duplicating this literal "labelIcon" 4 times.(…•–ıÿÿÿÿ
+a	php:S1192Ê"FDefine a constant instead of duplicating this literal "value" 7 times.(­ÁÎÌøÿÿÿÿ
+\	php:S1192É"FDefine a constant instead of duplicating this literal "class" 5 times.(Š·«Ï
+ephp:S101"QRename class "Icons_Manager" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥Ìè
+b	php:S11924"HDefine a constant instead of duplicating this literal "enqueue" 5 times.(ŸÆÄÍÿÿÿÿÿ
+?	php:S1481/"*Remove this unused "$type" local variable.(Ì“§Ú
+^	php:S1192c"IDefine a constant instead of duplicating this literal "fa-solid" 3 times.(âŸ¶æ
+~	php:S1448"iClass "Icons_Manager" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(¥Ìè

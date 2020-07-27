@@ -1,0 +1,96 @@
+
+Ephp:S121ê"0Add curly braces around the nested statement(s).(ø½€
+Ephp:S121‡"0Add curly braces around the nested statement(s).(É”ê†
+y	php:S4144ş"cUpdate this method so that its implementation is not identical to "media_upload_image" on line 881.(¿Æ¤®
+D	php:S1172R"/Remove the unused function parameter "$parent".(×¤»ï
+M	php:S1155¾
+"7Use empty() to check whether the array is empty or not.(İò©¼
+Jphp:S121¢"0Add curly braces around the nested statement(s).(áòùˆùÿÿÿÿ
+C	php:S1172¶"-Remove the unused function parameter "$type".(Ñİú
+Jphp:S121ı"0Add curly braces around the nested statement(s).(Úÿø úÿÿÿÿ
+Ephp:S121¨"0Add curly braces around the nested statement(s).(ø½€
+A	php:S1172Â	"+Remove the unused function parameter "$id".(ÙÌ‹•
+Jphp:S121Ç
+"0Add curly braces around the nested statement(s).(µ­œ…úÿÿÿÿ
+Jphp:S121ß
+"0Add curly braces around the nested statement(s).(¡¯ôÏüÿÿÿÿ
+Jphp:S121¹"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+L	php:S1172Å"1Remove the unused function parameter "$filename".(±©°Œşÿÿÿÿ
+a	php:S1192ğ"FDefine a constant instead of duplicating this literal "3.4.0" 3 times.(Çäà•şÿÿÿÿ
+Jphp:S121¤"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+D	php:S1172¶".Remove the unused function parameter "$title".(Ñİú
+Jphp:S121à"0Add curly braces around the nested statement(s).(ìµ Ùıÿÿÿÿ
+E	php:S1172±"/Remove the unused function parameter "$screen".(‡ƒòØ
+E	php:S1172Ù"/Remove the unused function parameter "$screen".(ÏµëÊ
+Ephp:S121¶"0Add curly braces around the nested statement(s).(‹ç€¿
+~	php:S4144œ"cUpdate this method so that its implementation is not identical to "wp_preload_dialogs" on line 786.(şÿòøÿÿÿÿ
+~	php:S4144‹"cUpdate this method so that its implementation is not identical to "media_upload_image" on line 881.(¿ª‹„ùÿÿÿÿ
+€	php:S4144¶"jUpdate this method so that its implementation is not identical to "_insert_into_post_button" on line 1067.(Ñİú
+C	php:S1172«"-Remove the unused function parameter "$type".(²€Õ
+I	php:S1172ç"3Remove the unused function parameter "$deprecated".(‚°§Ş
+E	php:S1172R"0Remove the unused function parameter "$default".(×¤»ï
+~php:S101÷"iRename class "WP_Privacy_Data_Export_Requests_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öÎ¿
+J	php:S1172û
+"/Remove the unused function parameter "$new_ID".(¯ëÊŞúÿÿÿÿ
+r	php:S3973È"WUse curly braces or indentation to denote the code conditionally executed by this "if".(›¶¼ üÿÿÿÿ
+a	php:S1192ë"KDefine a constant instead of duplicating this literal "user_level" 3 times.(Œè»«
+Ephp:S121Î"0Add curly braces around the nested statement(s).(ÑñÛ–
+Ephp:S121"0Add curly braces around the nested statement(s).(É°‚Ê
+y	php:S4144¦"cUpdate this method so that its implementation is not identical to "wp_preload_dialogs" on line 786.(½¿ã§
+Jphp:S121Ü
+"0Add curly braces around the nested statement(s).(‡­Šòúÿÿÿÿ
+lphp:S101Ï"RRename class "WP_User_Search" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÙÂ½Ôúÿÿÿÿ
+~	php:S1192ˆ	"hDefine a constant instead of duplicating this literal "wp-admin/includes/class-wp-upgrader.php" 3 times.(ŸÙõ¦
+`	php:S11923"FDefine a constant instead of duplicating this literal "3.0.0" 7 times.(áÛÛˆüÿÿÿÿ
+‡	php:S1603‚"qReplace this function name "WP_User_Search", since a "__construct" method has already been defined in this class.(¡£ø­
+Dphp:S121²	"0Add curly braces around the nested statement(s).(Œ 
+p	php:S1192ò"ZDefine a constant instead of duplicating this literal "wp_media_upload_handler()" 4 times.(»¸ÿû
+b	php:S1192ç"LDefine a constant instead of duplicating this literal "get_users()" 4 times.(ó¼–“
+~	php:S4144Ï"cUpdate this method so that its implementation is not identical to "codepress_get_lang" on line 197.(ÛÉ£ãüÿÿÿÿ
+Jphp:S121¶"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121Ê"0Add curly braces around the nested statement(s).(‹ç€¿
+J	php:S1172a"0Remove the unused function parameter "$default".(ª¾ñúÿÿÿÿ
+j	php:S1142˜"OReduce the number of returns of this function 4, down to the maximum allowed 3.(òª¨Øøÿÿÿÿ
+\	php:S1192ù"FDefine a constant instead of duplicating this literal "5.3.0" 3 times.(‹ÍÚ
+a	php:S1192ƒ	"FDefine a constant instead of duplicating this literal "3.7.0" 4 times.(Üö¶ıÿÿÿÿ
+Jphp:S121Š"0Add curly braces around the nested statement(s).(ğ…Œ¯ÿÿÿÿÿ
+Cphp:S121·"0Add curly braces around the nested statement(s).(ØµK
+Dphp:S121œ	"0Add curly braces around the nested statement(s).(Œ 
+Jphp:S121¶
+"0Add curly braces around the nested statement(s).(–İ¼¾úÿÿÿÿ
+B	php:S1172¨
+",Remove the unused function parameter "$rss".(î®Ô¾
+y	php:S4144˜"cUpdate this method so that its implementation is not identical to "media_upload_image" on line 881.(äõˆš
+Jphp:S121ì"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+\	php:S1192ç"FDefine a constant instead of duplicating this literal "3.1.0" 8 times.(ó¼–“
+J	php:S1172û
+"/Remove the unused function parameter "$old_ID".(¯ëÊŞúÿÿÿÿ
+J	php:S1172Å"/Remove the unused function parameter "$screen".(Ä†ùÄøÿÿÿÿ
+Jphp:S121Ğ"0Add curly braces around the nested statement(s).(ÁæêÆùÿÿÿÿ
+x	php:S4144Ù"cUpdate this method so that its implementation is not identical to "codepress_get_lang" on line 197.(‡Ñİ3
+Ephp:S121À"0Add curly braces around the nested statement(s).(ø½€
+[	php:S1192C"FDefine a constant instead of duplicating this literal "3.5.0" 6 times.(Õ½ù
+Jphp:S121´"0Add curly braces around the nested statement(s).(ÁğÈûÿÿÿÿ
+f	php:S1192"LDefine a constant instead of duplicating this literal "wp_editor()" 5 times.(™áşŞùÿÿÿÿ
+b	php:S1192û"GDefine a constant instead of duplicating this literal "screen" 6 times.(àûøµüÿÿÿÿ
+Ephp:S121˜"0Add curly braces around the nested statement(s).(ÃÌé§
+Ephp:S121"0Add curly braces around the nested statement(s).(è‡
+@	php:S1481Ä
+"*Remove this unused "$frag" local variable.(Úº°¢
+Jphp:S121Â"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121…	"0Add curly braces around the nested statement(s).(Œ 
+Jphp:S121ª"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+f	php:S1192†	"PDefine a constant instead of duplicating this literal "update_feedback" 3 times.(†’‰÷
+c	php:S1192í"MDefine a constant instead of duplicating this literal "capabilities" 4 times.(’ ãĞ
+„php:S101‰"jRename class "WP_Privacy_Data_Removal_Requests_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ãå¬òşÿÿÿÿ
+Jphp:S121®"0Add curly braces around the nested statement(s).(íÕ³óüÿÿÿÿ
+I	php:S1172R"4Remove the unused function parameter "$popular_ids".(×¤»ï
+C	php:S1172¶"-Remove the unused function parameter "$icon".(Ñİú
+c	php:S1192´"HDefine a constant instead of duplicating this literal "pending" 3 times.(ÁğÈûÿÿÿÿ
+Ephp:S121¾
+"0Add curly braces around the nested statement(s).(İò©¼
+Jphp:S121—"0Add curly braces around the nested statement(s).(˜­áÏøÿÿÿÿ
+j	php:S3776¨
+"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(î®Ô¾
+A	php:S1172¶"+Remove the unused function parameter "$id".(Ñİú
+b	php:S1192ù"GDefine a constant instead of duplicating this literal "3.3.0" 15 times.(Ë›˜Ûıÿÿÿÿ

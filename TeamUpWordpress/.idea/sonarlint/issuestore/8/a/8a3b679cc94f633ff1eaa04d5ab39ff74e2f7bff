@@ -1,0 +1,25 @@
+
+php:S138­"ƒThis function "add_buttons_section" has 176 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ã†åıúÿÿÿÿ
+a	php:S1192_"GDefine a constant instead of duplicating this literal "before" 5 times.(¾†üÿÿÿÿÿ
+e	php:S1192i"KDefine a constant instead of duplicating this literal "selectors" 23 times.(Ú‘›æúÿÿÿÿ
+]	php:S1192ä"GDefine a constant instead of duplicating this literal "Normal" 4 times.(‹Ôá¸
+^	php:S1192t"JDefine a constant instead of duplicating this literal "selector" 21 times.(Úê†
+s	php:S1192û"]Define a constant instead of duplicating this literal "background-color: {{VALUE}};" 3 times.(İÒ–›
+a	php:S1192^"GDefine a constant instead of duplicating this literal "label" 48 times.(¶ÛĞ†şÿÿÿÿ
+[	php:S1192f"FDefine a constant instead of duplicating this literal "Color" 4 times.(ì¡¤
+f	php:S1192š"KDefine a constant instead of duplicating this literal "size_units" 8 times.(ã×Îûıÿÿÿÿ
+a	php:S1192ë"KDefine a constant instead of duplicating this literal "Text Color" 4 times.(êÀ²Ã
+php:S138£"‚This function "add_images_section" has 165 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ùîÉÊûÿÿÿÿ
+²	php:S1192œ"–Define a constant instead of duplicating this literal "border-radius: {{TOP}}{{UNIT}} {{RIGHT}}{{UNIT}} {{BOTTOM}}{{UNIT}} {{LEFT}}{{UNIT}};" 5 times.(–ˆêãøÿÿÿÿ
+j	php:S1192œ"ODefine a constant instead of duplicating this literal "fields_options" 6 times.(œÕñ¿ÿÿÿÿÿ
+a	php:S1192 "FDefine a constant instead of duplicating this literal "color" 6 times.(êûÊùÿÿÿÿ
+f	php:S1192j"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 8 times.(ÆæM
+e	php:S1192r"KDefine a constant instead of duplicating this literal "Typography" 8 times.(–ÄÙ”ÿÿÿÿÿ
+d	php:S1192_"JDefine a constant instead of duplicating this literal "separator" 5 times.(¾†üÿÿÿÿÿ
+e	php:S11920"KDefine a constant instead of duplicating this literal "elementor" 59 times.(ò²ª¶ÿÿÿÿÿ
+g	php:S1192÷"QDefine a constant instead of duplicating this literal "Background Color" 3 times.(å­øÇ
+c	php:S1192h"IDefine a constant instead of duplicating this literal "dynamic" 18 times.(äŠö¾üÿÿÿÿ
+b	php:S1192›"LDefine a constant instead of duplicating this literal "{{WRAPPER}}" 3 times.(® îÙ
+\	php:S1192¦"FDefine a constant instead of duplicating this literal "Hover" 3 times.(“Ä¶
+c	php:S1192˜"NDefine a constant instead of duplicating this literal "Border Radius" 5 times.(Š¢ªe
+\	php:S1192§"FDefine a constant instead of duplicating this literal "range" 5 times.(÷¦ç£

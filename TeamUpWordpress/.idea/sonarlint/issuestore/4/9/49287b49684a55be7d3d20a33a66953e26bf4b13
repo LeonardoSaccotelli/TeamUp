@@ -1,0 +1,16 @@
+
+†php:S115"mRename this constant "um_user_tags_textdomain" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‚å¢´şÿÿÿÿ
+ƒ	php:S4144:"iUpdate this method so that its implementation is not identical to "um_user_tags_dependencies" on line 42.(±Öäúÿÿÿÿ
+~php:S115"jRename this constant "um_user_tags_version" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(×Ûè
+t	php:S1192."ZDefine a constant instead of duplicating this literal "um_user_tags_dependencies" 3 times.(·á¢°ıÿÿÿÿ
+php:S115"fRename this constant "um_user_tags_url" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¸’¥ğüÿÿÿÿ
+…php:S115"lRename this constant "um_user_tags_extension" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(­ÜÂ¢ıÿÿÿÿ
+‚php:S115"iRename this constant "um_user_tags_plugin" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¨•‡ôÿÿÿÿÿ
+`	php:S1192+"KDefine a constant instead of duplicating this literal "</p></div>" 3 times.(õ…ƒ´
+h	php:S1192."NDefine a constant instead of duplicating this literal "admin_notices" 3 times.(·á¢°ıÿÿÿÿ
+g	php:S1192"MDefine a constant instead of duplicating this literal "um-user-tags" 3 times.(‚å¢´şÿÿÿÿ
+j	php:S1192"UDefine a constant instead of duplicating this literal "um_user_tags_version" 3 times.(×Ûè
+l	php:S1192+"WDefine a constant instead of duplicating this literal "<div class="error"><p>" 3 times.(õ…ƒ´
+{php:S115"gRename this constant "um_user_tags_path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(º†Ïµ
+~php:S115"kRename this constant "um_user_tags_requires" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(˜ëö.
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ

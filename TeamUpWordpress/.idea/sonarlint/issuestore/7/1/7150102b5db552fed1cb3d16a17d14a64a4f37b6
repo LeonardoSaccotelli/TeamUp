@@ -1,0 +1,56 @@
+
+t	php:S1192İ"YDefine a constant instead of duplicating this literal "um_social_login_redirect" 3 times.(‘›şàùÿÿÿÿ
+l	php:S1192–"QDefine a constant instead of duplicating this literal "_um_pm_msgs_sent" 4 times.(¶¸ö”ûÿÿÿÿ
+g	php:S1192˜"QDefine a constant instead of duplicating this literal "_um_pm_last_send" 3 times.(¸â¢ç
+a	php:S1192ã"FDefine a constant instead of duplicating this literal "mysql" 3 times.(ÖÉŒÈşÿÿÿÿ
+f	php:S1192˜"KDefine a constant instead of duplicating this literal "other_user" 6 times.(ù– õùÿÿÿÿ
+G	php:S1172Ü",Remove the unused function parameter "$url".(¦Êù‡øÿÿÿÿ
+Jphp:S121ÿ"0Add curly braces around the nested statement(s).(Ú²Ã…ùÿÿÿÿ
+_	php:S1192›"IDefine a constant instead of duplicating this literal "reminded" 3 times.(«¬™
+Ephp:S121„"0Add curly braces around the nested statement(s).(¯ñºö
+c	php:S1192Œ"HDefine a constant instead of duplicating this literal "content" 5 times.(’°èûÿÿÿÿ
+i	php:S1192û"NDefine a constant instead of duplicating this literal "um_messaging" 49 times.(íÀğüÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck¸	"Replace this <i> tag by <em>.(øşü³úÿÿÿÿ
+o	php:S3776Ü	"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(µƒ¨‹ûÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(­ÌÆÛ
+c	php:S1192Ÿ"HDefine a constant instead of duplicating this literal "time_to" 8 times.(µö¨¤ıÿÿÿÿ
+j	php:S1142’"OReduce the number of returns of this function 5, down to the maximum allowed 3.(’¯¬üÿÿÿÿ
+~	php:S1192¯
+"cDefine a constant instead of duplicating this literal "</div><div class="um-clear"></div>" 3 times.(˜©¼Ÿøÿÿÿÿ
+\	php:S1192ä"GDefine a constant instead of duplicating this literal "status" 3 times.(ôÿ¥_
+j	php:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ù¬µí
+_	php:S1192é	"IDefine a constant instead of duplicating this literal "response" 3 times.(íÇØ…
+h	php:S1192¸"MDefine a constant instead of duplicating this literal "can_start_pm" 3 times.(©ÀÔ±ùÿÿÿÿ
+j	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‘úåë
+b	php:S1192ƒ	"LDefine a constant instead of duplicating this literal "message_to" 13 times.(æß†ç
+`	php:S1192¡"JDefine a constant instead of duplicating this literal "timestamp" 3 times.(€º²³
+a	php:S1192ÿ	"FDefine a constant instead of duplicating this literal "debug" 6 times.(€Î²íúÿÿÿÿ
+f	php:S1192û"QDefine a constant instead of duplicating this literal "conversation_id" 15 times.(›•·8
+`	php:S1126§"EReplace this "if-then-else" statement by a single "return" statement.( ôÇÍúÿÿÿÿ
+m	php:S1192€"WDefine a constant instead of duplicating this literal "_hidden_conversations" 10 times.(ôß§Ã
+Jphp:S121õ"0Add curly braces around the nested statement(s).(åÖÓûÿÿÿÿ
+p	php:S1192\"[Define a constant instead of duplicating this literal "um_user_permissions_filter" 3 times.(åÒˆ‰
+Ephp:S121ï"0Add curly braces around the nested statement(s).(ë€´
+d	php:S1192²"NDefine a constant instead of duplicating this literal "um-messaging" 15 times.(©‹×Ë
+[	php:S1126¤"EReplace this "if-then-else" statement by a single "return" statement.(²Ûé½
+j	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ü£Ñó
+b	php:S1192Ğ"LDefine a constant instead of duplicating this literal "can_read_pm" 4 times.(¬‹é
+Dphp:S121ú"0Add curly braces around the nested statement(s).(¬ì¢O
+	php:S1488­"fImmediately return this expression instead of assigning it to the temporary variable "$conversations".(ÇõÂ‹úÿÿÿÿ
+w	php:S1488\"bImmediately return this expression instead of assigning it to the temporary variable "$role_data".(åÒˆ‰
+ˆ	php:S1448"nClass "Messaging_Main_API" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(†£ö‡úÿÿÿÿ
+j	php:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÍƒËÙ
+ophp:S101"VRename class "Messaging_Main_API" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†£ö‡úÿÿÿÿ
+g	php:S1192 "LDefine a constant instead of duplicating this literal "Y-m-d H:i:s" 4 times.(‚µÕôıÿÿÿÿ
+Ephp:S121‰"0Add curly braces around the nested statement(s).(Î‘ûõ
+h	php:S1192µ	"MDefine a constant instead of duplicating this literal "display_name" 3 times.(ŞÅ÷ªúÿÿÿÿ
+e	php:S1192Ÿ"JDefine a constant instead of duplicating this literal "time_from" 8 times.(µö¨¤ıÿÿÿÿ
+Iphp:S121X"0Add curly braces around the nested statement(s).(íÂÌìùÿÿÿÿ
+c	php:S1192ã"HDefine a constant instead of duplicating this literal "right_m" 4 times.(Ğ×Óøÿÿÿÿ
+a	php:S1192o"LDefine a constant instead of duplicating this literal "_pm_blocked" 6 times.(—·¯õ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+^	php:S1192‚"HDefine a constant instead of duplicating this literal "user_id" 6 times.(ğ¦Ò
+i	php:S1192–"NDefine a constant instead of duplicating this literal "last_updated" 11 times.(òëÜùÿÿÿÿÿ
+|	php:S1488«"aImmediately return this expression instead of assigning it to the temporary variable "$response".(çÛ÷úùÿÿÿÿ
+a	php:S1192ü"KDefine a constant instead of duplicating this literal "message_id" 5 times.(õĞúÆ
+f	php:S1192‰"PDefine a constant instead of duplicating this literal "um_messages:all" 3 times.(Õ·Ê…

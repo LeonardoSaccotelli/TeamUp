@@ -1,0 +1,16 @@
+
+\	php:S11922"GDefine a constant instead of duplicating this literal "screen" 3 times.(…ú∆å
+`	php:S1192Ë"JDefine a constant instead of duplicating this literal "<a href='" 3 times.(Ò˚çü
+u	php:S1488œ"ZImmediately return this expression instead of assigning it to the temporary variable "$r".(ı‰öé˝ˇˇˇˇ
+pphp:S101"WRename class "WP_Users_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(≈û∞÷¸ˇˇˇˇ
+d	php:S1192‰"IDefine a constant instead of duplicating this literal "username" 4 times.(µó’Í˚ˇˇˇˇ
+\	php:S1192Ë"FDefine a constant instead of duplicating this literal "posts" 4 times.(’∂Û≥
+p	php:S1488˙"ZImmediately return this expression instead of assigning it to the temporary variable "$c".(Ò∑¡ø
+J	php:S1066µ"/Merge this if statement with the enclosing one.(÷∂∂Öˇˇˇˇˇ
+o	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(≠‹≥¯˛ˇˇˇˇ
+{	php:S1192¬"eDefine a constant instead of duplicating this literal " class="current" aria-current="page"" 3 times.(≤€≠ì
+[	php:S1192~"FDefine a constant instead of duplicating this literal "order" 3 times.(…∑Ê©
+a	php:S1192e"GDefine a constant instead of duplicating this literal "search" 5 times.(∂–®„¯ˇˇˇˇ
+I	php:S1481˝".Remove this unused "$sortable" local variable.(«ç’˛ˇˇˇˇˇ
+[	php:S1192Ê"FDefine a constant instead of duplicating this literal "email" 4 times.( πÙ
+]	php:S1192z"HDefine a constant instead of duplicating this literal "orderby" 3 times.(Å˘¢›

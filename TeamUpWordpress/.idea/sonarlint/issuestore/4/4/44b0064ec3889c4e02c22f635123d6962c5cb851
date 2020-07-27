@@ -1,0 +1,7 @@
+
+a	php:S1192Q"GDefine a constant instead of duplicating this literal "height" 3 times.(»ì‰Žýÿÿÿÿ
+`	php:S1192P"FDefine a constant instead of duplicating this literal "width" 3 times.(ö¹ùÎùÿÿÿÿ
+b	php:S11924"MDefine a constant instead of duplicating this literal "header_image" 3 times.(©‘‹á
+~php:S101"eRename class "WP_Customize_Header_Image_Control" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦¯ã¢üÿÿÿÿ
+h	php:S1192P"NDefine a constant instead of duplicating this literal "custom-header" 8 times.(ö¹ùÎùÿÿÿÿ
+r	php:S1488µ"\Immediately return this expression instead of assigning it to the temporary variable "$src".(š•´£

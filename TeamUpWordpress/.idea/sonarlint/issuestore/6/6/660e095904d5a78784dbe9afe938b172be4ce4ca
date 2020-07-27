@@ -1,0 +1,17 @@
+
+Iphp:S121>"0Add curly braces around the nested statement(s).(—‡È…úÿÿÿÿ
+D	php:S1172¹".Remove the unused function parameter "$value".(·±Ü
+r	php:S1488“"\Immediately return this expression instead of assigning it to the temporary variable "$url".(Ó¼âİ
+d	php:S1142;"OReduce the number of returns of this function 4, down to the maximum allowed 3.(»ßØé
+r	php:S1488‘"\Immediately return this expression instead of assigning it to the temporary variable "$url".(Ó¼âİ
+Iphp:S121["0Add curly braces around the nested statement(s).(âÚÙÈıÿÿÿÿ
+^	php:S1192·"HDefine a constant instead of duplicating this literal "user_id" 5 times.(šê€
+3php:S125("Remove this commented out code.(®€Ğ
+C	php:S1125•"(Remove the literal "true" boolean value.(ÇÑ™ñıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Iphp:S121X"0Add curly braces around the nested statement(s).(Î¡«øÿÿÿÿ
+S	php:S1854d"9Remove this useless assignment to local variable '$link'.(é‡„¯şÿÿÿÿ
+Lphp:S131"7Add a "case default" clause to this "switch" statement.(éáÎ…
+o	php:S3776”"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(æÓáÙùÿÿÿÿ
+j	php:S1192¾"TDefine a constant instead of duplicating this literal "account_secret_hash" 3 times.(’³–
+`	php:S1192Š"JDefine a constant instead of duplicating this literal "HTTP_HOST" 4 times.(‰´ùÍ

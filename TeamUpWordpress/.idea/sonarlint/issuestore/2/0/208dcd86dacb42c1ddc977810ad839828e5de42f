@@ -1,0 +1,10 @@
+
+B	php:S1172&"-Remove the unused function parameter "$args".(à‚¹Õ
+H	php:S1172™"-Remove the unused function parameter "$args".(Å—åŒúÿÿÿÿ
+B	php:S1172~"-Remove the unused function parameter "$args".(ø˜Íè
+nphp:S101"URename class "Messaging_Profile" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õ„¸ıÿÿÿÿ
+I	php:S1172‹".Remove the unused function parameter "$value".(©çĞÊşÿÿÿÿ
+^	php:S1192O"IDefine a constant instead of duplicating this literal "messages" 4 times.(¬ï¿¼
+b	php:S11923"MDefine a constant instead of duplicating this literal "um-messaging" 7 times.(ÚÙŞ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+z	php:S1488B"`Immediately return this expression instead of assigning it to the temporary variable "$classes".(³Ùÿÿÿÿÿ

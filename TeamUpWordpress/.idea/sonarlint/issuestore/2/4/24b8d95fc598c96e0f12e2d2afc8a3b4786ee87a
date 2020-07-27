@@ -1,0 +1,19 @@
+
+s	php:S1192."^Define a constant instead of duplicating this literal "um_notifications_dependencies" 3 times.(•úéÑ
+s	php:S1192"YDefine a constant instead of duplicating this literal "um_notifications_version" 3 times.(ÂÕ–—øÿÿÿÿ
+Iphp:S121]"0Add curly braces around the nested statement(s).(¢ÉİÚúÿÿÿÿ
+Iphp:S121Z"0Add curly braces around the nested statement(s).(¯¢ô§øÿÿÿÿ
+‰php:S115"pRename this constant "um_notifications_extension" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Óûëÿÿÿÿÿ
+‡php:S115"nRename this constant "um_notifications_version" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÂÕ–—øÿÿÿÿ
+Dphp:S121R"0Add curly braces around the nested statement(s).(è›áù
+f	php:S1192"QDefine a constant instead of duplicating this literal "um-notifications" 3 times.(¶¥¾œ
+l	php:S1192+"WDefine a constant instead of duplicating this literal "<div class="error"><p>" 3 times.(îçäË
+ƒphp:S115"jRename this constant "um_notifications_url" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(á†…Üûÿÿÿÿ
+†php:S115"mRename this constant "um_notifications_plugin" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÎÔÒ¯üÿÿÿÿ
+`	php:S1192+"KDefine a constant instead of duplicating this literal "</p></div>" 3 times.(îçäË
+ƒphp:S115"oRename this constant "um_notifications_requires" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(šŠÿ’
+…php:S115"qRename this constant "um_notifications_textdomain" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¶¥¾œ
+	php:S4144:"mUpdate this method so that its implementation is not identical to "um_notifications_dependencies" on line 42.(ï²‹(
+c	php:S1192."NDefine a constant instead of duplicating this literal "admin_notices" 3 times.(•úéÑ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+php:S115"kRename this constant "um_notifications_path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(÷ßûØ

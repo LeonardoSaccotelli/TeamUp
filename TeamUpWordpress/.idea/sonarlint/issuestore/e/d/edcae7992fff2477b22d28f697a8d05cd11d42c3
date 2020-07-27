@@ -1,0 +1,5 @@
+
+zphp:S101"aRename class "WP_Recovery_Mode_Link_Service" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„ğ¨ıÿÿÿÿ
+\	php:S1192K"GDefine a constant instead of duplicating this literal "action" 4 times.(šŒ×Ù
+^	php:S1192K"IDefine a constant instead of duplicating this literal "rm_token" 3 times.(šŒ×Ù
+\	php:S1192K"GDefine a constant instead of duplicating this literal "rm_key" 3 times.(šŒ×Ù

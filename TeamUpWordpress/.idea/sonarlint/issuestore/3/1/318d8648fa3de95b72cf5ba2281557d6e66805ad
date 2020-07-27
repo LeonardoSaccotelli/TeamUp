@@ -1,0 +1,4 @@
+
+`	php:S1192Ë"JDefine a constant instead of duplicating this literal "site_icon" 3 times.(Œñ­
+dphp:S101"PRename class "WP_Site_Icon" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(°‹ø—
+t	php:S1488]"_Immediately return this expression instead of assigning it to the temporary variable "$object".(é™âÂ

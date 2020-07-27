@@ -1,0 +1,4 @@
+
+wphp:S101"^Rename class "WP_Customize_Theme_Control" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ý“Õ½þÿÿÿÿ
+[	php:S1192"FDefine a constant instead of duplicating this literal "theme" 5 times.(¤žÝÈ
+p	php:S1192="VDefine a constant instead of duplicating this literal "{{ data.theme.name }}" 4 times.(ÚÆ³¶úÿÿÿÿ

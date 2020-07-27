@@ -1,0 +1,16 @@
+
+b	php:S1192n"HDefine a constant instead of duplicating this literal "default" 8 times.(óÃ½ƒûÿÿÿÿ
+b	php:S1192"HDefine a constant instead of duplicating this literal "counter" 5 times.(¾‡Õ½üÿÿÿÿ
+ephp:S101"RRename class "Widget_Counter" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(óÍÊ
+a	php:S1192e"GDefine a constant instead of duplicating this literal "label" 14 times.(ÈŒĞüÿÿÿÿ
+d	php:S1192Ó"NDefine a constant instead of duplicating this literal "counter-title" 3 times.(ùÑ©Ÿ
+e	php:S1192j"PDefine a constant instead of duplicating this literal "starting_number" 3 times.(ğåˆí
+g	php:S1192Š"LDefine a constant instead of duplicating this literal "placeholder" 3 times.(ø£øıÿÿÿÿ
+]	php:S1192ç"GDefine a constant instead of duplicating this literal "scheme" 4 times.(¡ŠËÆ
+s	php:S1192²"XDefine a constant instead of duplicating this literal "thousand_separator_char" 3 times.(Ú’‹—ÿÿÿÿÿ
+]	php:S1192o"HDefine a constant instead of duplicating this literal "dynamic" 5 times.(Ï­ıñ
+n	php:S1192§"SDefine a constant instead of duplicating this literal "thousand_separator" 3 times.(•éôçüÿÿÿÿ
+\	php:S1192Â"FDefine a constant instead of duplicating this literal "title" 3 times.(£ËŠ¡
+a	php:S1192p"GDefine a constant instead of duplicating this literal "active" 5 times.(Ğÿ‰’şÿÿÿÿ
+`	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 20 times.(İ¢÷İ
+œphp:S138a"‚This function "_register_controls" has 171 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ

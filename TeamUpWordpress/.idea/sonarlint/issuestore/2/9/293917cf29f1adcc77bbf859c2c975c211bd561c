@@ -1,0 +1,31 @@
+
+y	php:S1488Å"^Immediately return this expression instead of assigning it to the temporary variable "$_site".(¦ëÍ‘ıÿÿÿÿ
+[	php:S11927"GDefine a constant instead of duplicating this literal "public" 4 times.(š‚Ñr
+\	php:S1192Ø"FDefine a constant instead of duplicating this literal "https" 4 times.(ïí§›
+i	php:S1142,"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ö©×ÿøÿÿÿÿ
+a	php:S1192o"GDefine a constant instead of duplicating this literal "WPLANG" 5 times.(½‡İ¿şÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÏèÒ
+j	php:S1142Ë"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ñÁÏİÿÿÿÿÿ
+b	php:S1192l"HDefine a constant instead of duplicating this literal "options" 4 times.(Úœµúÿÿÿÿ
+j	php:S1142–"OReduce the number of returns of this function 5, down to the maximum allowed 3.(˜Ğ‡Ëúÿÿÿÿ
+a	php:S1192…"FDefine a constant instead of duplicating this literal "5.1.0" 4 times.(ÚñáÚøÿÿÿÿ
+b	php:S1192<"HDefine a constant instead of duplicating this literal "lang_id" 3 times.(ŸöÎ¬ıÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÏèÒ
+o	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(õÎœçüÿÿÿÿ
+d	php:S1142š"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ì¾õ(
+f	php:S11924"LDefine a constant instead of duplicating this literal "network_id" 13 times.(¿¸šûÿÿÿÿ
+g	php:S11926"MDefine a constant instead of duplicating this literal "last_updated" 5 times.(Ä±’şÿÿÿÿ
+^	php:S11928"IDefine a constant instead of duplicating this literal "archived" 4 times.(Ê¨‹Õ
+J	php:S1066û"/Merge this if statement with the enclosing one.(Šğìüÿÿÿÿ
+\	php:S11929"GDefine a constant instead of duplicating this literal "mature" 4 times.(…šçÈ
+j	php:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(½®Ïô
+d	php:S1192š"NDefine a constant instead of duplicating this literal "site_empty_id" 4 times.(ú¶È»
+e	php:S11925"KDefine a constant instead of duplicating this literal "registered" 4 times.(ê¤øôùÿÿÿÿ
+q	php:S1192š"[Define a constant instead of duplicating this literal "Site ID must not be empty." 4 times.(ú¶È»
+a	php:S1192Ú"FDefine a constant instead of duplicating this literal "sites" 5 times.(ø²…çúÿÿÿÿ
+]	php:S1192["HDefine a constant instead of duplicating this literal "site_id" 9 times.(«¦âÔ
+c	php:S1192¥"HDefine a constant instead of duplicating this literal "blog_id" 5 times.(ÒÌ¯Ãøÿÿÿÿ
+b	php:S1192k"HDefine a constant instead of duplicating this literal "user_id" 8 times.(Ïıµµùÿÿÿÿ
+]	php:S1192;"HDefine a constant instead of duplicating this literal "deleted" 4 times.(Ë¤­ú
+\	php:S11922"HDefine a constant instead of duplicating this literal "domain" 13 times.(õ‰˜}
+h	php:S1192ó"MDefine a constant instead of duplicating this literal "blog-details" 3 times.(¿ò¡ëùÿÿÿÿ

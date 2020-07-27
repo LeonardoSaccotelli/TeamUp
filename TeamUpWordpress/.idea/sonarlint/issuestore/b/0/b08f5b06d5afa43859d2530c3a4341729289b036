@@ -1,0 +1,11 @@
+
+a	php:S1192ù"FDefine a constant instead of duplicating this literal "embed" 5 times.(œ©ÕĞıÿÿÿÿ
+b	php:S1192÷"LDefine a constant instead of duplicating this literal "description" 7 times.(ïÒ€¬
+i	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‰î×Ïûÿÿÿÿ
+j	php:S1142Õ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÑÉİúÿÿÿÿ
+b	php:S1192ş"GDefine a constant instead of duplicating this literal "string" 6 times.(Şåáßúÿÿÿÿ
+]	php:S1192‹"GDefine a constant instead of duplicating this literal "status" 3 times.(’²
+c	php:S1192´"HDefine a constant instead of duplicating this literal "default" 3 times.(É”Îşûÿÿÿÿ
+vphp:S101"]Rename class "WP_REST_Search_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ûà•ÿÿÿÿÿ
+c	php:S1192Ì"HDefine a constant instead of duplicating this literal "context" 8 times.(Ÿí´ôúÿÿÿÿ
+_	php:S1192ú"IDefine a constant instead of duplicating this literal "readonly" 5 times.(åúÆÖ

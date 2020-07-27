@@ -1,0 +1,8 @@
+
+c	php:S1192/"IDefine a constant instead of duplicating this literal "orderby" 15 times.(ººäšþÿÿÿÿ
+\	php:S1192-"GDefine a constant instead of duplicating this literal "images" 8 times.(Êöº¼
+b	php:S1192,"HDefine a constant instead of duplicating this literal "rating" 11 times.(õ’—¿úÿÿÿÿ
+f	php:S1192"LDefine a constant instead of duplicating this literal "description" 9 times.(Ï«´‚øÿÿÿÿ
+a	php:S11921"GDefine a constant instead of duplicating this literal "limit" 11 times.(å µŸûÿÿÿÿ
+d	php:S1192."JDefine a constant instead of duplicating this literal "category" 10 times.(ìõÇÀÿÿÿÿÿ
+gphp:S101"SRename class "WP_Widget_Links" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿ê‘¶

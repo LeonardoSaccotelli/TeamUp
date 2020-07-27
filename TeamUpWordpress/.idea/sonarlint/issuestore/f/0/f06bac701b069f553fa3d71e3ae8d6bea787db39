@@ -1,0 +1,34 @@
+
+h	php:S1192‹"RDefine a constant instead of duplicating this literal "sidebars_widgets" 10 times.(‚ÒÑÈ
+c	php:S1192á"MDefine a constant instead of duplicating this literal "show_author" 12 times.(à×‡Ï
+]	php:S1192ä"GDefine a constant instead of duplicating this literal "items" 13 times.(¢‘ä²
+„	php:S1488â	"iImmediately return this expression instead of assigning it to the temporary variable "$sidebars_widgets".(œÊš×ûÿÿÿÿ
+d	php:S1192†"IDefine a constant instead of duplicating this literal "callback" 7 times.(»èÀùÿÿÿÿ
+]	php:S1192‡"GDefine a constant instead of duplicating this literal "params" 7 times.(‰òÿÓ
+a	php:S1192Õ"FDefine a constant instead of duplicating this literal "error" 3 times.(¤Öåíûÿÿÿÿ
+d	php:S1192„"NDefine a constant instead of duplicating this literal "before_widget" 6 times.(°­ùÔ
+o	php:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ñ¹üÿÿÿÿ
+j	php:S1142ü"OReduce the number of returns of this function 4, down to the maximum allowed 3.(üî‰àıÿÿÿÿ
+j	php:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÑµÜ
+a	php:S1192â"KDefine a constant instead of duplicating this literal "show_date" 12 times.(¿¹ÜÃ
+j	php:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(®¶Á
+J	php:S1066ğ"/Merge this if statement with the enclosing one.(š‡İ±ùÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(›À÷
+k	php:S3776Š
+"URefactor this function to reduce its Cognitive Complexity from 100 to the 15 allowed.(àê¨
+a	php:S1192’"FDefine a constant instead of duplicating this literal "width" 7 times.(ÎŒà¬üÿÿÿÿ
+c	php:S1192‹"MDefine a constant instead of duplicating this literal "widgets_init" 4 times.(‘é®
+[	php:S1192Á"FDefine a constant instead of duplicating this literal "title" 9 times.(ê‚š4
+k	php:S1192é"UDefine a constant instead of duplicating this literal "wp_inactive_widgets" 11 times.(¦íÒí
+J	php:S3801À"4Refactor this function to use "return" consistently.(Î¹š
+d	php:S1192Û"NDefine a constant instead of duplicating this literal "array_version" 5 times.(ÔÚà‡
+b	php:S1192‚"LDefine a constant instead of duplicating this literal "description" 5 times.(Èæ’
+k	php:S1192º"UDefine a constant instead of duplicating this literal "_wp_sidebars_widgets" 3 times.(€ìÛ‘
+b	php:S1192§"GDefine a constant instead of duplicating this literal "number" 4 times.(åÖºûÿÿÿÿ
+o	php:S3776â"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÄÚ§ııÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "classname" 3 times.(ĞË¸Ä
+g	php:S1192é"QDefine a constant instead of duplicating this literal "orphaned_widgets" 3 times.(¦íÒí
+]	php:S1192“"GDefine a constant instead of duplicating this literal "height" 7 times.(õÆß¿
+d	php:S1192ã"NDefine a constant instead of duplicating this literal "show_summary" 12 times.(¼Ğ”ô
+o	php:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(°àËûúÿÿÿÿ
+O	php:S3801§"4Refactor this function to use "return" consistently.(ñ±¸Õûÿÿÿÿ

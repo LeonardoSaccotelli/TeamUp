@@ -1,0 +1,48 @@
+
+\	php:S1192ç"FDefine a constant instead of duplicating this literal "array" 3 times.(™ÄÊ¹
+c	php:S1192<"IDefine a constant instead of duplicating this literal "category" 7 times.(†Íú¡øÿÿÿÿ
+\	php:S1192•"FDefine a constant instead of duplicating this literal "style" 5 times.(¥‰Óÿ
+b	php:S1192Ò"MDefine a constant instead of duplicating this literal "hierarchical" 7 times.(¬Ó€A
+^	php:S1192Ï"HDefine a constant instead of duplicating this literal "exclude" 6 times.(äüÁ¾
+O	php:S1135ı"4Complete the task associated to this "TODO" comment.(“©ÁÒûÿÿÿÿ
+j	php:S1142
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(’áöşÿÿÿÿ
+b	php:S1192­"GDefine a constant instead of duplicating this literal "number" 4 times.(±£ùîûÿÿÿÿ
+j	php:S3776„"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(–¨…›
+b	php:S1192Ì"LDefine a constant instead of duplicating this literal "show_count" 10 times.(Ş¹®Š
+i	php:S1192Ù"NDefine a constant instead of duplicating this literal "hide_if_empty" 4 times.(Æİ„–üÿÿÿÿ
+a	php:S1192Ö"FDefine a constant instead of duplicating this literal "depth" 4 times.(­Íïèøÿÿÿÿ
+_	php:S1192Ü"IDefine a constant instead of duplicating this literal "required" 3 times.(”öğ¿
+j	php:S1192"TDefine a constant instead of duplicating this literal "hide_title_if_empty" 3 times.(’ˆÀé
+l	php:S1192É"QDefine a constant instead of duplicating this literal "show_option_none" 7 times.(½Éêàúÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.(–Š“õ
+l	php:S1192„"QDefine a constant instead of duplicating this literal "current_category" 3 times.(‚„©óúÿÿÿÿ
+a	php:S1192Õ"FDefine a constant instead of duplicating this literal "class" 7 times.(ûóİùÿÿÿÿ
+l	php:S1192²"QDefine a constant instead of duplicating this literal "topic_count_text" 3 times.(ÿÑÍöşÿÿÿÿ
+a	php:S1192õ"KDefine a constant instead of duplicating this literal "pad_counts" 4 times.(ı¼„¿
+I	php:S1172¿	"3Remove the unused function parameter "$deprecated".(ÛØ­»
+>	php:S1125¢"(Remove the literal "true" boolean value.(“£Ñ¤
+j	php:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(û‹ã™
+j	php:S1142¨"OReduce the number of returns of this function 4, down to the maximum allowed 3.(®ñÜ„úÿÿÿÿ
+a	php:S11929"GDefine a constant instead of duplicating this literal "format" 8 times.(Ü˜ß°ùÿÿÿÿ
+e	php:S1192Ø"JDefine a constant instead of duplicating this literal "taxonomy" 10 times.(è²Óıÿÿÿÿ
+^	php:S1192µ"IDefine a constant instead of duplicating this literal "post_tag" 4 times.(Ó·“T
+e	php:S1192 "JDefine a constant instead of duplicating this literal "list_cats" 3 times.(×é™çúÿÿÿÿ
+_	php:S1192Ñ"IDefine a constant instead of duplicating this literal "selected" 4 times.(¹Õ‚™
+a	php:S1192Ë"FDefine a constant instead of duplicating this literal "order" 7 times.(ô˜‘Úıÿÿÿÿ
+c	php:S1192ˆ"MDefine a constant instead of duplicating this literal "the_category" 3 times.( ÑÎš
+O	php:S3801¨"4Refactor this function to use "return" consistently.(Ûİ„Ûıÿÿÿÿ
+c	php:S1192«"HDefine a constant instead of duplicating this literal "largest" 3 times.(¡Äñİûÿÿÿÿ
+k	php:S1192È"PDefine a constant instead of duplicating this literal "show_option_all" 5 times.(äÔóıÿÿÿÿ
+p	php:S1192³"ZDefine a constant instead of duplicating this literal "topic_count_text_callback" 4 times.(€‹Ï‡
+b	php:S1192³"GDefine a constant instead of duplicating this literal "walker" 6 times.(è‹¨¨ûÿÿÿÿ
+e	php:S1192§"JDefine a constant instead of duplicating this literal "</a></li>" 3 times.(ÉÁ¨Äüÿÿÿÿ
+c	php:S1192Ê"HDefine a constant instead of duplicating this literal "orderby" 6 times.(¼ù ıÿÿÿÿ
+e	php:S1192§"JDefine a constant instead of duplicating this literal "<a href="" 8 times.(ÉÁ¨Äüÿÿÿÿ
+^	php:S11927"JDefine a constant instead of duplicating this literal "separator" 8 times.(ì¢Èw
+_	php:S1192—"IDefine a constant instead of duplicating this literal "title_li" 4 times.(ßöµá
+d	php:S1192ª"IDefine a constant instead of duplicating this literal "smallest" 4 times.(ïèâüÿÿÿÿ
+e	php:S1192É
+"JDefine a constant instead of duplicating this literal "inclusive" 3 times.(†‹È¶ÿÿÿÿÿ
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(®ñÜ„úÿÿÿÿ
+c	php:S1192ˆ"MDefine a constant instead of duplicating this literal "exclude_tree" 4 times.(ºÍœƒ

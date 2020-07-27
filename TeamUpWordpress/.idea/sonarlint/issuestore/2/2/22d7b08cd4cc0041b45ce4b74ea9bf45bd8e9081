@@ -1,0 +1,22 @@
+
+mphp:S101"TRename class "WP_Network_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“±Ğ˜ùÿÿÿÿ
+]	php:S1192…"GDefine a constant instead of duplicating this literal "search" 4 times.(µÌ”½
+f	php:S1192€"KDefine a constant instead of duplicating this literal "domain__in" 4 times.(ğø¡øÿÿÿÿ
+c	php:S1192|"NDefine a constant instead of duplicating this literal "no_found_rows" 3 times.(—øÀ
+h	php:S1192„"MDefine a constant instead of duplicating this literal "path__not_in" 4 times.(ì’“Éıÿÿÿÿ
+c	php:S1192&"IDefine a constant instead of duplicating this literal "orderby" 12 times.(Øğ‘Ëøÿÿÿÿ
+f	php:S1192v"LDefine a constant instead of duplicating this literal "network__in" 7 times.(Ûè›èùÿÿÿÿ
+d	php:S1192è"IDefine a constant instead of duplicating this literal "networks" 3 times.(…¤ä˜ÿÿÿÿÿ
+\	php:S1192z"GDefine a constant instead of duplicating this literal "number" 5 times.(¸â¡Ö
+j	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÂëÃ¤
+a	php:S1192$"GDefine a constant instead of duplicating this literal "where" 14 times.(Õ‹ÎÇıÿÿÿÿ
+a	php:S1192""GDefine a constant instead of duplicating this literal "select" 3 times.(ÓÂÅøÿÿÿÿ
+e	php:S1192w"PDefine a constant instead of duplicating this literal "network__not_in" 4 times.(Ÿü¹™
+j	php:S1142¼"OReduce the number of returns of this function 4, down to the maximum allowed 3.(«ùóÄşÿÿÿÿ
+a	php:S1192'"GDefine a constant instead of duplicating this literal "limits" 6 times.(ÁŸÜ¤ùÿÿÿÿ
+[	php:S1192x"FDefine a constant instead of duplicating this literal "count" 4 times.(ê’‚â
+e	php:S1192"ODefine a constant instead of duplicating this literal "domain__not_in" 4 times.(¶ŠÊ„
+\	php:S1192y"GDefine a constant instead of duplicating this literal "fields" 6 times.(æßÙÚ
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "path__in" 4 times.(çÒí¹
+[	php:S1192"GDefine a constant instead of duplicating this literal "domain" 5 times.(õ‰˜}
+]	php:S1192%"HDefine a constant instead of duplicating this literal "groupby" 6 times.(Ÿô¨ì

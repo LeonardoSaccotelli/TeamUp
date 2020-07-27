@@ -1,0 +1,25 @@
+
+e	php:S1192®"JDefine a constant instead of duplicating this literal "Iceweasel" 3 times.(ö¿àÒùÿÿÿÿ
+e	php:S1142‡"OReduce the number of returns of this function 4, down to the maximum allowed 3.(óÉ¢
+y	php:S1448–"cClass "Browser" has 55 methods, which is greater than 20 authorized. Split it into smaller classes.(ŒÓàå
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+]	php:S1192Ç"HDefine a constant instead of duplicating this literal "Phoenix" 3 times.(Í˜»>
+a	php:S1192Ù"FDefine a constant instead of duplicating this literal "mspie" 3 times.(ÄµÉŠşÿÿÿÿ
+_	php:S1192ˆ"IDefine a constant instead of duplicating this literal "netscape" 3 times.(¯¼–˜
+^	php:S1192­"HDefine a constant instead of duplicating this literal "Firefox" 3 times.(Ëïæì
+b	php:S1192Æ"LDefine a constant instead of duplicating this literal "NetPositive" 3 times.(×¹„
+j	php:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿŠòÎ
+b	php:S1871¨"MThis branch's code block is the same as the block for the branch on line 804.(Œéå"
+c	php:S1192°"HDefine a constant instead of duplicating this literal "Mozilla" 3 times.(á½„ùÿÿÿÿ
+^	php:S1192Â"HDefine a constant instead of duplicating this literal "Version" 4 times.(Ò©Ïã
+^	php:S1192ˆ"HDefine a constant instead of duplicating this literal "mozilla" 3 times.(¯¼–˜
+]	php:S1192¸"HDefine a constant instead of duplicating this literal "Android" 4 times.(ïØİf
+a	php:S1192Ë"FDefine a constant instead of duplicating this literal "opera" 4 times.(Œ‰„Òùÿÿÿÿ
+e	php:S1192©"JDefine a constant instead of duplicating this literal "Konqueror" 3 times.(¨ø‹¿üÿÿÿÿ
+f	php:S1192¼"KDefine a constant instead of duplicating this literal "BlackBerry" 4 times.(ÑİŠ‹üÿÿÿÿ
+_	php:S1192¬"IDefine a constant instead of duplicating this literal "Firebird" 3 times.(Ëò÷ú
+b	php:S1192·"GDefine a constant instead of duplicating this literal "Chrome" 3 times.(ŸóÔ²üÿÿÿÿ
+c	php:S1192¡"HDefine a constant instead of duplicating this literal "unknown" 4 times.(Ò…ÿ©üÿÿÿÿ
+a	php:S1192ğ"KDefine a constant instead of duplicating this literal "opera mini" 3 times.(®±Ï°
+]	php:S1192´"GDefine a constant instead of duplicating this literal "iPhone" 5 times.(Å—àÌ
+j	php:S1142¾"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Õë×Èúÿÿÿÿ

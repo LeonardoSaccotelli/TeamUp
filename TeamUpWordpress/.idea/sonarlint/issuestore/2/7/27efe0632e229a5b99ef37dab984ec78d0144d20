@@ -1,0 +1,22 @@
+
+a	php:S1192\"GDefine a constant instead of duplicating this literal "um_key" 3 times.(£×½şÿÿÿÿ
+g	php:S1192¶"LDefine a constant instead of duplicating this literal "Y-m-d H:s:i" 4 times.(ˆÕ¦æùÿÿÿÿ
+4php:S125²"Remove this commented out code.(Œ™ó’
+php:S138ñ"ƒThis function "handle_filter_query" has 153 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(„şÄœşÿÿÿÿ
+–php:S138á"€This function "ajax_get_members" has 247 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(îÊ®
+t	php:S1192à"YDefine a constant instead of duplicating this literal "um_member_directory_seed" 5 times.(©úôüÿÿÿÿÿ
+b	php:S1192×"GDefine a constant instead of duplicating this literal "search" 3 times.(ÖËËøÿÿÿÿ
+o	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 94 to the 15 allowed.(„şÄœşÿÿÿÿ
+rphp:S101"YRename class "Member_Directory_Meta" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‰Ìªúÿÿÿÿ
+^	php:S1192ß"HDefine a constant instead of duplicating this literal "form_id" 3 times.(œÈÂÃ
+a	php:S1192ç"FDefine a constant instead of duplicating this literal "Y/m/d" 4 times.(áæÒúıÿÿÿÿ
+a	php:S1192½"FDefine a constant instead of duplicating this literal "roles" 3 times.(£à…çúÿÿÿÿ
+h	php:S11927"SDefine a constant instead of duplicating this literal "um_usermeta_fields" 9 times.(‘Ã€È
+e	php:S1192"JDefine a constant instead of duplicating this literal "max_users" 6 times.(æ†Åèûÿÿÿÿ
+m	php:S1192ß"WDefine a constant instead of duplicating this literal "_um_search_filters_gmt" 3 times.(œÈÂÃ
+a	php:S1192Û"KDefine a constant instead of duplicating this literal "gmt_offset" 9 times.(Œ¿†œ
+9php:S125"Remove this commented out code.(Ò™Ú‡şÿÿÿÿ
+9php:S125œ"Remove this commented out code.(éØ»Úûÿÿÿÿ
+k	php:S3776á"URefactor this function to reduce its Cognitive Complexity from 118 to the 15 allowed.(îÊ®
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+e	php:S1192Š"PDefine a constant instead of duplicating this literal "capabilities' )" 3 times.(ÕÃ–Z

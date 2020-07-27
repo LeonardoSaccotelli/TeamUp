@@ -1,0 +1,11 @@
+
+e	php:S1192"JDefine a constant instead of duplicating this literal "text/html" 8 times.(—¶Ó‹ÿÿÿÿÿ
+j	php:S1142€"OReduce the number of returns of this function 8, down to the maximum allowed 3.(¼•şÿÿÿÿ
+e	php:S1192Y"KDefine a constant instead of duplicating this literal "text/plain" 3 times.(§›Õ‚ùÿÿÿÿ
+{php:S101<"bRename class "SimplePie_Content_Type_Sniffer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ä‚Á½şÿÿÿÿ
+n	php:S3776T"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(„ûÿÓüÿÿÿÿ
+i	php:S1142T"OReduce the number of returns of this function 8, down to the maximum allowed 3.(„ûÿÓüÿÿÿÿ
+j	php:S1142­"OReduce the number of returns of this function 9, down to the maximum allowed 3.(ëğíÛÿÿÿÿÿ
+g	php:S1192V"MDefine a constant instead of duplicating this literal "content-type" 8 times.(ªƒüÍÿÿÿÿÿ
+j	php:S1142Ş"OReduce the number of returns of this function 6, down to the maximum allowed 3.(‰€·ùÿÿÿÿ
+o	php:S3776€"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(¼•şÿÿÿÿ

@@ -1,0 +1,14 @@
+
+c	php:S1192l"IDefine a constant instead of duplicating this literal "group_id" 8 times.(ÃõàÚüÿÿÿÿ
+	php:S1186"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(¨ÿ—¦
+\	php:S1192h"GDefine a constant instead of duplicating this literal "status" 5 times.(šùÒ¯
+~	php:S1488§"cImmediately return this expression instead of assigning it to the temporary variable "$moderators".(œ×Û’ÿÿÿÿÿ
+j	php:S1192`"PDefine a constant instead of duplicating this literal "Invalid request" 6 times.(‚«’Àûÿÿÿÿ
+c	php:S1192m"IDefine a constant instead of duplicating this literal "user_id1" 6 times.(éÌ±‘ùÿÿÿÿ
+|	php:S1192‚"fDefine a constant instead of duplicating this literal "um_groups_after_member_changed_status" 5 times.(È‹Èˆ
+[	php:S1192V"FDefine a constant instead of duplicating this literal "group" 5 times.(ŒÅ·¿
+z	php:S1488À"_Immediately return this expression instead of assigning it to the temporary variable "$groups".(ğÈÚûÿÿÿÿ
+d	php:S1192W"JDefine a constant instead of duplicating this literal "um-groups" 7 times.(¯ëê›ùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+ephp:S101"QRename class "Groups_Member" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²ÊĞÙ
+]	php:S1192V"HDefine a constant instead of duplicating this literal "user_id" 7 times.(ŒÅ·¿

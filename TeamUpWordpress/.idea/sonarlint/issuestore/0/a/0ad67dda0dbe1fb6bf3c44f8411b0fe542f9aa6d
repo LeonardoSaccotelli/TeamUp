@@ -1,0 +1,3 @@
+
+t	php:S2761;"_Use the "!" operator just once or not at all. If a type cast is intended, use "(bool)" instead.(“Í„ì
+gphp:S101"NRename class "MU_Plugins" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í§€‡ýÿÿÿÿ

@@ -1,0 +1,95 @@
+
+k	php:S1192¥"PDefine a constant instead of duplicating this literal "access_redirect" 4 times.(¥´ÌÊıÿÿÿÿ
+g	php:S1192³"QDefine a constant instead of duplicating this literal "taxonomy_message" 8 times.(œØÓµ
+1	php:S3626ã"Remove this redundant jump.(ÉŠ©ƒ
+H	php:S1172ï	"-Remove the unused function parameter "$args".(¥òĞœúÿÿÿÿ
+p	php:S1192Ï"UDefine a constant instead of duplicating this literal "_um_noaccess_action" 19 times.(ÉÃàÂùÿÿÿÿ
+Jphp:S121ó"0Add curly braces around the nested statement(s).(ì™®·üÿÿÿÿ
+1	php:S3626Ì"Remove this redundant jump.(ÉŠ©ƒ
+o	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(å‘¶øÿÿÿÿ
+o	php:S3776ï	"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(¥òĞœúÿÿÿÿ
+1	php:S3626ş"Remove this redundant jump.(ÉŠ©ƒ
+x	php:S1192İ"]Define a constant instead of duplicating this literal "_um_restrict_custom_message" 12 times.(ğĞáêÿÿÿÿÿ
+	php:S1488â	"fImmediately return this expression instead of assigning it to the temporary variable "$has_thumbnail".(´é€Îüÿÿÿÿ
+J	php:S1066ª"/Merge this if statement with the enclosing one.(“Û»øÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(¸œšÍ
+h	php:S1192­"RDefine a constant instead of duplicating this literal "_um_access_roles" 21 times.(÷¬Ãè
+v	php:S1488Œ"`Immediately return this expression instead of assigning it to the temporary variable "$content".(Æªù÷
+Qphp:S131ä
+"7Add a "case default" clause to this "switch" statement.(Ñã˜³ùÿÿÿÿ
+j	php:S1142š"OReduce the number of returns of this function 6, down to the maximum allowed 3.(•Ô†¤ıÿÿÿÿ
+Ephp:S121Á"0Add curly braces around the nested statement(s).(’¿»Ï
+Ephp:S121¥"0Add curly braces around the nested statement(s).(ĞÇİé
+j	php:S1192õ"ODefine a constant instead of duplicating this literal "administrator" 13 times.(ŒÎÑ°úÿÿÿÿ
+i	php:S3776s"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(†ÓÅ
+M	php:S1172ì"2Remove the unused function parameter "$templates".(Œ›É¯øÿÿÿÿ
+j	php:S1142ñ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¦“„‡ûÿÿÿÿ
+m	php:S1192€"WDefine a constant instead of duplicating this literal "um_content_restriction" 6 times.(ØÈ¤„
+d	php:S1142s"OReduce the number of returns of this function 9, down to the maximum allowed 3.(†ÓÅ
+a	php:S1192Ú"KDefine a constant instead of duplicating this literal "attachment" 4 times.(Ô™ÿ®
+n	php:S1192Û"SDefine a constant instead of duplicating this literal "prepend_attachment" 4 times.(Û²şÿÿÿÿ
+p	php:S1192Ò"UDefine a constant instead of duplicating this literal "_um_access_redirect" 14 times.(·Âì†úÿÿÿÿ
+1	php:S3626Å"Remove this redundant jump.(ÉŠ©ƒ
+1	php:S3626¥"Remove this redundant jump.(ÉŠ©ƒ
+o	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(şúËşÿÿÿÿ
+c	php:S1192Ô"MDefine a constant instead of duplicating this literal "redirect_to" 12 times.(É¸ê
+	php:S1488î"dImmediately return this expression instead of assigning it to the temporary variable "$restriction".(üƒüÿÿÿÿÿ
+>	php:S1125Á"(Remove the literal "true" boolean value.(’¿»Ï
+1	php:S3626Œ"Remove this redundant jump.(ÉŠ©ƒ
+Jphp:S121»"0Add curly braces around the nested statement(s).(¡À¡©üÿÿÿÿ
+Ephp:S121„"0Add curly braces around the nested statement(s).(–ş¯ø
+o	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(•Ô†¤ıÿÿÿÿ
+f	php:S1192"PDefine a constant instead of duplicating this literal "_um_accessible" 22 times.(¸ì—ı
+¡php:S138¡"†This function "filter_protected_posts" has 199 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(­ËË‘úÿÿÿÿ
+p	php:S1192‡"UDefine a constant instead of duplicating this literal "woocommerce_template" 3 times.(øÛ üüÿÿÿÿ
+b	php:S1192©"GDefine a constant instead of duplicating this literal "global" 3 times.(“á¦Æüÿÿÿÿ
+[	php:S1226Œ"EIntroduce a new variable instead of reusing the parameter "$content".(Æªù÷
+J	php:S1066ã"/Merge this if statement with the enclosing one.(“Û»øÿÿÿÿ
+v	php:S1192Ú"`Define a constant instead of duplicating this literal "_um_restrict_by_custom_message" 18 times.(¹šëÚ
+Ephp:S121ˆ"0Add curly braces around the nested statement(s).(ŸÇö¾
+1	php:S3626Î"Remove this redundant jump.(ÉŠ©ƒ
+f	php:S1192"KDefine a constant instead of duplicating this literal "accessible" 3 times.(üÅ×àûÿÿÿÿ
+Ephp:S121†"0Add curly braces around the nested statement(s).(™ğÓ¤
+4php:S125Ç"Remove this commented out code.(‹¯Ğ
+q	php:S1192š"[Define a constant instead of duplicating this literal "_um_custom_access_settings" 4 times.(áÙ‚
+Jphp:S121¦"0Add curly braces around the nested statement(s).(¡À¡©üÿÿÿÿ
+1	php:S3626Ì"Remove this redundant jump.(ÉŠ©ƒ
+Ephp:S121ñ	"0Add curly braces around the nested statement(s).(ÎÿÈ³
+Iphp:S121{"0Add curly braces around the nested statement(s).(ù®©Àşÿÿÿÿ
+z	php:S1192G"`Define a constant instead of duplicating this literal "um_access_check_global_settings" 3 times.(´â‘¦ûÿÿÿÿ
+w	php:S1488ö"\Immediately return this expression instead of assigning it to the temporary variable "$url".(ü€”ïùÿÿÿÿ
+j	php:S1142Í
+"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ì‰åúÿÿÿÿ
+}	php:S1192z"cDefine a constant instead of duplicating this literal "restricted_access_taxonomy_metabox" 5 times.(Ô„ÖÓüÿÿÿÿ
+L	php:S1172ì"1Remove the unused function parameter "$template".(Œ›É¯øÿÿÿÿ
+k	php:S1192‡"PDefine a constant instead of duplicating this literal "single_template" 3 times.(øÛ üüÿÿÿÿ
+Ephp:S121š"0Add curly braces around the nested statement(s).(áÙ‚
+1	php:S3626×"Remove this redundant jump.(ÉŠ©ƒ
+n	php:S1192ì
+"SDefine a constant instead of duplicating this literal "um_message_content" 3 times.(Ò³Şúÿÿÿÿ
+z	php:S1192…"dDefine a constant instead of duplicating this literal "um_access_fix_external_post_content" 3 times.(œÄû¥
+o	php:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(èÁÛúÿÿÿÿ
+]	php:S1192Ô"GDefine a constant instead of duplicating this literal "login" 13 times.(É¸ê
+Jphp:S121 "0Add curly braces around the nested statement(s).(ü­èÿÿÿÿÿ
+b	php:S1192ò"LDefine a constant instead of duplicating this literal "the_content" 9 times.(ï¬¯Ø
+p	php:S3776¡"URefactor this function to reduce its Cognitive Complexity from 292 to the 15 allowed.(­ËË‘úÿÿÿÿ
+t	php:S1192Ø"YDefine a constant instead of duplicating this literal "_um_access_redirect_url" 10 times.(»Êæ÷ıÿÿÿÿ
+ƒ	php:S1192F"iDefine a constant instead of duplicating this literal "um_access_check_individual_term_settings" 3 times.(Ó©·éúÿÿÿÿ
+k	php:S1192è
+"PDefine a constant instead of duplicating this literal "um_message_type" 9 times.(ô¯¤üÿÿÿÿ
+o	php:S3776‰	"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(¡–Æƒùÿÿÿÿ
+o	php:S3776Í
+"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(ì‰åúÿÿÿÿ
+E	php:S1066¥"/Merge this if statement with the enclosing one.(ĞÇİé
+4php:S125Æ"Remove this commented out code.(Ì—Ú…
+]	php:S1192Û
+"GDefine a constant instead of duplicating this literal "attrs" 18 times.(şáè
+k	php:S1192ò"UDefine a constant instead of duplicating this literal "replace_post_content" 5 times.(ï¬¯Ø
+Jphp:S121ş"0Add curly braces around the nested statement(s).(˜Ï•Æüÿÿÿÿ
+1	php:S3626Š"Remove this redundant jump.(ÉŠ©ƒ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+s	php:S1192Ö"]Define a constant instead of duplicating this literal "_um_access_hide_from_queries" 6 times.(Ÿ€Î±
+h	php:S1301ä
+"MReplace this "switch" statement with "if" statements to increase readability.(Ñã˜³ùÿÿÿÿ
+H	php:S1172ì"-Remove the unused function parameter "$type".(Œ›É¯øÿÿÿÿ
+Jphp:S121õ"0Add curly braces around the nested statement(s).(ŒÎÑ°úÿÿÿÿ

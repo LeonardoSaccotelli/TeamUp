@@ -1,0 +1,10 @@
+
+s	php:S1488n"_Immediately return this expression instead of assigning it to the temporary variable "$return".(œ¥%
+d	php:S1142O"OReduce the number of returns of this function 8, down to the maximum allowed 3.(šäûÏ
+y	php:S1488d"_Immediately return this expression instead of assigning it to the temporary variable "$return".(÷§æ€úÿÿÿÿ
+Kphp:S131R"7Add a "case default" clause to this "switch" statement.(õ«¦Ö
+[	php:S1192"FDefine a constant instead of duplicating this literal "array" 3 times.(µıš•
+	php:S1603&"lReplace this function name "IXR_Value", since a "__construct" method has already been defined in this class.(ÛÿÏ”
+a	php:S1192"GDefine a constant instead of duplicating this literal "struct" 4 times.(ªš¥ğøÿÿÿÿ
+aphp:S101"MRename class "IXR_Value" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬ÂíŠ
+i	php:S1142*"OReduce the number of returns of this function 9, down to the maximum allowed 3.(õÏ†‡üÿÿÿÿ

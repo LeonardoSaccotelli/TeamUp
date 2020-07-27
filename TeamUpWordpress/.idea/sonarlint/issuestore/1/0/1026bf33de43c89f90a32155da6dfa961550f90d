@@ -1,0 +1,19 @@
+
+`	php:S1192|"FDefine a constant instead of duplicating this literal "order" 3 times.(ÖëÃııÿÿÿÿ
+:	Web:S5256ı"%Add "<th>" headers to this "<table>".(¬ì—J
+‰	php:S1448"oClass "WP_Terms_List_Table" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(Ô¹ôâşÿÿÿÿ
+j	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(«ñ’©
+H	php:S1135?"4Complete the task associated to this "TODO" comment.(ç÷ì
+\php:S107˜"GThis function has 8 parameters, which is greater than the 7 authorized.(«ñ’©
+]	php:S1192x"HDefine a constant instead of duplicating this literal "orderby" 5 times.(ë³ÍØ
+a	php:S1192u"GDefine a constant instead of duplicating this literal "number" 5 times.(£¥èĞøÿÿÿÿ
+a	php:S1192¾"FDefine a constant instead of duplicating this literal "posts" 3 times.(¿¢Ìúÿÿÿÿ
+r	php:S1488­"\Immediately return this expression instead of assigning it to the temporary variable "$out".(ŒÏ¸É
+pphp:S101"WRename class "WP_Terms_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ô¹ôâşÿÿÿÿ
+_	php:S1192Ù"IDefine a constant instead of duplicating this literal "taxonomy" 3 times.(™»¢×
+HWeb:TableWithoutCaptionCheckı" Add a description to this table.(¬ì—J
+J	php:S1135"4Complete the task associated to this "TODO" comment.(ƒºÛÌ
+b	php:S1192·"LDefine a constant instead of duplicating this literal "description" 4 times.(¾¼¯˜
+\	php:S1192-"GDefine a constant instead of duplicating this literal "screen" 3 times.(ÉœÆŒ
+\	php:S1192Ÿ"GDefine a constant instead of duplicating this literal "delete" 4 times.(®­Ïi
+a	php:S1192s"GDefine a constant instead of duplicating this literal "search" 4 times.(Ãª’Çÿÿÿÿÿ

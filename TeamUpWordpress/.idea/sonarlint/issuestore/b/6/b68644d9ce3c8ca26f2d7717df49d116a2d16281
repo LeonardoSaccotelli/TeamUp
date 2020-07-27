@@ -1,0 +1,7 @@
+
+[	php:S1192J"GDefine a constant instead of duplicating this literal "scheme" 3 times.(‡£ôY
+kphp:S1018"RRename class "SimplePie_File" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ãåè±ûÿÿÿÿ
+”php:S138D"{This function "__construct" has 217 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(íÖ½ûÿÿÿÿ
+o	php:S3776D"URefactor this function to reduce its Cognitive Complexity from 134 to the 15 allowed.(íÖ½ûÿÿÿÿ
+I	php:S11356"4Complete the task associated to this "TODO" comment.(»òÉİ
+_	php:S1192‹"IDefine a constant instead of duplicating this literal "location" 4 times.(·ë¼ü

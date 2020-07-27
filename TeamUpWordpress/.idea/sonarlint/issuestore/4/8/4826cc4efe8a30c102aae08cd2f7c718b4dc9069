@@ -1,0 +1,60 @@
+
+J	php:S1066’"/Merge this if statement with the enclosing one.(úµ£úÿÿÿÿ
+w	php:S1192ó"\Define a constant instead of duplicating this literal "um_submit_form_errors_hook_" 3 times.(Š–‰Óûÿÿÿÿ
+J	php:S1066®"/Merge this if statement with the enclosing one.(ñîžØüÿÿÿÿ
+I	php:S1066]"/Merge this if statement with the enclosing one.(«ËÞ‰úÿÿÿÿ
+w	php:S1488£"aImmediately return this expression instead of assigning it to the temporary variable "$continue".(¦ýúŒ
+u	php:S1192Ï"ZDefine a constant instead of duplicating this literal "This is not a valid email" 3 times.(í¶Ò‚øÿÿÿÿ
+B	php:S11727"-Remove the unused function parameter "$args".(”ÛàÞ
+^	php:S1192Â"HDefine a constant instead of duplicating this literal "user_id" 5 times.(‹€é€
+f	php:S1192Ë"KDefine a constant instead of duplicating this literal "role_radio" 3 times.(ÌïÓÃùÿÿÿÿ
+^	php:S1192s"IDefine a constant instead of duplicating this literal "register" 5 times.(¾Öû
+A	php:S1481q",Remove this unused "$fields" local variable.(ìšÛÖ
+G	php:S1481m"-Remove this unused "$form_id" local variable.(ŠÏðÄúÿÿÿÿ
+E	php:S1066‹"/Merge this if statement with the enclosing one.(±‚Ô¶
+^	php:S1192 "IDefine a constant instead of duplicating this literal "username" 5 times.(´¨¡é
+c	php:S1192\"IDefine a constant instead of duplicating this literal "validate" 4 times.(ó…ñþÿÿÿÿ
+c	php:S1192W"NDefine a constant instead of duplicating this literal "custom_fields" 3 times.(ìšÛÖ
+a	php:S1192—"FDefine a constant instead of duplicating this literal "roles" 3 times.(ð×‡¢ýÿÿÿÿ
+a	php:S1192¿"FDefine a constant instead of duplicating this literal "title" 5 times.(£òñûÿÿÿÿ
+[php:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(êÙ®¤
+k	php:S3776ƒ"URefactor this function to reduce its Cognitive Complexity from 405 to the 15 allowed.(ÿ×‚Í
+j	php:S1192­"ODefine a constant instead of duplicating this literal "max_selections" 4 times.(ýªÒ´ýÿÿÿÿ
+g	php:S1192"LDefine a constant instead of duplicating this literal "description" 4 times.(à®îÿüÿÿÿÿ
+‹	php:S1192ë"pDefine a constant instead of duplicating this literal "Please enter a valid %s username or profile URL" 7 times.(­÷ƒîýÿÿÿÿ
+ƒ	php:S1192d"iDefine a constant instead of duplicating this literal "um_submit_form_errors_hook__blockedwords" 3 times.(ºìÑÔøÿÿÿÿ
+E	php:S1066´"/Merge this if statement with the enclosing one.(­­¾¤
+e	php:S1192§"ODefine a constant instead of duplicating this literal "min_selections" 4 times.(âû—˜
+E	php:S1066©"/Merge this if statement with the enclosing one.(íØúÔ
+J	php:S1066—"/Merge this if statement with the enclosing one.(ù½àýÿÿÿÿ
+b	php:S1192U"HDefine a constant instead of duplicating this literal "form_id" 3 times.(ŠÏðÄúÿÿÿÿ
+o	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 83 to the 15 allowed.(Å„øžÿÿÿÿÿ
+e	php:S1192^"QDefine a constant instead of duplicating this literal "ultimate-member" 53 times.(„É´
+J	php:S1066º"/Merge this if statement with the enclosing one.(üç¾µþÿÿÿÿ
+d	php:S1192Ç"IDefine a constant instead of duplicating this literal "required" 9 times.(¥ŒÌ¸þÿÿÿÿ
+	php:S1192/"jDefine a constant instead of duplicating this literal "um_submit_form_errors_hook__blockedemails" 3 times.(‘ïÔ®
+	php:S1192µ"tDefine a constant instead of duplicating this literal "This email is already linked to an existing account" 5 times.(ý¬‘‹þÿÿÿÿ
+f	php:S1192§"KDefine a constant instead of duplicating this literal "conditions" 4 times.(æ ûÔÿÿÿÿÿ
+E	php:S1066‘"/Merge this if statement with the enclosing one.(Ôò‘è
+E	php:S1066ƒ"/Merge this if statement with the enclosing one.(ºø¤´
+J	php:S1066ý"/Merge this if statement with the enclosing one.(±üÎ„øÿÿÿÿ
+g	php:S1192Ë"LDefine a constant instead of duplicating this literal "role_select" 3 times.(ÌïÓÃùÿÿÿÿ
+[	php:S1192"FDefine a constant instead of duplicating this literal "rtrim" 3 times.(–Âì
+D	php:S1066‰"/Merge this if statement with the enclosing one.(ü¶ãp
+`	php:S1192"KDefine a constant instead of duplicating this literal "user_email" 7 times.(Õ×´‡
+i	php:S1192‡"NDefine a constant instead of duplicating this literal "profile_photo" 3 times.(‹¼¥£úÿÿÿÿ
+	php:S1192G"gDefine a constant instead of duplicating this literal "um_submit_form_errors_hook__blockedips" 3 times.(º‚ý‰þÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ýÿÿÿÿ
+b	php:S1192ò"GDefine a constant instead of duplicating this literal "label" 12 times.(øåØþÿÿÿÿ
+E	php:S1066ñ"/Merge this if statement with the enclosing one.(ïÉú
+Qphp:S131Á"7Add a "case default" clause to this "switch" statement.(æ˜Áÿÿÿÿÿ
+f	php:S1192È"PDefine a constant instead of duplicating this literal "%s is required." 3 times.(íçý¥
+^	php:S1192Ÿ"IDefine a constant instead of duplicating this literal "confirm_" 4 times.(ß’Ø
+¡php:S138ƒ"‹This function "um_submit_form_errors_hook_" has 284 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÿ×‚Í
+e	php:S1192ü"JDefine a constant instead of duplicating this literal "max_words" 4 times.(œŠ—”ûÿÿÿÿ
+>	php:S1481V"*Remove this unused "$mode" local variable.(Ë™ý
+E	php:S1066™"/Merge this if statement with the enclosing one.(êË¸ñ
+_	php:S1192‚"JDefine a constant instead of duplicating this literal "min_chars" 4 times.(£ˆÃR
+E	php:S1066¨"/Merge this if statement with the enclosing one.(¾Ä¾¨
+G	php:S1481U"-Remove this unused "$form_id" local variable.(ŠÏðÄúÿÿÿÿ
+`	php:S1192ˆ"JDefine a constant instead of duplicating this literal "max_chars" 4 times.(¡®Ã±

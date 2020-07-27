@@ -1,0 +1,38 @@
+
+i	php:S1192¸"NDefine a constant instead of duplicating this literal "rewrite_rules" 4 times.(Ïà™¿ıÿÿÿÿ
+¡php:S138Û"†This function "generate_rewrite_rules" has 202 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(à”í€ûÿÿÿÿ
+€	php:S1448"fClass "WP_Rewrite" has 37 methods, which is greater than 20 authorized. Split it into smaller classes.(Ü‡³·øÿÿÿÿ
+a	php:S1192ğ"KDefine a constant instead of duplicating this literal " [QSA,L]\n" 3 times.(”ÆÕ†
+e	php:S1117±"JRename "$rules" which has the same name as the field declared at line 189.(€×’¤ÿÿÿÿÿ
+o	php:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 88 to the 15 allowed.(à”í€ûÿÿÿÿ
+}	php:S1488°"bImmediately return this expression instead of assigning it to the temporary variable "$structure".(·Õ»¿ûÿÿÿÿ
+^	php:S1192í
+"HDefine a constant instead of duplicating this literal "ep_mask" 3 times.(ÅÖê¦
+b	php:S1192™"GDefine a constant instead of duplicating this literal "%year%" 3 times.(™†Ûùıÿÿÿÿ
+}	php:S1488Ç"bImmediately return this expression instead of assigning it to the temporary variable "$structure".(·Õ»¿ûÿÿÿÿ
+o	php:S1117½
+"TRename "$search_structure" which has the same name as the field declared at line 88.(“ß–öùÿÿÿÿ
+e	php:S1117é"JRename "$front" which has the same name as the field declared at line 150.(†Úúÿÿÿÿ
+j	php:S3776ç	"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÄÎˆë
+b	php:S1192ã"LDefine a constant instead of duplicating this literal "&embed=true" 3 times.(¶·®Ê
+^	php:S1192"HDefine a constant instead of duplicating this literal "/%.+?%/" 3 times.(—¨àÏ
+\	php:S1192›"FDefine a constant instead of duplicating this literal "%day%" 5 times.(òÍ´µ
+c	php:S1192Ñ"HDefine a constant instead of duplicating this literal "&cpage=" 3 times.(“Úîûÿÿÿÿ
+`	php:S1117ë
+"JRename "$rules" which has the same name as the field declared at line 189.(öƒšå
+`	php:S1117ä"JRename "$rules" which has the same name as the field declared at line 189.(†¦È­
+gphp:S101"NRename class "WP_Rewrite" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ü‡³·øÿÿÿÿ
+`	php:S1117è"JRename "$index" which has the same name as the field declared at line 173.(…İÒ¡
+e	php:S1117„"JRename "$index" which has the same name as the field declared at line 173.(À¨õˆúÿÿÿÿ
+_	php:S1192 "JDefine a constant instead of duplicating this literal "%post_id%" 3 times.(—´Ì
+d	php:S1192ğ"NDefine a constant instead of duplicating this literal "RewriteRule ^" 3 times.(”ÆÕ†
+h	php:S1192¯"MDefine a constant instead of duplicating this literal "([0-9]{1,2})" 5 times.(¿±†úÿÿÿÿ
+e	php:S1117ı"JRename "$front" which has the same name as the field declared at line 150.(œŸƒãşÿÿÿÿ
+b	php:S1192Û"GDefine a constant instead of duplicating this literal "&feed=" 3 times.(í´ııÿÿÿÿ
+e	php:S1117"JRename "$front" which has the same name as the field declared at line 150.(¯øÉ˜ùÿÿÿÿ
+`	php:S1192Í"KDefine a constant instead of duplicating this literal "with_front" 3 times.(ÿñ¬K
+d	php:S1192Ó"NDefine a constant instead of duplicating this literal "page_on_front" 3 times.(™Çß™
+]	php:S1192‡"GDefine a constant instead of duplicating this literal "struct" 3 times.(¦á–
+a	php:S1192š"KDefine a constant instead of duplicating this literal "%monthnum%" 4 times.(ÊÎø
+e	php:S1192¼"JDefine a constant instead of duplicating this literal "wp_loaded" 4 times.(³¹¨úÿÿÿÿ
+a	php:S1192¢"KDefine a constant instead of duplicating this literal "%pagename%" 5 times.(×Ÿ•™

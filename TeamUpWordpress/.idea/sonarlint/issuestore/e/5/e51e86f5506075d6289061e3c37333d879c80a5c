@@ -1,0 +1,90 @@
+
+i	php:S1192Ì"NDefine a constant instead of duplicating this literal "profile_photo" 4 times.(˜Öîóÿÿÿÿÿ
+j	php:S1192F"UDefine a constant instead of duplicating this literal "pending_admin_review" 5 times.(ºÂÿ¼
+j	php:S1192»"ODefine a constant instead of duplicating this literal "posts_per_page" 5 times.(ÍöÚñøÿÿÿÿ
+a	php:S1192£"FDefine a constant instead of duplicating this literal "hover" 4 times.(€ì‘úÿÿÿÿ
+j	php:S1142ê"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ˆÎøÎıÿÿÿÿ
+J	php:S1135Ê"4Complete the task associated to this "TODO" comment.(ÆÁ€™
+b	php:S1192‰"LDefine a constant instead of duplicating this literal "Y-m-d H:i:s" 5 times.(ƒÍ‹ñ
+g	php:S1192ƒ"LDefine a constant instead of duplicating this literal "user_email" 10 times.(äó’½úÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+Jphp:S121…"0Add curly braces around the nested statement(s).(ÏÅñüÿÿÿÿ
+e	php:S1142š"OReduce the number of returns of this function 7, down to the maximum allowed 3.(—Õ–Ê
+]	php:S1192"GDefine a constant instead of duplicating this literal "avatar" 3 times.(ü§ù
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(›˜‚ûÿÿÿÿ
+a	php:S1192‡	"FDefine a constant instead of duplicating this literal "found" 9 times.(ô…ÿöûÿÿÿÿ
+`	php:S11926"KDefine a constant instead of duplicating this literal "um-groups" 47 times.(€ı‘•
+h	php:S1192ƒ"MDefine a constant instead of duplicating this literal "display_name" 7 times.(äó’½úÿÿÿÿ
+e	php:S1192•"JDefine a constant instead of duplicating this literal "um_groups" 7 times.(­âê‚üÿÿÿÿ
+^	php:S1192…"HDefine a constant instead of duplicating this literal "search" 13 times.(Ÿü…·
+G	php:S1172Æ"1Remove the unused function parameter "$group_id".(ÕÍ­
+g	php:S1192¢"LDefine a constant instead of duplicating this literal "Leave Group" 4 times.(ŒÿˆÓÿÿÿÿÿ
+x	php:S1488Ÿ"bImmediately return this expression instead of assigning it to the temporary variable "$thumbnail".(ÍÂ•Ë
+c	php:S1871¡"MThis branch's code block is the same as the block for the branch on line 664.(Ş’™½
+M	php:S1481Ç"2Remove this unused "$pages_needed" local variable.(ëŠæùÿÿÿÿ
+Lphp:S131ı"7Add a "case default" clause to this "switch" statement.(”Ûîƒ
+`	php:S1192–"KDefine a constant instead of duplicating this literal "has_joined" 4 times.(×«›_
+j	php:S1192“"ODefine a constant instead of duplicating this literal "account_status" 3 times.(éõÕûÿÿÿÿ
+\	php:S11926"GDefine a constant instead of duplicating this literal "public" 9 times.(€ı‘•
+C	php:S1172Ÿ"-Remove the unused function parameter "$args".(ôÈúË
+_	php:S1192Î"IDefine a constant instead of duplicating this literal "user_id" 13 times.(¤†Øı
+i	php:S1192Å"SDefine a constant instead of duplicating this literal "_um_groups_privacy" 3 times.(„éí
+o	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 83 to the 15 allowed.(Ó÷ó‹øÿÿÿÿ
+Jphp:S121†"0Add curly braces around the nested statement(s).(šÿ×°ùÿÿÿÿ
+b	php:S1192”"GDefine a constant instead of duplicating this literal "value" 16 times.(¼î¯Ïıÿÿÿÿ
+K	php:S1172Î"0Remove the unused function parameter "$privacy".(ÜÊóüÿÿÿÿ
+b	php:S1192Å"LDefine a constant instead of duplicating this literal "um_group_id" 4 times.(Ú‚
+_	php:S1192©"IDefine a constant instead of duplicating this literal "relation" 4 times.(œ»é·
+a	php:S1192å"FDefine a constant instead of duplicating this literal "debug" 4 times.(îëìØÿÿÿÿÿ
+c	php:S11928"IDefine a constant instead of duplicating this literal "private" 10 times.(—ã¢şÿÿÿÿ
+L	php:S1481Ö"1Remove this unused "$member_stat" local variable.(éôş‚şÿÿÿÿ
+\	php:S1192À"FDefine a constant instead of duplicating this literal "start" 3 times.(³íî¸
+\	php:S11929"GDefine a constant instead of duplicating this literal "hidden" 6 times.(¿çŠó
+^	php:S1192÷"HDefine a constant instead of duplicating this literal "status" 17 times.(âÉ°ı
+e	php:S1192"JDefine a constant instead of duplicating this literal "post_type" 3 times.(•¥íÎÿÿÿÿÿ
+T	php:S1854"9Remove this useless assignment to local variable '$args'.(Š×¹ûıÿÿÿÿ
+d	php:S1192û"IDefine a constant instead of duplicating this literal "settings" 3 times.(ÿ ±Ìıÿÿÿÿ
+_	php:S1192H"JDefine a constant instead of duplicating this literal "approved" 13 times.(ˆ‚¶Â
+a	php:S1192„"KDefine a constant instead of duplicating this literal "meta_query" 7 times.(ó¿å
+u	php:S1488İ"_Immediately return this expression instead of assigning it to the temporary variable "$output".(ŠÍöÄ
+j	php:S3776í"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÙÑ°µ
+|	php:S1488Û"aImmediately return this expression instead of assigning it to the temporary variable "$raw_data".( Ùåáÿÿÿÿÿ
+p	php:S1192G"VDefine a constant instead of duplicating this literal "pending_member_review" 8 times.(ÅÇ·ªıÿÿÿÿ
+c	php:S1192•"HDefine a constant instead of duplicating this literal "compare" 7 times.(¤“øíıÿÿÿÿ
+d	php:S1192P"JDefine a constant instead of duplicating this literal "moderator" 9 times.(”ê™²øÿÿÿÿ
+a	php:S1192¢"FDefine a constant instead of duplicating this literal "leave" 4 times.(ŒÿˆÓÿÿÿÿÿ
+c	php:S1192ç"HDefine a constant instead of duplicating this literal "members" 7 times.(ÄğÜ ûÿÿÿÿ
+`	php:S1192‰"JDefine a constant instead of duplicating this literal "timestamp" 7 times.(ƒÍ‹ñ
+]	php:S1192‚"GDefine a constant instead of duplicating this literal "fields" 4 times.(ãì¯·
+e	php:S1192…"JDefine a constant instead of duplicating this literal "user_id1" 14 times.(éÌ±‘ùÿÿÿÿ
+[	php:S1854¸"@Remove this useless assignment to local variable '$date_joined'.(µ†¾Ñıÿÿÿÿ
+k	php:S3776ç"URefactor this function to reduce its Cognitive Complexity from 117 to the 15 allowed.(…ßÅó
+f	php:S1192 "KDefine a constant instead of duplicating this literal "templates/" 3 times.(”¬¼¤ùÿÿÿÿ
+U	php:S1481î":Remove this unused "$search_query_results" local variable.(ÑôÌşÿÿÿÿ
+F	php:S1172"0Remove the unused function parameter "$user_id".(ß¦¢‹
+g	php:S1192ƒ"LDefine a constant instead of duplicating this literal "user_login" 10 times.(äó’½úÿÿÿÿ
+b	php:S1192¼"LDefine a constant instead of duplicating this literal "total_pages" 3 times.(ÒªŞ
+g	php:S1192¢"LDefine a constant instead of duplicating this literal "description" 4 times.(¾šüÿÿÿÿ
+q	php:S1192"VDefine a constant instead of duplicating this literal "um_groups_get_members" 4 times.(Ìé«øÿÿÿÿ
+y	php:S1488‘"^Immediately return this expression instead of assigning it to the temporary variable "$array".(‚©¸áûÿÿÿÿ
+\	php:S1192O"GDefine a constant instead of duplicating this literal "admin" 15 times.(¶„Œ¦
+gphp:S101
+"SRename class "Groups_Main_API" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(³­ÅÔ
+€	php:S1448
+"kClass "Groups_Main_API" has 46 methods, which is greater than 20 authorized. Split it into smaller classes.(³­ÅÔ
+q	php:S3923Ê"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ûÍØº
+f	php:S11927"LDefine a constant instead of duplicating this literal "public_role" 4 times.(„ïó¨ıÿÿÿÿ
+\	php:S1192Q"GDefine a constant instead of duplicating this literal "member" 7 times.(´²¸š
+e	php:S1192„"JDefine a constant instead of duplicating this literal "group_id" 40 times.(ÃõàÚüÿÿÿÿ
+b	php:S1192‰"LDefine a constant instead of duplicating this literal "date_joined" 5 times.(ƒÍ‹ñ
+d	php:S1192†"IDefine a constant instead of duplicating this literal "user_id2" 6 times.(­Å¿şÿÿÿÿ
+\	php:S1192è	"FDefine a constant instead of duplicating this literal "group" 4 times.(ÂÉæî
+php:S138ç"{This function "get_members" has 313 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(…ßÅó
+I	php:S1172".Remove the unused function parameter "$ratio".(›˜‚ûÿÿÿÿ
+j	php:S1192ƒ"ODefine a constant instead of duplicating this literal "search_columns" 5 times.(äó’½úÿÿÿÿ
+h	php:S1192¸"MDefine a constant instead of duplicating this literal "total_groups" 3 times.(èâË»ûÿÿÿÿ
+c	php:S1192"NDefine a constant instead of duplicating this literal "pages_to_show" 6 times.( Øéi
+a	php:S1192¡"KDefine a constant instead of duplicating this literal "Join Group" 4 times.(Î»¥å
+‚	php:S1186Æ"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(ÕÍ­
+b	php:S1192¼"GDefine a constant instead of duplicating this literal "length" 3 times.(™±¯™şÿÿÿÿ
+^	php:S1192I"IDefine a constant instead of duplicating this literal "rejected" 5 times.(‰¥Úñ

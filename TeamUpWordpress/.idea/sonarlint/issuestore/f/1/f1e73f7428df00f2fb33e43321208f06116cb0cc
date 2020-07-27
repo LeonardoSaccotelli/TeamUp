@@ -1,0 +1,17 @@
+
+k	php:S1192‘"UDefine a constant instead of duplicating this literal "meta_box_sanitize_cb" 4 times.(±¦šé
+g	php:S1192"LDefine a constant instead of duplicating this literal "meta_box_cb" 5 times.(š‹…¿øÿÿÿÿ
+c	php:S1192‹"MDefine a constant instead of duplicating this literal "show_in_menu" 3 times.(³¬í 
+i	php:S1192ˆ"SDefine a constant instead of duplicating this literal "publicly_queryable" 4 times.(ş©Ò—
+i	php:S1192"NDefine a constant instead of duplicating this literal "show_tagcloud" 3 times.(ÈÕ¡¹øÿÿÿÿ
+c	php:S1192Š"HDefine a constant instead of duplicating this literal "show_ui" 7 times.(±ÍÈäşÿÿÿÿ
+o	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.( ä«àÿÿÿÿÿ
+cphp:S101"ORename class "WP_Taxonomy" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÎĞç³
+e	php:S1192”"JDefine a constant instead of duplicating this literal "query_var" 7 times.(Ÿ‹Üôúÿÿÿÿ
+c	php:S1192’"MDefine a constant instead of duplicating this literal "capabilities" 3 times.(‚¨ì
+^	php:S1192“"HDefine a constant instead of duplicating this literal "rewrite" 6 times.(“†”Ø
+h	php:S1192Œ"RDefine a constant instead of duplicating this literal "show_in_nav_menus" 3 times.(ÆŠ”­
+]	php:S1192‡"GDefine a constant instead of duplicating this literal "public" 4 times.(Ğ…ë–
+h	php:S1192‰"MDefine a constant instead of duplicating this literal "hierarchical" 4 times.(»í•Ÿÿÿÿÿÿ
+g	php:S1192×"RDefine a constant instead of duplicating this literal "manage_categories" 3 times.(©òÜ5
+i	php:S1192"SDefine a constant instead of duplicating this literal "show_in_quick_edit" 3 times.(…ˆÏ£

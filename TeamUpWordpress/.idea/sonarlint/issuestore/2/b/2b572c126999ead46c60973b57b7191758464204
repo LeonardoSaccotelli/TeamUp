@@ -1,0 +1,10 @@
+
+d	php:S1192a"JDefine a constant instead of duplicating this literal "admin.php" 3 times.(ù¸£Õûÿÿÿÿ
+g	php:S1192"MDefine a constant instead of duplicating this literal "um_role_meta" 3 times.(Õ‚ŸÕûÿÿÿÿ
+[	php:S1192E"GDefine a constant instead of duplicating this literal "<br />" 4 times.(­ïŸU
+e	php:S1192E"QDefine a constant instead of duplicating this literal "ultimate-member" 11 times.(­ïŸU
+Qphp:S131¡"7Add a "case default" clause to this "switch" statement.(»“é’úÿÿÿÿ
+h	php:S1301¡"MReplace this "switch" statement with "if" statements to increase readability.(»“é’úÿÿÿÿ
+c	php:S1192a"IDefine a constant instead of duplicating this literal "um_roles" 5 times.(ù¸£Õûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+D	php:S1066p"/Merge this if statement with the enclosing one.(ñÍª

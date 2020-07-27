@@ -1,0 +1,4 @@
+
+Z	php:S1605"@Replace "parent::IXR_Client(...)" by "parent::__construct(...)".(ÿÃèŞşÿÿÿÿ
+	php:S1603"vReplace this function name "IXR_ClientMulticall", since a "__construct" method has already been defined in this class.(Ï¦ìøÿÿÿÿ
+pphp:S101"WRename class "IXR_ClientMulticall" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬ë¨§üÿÿÿÿ

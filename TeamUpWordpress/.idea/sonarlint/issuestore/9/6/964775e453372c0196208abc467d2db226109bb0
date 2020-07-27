@@ -1,0 +1,32 @@
+
+c	php:S1192ù"HDefine a constant instead of duplicating this literal "version" 4 times.(½ÑË¾úÿÿÿÿ
+R	php:S3972»"7Move this "if" to a new line or add the missing "else".(ĞòÑüÿÿÿÿ
+o	php:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 94 to the 15 allowed.(É¶Šƒüÿÿÿÿ
+u	php:S1192·"_Define a constant instead of duplicating this literal "Plugin installer section title" 7 times.(¹ ‹Ï
+M	php:S3972"7Move this "if" to a new line or add the missing "else".(³²Ôõ
+a	php:S1192˜"FDefine a constant instead of duplicating this literal "title" 3 times.(Á®×ğúÿÿÿÿ
+_	php:S1192…"IDefine a constant instead of duplicating this literal "</div>\n" 5 times.(ğ¿Àç
+œ	php:S1192³"€Define a constant instead of duplicating this literal "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="%s">support forums</a>." 3 times.(Áîª¹úÿÿÿÿ
+	php:S1192´"fDefine a constant instead of duplicating this literal "https://wordpress.org/support/forums/" 3 times.(³Î¶ãûÿÿÿÿ
+Qphp:S131Ö"7Add a "case default" clause to this "switch" statement.(ßğ¦¼ûÿÿÿÿ
+u	php:S1192"_Define a constant instead of duplicating this literal "https://wordpress.org/plugins/" 3 times.(‰š±õ
+i	php:S1192½"SDefine a constant instead of duplicating this literal "plugins_api_failed" 3 times.(Ï¬ÜÆ
+c	php:S1192ß"HDefine a constant instead of duplicating this literal "Version" 3 times.( şœÙøÿÿÿÿ
+^	php:S1192¹"HDefine a constant instead of duplicating this literal "install" 3 times.(ÎØãø
+d	php:S1192Â"ODefine a constant instead of duplicating this literal "update_plugins" 4 times.(µúƒ/
+\	php:S1192¡"FDefine a constant instead of duplicating this literal "class" 3 times.(íÓÍ
+I	php:S1066o"/Merge this if statement with the enclosing one.(½ë“Ûúÿÿÿÿ
+M	php:S3972–"7Move this "if" to a new line or add the missing "else".(èÁ×’
+o	php:S3776²"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ÿ·¯ˆøÿÿÿÿ
+M	php:S3972¨"7Move this "if" to a new line or add the missing "else".(ÀÅ»Å
+N	php:S1172Â"3Remove the unused function parameter "$deprecated".(›ªÌ”úÿÿÿÿ
+h	php:S3776f"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(éÒÿD
+k	php:S1192Õ"PDefine a constant instead of duplicating this literal "install_plugins" 3 times.(¡£ôìøÿÿÿÿ
+M	php:S3972"7Move this "if" to a new line or add the missing "else".(×åÉì
+Qphp:S131‰"7Add a "case default" clause to this "switch" statement.(ô†å“úÿÿÿÿ
+M	php:S3972 "7Move this "if" to a new line or add the missing "else".(†Ò“ô
+c	php:S1192Î"HDefine a constant instead of duplicating this literal "section" 3 times.(œĞ¥·şÿÿÿÿ
+¥php:S138ƒ"ŠThis function "install_plugin_information" has 280 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(É¶Šƒüÿÿÿÿ
+]	php:S1192†"GDefine a constant instead of duplicating this literal "plugin" 4 times.(‰Íı£
+M	php:S3972½"7Move this "if" to a new line or add the missing "else".(¯øÙÉ
+R	php:S3972"7Move this "if" to a new line or add the missing "else".(Œ¢éåûÿÿÿÿ

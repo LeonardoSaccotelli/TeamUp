@@ -1,0 +1,23 @@
+
+c	php:S1192`"IDefine a constant instead of duplicating this literal "default" 15 times.(ä‚üÚùÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "value" 8 times.(Ñàı
+a	php:S1192W"GDefine a constant instead of duplicating this literal "label" 24 times.(¢¶©ïÿÿÿÿÿ
+h	php:S1192"RDefine a constant instead of duplicating this literal "color: {{VALUE}};" 4 times.(¸‡Á…
+˜	php:S1192ú"}Define a constant instead of duplicating this literal "{{WRAPPER}} .elementor-icon-list-item:not(:last-child):after" 4 times.(íîôÁûÿÿÿÿ
+d	php:S1192ƒ"NDefine a constant instead of duplicating this literal "selected_icon" 8 times.(™° ‡
+_	php:S1192œ"JDefine a constant instead of duplicating this literal "icon_list" 6 times.(ß”×*
+`	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 44 times.(–Æ…“
+_	php:S1192‰"IDefine a constant instead of duplicating this literal "fa-solid" 4 times.(Õíú
+hphp:S101"TRename class "Widget_Icon_List" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“Ì½Â
+\	php:S1192Ë"FDefine a constant instead of duplicating this literal "range" 5 times.(÷¦ç£
+\	php:S1192a"HDefine a constant instead of duplicating this literal "options" 4 times.(ò–»6
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.( æƒàúÿÿÿÿ
+`	php:S1192Œ"JDefine a constant instead of duplicating this literal "condition" 5 times.(Ä‹
+œphp:S138S"‚This function "_register_controls" has 407 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+a	php:S1192f"GDefine a constant instead of duplicating this literal "inline" 4 times.(Ëİğ¦úÿÿÿÿ
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "library" 4 times.(Õíú
+]	php:S1192ã"GDefine a constant instead of duplicating this literal "scheme" 4 times.(¡ŠËÆ
+f	php:S1192Ğ"KDefine a constant instead of duplicating this literal "selectors" 14 times.(Ú‘›æúÿÿÿÿ
+[	php:S1192c"FDefine a constant instead of duplicating this literal "title" 8 times.(¸Ã¾¼
+a	php:S1192˜"FDefine a constant instead of duplicating this literal "class" 5 times.(¡ú¥ùÿÿÿÿ
+c	php:S1192ó"HDefine a constant instead of duplicating this literal "divider" 6 times.(°÷ÜÊşÿÿÿÿ

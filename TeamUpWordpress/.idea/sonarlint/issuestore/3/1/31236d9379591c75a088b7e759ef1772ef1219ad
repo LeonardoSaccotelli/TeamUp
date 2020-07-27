@@ -1,0 +1,13 @@
+
+s	php:S1192£"]Define a constant instead of duplicating this literal "http://www.w3.org/1999/xlink" 3 times.(åÒœ¥
+E	php:S1066±"/Merge this if statement with the enclosing one.(Òç÷¤
+|	php:S1448
+"gClass "Svg_Handler" has 37 methods, which is greater than 20 authorized. Split it into smaller classes.(¶¯Øƒ
+e	php:S1142Æ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‡£§
+1	php:S3626™"Remove this redundant jump.(ÉŠ©ƒ
+b	php:S1192"GDefine a constant instead of duplicating this literal "height" 5 times.(´³òøÿÿÿÿ
+\	php:S1192Ÿ"FDefine a constant instead of duplicating this literal "width" 5 times.(çŞœ±
+a	php:S1192—"FDefine a constant instead of duplicating this literal "3.0.0" 4 times.(Îùûİúÿÿÿÿ
+cphp:S101
+"ORename class "Svg_Handler" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¶¯Øƒ
+\	php:S1192ç"FDefine a constant instead of duplicating this literal "image" 3 times.(œ“êè

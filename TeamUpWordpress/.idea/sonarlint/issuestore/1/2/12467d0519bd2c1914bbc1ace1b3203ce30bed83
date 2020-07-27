@@ -1,0 +1,13 @@
+
+`	php:S1192"FDefine a constant instead of duplicating this literal "array" 4 times.(ύ±ξΰωÿÿÿÿ
+Pphp:S131["7Add a "case default" clause to this "switch" statement.(Ζβοκÿÿÿÿÿ
+h	php:S3776A"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(―»ξ
+a	php:S1192"GDefine a constant instead of duplicating this literal "string" 6 times.(ύ±ξΰωÿÿÿÿ
+Qphp:S131‹"7Add a "case default" clause to this "switch" statement.(Ζβοκÿÿÿÿÿ
+c	php:S1142A"OReduce the number of returns of this function 4, down to the maximum allowed 3.(―»ξ
+a	php:S1192b"GDefine a constant instead of duplicating this literal "base64" 3 times.(™ωΐΖÿÿÿÿÿ
+ophp:S101	"[Rename class "IXR_IntrospectionServer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(οΐϋ
+E	php:S1481N"0Remove this unused "$returnType" local variable.(–Δγ
+\	php:S1192""GDefine a constant instead of duplicating this literal "struct" 4 times.(³†σί
+F	php:S1481L",Remove this unused "$method" local variable.(ηΙªψÿÿÿÿ
+	php:S16036"zReplace this function name "IXR_IntrospectionServer", since a "__construct" method has already been defined in this class.(›Ό©

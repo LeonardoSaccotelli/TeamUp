@@ -1,0 +1,15 @@
+
+Lphp:S131Ü"7Add a "case default" clause to this "switch" statement.(âÛŸˆ
+d	php:S1192‘"NDefine a constant instead of duplicating this literal "filter-status" 6 times.(¤îÀ¹
+]	php:S1192Q"HDefine a constant instead of duplicating this literal "orderby" 5 times.(Å¨²™
+c	php:S1301Ü"MReplace this "switch" statement with "if" statements to increase readability.(âÛŸˆ
+a	php:S1192¤"FDefine a constant instead of duplicating this literal "order" 4 times.(²¦‚‡üÿÿÿÿ
+g	php:S1192î"LDefine a constant instead of duplicating this literal "bulk_action" 4 times.(Ž¸œ¡øÿÿÿÿ
+g	php:S1192-"RDefine a constant instead of duplicating this literal "created_timestamp" 3 times.(ÀÎÍ´
+Lphp:S131å"7Add a "case default" clause to this "switch" statement.(´ÞÞÕ
+qphp:S101
+"]Rename class "WP_Privacy_Requests_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(î†¤Ä
+[	php:S1192+"FDefine a constant instead of duplicating this literal "email" 3 times.(ï»¹Ô
+g	php:S1192€"LDefine a constant instead of duplicating this literal "post_status" 3 times.(»Êõíûÿÿÿÿ
+c	php:S1301å"MReplace this "switch" statement with "if" statements to increase readability.(´ÞÞÕ
+z	php:S1488)"`Immediately return this expression instead of assigning it to the temporary variable "$columns".(½˜˜€ÿÿÿÿÿ

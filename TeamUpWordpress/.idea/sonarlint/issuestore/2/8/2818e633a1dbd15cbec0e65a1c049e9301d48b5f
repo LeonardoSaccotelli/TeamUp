@@ -1,0 +1,64 @@
+
+e	php:S1192û"JDefine a constant instead of duplicating this literal "transport" 3 times.(¨˜Ääúÿÿÿÿ
+a	php:S1192¡"FDefine a constant instead of duplicating this literal "title" 5 times.(È£Ş„úÿÿÿÿ
+c	php:S1192Ù"HDefine a constant instead of duplicating this literal "charset" 4 times.(†ÛÜâşÿÿÿÿ
+Š	php:S1448"pClass "WP_Customize_Widgets" has 66 methods, which is greater than 20 authorized. Split it into smaller classes.(¯æ­¥şÿÿÿÿ
+l	php:S1192w"WDefine a constant instead of duplicating this literal "customize_preview_init" 4 times.(³ã™â
+b	php:S1192³"LDefine a constant instead of duplicating this literal "control_tpl" 3 times.(¥¤¤–
+O	php:S1135‡"4Complete the task associated to this "TODO" comment.(ƒ¿Å¶ûÿÿÿÿ
+g	php:S1192Â"QDefine a constant instead of duplicating this literal "sidebars_widgets" 5 times.( Ÿë
+t	php:S1192¨
+"^Define a constant instead of duplicating this literal "is_widget_customizer_js_value" 3 times.(©º™‰
+9php:S125œ"Remove this commented out code.(ÃÉ§ûÿÿÿÿ
+d	php:S1192×"IDefine a constant instead of duplicating this literal "_temp_id" 3 times.(ƒÊüôşÿÿÿÿ
+d	php:S1192¢"IDefine a constant instead of duplicating this literal "callback" 9 times.(ò¡éúÿÿÿÿ
+d	php:S1226Â"NIntroduce a new variable instead of reusing the parameter "$sidebars_widgets".( Ÿë
+c	php:S1192 "HDefine a constant instead of duplicating this literal "widget-" 4 times.(í˜Š¨øÿÿÿÿ
+^	php:S1192å"IDefine a constant instead of duplicating this literal "instance" 3 times.(Â»¿
+_	php:S1192ñ"IDefine a constant instead of duplicating this literal "id_base" 15 times.(¿ÁƒÔ
+J	php:S3801£
+"4Refactor this function to use "return" consistently.(Õ½‚Û
+o	php:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(³€ˆŸıÿÿÿÿ
+w	php:S1192ª
+"\Define a constant instead of duplicating this literal "encoded_serialized_instance" 3 times.(É…´æúÿÿÿÿ
+g	php:S1192û"LDefine a constant instead of duplicating this literal "postMessage" 3 times.(¨˜Ääúÿÿÿÿ
+h	php:S1192¦"RDefine a constant instead of duplicating this literal "customize-widgets" 3 times.(Áı·
+o	php:S3776ö
+"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Úı¹¬øÿÿÿÿ
+j	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(®Ó—“
+g	php:S1192¢"LDefine a constant instead of duplicating this literal "description" 3 times.(ÍàÁÙúÿÿÿÿ
+|	php:S1117§"aRename "$selective_refreshable_widgets" which has the same name as the field declared at line 79.(ÍÛ‹÷úÿÿÿÿ
+qphp:S101"XRename class "WP_Customize_Widgets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯æ­¥şÿÿÿÿ
+o	php:S1192ø"TDefine a constant instead of duplicating this literal "wp_inactive_widgets" 3 times.(Úµõıÿÿÿÿ
+y	php:S1192g"_Define a constant instead of duplicating this literal "customize_dynamic_setting_args" 5 times.(ùÍÍ¥øÿÿÿÿ
+c	php:S1192û"HDefine a constant instead of duplicating this literal "refresh" 3 times.(¨˜Ääúÿÿÿÿ
+c	php:S1192"HDefine a constant instead of duplicating this literal "widgets" 4 times.(Õ§ØÔüÿÿÿÿ
+s	php:S1192‡"XDefine a constant instead of duplicating this literal "sidebar_instance_number" 4 times.(‡…Ş†ûÿÿÿÿ
+S	php:S1172®"=Remove the unused function parameter "$old_sidebars_widgets".(–ñÕê
+b	php:S1192ş"GDefine a constant instead of duplicating this literal "height" 4 times.(Äù€´ùÿÿÿÿ
+d	php:S1226è"NIntroduce a new variable instead of reusing the parameter "$sidebars_widgets".(Âúÿü
+m	php:S1192©
+"RDefine a constant instead of duplicating this literal "instance_hash_key" 3 times.(€ßùÿÿÿÿ
+i	php:S1192í"NDefine a constant instead of duplicating this literal "before_widget" 4 times.(»ˆÕÿÿÿÿÿ
+e	php:S1142£
+"OReduce the number of returns of this function 6, down to the maximum allowed 3.(Õ½‚Û
+\	php:S1192ô"FDefine a constant instead of duplicating this literal "4.2.0" 4 times.(“­ôó
+p	php:S1192›"UDefine a constant instead of duplicating this literal "after_widget_content" 3 times.(ŒŠî†úÿÿÿÿ
+e	php:S1192ú"JDefine a constant instead of duplicating this literal "widget_id" 5 times.(¬û»ºûÿÿÿÿ
+a	php:S1192ı"FDefine a constant instead of duplicating this literal "width" 5 times.(†è¤‹ùÿÿÿÿ
+c	php:S1192¨"HDefine a constant instead of duplicating this literal "number" 10 times.(°àúûúÿÿÿÿ
+g	php:S1192Ó"LDefine a constant instead of duplicating this literal "widgets.php" 3 times.(ÿœáÉüÿÿÿÿ
+e	php:S1192Ğ"JDefine a constant instead of duplicating this literal "widget-id" 4 times.(Ñ•„—øÿÿÿÿ
+a	php:S1192Ç"KDefine a constant instead of duplicating this literal "sidebar_id" 8 times.(‘óÕ¯
+	php:S1192’"dDefine a constant instead of duplicating this literal "customize-selective-refresh-widgets" 4 times.(ÊæËÜúÿÿÿÿ
+]	php:S1192Æ"GDefine a constant instead of duplicating this literal "params" 6 times.(‚î›
+z	php:S1488"dImmediately return this expression instead of assigning it to the temporary variable "$control_tpl".(§ŞªÉ
+d	php:S1192£"IDefine a constant instead of duplicating this literal "priority" 4 times.(€ü¢çÿÿÿÿÿ
+h	php:S1192l"SDefine a constant instead of duplicating this literal "edit_theme_options" 4 times.(ºˆ‡É
+j	php:S1142ö
+"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Úı¹¬øÿÿÿÿ
+i	php:S1192Ğ"NDefine a constant instead of duplicating this literal "update-widget" 4 times.(Ñ•„—øÿÿÿÿ
+~	php:S1488ä
+"cImmediately return this expression instead of assigning it to the temporary variable "$widget_ids".(üä£úÿÿÿÿ
+q	php:S1192š"VDefine a constant instead of duplicating this literal "before_widget_content" 6 times.(ÃÔ˜¶ÿÿÿÿÿ
+g	php:S1192†"RDefine a constant instead of duplicating this literal "registeredWidgets" 4 times.(İ‰øE

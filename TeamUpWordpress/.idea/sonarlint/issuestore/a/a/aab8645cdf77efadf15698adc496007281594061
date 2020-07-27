@@ -1,0 +1,14 @@
+
+w	php:S1488ò"aImmediately return this expression instead of assigning it to the temporary variable "$response".(»ˆ¶
+c	php:S1192Å"MDefine a constant instead of duplicating this literal "preview_link" 3 times.(Ëõı‘
+\	php:S1192Z"HDefine a constant instead of duplicating this literal "integer" 3 times.(Ò†Ö1
+n	php:S1192`"TDefine a constant instead of duplicating this literal "permission_callback" 3 times.(Õïäìıÿÿÿÿ
+\	php:S1192X"GDefine a constant instead of duplicating this literal "parent" 3 times.(’¶ñô
+c	php:S1192_"IDefine a constant instead of duplicating this literal "callback" 3 times.(Çƒöûıÿÿÿÿ
+yphp:S101"`Rename class "WP_REST_Autosaves_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†´¶âüÿÿÿÿ
+j	php:S1142Ü"OReduce the number of returns of this function 4, down to the maximum allowed 3.(î‰±¸üÿÿÿÿ
+]	php:S1192^"HDefine a constant instead of duplicating this literal "methods" 3 times.(ŸÊşµ
+]	php:S1192©"GDefine a constant instead of duplicating this literal "status" 5 times.(ååÄ
+a	php:S1192Y"LDefine a constant instead of duplicating this literal "description" 4 times.(î“™³
+c	php:S1192€"HDefine a constant instead of duplicating this literal "context" 6 times.(²ÒÄüÿÿÿÿ
+w	php:S1488”"aImmediately return this expression instead of assigning it to the temporary variable "$response".(¡›«£

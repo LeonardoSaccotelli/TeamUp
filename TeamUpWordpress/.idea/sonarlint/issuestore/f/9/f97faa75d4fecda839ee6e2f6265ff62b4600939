@@ -1,0 +1,40 @@
+
+{	php:S1192™"eDefine a constant instead of duplicating this literal "An error occurred, please try again." 3 times.(ÖÔñÌ
+h	php:S1192{"NDefine a constant instead of duplicating this literal "theme-license" 3 times.(şÿß¢ÿÿÿÿÿ
+E	Web:S1827¤"*Remove this deprecated "valign" attribute.(ÇÆÅçùÿÿÿÿ
+a	php:S1192K"MDefine a constant instead of duplicating this literal "_license_key" 9 times.(¡–ºN
+a	php:S1192%"GDefine a constant instead of duplicating this literal "author" 3 times.(ÀèÔùÿÿÿÿ
+J	php:S1066Ã"/Merge this if statement with the enclosing one.(§È÷øøÿÿÿÿ
+o	php:S1192Ï"TDefine a constant instead of duplicating this literal "sl_theme_activation" 4 times.(ÂÅñàøÿÿÿÿ
+NWeb:TableWithoutCaptionCheck " Add a description to this table.(åÜ„ßÿÿÿÿÿ
+r	php:S1488ª"\Immediately return this expression instead of assigning it to the temporary variable "$url".(Èí¬
+9php:S125“"Remove this commented out code.(Ô×æñúÿÿÿÿ
+a	php:S1192Ï"FDefine a constant instead of duplicating this literal "false" 3 times.(ÂÅñàøÿÿÿÿ
+c	php:S1192~"IDefine a constant instead of duplicating this literal "-license" 7 times.(ì±Şúşÿÿÿÿ
+l	php:S1192”"QDefine a constant instead of duplicating this literal "_license_message" 6 times.(˜ï‚µıÿÿÿÿ
+{	php:S1488î"`Immediately return this expression instead of assigning it to the temporary variable "$message".(‚şóÕşÿÿÿÿ
+`	php:S1192["FDefine a constant instead of duplicating this literal "valid" 3 times.(ºå«İıÿÿÿÿ
+i	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿš)
+]	php:S1192#"HDefine a constant instead of duplicating this literal "license" 5 times.(ş†çå
+c	php:S1192Ï"HDefine a constant instead of duplicating this literal "message" 4 times.(ÂÅñàøÿÿÿÿ
+ophp:S101"[Rename class "EDD_Theme_Updater_Admin" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(á•·
+b	php:S1192¶"GDefine a constant instead of duplicating this literal "_nonce" 6 times.(•”ß´üÿÿÿÿ
+o	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(ê…Ôøÿÿÿÿ
+a	php:S1117Ô"KRename "$strings" which has the same name as the field declared at line 22.(£êé
+i	php:S1192 "ODefine a constant instead of duplicating this literal "remote_api_url" 3 times.(¿÷„ÿÿÿÿÿ
+_	php:S1192ù"IDefine a constant instead of duplicating this literal "lifetime" 5 times.(Ş’ğ´
+f	php:S1192‹"KDefine a constant instead of duplicating this literal "edd_action" 3 times.(È–„Æúÿÿÿÿ
+p	php:S1848d"VEither remove this useless object instantiation of class "EDD_Theme_Updater" or use it(ÓŸÚáşÿÿÿÿ
+b	php:S1192$"HDefine a constant instead of duplicating this literal "version" 4 times.(ËëšÆùÿÿÿÿ
+a	php:S1117Š"KRename "$strings" which has the same name as the field declared at line 22.(£êé
+E	Web:S1827°"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ
+W	php:S1854—"<Remove this useless assignment to local variable '$message'.(áİ´ôûÿÿÿÿ
+d	php:S1192""JDefine a constant instead of duplicating this literal "item_name" 6 times.(†²éüÿÿÿÿ
+l	php:S1192Î"QDefine a constant instead of duplicating this literal "themes.php?page=" 4 times.(½‹¡Âşÿÿÿÿ
+n	php:S1192["TDefine a constant instead of duplicating this literal "_license_key_status" 6 times.(ºå«İıÿÿÿÿ
+R	php:S1854™"<Remove this useless assignment to local variable '$message'.(ÖÔñÌ
+E	Web:S1827£"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ
+r	php:S1192å"WDefine a constant instead of duplicating this literal "license-status-unknown" 3 times.(‚şóÕşÿÿÿÿ
+E	Web:S1827±"*Remove this deprecated "valign" attribute.(ÇÆÅçùÿÿÿÿ
+`	php:S1117x"KRename "$strings" which has the same name as the field declared at line 22.(£êé
+J	php:S1066½"/Merge this if statement with the enclosing one.(§È÷øøÿÿÿÿ

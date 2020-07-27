@@ -1,0 +1,10 @@
+
+b	php:S1192Õ"GDefine a constant instead of duplicating this literal "elType" 3 times.(²Óêøÿÿÿÿ
+a	php:S1192Š"FDefine a constant instead of duplicating this literal "class" 3 times.(§ÆÅéÿÿÿÿÿ
+y	php:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "$child_type".(›”£¸
+cphp:S101"PRename class "Element_Base" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÍŸé
+p	php:S4144“"ZUpdate this method so that its implementation is not identical to "get_title" on line 253.(Ö‘µš
+^	php:S1192×"IDefine a constant instead of duplicating this literal "elements" 3 times.(”¨ 6
+_	php:S1192‰"IDefine a constant instead of duplicating this literal "_wrapper" 5 times.(¼Ÿ²÷
+^	php:S1192Ø"HDefine a constant instead of duplicating this literal "isInner" 3 times.(†Ü™Î
+|	php:S1448"hClass "Element_Base" has 38 methods, which is greater than 20 authorized. Split it into smaller classes.(ÍŸé

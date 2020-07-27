@@ -1,0 +1,32 @@
+
+^	php:S1192ı"HDefine a constant instead of duplicating this literal "LANGDIR" 4 times.(ÍïÁÏ
+\	php:S1192½
+"GDefine a constant instead of duplicating this literal "access" 3 times.(°¤“X
+[	php:S1192û	"FDefine a constant instead of duplicating this literal "HTTPS" 3 times.(Òšİ&
+^	php:S1192"HDefine a constant instead of duplicating this literal "/db.php" 3 times.(£íÌ
+j	php:S1142¶"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Üª™ªıÿÿÿÿ
+i	php:S1192¬"SDefine a constant instead of duplicating this literal "REQUEST_TIME_FLOAT" 3 times.(ˆ¡’ˆ
+h	php:S1192¨"MDefine a constant instead of duplicating this literal "REQUEST_TIME" 3 times.(™ß¦øÿÿÿÿ
+d	php:S1192O"JDefine a constant instead of duplicating this literal "PATH_INFO" 7 times.(”¥ÖÉşÿÿÿÿ
+a	php:S1192?"LDefine a constant instead of duplicating this literal "REQUEST_URI" 9 times.( È‹ş
+h	php:S1192"MDefine a constant instead of duplicating this literal "my-hacks.php" 3 times.(À¢´”ÿÿÿÿÿ
+e	php:S1192Ë"ODefine a constant instead of duplicating this literal "display_errors" 3 times.(ÂñáŒ
+j	php:S1142Û"OReduce the number of returns of this function 4, down to the maximum allowed 3.(×ñøÚÿÿÿÿÿ
+^	php:S1192n"IDefine a constant instead of duplicating this literal "PHP_SELF" 3 times.(Ã›é
+i	php:S1192™"NDefine a constant instead of duplicating this literal "wp_cache_init" 3 times.(®Ğ©Æùÿÿÿÿ
+j	php:S1192"ODefine a constant instead of duplicating this literal "/functions.php" 3 times.( œ„”ûÿÿÿÿ
+d	php:S1192d"PDefine a constant instead of duplicating this literal "SCRIPT_FILENAME" 4 times.(éû­s
+o	php:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(¤³úßøÿÿÿÿ
+h	php:S1192ß"MDefine a constant instead of duplicating this literal "CONTENT_TYPE" 4 times.(ƒ·Ù ÿÿÿÿÿ
+g	php:S1192ô"LDefine a constant instead of duplicating this literal "/languages" 10 times.(¼ªôÑÿÿÿÿÿ
+o	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ä¦™°ùÿÿÿÿ
+p	php:S1192ÿ"UDefine a constant instead of duplicating this literal "wp-content/languages" 3 times.(ŞØúÿÿÿÿ
+h	php:S1192¢"RDefine a constant instead of duplicating this literal "/object-cache.php" 3 times.(˜Â™
+f	php:S1192U"LDefine a constant instead of duplicating this literal "SCRIPT_NAME" 3 times.(Ğèôøÿÿÿÿ
+e	php:S1142ú	"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Îğ 
+j	php:S1192ä"ODefine a constant instead of duplicating this literal "current_screen" 8 times.(ûà·Òúÿÿÿÿ
+	php:S1488ı"fImmediately return this expression instead of assigning it to the temporary variable "$jsonp_enabled".(¢Á¦Íÿÿÿÿÿ
+g	php:S1192ó"LDefine a constant instead of duplicating this literal "WP_LANG_DIR" 4 times.(ÆÖú©øÿÿÿÿ
+n	php:S3776:"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(÷½‰æüÿÿÿÿ
+b	php:S1192Û"LDefine a constant instead of duplicating this literal "HTTP_ACCEPT" 4 times.(Ïüí
+o	php:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(©Úÿûÿÿÿÿ

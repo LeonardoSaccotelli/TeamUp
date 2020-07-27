@@ -1,0 +1,14 @@
+
+I	php:S1172"/Remove the unused function parameter "$mycred".(ß©–şÿÿÿÿ
+`	php:S1192"FDefine a constant instead of duplicating this literal "photo" 3 times.(Ğú¬ªúÿÿÿÿ
+f	php:S1192l"QDefine a constant instead of duplicating this literal "notification_tpl" 4 times.(¥úåÁ
+[	php:S1192"GDefine a constant instead of duplicating this literal "amount" 8 times.(Ÿó±I
+B	php:S1172M"-Remove the unused function parameter "$args".(•ÑÿĞ
+_	php:S1192"JDefine a constant instead of duplicating this literal "%s points" 4 times.(™¹ªÍ
+}	php:S1192+"cDefine a constant instead of duplicating this literal "um_notification_mycred_default_log" 3 times.(œó’ûÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+g	php:S1192"RDefine a constant instead of duplicating this literal "um-notifications" 12 times.(™¹ªÍ
+c	php:S1192"NDefine a constant instead of duplicating this literal "mycred_points" 4 times.(™¹ªÍ
+?	php:S1172k"*Remove the unused function parameter "$k".(»ìÀô
+Kphp:S131T"7Add a "case default" clause to this "switch" statement.(´ŞŞÕ
+j	php:S1192+"PDefine a constant instead of duplicating this literal "mycred_run_this" 3 times.(œó’ûÿÿÿÿ

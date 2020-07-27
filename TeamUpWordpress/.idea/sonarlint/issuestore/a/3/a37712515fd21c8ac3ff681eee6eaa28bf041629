@@ -1,0 +1,48 @@
+
+j	php:S3776”"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(³ıõî
+`	php:S1192Õ"JDefine a constant instead of duplicating this literal "customize" 3 times.(ŞáÂà
+e	php:S1142À"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Î»„Ö
+_	php:S1192Á"JDefine a constant instead of duplicating this literal "dashboard" 4 times.(È·û0
+a	php:S1192—"FDefine a constant instead of duplicating this literal "reply" 3 times.(ÃÕ°øÿÿÿÿ
+a	php:S1192Ä"FDefine a constant instead of duplicating this literal "order" 5 times.(óÿ™ëúÿÿÿÿ
+j	php:S1192É	"UDefine a constant instead of duplicating this literal "(opens in a new tab)" 4 times.(®Şi
+d	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ü›ŞA
+H	php:S1172İ"2Remove the unused function parameter "$dashboard".(ñ†à
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ñ”çĞûÿÿÿÿ
+_	php:S1192‚"IDefine a constant instead of duplicating this literal "critical" 3 times.(Ì§ç›
+c	php:S1192†"HDefine a constant instead of duplicating this literal "comment" 3 times.(¢×Ğ ûÿÿÿÿ
+\	php:S1192³"FDefine a constant instead of duplicating this literal "Y-m-d" 4 times.(· éÔ
+w	php:S1192é"\Define a constant instead of duplicating this literal "post-new.php?post_type=page" 3 times.(ï„æŸùÿÿÿÿ
+c	php:S1192•"HDefine a constant instead of duplicating this literal "approve" 4 times.(Ÿ¤Ú½úÿÿÿÿ
+c	php:S1192Ÿ"HDefine a constant instead of duplicating this literal "</span>" 4 times.(©ÔüÄÿÿÿÿÿ
+\	php:S1192»"FDefine a constant instead of duplicating this literal "</ul>" 3 times.(×Á²–
+r	php:S1192Ÿ"WDefine a constant instead of duplicating this literal "<span class="approve">" 4 times.(©ÔüÄÿÿÿÿÿ
+e	php:S1192Œ"JDefine a constant instead of duplicating this literal "widget_id" 3 times.(ûû‹šùÿÿÿÿ
+o	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ùğ±Üÿÿÿÿÿ
+c	php:S1192"IDefine a constant instead of duplicating this literal "insecure" 3 times.(Úå‘¡şÿÿÿÿ
+¬php:S138…"‘This function "_wp_dashboard_recent_comments_row" has 155 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ùğ±Üÿÿÿÿÿ
+t	php:S1192¨"YDefine a constant instead of duplicating this literal "dashboard_widget_options" 4 times.(ıÿ±ˆşÿÿÿÿ
+e	php:S1192Ÿ"JDefine a constant instead of duplicating this literal "[Pending]" 4 times.(©ÔüÄÿÿÿÿÿ
+k	php:S1192‚"PDefine a constant instead of duplicating this literal "HTTP_USER_AGENT" 3 times.(½…ß­ÿÿÿÿÿ
+y	php:S1192ı"cDefine a constant instead of duplicating this literal "dashboard_quick_press_last_post_id" 3 times.(ÚÍ‡½
+d	php:S1192‰"IDefine a constant instead of duplicating this literal "callback" 3 times.(ù×ÄÔıÿÿÿÿ
+f	php:S1192¹"KDefine a constant instead of duplicating this literal "update_url" 4 times.(¡Íİøÿÿÿÿ
+]	php:S1192ï"GDefine a constant instead of duplicating this literal "number" 5 times.(´ÓˆÎ
+e	php:S1192<"KDefine a constant instead of duplicating this literal "edit_posts" 4 times.(şàÁÔùÿÿÿÿ
+e	php:S1192–"JDefine a constant instead of duplicating this literal "unapprove" 3 times.(´ªšÎøÿÿÿÿ
+j	php:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Õİ™…
+	php:S1192é"tDefine a constant instead of duplicating this literal "<a href="%s" class="welcome-icon welcome-add-page">" 3 times.(ï„æŸùÿÿÿÿ
+s%Web:ItemTagNotWithinContainerTagCheckˆ"<Surround this <li> item tag by a <ul> or <ol> container one.(™òÙıÿÿÿÿ
+ö	php:S1192Å	"ÚDefine a constant instead of duplicating this literal "<a href="%1$s" target="_blank">%2$s <span class="screen-reader-text">%3$s</span><span aria-hidden="true" class="dashicons dashicons-external"></span></a>" 3 times.(Ú›–Œûÿÿÿÿ
+p	php:S1192 "VDefine a constant instead of duplicating this literal "dashboard_browser_nag" 3 times.(­£‘ßüÿÿÿÿ
+a	php:S1192š	"KDefine a constant instead of duplicating this literal "widget-rss" 5 times.(‹”²°
+]	php:S1192–"GDefine a constant instead of duplicating this literal "normal" 3 times.(Úï±¾
+\	php:S1192ë"FDefine a constant instead of duplicating this literal "title" 9 times.(ê½Å¡
+b	php:S1192ÿ"GDefine a constant instead of duplicating this literal "</div>" 6 times.(˜ñÄøÿÿÿÿ
+l	php:S1192P"RDefine a constant instead of duplicating this literal "dashboard_primary" 3 times.(¡«“°ıÿÿÿÿ
+b	php:S1192é"GDefine a constant instead of duplicating this literal "status" 5 times.(°Æƒéÿÿÿÿÿ
+c	php:S1192Ñ"HDefine a constant instead of duplicating this literal "</li>\n" 3 times.(»“ü­şÿÿÿÿ
+\	php:S1192¯"FDefine a constant instead of duplicating this literal "</h3>" 3 times.(º˜é¥
+M	php:S1172…"2Remove the unused function parameter "$show_date".(ùğ±Üÿÿÿÿÿ
+`	php:S1192Á"JDefine a constant instead of duplicating this literal "is_secure" 4 times.(Äªª±
+H	php:S1172á"2Remove the unused function parameter "$widget_id".(¯Ÿ¡Í

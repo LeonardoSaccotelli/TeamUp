@@ -1,0 +1,75 @@
+
+b	php:S1192ğ"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(ı£Í¯ûÿÿÿÿ
+~	php:S1192
+"cDefine a constant instead of duplicating this literal "__block_editor_compatible_meta_box" 3 times.(”æÌ™üÿÿÿÿ
+j	php:S3776²"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.( ã††
+f	php:S1192ğ"KDefine a constant instead of duplicating this literal "meta_value" 7 times.(¿ÈÉàÿÿÿÿÿ
+V	Web:S5254Š"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(âÌĞ›
+h	php:S1192."NDefine a constant instead of duplicating this literal "selected_cats" 8 times.(Å äşÿÿÿÿ
+o	php:S3776û"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(µ×ó ùÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¬­úû
+h	php:S1192Œ"MDefine a constant instead of duplicating this literal "hierarchical" 3 times.(»í•Ÿÿÿÿÿÿ
+[	php:S11920"GDefine a constant instead of duplicating this literal "walker" 5 times.(ı›©
+d	php:S1192ı"IDefine a constant instead of duplicating this literal "meta_id" 14 times.(õôÎòşÿÿÿÿ
+h Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÌÙÆ´
+]	php:S1192ã"GDefine a constant instead of duplicating this literal "rating" 3 times.(Ò ö¢
+\	php:S1192º"FDefine a constant instead of duplicating this literal "Value" 4 times.(î·“ê
+c	php:S1192,"IDefine a constant instead of duplicating this literal "taxonomy" 9 times.(è²Óıÿÿÿÿ
+e	php:S1192¹"JDefine a constant instead of duplicating this literal "meta name" 3 times.(çñ¨ ùÿÿÿÿ
+f	php:S1192ê"QDefine a constant instead of duplicating this literal "settings-updated" 3 times.(÷ş²#
+}	php:S1192 
+"bDefine a constant instead of duplicating this literal "<span class="screen-reader-text">" 3 times.(Àıçùÿÿÿÿÿ
+d	php:S1192Ï"IDefine a constant instead of duplicating this literal "default" 10 times.(«œş¦ûÿÿÿÿ
+@	Web:S5256½"%Add "<th>" headers to this "<table>".(¡üÓïşÿÿÿÿ
+d	php:S1192…"NDefine a constant instead of duplicating this literal "data-wp-lists" 3 times.(ˆßªö
+b	php:S1192Æ"LDefine a constant instead of duplicating this literal "post status" 7 times.(á¦Ÿ
+c	php:S11921"NDefine a constant instead of duplicating this literal "checked_ontop" 3 times.(ËƒÜ
+i	php:S3776Q"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Œæì
+`	php:S1192Ù"JDefine a constant instead of duplicating this literal "</option>" 3 times.(³§±Ú
+v	php:S1192µ"[Define a constant instead of duplicating this literal "</span><input type="text" " 4 times.(©ÄÁÿÿÿÿÿ
+d	php:S1192å"IDefine a constant instead of duplicating this literal "meta_key" 4 times.(È’šÉùÿÿÿÿ
+?	php:S1125ö	")Remove the literal "false" boolean value.(¢„Ñ©
+„	php:S1192«"iDefine a constant instead of duplicating this literal "<label><span class="screen-reader-text">" 5 times.(Ó£€¤ûÿÿÿÿ
+c	php:S1192Ö"HDefine a constant instead of duplicating this literal "primary" 3 times.(‹ ×³ùÿÿÿÿ
+e	php:S1192¸"JDefine a constant instead of duplicating this literal "callback" 12 times.(™ÁÃ¿üÿÿÿÿ
+h Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(âß–ç
+h Web:TableHeaderHasIdOrScopeCheckÉ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ÿ¯Šâ
+o	php:S1192-"UDefine a constant instead of duplicating this literal "descendants_and_self" 3 times.(Å Åáıÿÿÿÿ
+I	php:S1172£"3Remove the unused function parameter "$deprecated".(ŸÁä•
+i	php:S3776…"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ì¤¹5
+]	php:S1192·"GDefine a constant instead of duplicating this literal "title" 13 times.(Õ¼¥·
+HWeb:TableWithoutCaptionCheckÅ" Add a description to this table.(•™Ç
+b	php:S1192/"MDefine a constant instead of duplicating this literal "popular_cats" 6 times.(´Œ¾
+a	php:S1192’"FDefine a constant instead of duplicating this literal "draft" 4 times.(÷éù•şÿÿÿÿ
+¡	php:S1192î"…Define a constant instead of duplicating this literal "The "%s" options group has been removed. Use another settings group." 4 times.( â«âıÿÿÿÿ
+9php:S125›"Remove this commented out code.(½ÈÆ˜şÿÿÿÿ
+?	php:S1125¬")Remove the literal "false" boolean value.(¢„Ñ©
+o	php:S1488Œ"ZImmediately return this expression instead of assigning it to the temporary variable "$r".(Úè¼i
+m Web:TableHeaderHasIdOrScopeCheckÉ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‰€´àûÿÿÿÿ
+O	php:S1135š"4Complete the task associated to this "TODO" comment.( ¬Ù„ûÿÿÿÿ
+o	php:S3776Ñ	"TRefactor this function to reduce its Cognitive Complexity from 97 to the 15 allowed.(‡õËğúÿÿÿÿ
+e	php:S1192ê"PDefine a constant instead of duplicating this literal "settings_errors" 3 times.(÷ş²#
+m	php:S1192™
+"RDefine a constant instead of duplicating this literal "__widget_basename" 3 times.(´ßîÑşÿÿÿÿ
+o	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ˆö´«ùÿÿÿÿ
+c	php:S1192õ"HDefine a constant instead of duplicating this literal "privacy" 4 times.(€€šûÿÿÿÿ
+r	php:S1192ı	"WDefine a constant instead of duplicating this literal "__back_compat_meta_box" 5 times.(¾ÃéÖúÿÿÿÿ
+c	php:S1192¼"HDefine a constant instead of duplicating this literal "</div>" 13 times.(–µ£ßùÿÿÿÿ
+f	php:S1192å"KDefine a constant instead of duplicating this literal "page label" 3 times.(“ ²Æüÿÿÿÿ
+D	php:S1481¬")Remove this unused "$key" local variable.(¼Ş¤îøÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÅ" Add a description to this table.(çß§¶ûÿÿÿÿ
+j	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(é¨‚½
+e	php:S1192Ï"JDefine a constant instead of duplicating this literal "" value="" 3 times.(ÂÓìÆúÿÿÿÿ
+s%Web:ItemTagNotWithinContainerTagCheckğ"<Surround this <li> item tag by a <ul> or <ol> container one.(ö¯•ÿÿÿÿÿ
+\	php:S1192}"GDefine a constant instead of duplicating this literal "fields" 3 times.(ïÎÛ¸
+]	php:S1192‹"GDefine a constant instead of duplicating this literal "number" 6 times.(¯Ã½¥
+K	php:S1172Ñ"0Remove the unused function parameter "$default".( Å›úıÿÿÿÿ
+o	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(È´ÂÒÿÿÿÿÿ
+\	php:S1192Á"FDefine a constant instead of duplicating this literal "error" 4 times.(ƒ´ ä
+c	php:S1192’"HDefine a constant instead of duplicating this literal "pending" 4 times.(÷éù•şÿÿÿÿ
+t	php:S1192µ"YDefine a constant instead of duplicating this literal "" size="2" maxlength="2"" 3 times.(©ÄÁÿÿÿÿÿ
+^	php:S1192‰"HDefine a constant instead of duplicating this literal "orderby" 3 times.(ÌÉòÁ
+]	php:S1192¶"GDefine a constant instead of duplicating this literal "sorted" 3 times.(Êãû“
+^	php:S1192É"HDefine a constant instead of duplicating this literal "private" 3 times.(«ù†ï
+z	php:S1192µ"_Define a constant instead of duplicating this literal " autocomplete="off" /></label>" 4 times.(©ÄÁÿÿÿÿÿ
+NWeb:TableWithoutCaptionCheck½" Add a description to this table.(¡üÓïşÿÿÿÿ

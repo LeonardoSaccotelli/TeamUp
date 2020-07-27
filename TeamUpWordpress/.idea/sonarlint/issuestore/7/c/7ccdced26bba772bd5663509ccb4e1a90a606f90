@@ -1,0 +1,149 @@
+
+j	php:S3776´
+"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ìÈºü
+e	php:S1192ÿ"JDefine a constant instead of duplicating this literal "taxonomy" 18 times.(í£ïûÿÿÿÿ
+J	php:S1066¯"/Merge this if statement with the enclosing one.( Œ®Éşÿÿÿÿ
+]	php:S1192·"GDefine a constant instead of duplicating this literal "paged" 10 times.(„Ï”¸
+E	php:S1172©""0Remove the unused function parameter "$term_id".(ú±À
+b	php:S1192î"GDefine a constant instead of duplicating this literal "limits" 5 times.(‰È¹Ìøÿÿÿÿ
+k	php:S1192Õ"PDefine a constant instead of duplicating this literal "post_parent__in" 8 times.(á²³äûÿÿÿÿ
+d	php:S1117·"NRename "$date_query" which has the same name as the field declared at line 58.(›œœ£
+c	php:S1192Ê"MDefine a constant instead of duplicating this literal "category__in" 8 times.(ÂŸ¶©
+b	php:S1192¾"GDefine a constant instead of duplicating this literal "fields" 9 times.(õ¾…Êşÿÿÿÿ
+j	php:S1192«"ODefine a constant instead of duplicating this literal "comment_count" 13 times.(§ÙÀãûÿÿÿÿ
+“php:S138Ø"yThis function "get_posts" has 871 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÉòÀ€ıÿÿÿÿ
+j	php:S1192ø"ODefine a constant instead of duplicating this literal "page_for_posts" 5 times.(ÀŠ”úÿÿÿÿ
+o	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.(Ÿú‡¯ÿÿÿÿÿ
+_	php:S1192Ò"IDefine a constant instead of duplicating this literal "tag__and" 5 times.(âÕ–›
+`	php:S1192¬"JDefine a constant instead of duplicating this literal "monthnum" 11 times.(ÄâÈ
+h	php:S1192ß"RDefine a constant instead of duplicating this literal "comments_per_page" 4 times.(Â±ÕÙ
+m	php:S1192©"WDefine a constant instead of duplicating this literal "update_post_term_cache" 5 times.(®¹—
+y	php:S1448"dClass "WP_Query" has 67 methods, which is greater than 20 authorized. Split it into smaller classes.(ıàÀ·
+i	php:S1192ï"NDefine a constant instead of duplicating this literal "no_found_rows" 6 times.(êêıîıÿÿÿÿ
+d	php:S1192Ô"NDefine a constant instead of duplicating this literal "tag_slug__and" 6 times.(ğ‡»î
+c	php:S1117Ä"MRename "$tax_query" which has the same name as the field declared at line 42.(³’ˆù
+b	php:S1192—"LDefine a constant instead of duplicating this literal "post_status" 9 times.(è³€Ç
+e	php:S1142ø"OReduce the number of returns of this function 7, down to the maximum allowed 3.(†µô—
+j	php:S1142ù"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ŠßÁıÿÿÿÿ
+e	php:S1192Ï"ODefine a constant instead of duplicating this literal "post_name__in" 11 times.(‚”Ãñ
+]	php:S1192Í"GDefine a constant instead of duplicating this literal "field" 13 times.(éîò†
+i	php:S1192¯"NDefine a constant instead of duplicating this literal "category_name" 4 times.(€åùÈıÿÿÿÿ
+b	php:S1192Ñ"LDefine a constant instead of duplicating this literal "tag__not_in" 5 times.(ÁÕàË
+J	php:S1066ß"/Merge this if statement with the enclosing one.(¼¢¯Æúÿÿÿÿ
+e	php:S1192×"JDefine a constant instead of duplicating this literal "ORDER BY " 3 times.(ÌÒÂØıÿÿÿÿ
+\	php:S1192Ï"FDefine a constant instead of duplicating this literal "value" 3 times.(øà¡
+j	php:S1192”"TDefine a constant instead of duplicating this literal "ignore_sticky_posts" 5 times.(ê½€ß
+d	php:S1192ò"IDefine a constant instead of duplicating this literal "orderby" 24 times.(–èŠüüÿÿÿÿ
+c	php:S1192¤"NDefine a constant instead of duplicating this literal "attachment_id" 8 times.(€‡
+_	php:S1117ä"IRename "$post" which has the same name as the field declared at line 124.(¡°Âé
+_	php:S1117é"IRename "$post" which has the same name as the field declared at line 124.(˜ŒöÃ
+a	php:S1192×"KDefine a constant instead of duplicating this literal "author__in" 4 times.(»‹Æö
+d	php:S1871ä"NThis branch's code block is the same as the block for the branch on line 3682.(Ê¨ú¥
+c	php:S1192Ğ"HDefine a constant instead of duplicating this literal "tag__in" 5 times.(æ¥»Ãúÿÿÿÿ
+b	php:S1117±"LRename "$comment" which has the same name as the field declared at line 156.(²¼±ï
+i	php:S1117À"NRename "$stopwords" which has the same name as the field declared at line 450.(¬›Úúÿÿÿÿ
+e	php:S1192¦"JDefine a constant instead of duplicating this literal "pagename" 17 times.(ÁÔ·şÿÿÿÿ
+d	php:S1192î"IDefine a constant instead of duplicating this literal "distinct" 5 times.(‰È¹Ìøÿÿÿÿ
+e	php:S1192€"JDefine a constant instead of duplicating this literal "category" 12 times.(êÚÜØûÿÿÿÿ
+i	php:S1871Ã"NThis branch's code block is the same as the block for the branch on line 3647.(Ë–Æ…úÿÿÿÿ
+h	php:S1192Î"MDefine a constant instead of duplicating this literal "post__not_in" 5 times.(Šµ‰ïøÿÿÿÿ
+l	php:S1192Ë"QDefine a constant instead of duplicating this literal "category__not_in" 5 times.(âçÕ«ÿÿÿÿÿ
+]	php:S1192©"GDefine a constant instead of duplicating this literal "minute" 8 times.(Óë‘Ğ
+c	php:S1117Ú"MRename "$comments" which has the same name as the field declared at line 132.(˜Î‘Û
+a	php:S1192À"FDefine a constant instead of duplicating this literal "embed" 3 times.(¶óğ²şÿÿÿÿ
+o	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ö‚ÿ›şÿÿÿÿ
+j	php:S1192Ö"TDefine a constant instead of duplicating this literal "post_parent__not_in" 3 times.(â–ÅÓ
+\	php:S1192ã"FDefine a constant instead of duplicating this literal "alias" 4 times.(Úô¸’
+h	php:S1192Â
+"MDefine a constant instead of duplicating this literal "search_terms" 7 times.(ßğÇÑÿÿÿÿÿ
+]	php:S1192“"GDefine a constant instead of duplicating this literal "LIMIT " 3 times.(˜Ã¯ù
+d	php:S1117"NRename "$stopwords" which has the same name as the field declared at line 450.(²ƒö„
+m	php:S1192Ä"WDefine a constant instead of duplicating this literal "posts_per_archive_page" 3 times.(¤»ÍŸ
+h	php:S1192À
+"SDefine a constant instead of duplicating this literal "search_terms_count" 3 times.(ØÃë
+q	php:S1192ş"[Define a constant instead of duplicating this literal "wp_page_for_privacy_policy" 4 times.(…Ÿ’
+d	php:S1192Ù"IDefine a constant instead of duplicating this literal "readable" 3 times.(–Œ®Âúÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "offset" 5 times.(¥”Í©ûÿÿÿÿ
+c	php:S1192Ó"MDefine a constant instead of duplicating this literal "tag_slug__in" 7 times.(×™”
+a	php:S1192"FDefine a constant instead of duplicating this literal "error" 5 times.(æıïùÿÿÿÿ
+b	php:S1192¨"GDefine a constant instead of duplicating this literal "second" 8 times.(öû¿¹ùÿÿÿÿ
+d	php:S1871¬"NThis branch's code block is the same as the block for the branch on line 3754.(ï‰©š
+_	php:S1192ş"IDefine a constant instead of duplicating this literal "operator" 8 times.(¦½ö•
+g	php:S1192—	"QDefine a constant instead of duplicating this literal "include_children" 5 times.(¼ë“Õ
+\	php:S1192õ"FDefine a constant instead of duplicating this literal "4.5.0" 3 times.(‰õ¯¹
+c	php:S1192³"HDefine a constant instead of duplicating this literal "author" 18 times.(Ù·èçşÿÿÿÿ
+b	php:S1192 "LDefine a constant instead of duplicating this literal "post_parent" 5 times.(ÆİÌ‡
+i	php:S1871®"NThis branch's code block is the same as the block for the branch on line 3754.(°û¢Œûÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 7, down to the maximum allowed 3.(óÎ€Á
+e	php:S1192Ö"JDefine a constant instead of duplicating this literal "GROUP BY " 3 times.(¤¯Ê˜ùÿÿÿÿ
+J	php:S3801!"4Refactor this function to use "return" consistently.(ÓàíĞ
+i	php:S1871æ"NThis branch's code block is the same as the block for the branch on line 3682.(‡»¾’üÿÿÿÿ
+o	php:S1192­"TDefine a constant instead of duplicating this literal "lazy_load_term_meta" 3 times.(ˆªÙ€üÿÿÿÿ
+b	php:S1192‡	"GDefine a constant instead of duplicating this literal "intval" 3 times.(Åé‰ıÿÿÿÿ
+e	php:S1192Ø"ODefine a constant instead of duplicating this literal "author__not_in" 4 times.(‘ÄÄ©
+h	php:S1192"RDefine a constant instead of duplicating this literal "suppress_filters" 11 times.(ãİØ†
+\	php:S1192ñ
+"FDefine a constant instead of duplicating this literal " AND " 3 times.(êŒöñ
+™php:S138Â"This function "parse_tax_query" has 191 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ÿú‡¯ÿÿÿÿÿ
+j	php:S1192Ì"ODefine a constant instead of duplicating this literal "category__and" 11 times.(·®¦ıúÿÿÿÿ
+p	php:S3776Ø"URefactor this function to reduce its Cognitive Complexity from 530 to the 15 allowed.(ÉòÀ€ıÿÿÿÿ
+c	php:S1192–	"HDefine a constant instead of duplicating this literal "term_id" 6 times.(¾•Ô±ÿÿÿÿÿ
+i	php:S1871Š"NThis branch's code block is the same as the block for the branch on line 3718.(ïé¢üÿÿÿÿ
+e	php:S1192ƒ"JDefine a constant instead of duplicating this literal "post_tag" 16 times.(é®òşÿÿÿÿ
+\	php:S1192½"FDefine a constant instead of duplicating this literal "title" 6 times.(£ËŠ¡
+i	php:S1192¡"NDefine a constant instead of duplicating this literal "cache_results" 4 times.(ÒıÒ×ûÿÿÿÿ
+h	php:S1117Õ"RRename "$queried_object" which has the same name as the field declared at line 68.(«ÈÁÍ
+v	php:S1488Œ""aImmediately return this expression instead of assigning it to the temporary variable "$elements".(½û¼~
+j	php:S1142"OReduce the number of returns of this function 6, down to the maximum allowed 3.(á”³™ıÿÿÿÿ
+j	php:S3776½!"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÓÌúş
+a	php:S1192¢"KDefine a constant instead of duplicating this literal "subpost_id" 3 times.(ÇÖ€ï
+d	php:S1192Ç"IDefine a constant instead of duplicating this literal "nopaging" 6 times.(†ÚÜüÿÿÿÿÿ
+]	php:S1192±	"HDefine a constant instead of duplicating this literal "absint" 14 times.(ó€Æ
+c	php:S1192¡"HDefine a constant instead of duplicating this literal "subpost" 3 times.(Ì‚¡ìøÿÿÿÿ
+php:S138å"{This function "parse_query" has 271 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(™Öêô
+h	php:S1192´"MDefine a constant instead of duplicating this literal "author_name" 17 times.(¤¡˜ùÿÿÿÿ
+j	php:S1192ç"ODefine a constant instead of duplicating this literal "post_mime_type" 3 times.(×ÑÃÇøÿÿÿÿ
+_	php:S1192§"IDefine a constant instead of duplicating this literal "page_id" 13 times.(ÿ„ÆÇ
+	php:S4144¸""dUpdate this method so that its implementation is not identical to "lazyload_term_meta" on line 4393.(½ù…¨ûÿÿÿÿ
+a	php:S1192—"KDefine a constant instead of duplicating this literal "post_type" 24 times.(ÔŞåŒ
+e	php:S1192À"JDefine a constant instead of duplicating this literal "showposts" 5 times.(øÎçşÿÿÿÿ
+`php:S101"LRename class "WP_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ıàÀ·
+e	php:S1142Õ"OReduce the number of returns of this function 6, down to the maximum allowed 3.(¬š ğ
+c	php:S1192º"HDefine a constant instead of duplicating this literal "preview" 4 times.(÷‘¨ãûÿÿÿÿ
+d	php:S1192Ñ"NDefine a constant instead of duplicating this literal "posts_per_rss" 5 times.(æ®˜É
+d	php:S1192Í"IDefine a constant instead of duplicating this literal "post__in" 9 times.(Å°ãüøÿÿÿÿ
+g	php:S1192£"LDefine a constant instead of duplicating this literal "attachment" 16 times.(ŒØûûÿÿÿÿ
+k	php:S3776å"URefactor this function to reduce its Cognitive Complexity from 165 to the 15 allowed.(™Öêô
+D	php:S1066ç"/Merge this if statement with the enclosing one.(Ì£í
+N	php:S1172¸""3Remove the unused function parameter "$comment_id".(½ù…¨ûÿÿÿÿ
+d	php:S1871Á"NThis branch's code block is the same as the block for the branch on line 3647.(°˜àØ
+k	php:S1192½"PDefine a constant instead of duplicating this literal "posts_per_page" 19 times.(üäÒøÿÿÿÿ
+f	php:S1192¿"KDefine a constant instead of duplicating this literal "menu_order" 8 times.(ã†ÊÃùÿÿÿÿ
+b	php:S1192Ì"GDefine a constant instead of duplicating this literal "terms" 23 times.(Ä–¤úÿÿÿÿ
+t	php:S1192Œ
+"YDefine a constant instead of duplicating this literal "sanitize_title_for_query" 4 times.(ÇÆ†©şÿÿÿÿ
+i	php:S1192Î"NDefine a constant instead of duplicating this literal "show_on_front" 8 times.(Øù¿¾şÿÿÿÿ
+b	php:S1192»"GDefine a constant instead of duplicating this literal "strval" 6 times.(ô£Ğ©øÿÿÿÿ
+j	php:S1142²"OReduce the number of returns of this function 6, down to the maximum allowed 3.(ø¦ĞŒùÿÿÿÿ
+m	php:S1192±"WDefine a constant instead of duplicating this literal "update_post_meta_cache" 4 times.(®œÉô
+i	php:S1871ˆ"NThis branch's code block is the same as the block for the branch on line 3718.(ƒ¤ØÚúÿÿÿÿ
+J	php:S1066È"/Merge this if statement with the enclosing one.(¼¢¯Æúÿÿÿÿ
+[	php:S1126ì"EReplace this "if-then-else" statement by a single "return" statement.(²ºå®
+]	php:S1192ó"GDefine a constant instead of duplicating this literal "order" 10 times.(ê¯é—
+c	php:S1192î"HDefine a constant instead of duplicating this literal "groupby" 5 times.(‰È¹Ìøÿÿÿÿ
+`	php:S1192¹"KDefine a constant instead of duplicating this literal "meta_value" 3 times.(ü¼ŞA
+o	php:S3776–"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Í‹®üÿÿÿÿÿ
+]	php:S1192²"GDefine a constant instead of duplicating this literal "tag_id" 8 times.(ßÊ·ó
+_	php:S1192Ã"JDefine a constant instead of duplicating this literal "tax_query" 3 times.(®Ã€.
+j	php:S1192Õ"TDefine a constant instead of duplicating this literal "exclude_from_search" 3 times.(©‡ö¬
+c	php:S1192¾"MDefine a constant instead of duplicating this literal "withcomments" 4 times.(•†„ë
+e	php:S1142Ê"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ı‡‘
+i	php:S1192Î"NDefine a constant instead of duplicating this literal "page_on_front" 6 times.(Øù¿¾şÿÿÿÿ
+^	php:S1192Ö"HDefine a constant instead of duplicating this literal "compare" 4 times.(øãßİ
+k	php:S1192Ò
+"UDefine a constant instead of duplicating this literal "search_orderby_title" 7 times.(™Ş•Ñ
+_	php:S1117"IRename "$query" which has the same name as the field declared at line 26.(Úª÷
+k	php:S1192á!"PDefine a constant instead of duplicating this literal "<!--nextpage-->" 6 times.(ìèğÿÿÿÿÿ
+\	php:S1192Í"FDefine a constant instead of duplicating this literal "where" 7 times.(ŞÂÅ
+J	php:S1066Ô"/Merge this if statement with the enclosing one.(¼¢¯Æúÿÿÿÿ
+]	php:S1192ş"GDefine a constant instead of duplicating this literal "NOT IN" 4 times.(¦½ö•

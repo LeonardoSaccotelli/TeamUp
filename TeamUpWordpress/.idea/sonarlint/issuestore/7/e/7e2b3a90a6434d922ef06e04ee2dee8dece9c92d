@@ -1,0 +1,82 @@
+
+e	php:S1142à"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¼ø°ä
+d	php:S1142™"OReduce the number of returns of this function 8, down to the maximum allowed 3.(¢¤×u
+e	php:S1142£"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÔĞü
+c	php:S1192Ø"HDefine a constant instead of duplicating this literal "</ul>\n" 3 times.(ŒìÜ÷ıÿÿÿÿ
+u	php:S14483"`Class "wpdb" has 69 methods, which is greater than 20 authorized. Split it into smaller classes.(…â€ş
+i	php:S1192’
+"NDefine a constant instead of duplicating this literal "wpdb::prepare" 4 times.(Ö­Ğ¢øÿÿÿÿ
+b	php:S1192Å"GDefine a constant instead of duplicating this literal "<code>" 5 times.(‡îÓøÿÿÿÿ
+^	php:S1192Á"HDefine a constant instead of duplicating this literal "utf8mb3" 3 times.(¨’ö
+e	php:S1192“"JDefine a constant instead of duplicating this literal "collation" 3 times.(Ä´ë¸ÿÿÿÿÿ
+_	php:S1192Ğ"IDefine a constant instead of duplicating this literal "charset" 10 times.(éÅˆç
+o	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Á«¿“ùÿÿÿÿ
+h	php:S1117"RRename "$global_tables" which has the same name as the field declared at line 292.(‹×ƒ¡
+g	php:S1117Û"LRename "$charset" which has the same name as the field declared at line 488.(°ÛšØÿÿÿÿÿ
+i	php:S1871í"NThis branch's code block is the same as the block for the branch on line 1643.(¢˜¥êÿÿÿÿÿ
+]	php:S1192°"GDefine a constant instead of duplicating this literal "value" 26 times.(ºâš¥
+Qphp:S131è"7Add a "case default" clause to this "switch" statement.(Ôóıÿÿÿÿ
+i	php:S1871ï"NThis branch's code block is the same as the block for the branch on line 1643.(§²çüÿÿÿÿ
+\	php:S1192"GDefine a constant instead of duplicating this literal "OBJECT" 3 times.( òÛ¾
+o	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(†”Óñúÿÿÿÿ
+h	php:S1117·"RRename "$table_charset" which has the same name as the field declared at line 150.(ïÈ¤¶
+b	php:S1117²"LRename "$queries" which has the same name as the field declared at line 199.(ÈŸšï
+k	php:S1117"PRename "$base_prefix" which has the same name as the field declared at line 228.(üçã÷ùÿÿÿÿ
+d	php:S1192¤"IDefine a constant instead of duplicating this literal "usermeta" 3 times.(à©·¶úÿÿÿÿ
+b	php:S1192»"GDefine a constant instead of duplicating this literal "binary" 6 times.(ÚÜØÇüÿÿÿÿ
+j	php:S3776„"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(“éªô
+b	php:S1192ğ"GDefine a constant instead of duplicating this literal "INSERT" 3 times.(š‚óÆùÿÿÿÿ
+e	php:S1142É"OReduce the number of returns of this function 6, down to the maximum allowed 3.(•êã”
+a	php:S1117ò"KRename "$tables" which has the same name as the field declared at line 261.(ÒÏ‹û
+a	php:S1192¤"FDefine a constant instead of duplicating this literal "users" 3 times.(à©·¶úÿÿÿÿ
+]	php:S1192Ï"GDefine a constant instead of duplicating this literal "latin1" 3 times.(ã¼ª€
+a	php:S1192ô"FDefine a constant instead of duplicating this literal "3.6.0" 4 times.(¡Òî ÿÿÿÿÿ
+a	php:S1192¢"FDefine a constant instead of duplicating this literal "query" 4 times.(ÎºÇüÿÿÿÿ
+j	php:S1142Ğ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(†”Óñúÿÿÿÿ
+o	php:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‹‡Ôùÿÿÿÿ
+h	php:S1117‡"RRename "$table_charset" which has the same name as the field declared at line 150.(ïÈ¤¶
+k	php:S1142¬"PReduce the number of returns of this function 10, down to the maximum allowed 3.(äØÊ»ùÿÿÿÿ
+o	php:S3776×"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(ÿÊ™ïıÿÿÿÿ
+i	php:S3776»"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(›Îù*
+o	php:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Š¹úÖüÿÿÿÿ
+k	php:S1192Ä"PDefine a constant instead of duplicating this literal "utf8_general_ci" 3 times.(¸›ˆüÿÿÿÿ
+c	php:S1192É"HDefine a constant instead of duplicating this literal "</li>\n" 8 times.(ÿ‘¥õùÿÿÿÿ
+g	php:S1117¨"LRename "$charset" which has the same name as the field declared at line 488.(ˆà”óøÿÿÿÿ
+j	php:S1142ù"OReduce the number of returns of this function 5, down to the maximum allowed 3.(‹‡Ôùÿÿÿÿ
+g	php:S1117Ã"LRename "$num_rows" which has the same name as the field declared at line 94.(•ÄŸ²úÿÿÿÿ
+]	php:S1192È"GDefine a constant instead of duplicating this literal "<ul>\n" 3 times.(–ËÑ¥
+e	php:S1142„"OReduce the number of returns of this function 5, down to the maximum allowed 3.(“éªô
+	php:S1192İ"fDefine a constant instead of duplicating this literal "https://wordpress.org/support/forums/" 3 times.(³Î¶ãûÿÿÿÿ
+^	php:S1192Ñ"HDefine a constant instead of duplicating this literal "collate" 3 times.(Ş´ù
+j	php:S1142û"OReduce the number of returns of this function 6, down to the maximum allowed 3.(–º™„ıÿÿÿÿ
+^	php:S1192¾"HDefine a constant instead of duplicating this literal "length" 20 times.(åŞ“ù
+{	php:S1488œ"`Immediately return this expression instead of assigning it to the temporary variable "$charset".(òîĞ«ıÿÿÿÿ
+pphp:S115"\Rename this constant "object" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Õ£Œã
+b	php:S1117½"LRename "$collate" which has the same name as the field declared at line 496.(™ãšÅ
+g	php:S1117ı"LRename "$charset" which has the same name as the field declared at line 488.(³ïÄüÿÿÿÿ
+b	php:S1192—"LDefine a constant instead of duplicating this literal "set_charset" 3 times.(õ¼˜Ì
+a	php:S1117¼"LRename "$charset" which has the same name as the field declared at line 488.(ôÄç!
+j	php:S1142¸"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Á«¿“ùÿÿÿÿ
+d	php:S1192é"IDefine a constant instead of duplicating this literal "utf8mb4" 11 times.(²éöÔÿÿÿÿÿ
+\php:S1013"HRename class "wpdb" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(…â€ş
+e	php:S1142ë"OReduce the number of returns of this function 7, down to the maximum allowed 3.(ü“à‚
+a	php:S1192Ù"FDefine a constant instead of duplicating this literal "ascii" 3 times.(ùÿàÔûÿÿÿÿ
+M	php:S1599ä"7Remove the use of this variable variable "$$component".(¨ñçë
+]	php:S1192Æ"GDefine a constant instead of duplicating this literal "</p>\n" 6 times.(ê¤ë
+c	php:S1192Å"HDefine a constant instead of duplicating this literal "</code>" 5 times.(‡îÓøÿÿÿÿ
+d	php:S1142å"OReduce the number of returns of this function 7, down to the maximum allowed 3.(îñàl
+j	php:S3776à"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ñèªÎ
+e	php:S1142ô"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¶¿Â‘
+c	php:S1192À"HDefine a constant instead of duplicating this literal "</h1>\n" 3 times.(ÃøÅ‚ùÿÿÿÿ
+g	php:S1117’"LRename "$charset" which has the same name as the field declared at line 488.(¢¬±ƒıÿÿÿÿ
+J	php:S3801‰
+"4Refactor this function to use "return" consistently.(»¢¹¦
+j	php:S1142É"OReduce the number of returns of this function 5, down to the maximum allowed 3.(‘ø‚˜ùÿÿÿÿ
+d	php:S1192Ÿ"IDefine a constant instead of duplicating this literal "\r\n\t (" 3 times.(£èÇùÿÿÿÿ
+f	php:S1117Ú"KRename "$result" which has the same name as the field declared at line 134.(ˆÛ¢¿üÿÿÿÿ
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(éÔ ğûÿÿÿÿ
+c	php:S1192µ"HDefine a constant instead of duplicating this literal "format" 13 times.(Ü¤§ùÿÿÿÿ
+g	php:S1117û"LRename "$charset" which has the same name as the field declared at line 488.(ÇÌÜ…ùÿÿÿÿ
+o	php:S3776û"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(–º™„ıÿÿÿÿ
+j	php:S1142Ò"OReduce the number of returns of this function 5, down to the maximum allowed 3.(­‡Æûÿÿÿÿ
+j	php:S3776É"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(•êã”

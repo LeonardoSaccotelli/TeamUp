@@ -1,0 +1,19 @@
+
+	php:S1192D"eDefine a constant instead of duplicating this literal "_wp_suggested_privacy_policy_content" 7 times.(™åŒşÿÿÿÿ
+j	php:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Í¬×ë
+d	php:S11427"OReduce the number of returns of this function 5, down to the maximum allowed 3.(£ééè
+\	php:S1192·"FDefine a constant instead of duplicating this literal "added" 3 times.(ÉÑ¤“
+b	php:S1192¡"GDefine a constant instead of duplicating this literal "</div>" 3 times.(şµÖ¿ıÿÿÿÿ
+vphp:S101
+"]Rename class "WP_Privacy_Policy_Content" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ôİ®œıÿÿÿÿ
+]	php:S1192S"HDefine a constant instead of duplicating this literal "changed" 3 times.(¶—Úå
+u	php:S11929"[Define a constant instead of duplicating this literal "wp_page_for_privacy_policy" 4 times.(²Ï”Æúÿÿÿÿ
+\	php:S1192"FDefine a constant instead of duplicating this literal "</h2>" 9 times.(©ó¶
+€	php:S1192ê"eDefine a constant instead of duplicating this literal "<p class="privacy-policy-tutorial">" 26 times.(¨æĞòüÿÿÿÿ
+b	php:S1192Z"HDefine a constant instead of duplicating this literal "removed" 8 times.(ã‡›èùÿÿÿÿ
+b	php:S1192*"MDefine a constant instead of duplicating this literal "policy_text" 14 times.(„íÿù
+\	php:S1192ƒ"GDefine a constant instead of duplicating this literal "</h3>" 11 times.(¿²!
+g	php:S1192)"MDefine a constant instead of duplicating this literal "plugin_name" 18 times.(¥Ó®¼ûÿÿÿÿ
+o	php:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(·øºçøÿÿÿÿ
+c	php:S1192²"HDefine a constant instead of duplicating this literal "updated" 5 times.(Ü”»ºøÿÿÿÿ
+H	php:S1481«"-Remove this unused "$old_key" local variable.(îŞšÿúÿÿÿÿ

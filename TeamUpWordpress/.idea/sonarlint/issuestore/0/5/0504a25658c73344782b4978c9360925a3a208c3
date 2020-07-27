@@ -1,0 +1,64 @@
+
+i	php:S1192¼"NDefine a constant instead of duplicating this literal "addbsi_length" 4 times.(¸æ‘Ùùÿÿÿÿ
+c	php:S1192€"HDefine a constant instead of duplicating this literal "langcod" 3 times.(ƒÒéòşÿÿÿÿ
+wphp:S115"^Rename this constant "syncword" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÃğĞçøÿÿÿÿ
+d	php:S1192ª"IDefine a constant instead of duplicating this literal "timecod1" 7 times.(à ¶Şøÿÿÿÿ
+[	php:S1192t"FDefine a constant instead of duplicating this literal "lfeon" 6 times.(ü¿û´
+`	php:S1192 "KDefine a constant instead of duplicating this literal "extpgmcscl" 3 times.(«³ø
+]	php:S1192"GDefine a constant instead of duplicating this literal "mixdef" 4 times.(ÑÓ’¿
+c	php:S1192Ø"MDefine a constant instead of duplicating this literal "num_channels" 9 times.(æ¡ÓÒ
+C	php:S1481‰"-Remove this unused "$padding" local variable.(‘Êí
+‹php:S138#"wThis function "Analyze" has 377 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¾‡óÁ
+d	php:S1192ß"IDefine a constant instead of duplicating this literal "paninfo2" 3 times.(å•íƒşÿÿÿÿ
+h	php:S1192°"MDefine a constant instead of duplicating this literal "extpgmlfescl" 3 times.(ç¨Ğüÿÿÿÿ
+d	php:S1192‡"IDefine a constant instead of duplicating this literal "mixlevel" 3 times.(øÑ´¥øÿÿÿÿ
+^	php:S1192E"IDefine a constant instead of duplicating this literal "syncinfo" 3 times.(ÙÚúó
+\	php:S1192t"GDefine a constant instead of duplicating this literal "flags" 92 times.(ü¿û´
+d	php:S1192³"IDefine a constant instead of duplicating this literal "timecod2" 4 times.(ò¶ Åüÿÿÿÿ
+`	php:S1192´"JDefine a constant instead of duplicating this literal "timecode2" 4 times.(õ¹¿Ë
+j	php:S3776#"URefactor this function to reduce its Cognitive Complexity from 271 to the 15 allowed.(¾‡óÁ
+c	php:S1192Ù"HDefine a constant instead of duplicating this literal "paninfo" 3 times.(ªÒèäúÿÿÿÿ
+`	php:S1192Y"KDefine a constant instead of duplicating this literal "frmsizecod" 7 times.(¶Ìî¢
+f	php:S1192Ñ"KDefine a constant instead of duplicating this literal "numblkscod" 7 times.(ƒÒÜûıÿÿÿÿ
+^	php:S1192ˆ"HDefine a constant instead of duplicating this literal "roomtyp" 3 times.(¸Áòç
+b	php:S1192Ğ"GDefine a constant instead of duplicating this literal "fscod2" 3 times.(ºÓ¸ıÿÿÿÿ
+[	php:S1192z"FDefine a constant instead of duplicating this literal "compr" 7 times.(ÃÉëÚ
+c	php:S1192ù"MDefine a constant instead of duplicating this literal "lfemixlevcod" 3 times.(»Ü…
+`	php:S1192Ÿ"JDefine a constant instead of duplicating this literal "mixlevel2" 3 times.(¤à·Â
+I	php:S1066K"/Merge this if statement with the enclosing one.(şã¹„ıÿÿÿÿ
+d	php:S1192é"NDefine a constant instead of duplicating this literal "blkmixcfginfo" 4 times.(¾½“Í
+`	php:S1192‰"JDefine a constant instead of duplicating this literal "extpgmscl" 3 times.(êŸˆ 
+c	php:S1192æ"HDefine a constant instead of duplicating this literal "chanmap" 3 times.(¬äŸşÿÿÿÿ
+b	php:S1192º"GDefine a constant instead of duplicating this literal "addbsi" 5 times.(Ì¿§Óÿÿÿÿÿ
+g	php:S1192¨"LDefine a constant instead of duplicating this literal "extpgmlsscl" 3 times.(Å”Ìßùÿÿÿÿ
+a	php:S1192˜"FDefine a constant instead of duplicating this literal "blkid" 3 times.(Ò…³ùÿÿÿÿ
+a	php:S1192Q"GDefine a constant instead of duplicating this literal "audio" 11 times.(Ş±ŒÎøÿÿÿÿ
+a	php:S1192`"GDefine a constant instead of duplicating this literal "acmod" 21 times.(ºÍ×òúÿÿÿÿ
+^	php:S1192 "IDefine a constant instead of duplicating this literal "roomtyp2" 3 times.(ñ®¥
+b	php:S1192Í"GDefine a constant instead of duplicating this literal "frmsiz" 3 times.(úöÏõıÿÿÿÿ
+i	php:S1192º"NDefine a constant instead of duplicating this literal "extpgmaux1scl" 3 times.(ìƒÄàùÿÿÿÿ
+g	php:S1192¬"LDefine a constant instead of duplicating this literal "extpgmrsscl" 3 times.(¼âÂ›úÿÿÿÿ
+3php:S125<"Remove this commented out code.(×¹Üò
+^	php:S1192x"IDefine a constant instead of duplicating this literal "dialnorm" 3 times.(äÃ«Š
+]	php:S1192p"HDefine a constant instead of duplicating this literal "dsurmod" 3 times.(š™
+d	php:S1192²"NDefine a constant instead of duplicating this literal "channel_order" 8 times.(›Üòé
+`	php:S1192X"FDefine a constant instead of duplicating this literal "fscod" 8 times.(¸ÅÏ·üÿÿÿÿ
+`	php:S1192_"FDefine a constant instead of duplicating this literal "bsmod" 4 times.(µØ™Êıÿÿÿÿ
+a	php:S1192¤"KDefine a constant instead of duplicating this literal "extpgmrscl" 3 times.(ÈÛœê
+^	php:S1192º"HDefine a constant instead of duplicating this literal "bitrate" 6 times.(Ñ”–Ì
+c	php:S1192´"HDefine a constant instead of duplicating this literal "dmixscl" 3 times.(’ê¢ùÿÿÿÿ
+]	php:S1192˜"IDefine a constant instead of duplicating this literal "langcod2" 3 times.(’¬a
+g	php:S1192¯"LDefine a constant instead of duplicating this literal "sample_rate" 4 times.(İàÚ üÿÿÿÿ
+e	php:S1192²"ODefine a constant instead of duplicating this literal "channel_config" 8 times.(›Üòé
+i	php:S1192¾"NDefine a constant instead of duplicating this literal "extpgmaux2scl" 3 times.(¢°÷Êüÿÿÿÿ
+`	php:S1192­"JDefine a constant instead of duplicating this literal "timecode1" 4 times.(ÑŠÕÈ
+\	php:S1192ÿ"GDefine a constant instead of duplicating this literal "pgmscl" 3 times.(Û³ŞK
+]	php:S1192’"GDefine a constant instead of duplicating this literal "compr2" 7 times.(ÖäÈî
+c	php:S1192Ë"HDefine a constant instead of duplicating this literal "strmtyp" 5 times.(ûŠ »üÿÿÿÿ
+c	php:S1192„"HDefine a constant instead of duplicating this literal "pgmscl2" 3 times.(ÿâØëşÿÿÿÿ
+b	php:S1192Î"LDefine a constant instead of duplicating this literal "channelmode" 3 times.(şœ¶³
+`	php:S1192"JDefine a constant instead of duplicating this literal "dialnorm2" 3 times.(ÑÚ…Ó
+gphp:S101"NRename class "getid3_ac3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åß‘êüÿÿÿÿ
+_	php:S1192û"IDefine a constant instead of duplicating this literal "reserved" 6 times.(ÂÍ
+a	php:S1192œ"KDefine a constant instead of duplicating this literal "extpgmlscl" 3 times.(–©„
+Qphp:S131‚"7Add a "case default" clause to this "switch" statement.(à„ü§úÿÿÿÿ

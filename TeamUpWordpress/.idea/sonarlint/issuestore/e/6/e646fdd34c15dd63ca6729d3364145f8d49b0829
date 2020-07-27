@@ -1,0 +1,25 @@
+
+f	php:S1192u"LDefine a constant instead of duplicating this literal "replay_gain" 3 times.(ş‚«“ûÿÿÿÿ
+b	php:S1192k"HDefine a constant instead of duplicating this literal "warning" 4 times.(ë––ğùÿÿÿÿ
+l	php:S1192H"RDefine a constant instead of duplicating this literal "tag_offset_start" 11 times.(ïîØÜûÿÿÿÿ
+i	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(¾‡óÁ
+b	php:S1192á"GDefine a constant instead of duplicating this literal "images" 3 times.(½„ÀÊşÿÿÿÿ
+b	php:S1192¡"LDefine a constant instead of duplicating this literal "LYRICSBEGIN" 5 times.(£öè£
+`	php:S1192­"JDefine a constant instead of duplicating this literal "" instead" 3 times.(â×Øğ
+H	php:S1481%".Remove this unused "$id3v1tag" local variable.(¥ØøÑùÿÿÿÿ
+]	php:S1192j"HDefine a constant instead of duplicating this literal "lyrics3" 3 times.(«±¿²
+j	php:S1142Š"OReduce the number of returns of this function 7, down to the maximum allowed 3.(Ä‡åÒüÿÿÿÿ
+^	php:S1192"IDefine a constant instead of duplicating this literal "filesize" 6 times.(¨æıé
+d	php:S1192."JDefine a constant instead of duplicating this literal "LYRICS200" 7 times.(ËÔÍ–øÿÿÿÿ
+R	php:S1764Ğ"7Identical sub-expressions on both sides of operator "-"(Ğ—Ïúÿÿÿÿ
+c	php:S1192­"MDefine a constant instead of duplicating this literal " but found "" 3 times.(â×Øğ
+i	php:S1192§"NDefine a constant instead of duplicating this literal "synchedlyrics" 6 times.(„Ó¬Çıÿÿÿÿ
+o	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Şƒºçşÿÿÿÿ
+W	php:S1854:"BRemove this useless assignment to local variable '$lyrics3offset'.(¼¼¸ß
+o	php:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(Ä‡åÒüÿÿÿÿ
+d	php:S1192'"JDefine a constant instead of duplicating this literal "LYRICSEND" 4 times.(ˆéşÿÿÿÿ
+d	php:S1192S"JDefine a constant instead of duplicating this literal "avdataend" 4 times.(Ñ£Ò™úÿÿÿÿ
+kphp:S101"RRename class "getid3_lyrics3" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¼µûĞùÿÿÿÿ
+a	php:S1192÷"FDefine a constant instead of duplicating this literal "id3v1" 3 times.(Íú½ˆûÿÿÿÿ
+Q	php:S1481k"7Remove this unused "$GETID3_ERRORARRAY" local variable.(ë––ğùÿÿÿÿ
+H	php:S1481¦"2Remove this unused "$timestampkey" local variable.(ÔşŒı

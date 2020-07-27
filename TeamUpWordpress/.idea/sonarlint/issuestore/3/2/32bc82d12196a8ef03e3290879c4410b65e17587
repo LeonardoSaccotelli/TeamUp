@@ -1,0 +1,21 @@
+
+i	php:S1192£"NDefine a constant instead of duplicating this literal "group_invites" 3 times.(òª¢‹ûÿÿÿÿ
+o	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¦³Íõıÿÿÿÿ
+f	php:S1192ª"KDefine a constant instead of duplicating this literal "post_title" 4 times.(ùÉñ­øÿÿÿÿ
+c	php:S1192 "MDefine a constant instead of duplicating this literal "create_group" 3 times.(Ãàğ
+c	php:S1192«"MDefine a constant instead of duplicating this literal "post_content" 4 times.(™‹©‘
+4php:S125¢"Remove this commented out code.(ƒ¶ÛÚ
+s	php:S1488x"^Immediately return this expression instead of assigning it to the temporary variable "$array".(ƒÈ´Í
+`	php:S1192®"JDefine a constant instead of duplicating this literal "post_type" 4 times.(õÁš€
+iphp:S101"PRename class "Groups_Setup" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(®ëÁ¦ûÿÿÿÿ
+I	php:S1135¡"4Complete the task associated to this "TODO" comment.(ŸÆÍ^
+b	php:S1192¬"LDefine a constant instead of duplicating this literal "post_status" 4 times.(¦—Êı
+f	php:S1192""LDefine a constant instead of duplicating this literal "um-activity" 9 times.(öĞº´ùÿÿÿÿ
+f	php:S1192‡"KDefine a constant instead of duplicating this literal "um_options" 4 times.(Ş®¥ şÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+^	php:S1192¬"HDefine a constant instead of duplicating this literal "publish" 4 times.(¦—Êı
+b	php:S1192¢"GDefine a constant instead of duplicating this literal "groups" 3 times.(ÒË¯úÿÿÿÿ
+_	php:S1192 "IDefine a constant instead of duplicating this literal "_um_core" 8 times.(Ãàğ
+b	php:S1192­"LDefine a constant instead of duplicating this literal "post_author" 4 times.(‹¤»¼
+d	php:S1192y"JDefine a constant instead of duplicating this literal "um-groups" 4 times.(—Àí¾ùÿÿÿÿ
+e	php:S1192¡"JDefine a constant instead of duplicating this literal "my_groups" 3 times.(õÅ‚úÿÿÿÿ

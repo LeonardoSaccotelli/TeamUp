@@ -1,0 +1,30 @@
+
+f	php:S1192º"PDefine a constant instead of duplicating this literal "wporg_favorites" 3 times.(Ûú¿Å
+a	php:S1192Û"FDefine a constant instead of duplicating this literal "group" 6 times.(´æŒÈøÿÿÿÿ
+–php:S138¹"|This function "display_rows" has 247 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(İ±…´şÿÿÿÿ
+n	php:S3776W"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÂŞû©úÿÿÿÿ
+b	php:S1192¤"GDefine a constant instead of duplicating this literal "author" 3 times.(œëÑàùÿÿÿÿ
+]	php:S1192ö"HDefine a constant instead of duplicating this literal "</span>" 3 times.(êÜ2
+d	php:S1192¹"IDefine a constant instead of duplicating this literal "_wpnonce" 3 times.(åşîšÿÿÿÿÿ
+]	php:S1192ÿ"GDefine a constant instead of duplicating this literal "plugin" 9 times.(” íã
+\	php:S1192e"GDefine a constant instead of duplicating this literal "search" 5 times.(¼ÕôÛ
+tphp:S101"`Rename class "WP_Plugin_Install_List_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ñû‡¼
+s	php:S1192Î"]Define a constant instead of duplicating this literal "Plugin installer group title" 3 times.(ûùü¼
+Qphp:S131Š"7Add a "case default" clause to this "switch" statement.(ßğ¦¼ûÿÿÿÿ
+p	php:S3776¹"URefactor this function to reduce its Cognitive Complexity from 103 to the 15 allowed.(İ±…´şÿÿÿÿ
+`	php:S1192‹"KDefine a constant instead of duplicating this literal "update_php" 3 times.(ºèÕK
+¬	php:S1192™"•Define a constant instead of duplicating this literal "<button type="button" class="button button-disabled" disabled="disabled">%s</button>" 4 times.(Ìß
+Qphp:S131"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+a	php:S1192½"FDefine a constant instead of duplicating this literal "title" 3 times.(Á®×ğúÿÿÿÿ
+b	php:S1192h"HDefine a constant instead of duplicating this literal "version" 3 times.(âŒúşÿÿÿÿÿ
+k	php:S1192ã"PDefine a constant instead of duplicating this literal "active_installs" 4 times.( ¬å„ùÿÿÿÿ
+a	php:S1192ï"FDefine a constant instead of duplicating this literal "icons" 7 times.(Ìíõüÿÿÿÿ
+j	php:S1142¥"OReduce the number of returns of this function 4, down to the maximum allowed 3.(œ©âÂúÿÿÿÿ
+k	php:S1192"PDefine a constant instead of duplicating this literal "update-core.php" 3 times.(¢Š°Ùüÿÿÿÿ
+f	php:S1192i"QDefine a constant instead of duplicating this literal "Plugin Installer" 5 times.( ¡Ô
+\	php:S1192’"FDefine a constant instead of duplicating this literal "</em>" 3 times.(„õ›¢
+a	php:S1117¦"KRename "$orderby" which has the same name as the field declared at line 21.(¤¥àŸ
+_	php:S1192“"IDefine a constant instead of duplicating this literal "per_page" 3 times.(Í™±İ
+a	php:S1192‹"LDefine a constant instead of duplicating this literal "update_core" 3 times.(ºèÕK
+b	php:S1192’"LDefine a constant instead of duplicating this literal "</p><p><em>" 3 times.(„õ›¢
+c	php:S1192k"IDefine a constant instead of duplicating this literal "featured" 3 times.(¥İöáıÿÿÿÿ

@@ -1,0 +1,94 @@
+
+j	php:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(É“á‚
+g	php:S1192Û"QDefine a constant instead of duplicating this literal "comment_date_gmt" 4 times.(š—Ì¿
+E	php:S1066ğ"/Merge this if statement with the enclosing one.(–ŠØ
+c	php:S1192T"IDefine a constant instead of duplicating this literal "password" 3 times.(®Òäåıÿÿÿÿ
+c	php:S1192¥"HDefine a constant instead of duplicating this literal "comment" 4 times.(÷ÃäŠıÿÿÿÿ
+a	php:S1192÷"KDefine a constant instead of duplicating this literal "date_query" 3 times.(§®ö¯
+b	php:S1192ç
+"GDefine a constant instead of duplicating this literal "object" 3 times.(¢Úêúÿÿÿÿ
+e	php:S1192ä"JDefine a constant instead of duplicating this literal "author_ip" 8 times.(ÿÉ…õşÿÿÿÿ
+d	php:S1192¹"IDefine a constant instead of duplicating this literal "date_gmt" 7 times.(†îñ‰şÿÿÿÿ
+b	php:S1192J"MDefine a constant instead of duplicating this literal "description" 39 times.(ïÒ€¬
+sphp:S101"_Rename class "WP_REST_Comments_Controller" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÑòØÇ
+c	php:S11926"IDefine a constant instead of duplicating this literal "callback" 5 times.(Çƒöûıÿÿÿÿ
+n	php:S11927"TDefine a constant instead of duplicating this literal "permission_callback" 5 times.(Õïäìıÿÿÿÿ
+c	php:S1192à"HDefine a constant instead of duplicating this literal "user_id" 3 times.(ùŒ“–ÿÿÿÿÿ
+`	php:S1192³"JDefine a constant instead of duplicating this literal "date-time" 4 times.(äÇ…
+d	php:S1142}"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ã¿õİ
+i	php:S1192ã"SDefine a constant instead of duplicating this literal "comment_author_url" 6 times.(½Ä‰
+b	php:S1192Ù"GDefine a constant instead of duplicating this literal "search" 3 times.(óÊ Øüÿÿÿÿ
+d	php:S1192"NDefine a constant instead of duplicating this literal "comment_agent" 4 times.(şÓ™¯
+\	php:S1192’"FDefine a constant instead of duplicating this literal "trash" 4 times.(¬¿Æš
+^	php:S1192¡"HDefine a constant instead of duplicating this literal "approve" 5 times.(¾ÔºØ
+Œ	php:S1192ß"vDefine a constant instead of duplicating this literal "Sorry, you are not allowed to edit '%s' for comments." 3 times.(‚ ‚”
+c	php:S1192S"IDefine a constant instead of duplicating this literal "context" 30 times.(²ÒÄüÿÿÿÿ
+f	php:S1192©"KDefine a constant instead of duplicating this literal "author_url" 5 times.(¹ÑüÑşÿÿÿÿ
+h	php:S1192ú
+"RDefine a constant instead of duplicating this literal "sanitize_callback" 7 times.(Á Á
+w	php:S1488¬"aImmediately return this expression instead of assigning it to the temporary variable "$response".(æàãí
+f	php:S1142¹"PReduce the number of returns of this function 12, down to the maximum allowed 3.(É“á‚
+c	php:S1192ñ"HDefine a constant instead of duplicating this literal "orderby" 4 times.(Øí£ˆûÿÿÿÿ
+]	php:S1192ì
+"GDefine a constant instead of duplicating this literal "embed" 12 times.(ø®Éœ
+a	php:S1192Ù"KDefine a constant instead of duplicating this literal "properties" 7 times.(ú’ôÊ
+k	php:S1192Ò"PDefine a constant instead of duplicating this literal "comment_content" 5 times.(ë’µÍúÿÿÿÿ
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(’×’İÿÿÿÿÿ
+f	php:S1192¶"PDefine a constant instead of duplicating this literal "comment_post_ID" 3 times.(¶Ëßğ
+j	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¼òôò
+b	php:S1192¡"LDefine a constant instead of duplicating this literal "author_name" 5 times.(´ÒÂ£
+i	php:S1192‰"SDefine a constant instead of duplicating this literal "moderate_comments" 10 times.(»¯›ç
+a	php:S1192”"FDefine a constant instead of duplicating this literal "items" 7 times.(ì¿©¸ûÿÿÿÿ
+m	php:S1192û
+"RDefine a constant instead of duplicating this literal "validate_callback" 4 times.(®Ïâ˜şÿÿÿÿ
+e	php:S1192á"ODefine a constant instead of duplicating this literal "comment_author" 5 times.(á°§
+^	php:S1192œ"HDefine a constant instead of duplicating this literal "author" 12 times.(ù•ñ—
+]	php:S1192×"GDefine a constant instead of duplicating this literal "number" 4 times.(Ö˜œø
+a	php:S1192ÿ"FDefine a constant instead of duplicating this literal "after" 5 times.(ùÃ—…ıÿÿÿÿ
+c	php:S1192Ô"MDefine a constant instead of duplicating this literal "sanitize_key" 3 times.(¶ûÓ
+e	php:S1192œ"ODefine a constant instead of duplicating this literal "author_exclude" 3 times.(ù•ñ—
+^	php:S1192÷
+"HDefine a constant instead of duplicating this literal "format" 10 times.(ºÒÒñ
+s	php:S1192ú"]Define a constant instead of duplicating this literal "rest_comment_invalid_post_id" 3 times.(Š²…Ò
+Œ	php:S1448"wClass "WP_REST_Comments_Controller" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(ÑòØÇ
+^	php:S1192Ò"HDefine a constant instead of duplicating this literal "include" 4 times.(ÄÖÉş
+]	php:S1192Ó"GDefine a constant instead of duplicating this literal "offset" 6 times.(¯…ßÄ
+g	php:S1192å"LDefine a constant instead of duplicating this literal "REMOTE_ADDR" 5 times.(Ä²òÿÿÿÿÿ
+f	php:S1142µ"PReduce the number of returns of this function 14, down to the maximum allowed 3.(÷‹Éá
+J	php:S1066Š"/Merge this if statement with the enclosing one.(¬Ê›˜üÿÿÿÿ
+i	php:S3776}"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ã¿õİ
+q	php:S1192…"VDefine a constant instead of duplicating this literal "rest_cannot_read_post" 3 times.(ºí¦Úùÿÿÿÿ
+^	php:S1192‡"HDefine a constant instead of duplicating this literal "status" 56 times.(ååÄ
+f	php:S1142 "PReduce the number of returns of this function 12, down to the maximum allowed 3.(¼òôò
+e	php:S1142µ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(®Š»Ü
+j	php:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(÷‹Éá
+b	php:S1192ú"GDefine a constant instead of duplicating this literal "before" 5 times.(ì›Îõşÿÿÿÿ
+g	php:S1192ù
+"LDefine a constant instead of duplicating this literal "arg_options" 5 times.(­åŸ×øÿÿÿÿ
+\	php:S1192“"FDefine a constant instead of duplicating this literal "array" 7 times.(÷Áİş
+m	php:S1192±"RDefine a constant instead of duplicating this literal "author_user_agent" 5 times.(Ãè‘ûÿÿÿÿ
+c	php:S1192S"IDefine a constant instead of duplicating this literal "default" 15 times.(²ÒÄüÿÿÿÿ
+o	php:S3776ı	"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÏÎ¨äúÿÿÿÿ
+f	php:S1192…	"KDefine a constant instead of duplicating this literal "embeddable" 3 times.(Úä™ìúÿÿÿÿ
+_	php:S1192í
+"IDefine a constant instead of duplicating this literal "readonly" 5 times.(åúÆÖ
+e	php:S1142Ò"OReduce the number of returns of this function 4, down to the maximum allowed 3.(òĞ²Ì
+o	php:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰î×Ïûÿÿÿÿ
+n	php:S1192Ñ"SDefine a constant instead of duplicating this literal "author_avatar_urls" 3 times.(Å»©øÿÿÿÿÿ
+p	php:S1192â"UDefine a constant instead of duplicating this literal "comment_author_email" 7 times.(Ò¹Õ§ùÿÿÿÿ
+b	php:S1192V"HDefine a constant instead of duplicating this literal "string" 23 times.(Şåáßúÿÿÿÿ
+d	php:S1192ú"IDefine a constant instead of duplicating this literal "%s/%s/%d" 3 times.(º’­ãúÿÿÿÿ
+d	php:S1192œ"NDefine a constant instead of duplicating this literal "author_email" 10 times.(ù•ñ—
+a	php:S1192Ô"FDefine a constant instead of duplicating this literal "order" 3 times.(»ñ­Èùÿÿÿÿ
+h	php:S1192°
+"RDefine a constant instead of duplicating this literal "comment_author_IP" 3 times.(¤ä«ˆ
+e	php:S1142ú"OReduce the number of returns of this function 5, down to the maximum allowed 3.(ÜÍåğ
+g	php:S1192"QDefine a constant instead of duplicating this literal "comment_approved" 5 times.(©ßœ€
+™	php:S1192†"~Define a constant instead of duplicating this literal "Sorry, you are not allowed to read the post for this comment." 3 times.(«‚ÍŠüÿÿÿÿ
+[	php:S1192e"FDefine a constant instead of duplicating this literal "force" 3 times.(ÛÈˆŞ
+J	php:S1066å"/Merge this if statement with the enclosing one.(Ä²òÿÿÿÿÿ
+j	php:S1142†"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¥¯œüùÿÿÿÿ
+]	php:S11925"HDefine a constant instead of duplicating this literal "methods" 5 times.(ŸÊşµ
+c	php:S1192Õ"HDefine a constant instead of duplicating this literal "parent" 11 times.(¤ëğúÿÿÿÿ
+^	php:S1192½"HDefine a constant instead of duplicating this literal "content" 9 times.(†õ®
+]	php:S1192K"IDefine a constant instead of duplicating this literal "integer" 13 times.(Ò†Ö1

@@ -1,0 +1,10 @@
+
+d	php:S1117‡"IRename "$limbs" which has the same name as the field declared at line 15.(œ³þÈÿÿÿÿÿ
+d	php:S1117Ó"IRename "$limbs" which has the same name as the field declared at line 15.(œ³þÈÿÿÿÿÿ
+uphp:S101
+"aRename class "ParagonIE_Sodium_Core32_Int64" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ž€–Ö
+E	php:S1066²"/Merge this if statement with the enclosing one.(œåáÞ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(õ†×Ú
+Ž	php:S1448
+"yClass "ParagonIE_Sodium_Core32_Int64" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(ž€–Ö
+9php:S125´"Remove this commented out code.(½ã¢Þùÿÿÿÿ

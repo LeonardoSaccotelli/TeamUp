@@ -1,0 +1,6 @@
+
+i	php:S1142""OReduce the number of returns of this function 4, down to the maximum allowed 3.(ˆÃ¦Ùþÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+kphp:S101"XRename class "Admin_Forms_Settings" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¢àè
+[	php:S1192&"FDefine a constant instead of duplicating this literal "value" 4 times.(¡½éÍ
+n	php:S3776""TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆÃ¦Ùþÿÿÿÿ

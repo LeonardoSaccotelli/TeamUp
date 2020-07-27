@@ -1,0 +1,11 @@
+
+\	php:S1192#"GDefine a constant instead of duplicating this literal "author" 4 times.(—ÄÈ
+]	php:S1192R"HDefine a constant instead of duplicating this literal "user_id" 5 times.(ÒÔª
+b	php:S1192T"MDefine a constant instead of duplicating this literal "type__not_in" 3 times.(×€’ö
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ
+o	php:S1192T"ZDefine a constant instead of duplicating this literal "um_excluded_comment_types" 3 times.(×€’ö
+\	php:S1192$"HDefine a constant instead of duplicating this literal "publish" 5 times.(ÉˆJ
+`	php:S1192$"LDefine a constant instead of duplicating this literal "post_status" 5 times.(ÉˆJ
+gphp:S101"NRename class "User_posts" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(É†ì…úÿÿÿÿ
+\	php:S1192""GDefine a constant instead of duplicating this literal "offset" 5 times.(±³Ää
+i	php:S1192!"ODefine a constant instead of duplicating this literal "posts_per_page" 3 times.(²ñŞ€ıÿÿÿÿ

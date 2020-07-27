@@ -1,0 +1,4 @@
+
+nphp:S101"URename class "User_Tags_Enqueue" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”´«Áÿÿÿÿÿ
+g	php:S1192"MDefine a constant instead of duplicating this literal "um-user-tags" 5 times.(ì×Üêÿÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ä¡õÈùÿÿÿÿ

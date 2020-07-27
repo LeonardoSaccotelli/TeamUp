@@ -1,0 +1,14 @@
+
+uphp:S101"\Rename class "Group_Control_Image_Size" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—úº×şÿÿÿÿ
+i	php:S3776H"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Åª¼
+c	php:S1192ú"HDefine a constant instead of duplicating this literal "exclude" 4 times.(Ú·–¾ıÿÿÿÿ
+J	php:S1135Å"4Complete the task associated to this "TODO" comment.(Ó¾â‹
+c	php:S1192®"HDefine a constant instead of duplicating this literal "default" 4 times.(Åø…Ãşÿÿÿÿ
+a	php:S1192"FDefine a constant instead of duplicating this literal "width" 4 times.(Ãã¾¶ùÿÿÿÿ
+b	php:S1192"GDefine a constant instead of duplicating this literal "height" 4 times.(ÍÌİ¯ÿÿÿÿÿ
+e	php:S1117‰"JRename "$fields" which has the same name as the field declared at line 30.(‰®™·üÿÿÿÿ
+e	php:S1192Œ"JDefine a constant instead of duplicating this literal "elementor" 5 times.(¶ÉşĞúÿÿÿÿ
+n	php:S1192Œ"SDefine a constant instead of duplicating this literal "Image Size Control" 4 times.(¶ÉşĞúÿÿÿÿ
+`	php:S1192P"FDefine a constant instead of duplicating this literal "_size" 4 times.(úããïşÿÿÿÿ
+b	php:S1192Á"GDefine a constant instead of duplicating this literal "custom" 6 times.(ÍĞöÁûÿÿÿÿ
+^	php:S1192ù"HDefine a constant instead of duplicating this literal "include" 4 times.(ÌºÄ°

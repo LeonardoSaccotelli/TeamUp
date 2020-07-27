@@ -1,0 +1,29 @@
+
+c	php:S1192ë"HDefine a constant instead of duplicating this literal "wrapper" 3 times.(–†®øÿÿÿÿ
+œphp:S138c"‚This function "_register_controls" has 427 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¦Îè¡ÿÿÿÿÿ
+a	php:S1192q"GDefine a constant instead of duplicating this literal "active" 3 times.(Ğÿ‰’şÿÿÿÿ
+j	php:S1192œ"ODefine a constant instead of duplicating this literal "caption_source" 6 times.(ò§±†úÿÿÿÿ
+\	php:S1192Š"FDefine a constant instead of duplicating this literal "range" 6 times.(÷¦ç£
+`	php:S1192,"FDefine a constant instead of duplicating this literal "Image" 3 times.(ËÇ«İşÿÿÿÿ
+_	php:S1192ç"IDefine a constant instead of duplicating this literal "selector" 6 times.(­‹Ä°
+Lphp:S131Ï"7Add a "case default" clause to this "switch" statement.(¶øÜæ
+^	php:S1192º"HDefine a constant instead of duplicating this literal "link_to" 6 times.(Èéş
+c	php:S1301Ï"MReplace this "switch" statement with "if" statements to increase readability.(¶øÜæ
+x	php:S1192ğ"bDefine a constant instead of duplicating this literal "{{WRAPPER}} .widget-image-caption" 6 times.(¾ïØâ
+]	php:S1192‡"HDefine a constant instead of duplicating this literal "options" 5 times.(ò–»6
+f	php:S1192•"KDefine a constant instead of duplicating this literal "selectors" 11 times.(Ú‘›æúÿÿÿÿ
+a	php:S1192ë"FDefine a constant instead of duplicating this literal "class" 3 times.(–†®øÿÿÿÿ
+iphp:S101"PRename class "Widget_Image" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(–…ıĞşÿÿÿÿ
+|	php:S1192™"aDefine a constant instead of duplicating this literal "{{WRAPPER}} .elementor-image img" 8 times.(Ñ“ÏÎøÿÿÿÿ
+a	php:S1192g"GDefine a constant instead of duplicating this literal "label" 24 times.(ùáÈ†ûÿÿÿÿ
+e	php:S1192,"KDefine a constant instead of duplicating this literal "elementor" 43 times.(ËÇ«İşÿÿÿÿ
+e	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.( º¿Ä
+`	php:S1192"FDefine a constant instead of duplicating this literal "image" 8 times.(ªÅ²Ëûÿÿÿÿ
+HWeb:ImgWithoutAltCheckä"%Add an "alt" attribute to this image.(’ş‡
+`	php:S1192°"JDefine a constant instead of duplicating this literal "condition" 4 times.(Ä‹
+]	php:S1192ª"HDefine a constant instead of duplicating this literal "caption" 3 times.(èúÿ
+]	php:S1192p"HDefine a constant instead of duplicating this literal "dynamic" 3 times.(Ï­ıñ
+\	php:S1192‰"FDefine a constant instead of duplicating this literal "title" 7 times.(Šô×
+b	php:S1192£"GDefine a constant instead of duplicating this literal "custom" 7 times.(¥ò”çúÿÿÿÿ
+c	php:S1192s"IDefine a constant instead of duplicating this literal "default" 13 times.(ªÜØ£ÿÿÿÿÿ
+a	php:S1192‰"KDefine a constant instead of duplicating this literal "size_units" 3 times.(’€¦—

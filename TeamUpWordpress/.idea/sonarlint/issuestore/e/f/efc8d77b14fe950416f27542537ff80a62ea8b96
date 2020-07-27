@@ -1,0 +1,33 @@
+
+F	php:S1172ˆ"0Remove the unused function parameter "$sub_tab".(ëá“Û
+Lphp:S131Ş"7Add a "case default" clause to this "switch" statement.(–Û
+F	php:S1172"1Remove the unused function parameter "$group_id".(úÛŠ
+Lphp:S131®"7Add a "case default" clause to this "switch" statement.(–Û
+H	php:S1172Ğ"2Remove the unused function parameter "$param_tab".(‡Ğôõ
+L	php:S1172j"2Remove the unused function parameter "$param_tab".(‘Åè‘şÿÿÿÿ
+G	php:S1172“"1Remove the unused function parameter "$group_id".(¸‹ò
+G	php:S1172ˆ"1Remove the unused function parameter "$group_id".(ëá“Û
+K	php:S1172j"1Remove the unused function parameter "$group_id".(‘Åè‘şÿÿÿÿ
+b	php:S1192á"GDefine a constant instead of duplicating this literal "public" 3 times.(ÖÌÉ¯şÿÿÿÿ
+d	php:S1192"JDefine a constant instead of duplicating this literal "um_groups" 5 times.(–‹ÄÒüÿÿÿÿ
+H	php:S1481±"-Remove this unused "$privacy" local variable.(²ëâüÿÿÿÿ
+G	php:S1172"2Remove the unused function parameter "$param_tab".(úÛŠ
+H	php:S1172­"-Remove the unused function parameter "$type".(ÀĞ˜ûÿÿÿÿ
+M	php:S1172¥"2Remove the unused function parameter "$param_tab".(Àíãøÿÿÿÿ
+o	php:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Àíãøÿÿÿÿ
+`	php:S1192–"JDefine a constant instead of duplicating this literal "settings" 11 times.(·Â‘˜
+c	php:S1192Ù"HDefine a constant instead of duplicating this literal "invites" 3 times.(ì°¼°ıÿÿÿÿ
+^	php:S1192ü"HDefine a constant instead of duplicating this literal "blocked" 8 times.(´¬Ã»
+d	php:S1192s"ODefine a constant instead of duplicating this literal "um_groups_tabs" 7 times.(ÏÀ²
+c	php:S1192"IDefine a constant instead of duplicating this literal "approved" 5 times.(ñà× ùÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "hidden" 4 times.(ñà× ùÿÿÿÿ
+^	php:S1192™"HDefine a constant instead of duplicating this literal "details" 3 times.(´÷ˆ×
+`	php:S1192Œ"KDefine a constant instead of duplicating this literal "parent_tab" 3 times.(ñôr
+_	php:S1192´"IDefine a constant instead of duplicating this literal "requests" 5 times.(ø´‘€
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+Lphp:S131„"7Add a "case default" clause to this "switch" statement.(–Û
+H	php:S1172“"2Remove the unused function parameter "$param_tab".(¸‹ò
+k	php:S1142­"PReduce the number of returns of this function 10, down to the maximum allowed 3.(ÀĞ˜ûÿÿÿÿ
+^	php:S1192ß"HDefine a constant instead of duplicating this literal "private" 3 times.(Ü§á
+4php:S125«"Remove this commented out code.(´ÒÿŒ
+e	php:S1192m"KDefine a constant instead of duplicating this literal "um-groups" 11 times.(ˆêêüÿÿÿÿ

@@ -1,0 +1,14 @@
+
+l	php:S1192Š"QDefine a constant instead of duplicating this literal "um_reviews_email" 3 times.(ş¥èûÿÿÿÿ
+d	php:S1192t"ODefine a constant instead of duplicating this literal "um_reviews_api" 3 times.(² Ì
+w	php:S1192«"\Define a constant instead of duplicating this literal "um_reviews_member_directory" 3 times.(¦õš´ùÿÿÿÿ
+k	php:S1192E"QDefine a constant instead of duplicating this literal "templates/email/" 3 times.(§ÈÌ­ÿÿÿÿÿ
+f	php:S1192"QDefine a constant instead of duplicating this literal "um_reviews_admin" 3 times.(ª·Ï«
+n	php:S1192•"SDefine a constant instead of duplicating this literal "um_reviews_enqueue" 3 times.(ä­¼¹üÿÿÿÿ
+gphp:S101"NRename class "UM_Reviews" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(İæÓÜøÿÿÿÿ
+k	php:S1192d"QDefine a constant instead of duplicating this literal "um_reviews_setup" 3 times.(ú°şºúÿÿÿÿ
+o	php:S1192Á"YDefine a constant instead of duplicating this literal "um_reviews_admin_upgrade" 3 times.(û‹°‡
+{	php:S1488\"aImmediately return this expression instead of assigning it to the temporary variable "$defaults".(³¸•²úÿÿÿÿ
+i	php:S1192¶"SDefine a constant instead of duplicating this literal "um_reviews_account" 3 times.(‹ÿè˜
+Iphp:S121"0Add curly braces around the nested statement(s).(éÖ°±ıÿÿÿÿ
+k	php:S1192 "UDefine a constant instead of duplicating this literal "um_reviews_shortcode" 3 times.(İï©•
