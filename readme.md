@@ -3,7 +3,7 @@ TeamUp wants to meet all the people who have had to give up or have found it dif
 
 
 ### Live Demo
-A product demo is available at the following address: https://epsilonjsonteamup.altervista.org. Testing data can be viewed towards the end of the documentation.
+A product demo is available at the following address: [TeamUp](https://epsilonjsonteamup.altervista.org). Testing data can be viewed towards the end of the documentation.
 
 ### Requirements
 
