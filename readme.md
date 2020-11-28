@@ -1,52 +1,48 @@
-## TEAMUP - By Epsilon.json
-Progetto di Ingegneria del Software aa. 2019/2020
-
-TeamUp vuole andare incontro a tutte le persone che hanno dovuto rinunciare o hanno riscontrato difficoltà nel realizzare le proprie idee, cercando di riunire persone con lo stesso obiettivo in modo tale da potersi aiutare a vicenda.
+## TEAMUP
+TeamUp wants to meet all the people who have had to give up or have found it difficult to realize their ideas, trying to bring together people with the same goal so that they can help each other.
 
 ### Live Demo
+A product demo is available at the following address: https://epsilonjsonteamup.altervista.org. Testing data can be viewed towards the end of the documentation.
 
-Una demo del prodotto è disponibile al seguente indirizzo: https://epsilonjsonteamup.altervista.org . I dati di testing sono visualizzabili verso la fine della documentazione.
+### Requirements
 
-### Requisiti
-
-* PHP 5.6 o superiore (https://www.php.net/releases/5_6_0.php)
+* PHP 5.6 or higher (https://www.php.net/releases/5_6_0.php)
 * MySql 5.6(https://dev.mysql.com/downloads/mysql/5.6.html)
-* Hosting a pagamento o gratuito
+* Hosting
 * Client FTP
 
-### Installazione
+### Installation
+First of all, to install the application it is necessary to have a domain on a specific hosting platform.
+Initially you need to connect to the management panel of your hosting platform, and access the section relating to the reference DBMS, in order to create an empty database by giving it an initial name.
+Once the newly created Database has been selected, go to the `` 'Import' 'section and load the file ``' 'epsilon.sql "` ``, located in the directory ``' '/ TeamUp / Database / " `` `, and finally click on` `` 'Run' `` `; in this way all the tables on the site that we want to import will be loaded into our database.
 
-Per prima cosa per installare l'applicativo è necessario avere un dominio su una determinata piattaforma di hosting.
-Inizialmente bisogna collegarsi al pannello di gestione della propria piattaforma di hosting, e accedere alla sezione relativa al DBMS di riferimento, in modo da poter creare un Database vuoto dandogli un nome iniziale.
+Once the `` Epsilon.sql``` file has been imported, select the table `` `" wp-options "` `` and edit the fields `` `" option-value "` `` records 1 and 2 `` `(" siteurl "and" home ")` `by entering the URL of your domain.
 
-Selezionato il Database appena creato bisogna recarsi nella sezione ```"Import"``` e caricare il file ```"epsilon.sql"``` , posizionato all'interno della directory  ```"/TeamUp/Database/"```, ed infine cliccare su ```"Esegui"```; in questo modo verranno caricate all'interno del nostro Database tutte le tabelle presenti nel sito che vogliamo importare.
+Once you have completed the previous step, you need to go to the directory `` '' / TeamUp / TeamupWordpress / "` `` and open the file `` `" wp-config.php "` `` using any editor of text. Inside the file we have to modify the following fields by going to find the necessary information directly from the Hosting settings, in particular:
 
-Una volta che il file ```Epsilon.sql``` è stato importato, bisogna selezionare la tabella ```"wp-options"``` e andare ad modificare i campi ```"option-value" ```dei record 1 e 2 ```("siteurl" e "home")``` andando ad inserire l'URL del proprio dominio.
 
-Una volta completato il passaggio precedente, bisogna recarsi all'interno della directory ```"/TeamUp/TeamupWordpress/"``` ed andare a aprire il file ```"wp-config.php"``` utilizzando un qualsiasi editor di testo. All'interno del file dobbiamo andare a modificare i seguenti campi andando a reperire le informazioni necessarie direttamente dalle impostazioni dell' Hosting, in particolare:
+``
+define ('DB_NAME', 'dbname');
+``
+inserting the name of the new database instead of `` 'dbname' ``.
 
-```
-define( 'DB_NAME', 'nomedb' );
-```
-andando ad inserire al posto di ```"nomedb"``` il nome del nuovo database.
+``
+define ('DB_USER', 'user');
+``
+going to insert instead of `` 'user' `` the name of the user to associate the new database.
 
-```
-define( 'DB_USER', 'user' );
-```
-andando ad inserire al posto di ```"user"``` il nome dell'utente a cui associare il nuovo database.
+``
+define ('DB_PASSWORD', 'psw');
+``
+inserting the current password of the new database instead of `` '' psw `` `.
 
-```
-define( 'DB_PASSWORD', 'psw' );
-```
-andando ad inserire al posto di ```"psw"``` la password attuale del nuovo database.
+``
+define ('DB_HOST', 'localhost');
+``
+inserting the name of the MySql Hostname instead of `` '' localhost ```.
 
-```
-define( 'DB_HOST', 'localhost' );
-```
-andando ad inserire al posto di ```"localhost"``` il nome dell'Hostname MySql.
-
-Successivamente bisogna recarsi nella sezione relativa al proprio Client FTP e caricare tutti i file presente nella directory ```"/TeamUp/TeamupWordpress/"```.
-Al termine del trasferimento , se ogni operazione è stata eseguita correttamente , il nuovo sito risulterà operativo fin da subito.
+Then you need to go to the section relating to your FTP Client and upload all the files present in the directory `` "/ TeamUp / TeamupWordpress /" ```.
+At the end of the transfer, if every operation has been carried out correctly, the new site will be operational immediately.
 
 ### Dati Default
 
