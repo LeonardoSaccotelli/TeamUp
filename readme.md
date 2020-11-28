@@ -1,5 +1,5 @@
 ## TEAMUP
-TeamUp wants to meet all the people who have had to give up or have found it difficult to realize their ideas, trying to bring together people with the same goal so that they can help each other. Project developed during the Software Engeneering course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ University of Bari "Aldo Moro" under the supervision of dr. Donato Impedovo.
+TeamUp wants to meet all the people who have had to give up or have found it difficult to realize their ideas, trying to bring together people with the same goal so that they can help each other. Project developed during the Software Engeneering course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) under the supervision of dr. [Antonio Piccinno](http://ivu.di.uniba.it/people/piccinno.htm).
 
 
 ### Live Demo
