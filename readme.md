@@ -1,5 +1,6 @@
 ## TEAMUP
-TeamUp wants to meet all the people who have had to give up or have found it difficult to realize their ideas, trying to bring together people with the same goal so that they can help each other.
+TeamUp wants to meet all the people who have had to give up or have found it difficult to realize their ideas, trying to bring together people with the same goal so that they can help each other. Project developed during the Software Engeneering course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ University of Bari "Aldo Moro" under the supervision of dr. Donato Impedovo.
+
 
 ### Live Demo
 A product demo is available at the following address: https://epsilonjsonteamup.altervista.org. Testing data can be viewed towards the end of the documentation.
