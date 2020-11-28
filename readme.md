@@ -59,5 +59,5 @@ At the end of the transfer, if every operation has been carried out correctly, t
 
 ## License
 
-This software is released under the MIT License. See the [LICENSE](LICENSE)</a> file for details.
+This software is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
