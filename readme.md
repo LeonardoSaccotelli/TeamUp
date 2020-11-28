@@ -15,9 +15,9 @@ A product demo is available at the following address: [TeamUp](https://epsilonjs
 ### Installation
 First of all, to install the application it is necessary to have a domain on a specific hosting platform.
 Initially you need to connect to the management panel of your hosting platform, and access the section relating to the reference DBMS, in order to create an empty database by giving it an initial name.
-Once the newly created Database has been selected, go to the ```Import``` 'section and load the file ```epsilon.sql```, located in the directory ```/ TeamUp / Database /```, and finally click on ``` 'Run```; in this way all the tables on the site that we want to import will be loaded into our database.
+Once the newly created Database has been selected, go to the ```Import``` 'section and load the file ```epsilon.sql```, located in the directory ```/ TeamUp / Database /```, and finally click on ```Run```; in this way all the tables on the site that we want to import will be loaded into our database.
 
-Once the ``` Epsilon.sql``` file has been imported, select the table ``` wp-options ``` and edit the fields ```option-value ``` records 1 and 2 ```("siteurl"and "home ")```by entering the URL of your domain.
+Once the ``` Epsilon.sql``` file has been imported, select the table ``` wp-options ``` and edit the fields ```option-value ``` records 1 and 2 ```('siteurl' and 'home')```by entering the URL of your domain.
 
 Once you have completed the previous step, you need to go to the directory ``` / TeamUp / TeamupWordpress /``` and open the file ```wp-config.php``` using any editor of text. Inside the file we have to modify the following fields by going to find the necessary information directly from the Hosting settings, in particular:
 
